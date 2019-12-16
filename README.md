@@ -10,11 +10,11 @@
 
 文法：https://github.com/QueenieCplusplus/Cplusplus
 
-其他：https://github.com/QueenieCplusplus/Backend_Script （js）
+其他：https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express）
 
-   https://github.com/QueenieCplusplus/Backend_Script2 (php)
+   https://github.com/QueenieCplusplus/Backend_Script2 (php: CI & Laravel)
    
-   https://github.com/QueenieCplusplus/Backend_Script3 (python)
+   https://github.com/QueenieCplusplus/Backend_Script3 (python: Django)
 
 還原：https://github.com/QueenieCplusplus/1210Hi
 
