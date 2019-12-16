@@ -6,11 +6,22 @@
 
 既然我已經不是過去的我，那傻妞 Patty，我是有能力駕馭難度更高技術的 Queenie，要感謝過去的努力的自己造就現在面對一切更為輕鬆的我，放眼未來的技術才是！所以那些隱藏的就當消失唄！
 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+強型別語言
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
 創始：https://github.com/QueenieCplusplus/1122Try (C)
 
 文法：https://github.com/QueenieCplusplus/Cplusplus (C++)
     
    https://github.com/QueenieCplusplus/Golang (Golang 還原)
+   
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+弱型別語言
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 其他：https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 還原）
 
@@ -19,6 +30,12 @@
    https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
 
 還原：https://github.com/QueenieCplusplus/1210Hi
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+電腦科學
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 網路：https://github.com/QueenieCplusplus/Networking (還原)
 
