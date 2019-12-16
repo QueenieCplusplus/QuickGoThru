@@ -12,11 +12,11 @@
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-創始：https://github.com/QueenieCplusplus/1122Try (C)
+https://github.com/QueenieCplusplus/1122Try (C)
 
-文法：https://github.com/QueenieCplusplus/Cplusplus (C++)
+https://github.com/QueenieCplusplus/Cplusplus (C++)
     
-   https://github.com/QueenieCplusplus/Golang (Golang 還原)
+https://github.com/QueenieCplusplus/Golang (Golang 還原)
    
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -24,13 +24,11 @@
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-其他：https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 還原）
+https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 還原）
 
-   https://github.com/QueenieCplusplus/Backend_Script2 (php: CI & Laravel 還原)
+https://github.com/QueenieCplusplus/Backend_Script2 (php: CI & Laravel 還原)
    
-   https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
-
-還原：https://github.com/QueenieCplusplus/1210Hi
+https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
