@@ -38,7 +38,7 @@ https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
 
 網路：https://github.com/QueenieCplusplus/Networking (還原)
 
-結構：https://github.com/QueenieCplusplus/1216Data_Structure 
+結構：https://github.com/QueenieCplusplus/1216Data_Structure (搜索引擎原理)
 
 效能：https://github.com/QueenieCplusplus/Optimization (還原)   
 
