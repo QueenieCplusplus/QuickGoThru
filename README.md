@@ -26,9 +26,9 @@ since 8/19, rollback on 1210
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 還原）
+https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 專案未還原）
 
-https://github.com/QueenieCplusplus/Backend_Script2 (php: CI & Laravel 還原)
+https://github.com/QueenieCplusplus/Backend_Script2 (php: CI & Laravel 專案未還原)
    
 https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
 
@@ -39,11 +39,11 @@ since 11/28 & 1216
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-網路：https://github.com/QueenieCplusplus/Networking (還原)
+網路：https://github.com/QueenieCplusplus/Networking (全還原)
 
 結構：https://github.com/QueenieCplusplus/1216Data_Structure (搜索引擎原理)
 
-效能：https://github.com/QueenieCplusplus/Optimization (還原)   
+效能：https://github.com/QueenieCplusplus/Optimization (全還原)   
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
