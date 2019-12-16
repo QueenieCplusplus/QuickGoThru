@@ -10,13 +10,13 @@
 
 文法：https://github.com/QueenieCplusplus/Cplusplus (C++)
     
-   https://github.com/QueenieCplusplus/Golang (Golang)
+   https://github.com/QueenieCplusplus/Golang (Golang 還原)
 
-其他：https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express）
+其他：https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 還原）
 
-   https://github.com/QueenieCplusplus/Backend_Script2 (php: CI & Laravel)
+   https://github.com/QueenieCplusplus/Backend_Script2 (php: CI & Laravel 還原)
    
-   https://github.com/QueenieCplusplus/Backend_Script3 (python: Django)
+   https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
 
 還原：https://github.com/QueenieCplusplus/1210Hi
 
