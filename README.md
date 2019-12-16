@@ -13,6 +13,8 @@
 其他：https://github.com/QueenieCplusplus/Backend_Script （js）
 
    https://github.com/QueenieCplusplus/Backend_Script2 (php)
+   
+   https://github.com/QueenieCplusplus/Backend_Script3 (python)
 
 還原：https://github.com/QueenieCplusplus/1210Hi
 
