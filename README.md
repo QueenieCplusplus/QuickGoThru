@@ -8,4 +8,6 @@
 
 創始：https://github.com/QueenieCplusplus/1122Try
 
-文法：
+文法：https://github.com/QueenieCplusplus/Cplusplus
+
+還原：
