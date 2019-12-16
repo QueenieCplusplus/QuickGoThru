@@ -5,3 +5,7 @@
 本儲存庫將僅保留 C++ 原始的研究，並且未來會以 Data Structuture ，尤其是二元樹搜索 Binary Tree Search 的研究為主。
 
 既然我已經不是過去的我，那傻妞 Patty，我是有能力駕馭難度更高技術的 Queenie，要感謝過去的努力的自己造就現在面對一切更為輕鬆的我，放眼未來的技術才是！所以那些隱藏的就當消失唄！
+
+創始：https://github.com/QueenieCplusplus/1122Try
+
+文法：
