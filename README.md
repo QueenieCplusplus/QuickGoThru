@@ -10,4 +10,6 @@
 
 文法：https://github.com/QueenieCplusplus/Cplusplus
 
-還原：
+還原：https://github.com/QueenieCplusplus/1210Hi
+
+結構：
