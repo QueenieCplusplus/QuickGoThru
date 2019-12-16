@@ -10,7 +10,9 @@
 
 文法：https://github.com/QueenieCplusplus/Cplusplus
 
-其他：https://github.com/QueenieCplusplus/Backend_Script
+其他：https://github.com/QueenieCplusplus/Backend_Script （js）
+
+   https://github.com/QueenieCplusplus/Backend_Script2 (php)
 
 還原：https://github.com/QueenieCplusplus/1210Hi
 
