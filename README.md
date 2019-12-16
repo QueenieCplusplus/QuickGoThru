@@ -53,8 +53,8 @@ since 2017 & 2018, all repos will be hidden from public
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-iOS
+iOS pattyappier & pattyluvapp
 
-Android
+Android katesandroidapp & katesapp2019
 
-React
+React redpint819
