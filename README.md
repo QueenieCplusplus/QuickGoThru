@@ -10,6 +10,7 @@
 
 # 強型別語言
 since 11/16 & 11/22
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 https://github.com/QueenieCplusplus/1122Try (C)
@@ -22,6 +23,7 @@ https://github.com/QueenieCplusplus/Golang (Golang 還原)
 
 # 弱型別語言
 since 8/19, rollback on 1210
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 還原）
@@ -34,6 +36,7 @@ https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
 
 # 電腦科學
 since 1216
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 網路：https://github.com/QueenieCplusplus/Networking (還原)
