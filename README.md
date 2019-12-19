@@ -6,8 +6,7 @@
 
 既然我已經不是過去的我，那傻妞 Patty，我是有能力駕馭難度更高技術的 Queenie，要感謝過去的努力的自己造就現在面對一切更為輕鬆的我，放眼未來的技術才是！所以那些隱藏的就當消失唄！
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 資料分析框架
 since 12/18
@@ -16,9 +15,8 @@ since 12/18
 
 TBD (Spark)
 TBD (Cassandra)
-   
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 強型別後端語言
 since 11/16 & 11/22
@@ -31,7 +29,7 @@ https://github.com/QueenieCplusplus/Cplusplus (C++)
     
 https://github.com/QueenieCplusplus/Golang (Golang 還原)
    
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 弱型別後端腳本
 since 8/19, rollback on 1210
@@ -44,7 +42,7 @@ https://github.com/QueenieCplusplus/Backend_Script2 (php: CI & Laravel 專案未
    
 https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 電腦科學
 since 11/28 & 1216
@@ -57,27 +55,26 @@ since 11/28 & 1216
 
 效能：https://github.com/QueenieCplusplus/Optimization (全還原)   
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 手機前端 
 
 since 2017 & 2018, all repos will be hidden from public
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 iOS : pattyappier & pattyluvapp
 
 Android : katesandroidapp & katesapp2019
 
 React : redpint819
-
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 雲端後端
 
 since 2017 & 2018, all repos will be hidden from public
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 BaaS : quinoaPy
 
