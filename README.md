@@ -17,6 +17,8 @@ since 12/18
 
 * TBD (C＊) https://github.com/QueenieCplusplus/DataMining_Cassandra
 
+* TBD (PostgrSQL) ...
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 強型別後端語言
