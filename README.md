@@ -33,7 +33,7 @@ https://github.com/QueenieCplusplus/Golang (Golang 還原)
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 弱型別後端腳本
-since 7/01, 8/19, rollback on 1210
+since 7/01, 8/19, rollback on 12/10
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
