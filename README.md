@@ -12,9 +12,10 @@
 # 資料分析框架
 since 12/18
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-(TBD)
+TBD (Spark)
+TBD (Cassandra)
    
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -22,7 +23,7 @@ since 12/18
 # 強型別後端語言
 since 11/16 & 11/22
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 https://github.com/QueenieCplusplus/1122Try (C)
 
@@ -35,7 +36,7 @@ https://github.com/QueenieCplusplus/Golang (Golang 還原)
 # 弱型別後端腳本
 since 8/19, rollback on 1210
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 專案未還原）
 
@@ -48,7 +49,7 @@ https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
 # 電腦科學
 since 11/28 & 1216
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 網路：https://github.com/QueenieCplusplus/Networking (全還原)
 
@@ -62,7 +63,7 @@ since 11/28 & 1216
 
 since 2017 & 2018, all repos will be hidden from public
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 iOS : pattyappier & pattyluvapp
 
@@ -76,7 +77,7 @@ React : redpint819
 
 since 2017 & 2018, all repos will be hidden from public
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 BaaS : quinoaPy
 
