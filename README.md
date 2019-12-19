@@ -21,6 +21,8 @@ since 12/18
 
 * (Data Mine) https://github.com/QueenieCplusplus/DataMining_DataScientist
 
+* (Hadoop) ...
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 強型別後端語言
