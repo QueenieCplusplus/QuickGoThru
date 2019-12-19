@@ -15,7 +15,7 @@ since 12/18
 
 * TBD (Spark)
 
-* TBD (Cassandra)
+* TBD (Cassandra) https://github.com/QueenieCplusplus/DataMining_Cassandra
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
