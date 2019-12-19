@@ -62,7 +62,7 @@ since 11/28 & 1216
 
 # 手機前端 
 
-since 2017 & 2018, all repos will be hidden from public
+since 2018, all repos will be hidden from public
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -76,10 +76,19 @@ since 2017 & 2018, all repos will be hidden from public
 
 # 雲端後端
 
-since 2017 & 2018, all repos will be hidden from public
+since 2018, all repos will be hidden from public
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 * BaaS : quinoaPy
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+# CDN
+
+since 2017
+
+
+
 
 
