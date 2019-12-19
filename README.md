@@ -19,6 +19,8 @@ since 12/18
 
 * TBD (PostgrSQL) ...
 
+* (Data Mine) https://github.com/QueenieCplusplus/DataMining_DataScientist
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 強型別後端語言
