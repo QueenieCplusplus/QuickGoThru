@@ -13,8 +13,9 @@ since 12/18
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-TBD (Spark)
-TBD (Cassandra)
+* TBD (Spark)
+
+* TBD (Cassandra)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
