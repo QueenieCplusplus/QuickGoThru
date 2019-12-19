@@ -84,6 +84,8 @@ since 2018, all repos will be hidden from public
 
 * BaaS : quinoaPy
 
+* iCloud : pattyluvapp
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # CDN
