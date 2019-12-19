@@ -39,7 +39,7 @@ since 7/01, 8/19, rollback on 12/10
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-MySQL
+* MySQL (done)
 
 https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 專案未還原）
 
