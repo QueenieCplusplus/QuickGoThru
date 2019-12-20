@@ -61,7 +61,7 @@ since 12/20-24, 2019
 
     11) set (union, find)
 
-* Hash Table (static, dynamic)
+* Hash Table (static, dynamic)雜湊映射表
 
 * Heap, 堆疊
 
