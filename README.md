@@ -39,7 +39,7 @@ since 12/20-24, 2019
 
 * Sort:
 
-    1) sort
+    1) sort https://github.com/QueenieCplusplus/Sort_sort
 
     2) insertion sort
 
