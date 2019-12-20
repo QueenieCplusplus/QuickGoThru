@@ -59,26 +59,6 @@ since 12/20-24, 2019
 
     10) external sort
 
-* Search
-
-    1) binary tree search
-
-    2) AVL tree
-
-    3) 2-3 tree
-
-    4) 3-4 tree
-
-    5) red-black tree
-
-    6) b tree
-
-    7) splay tree
-
-    8) digital tree
-
-    9) tries
-
 * Hash Table (static, dynamic)
 
 * Heap
