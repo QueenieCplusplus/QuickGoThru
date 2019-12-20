@@ -110,7 +110,7 @@ since 2018/6, all repos will be hidden from public
 
 # CDN
 
-since 2017
+since 2017/11
 
 
 
