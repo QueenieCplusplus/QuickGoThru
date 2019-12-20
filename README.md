@@ -77,7 +77,7 @@ since 12/20-24, 2019
 
     8) digital tree
 
-9) tries
+    9) tries
 
 * Heap
 
