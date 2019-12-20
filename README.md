@@ -61,41 +61,55 @@ since 12/20-24, 2019
 
 * Binary Tree, 二元樹
 
-    1) binary tree 
-    
-        https://github.com/QueenieCplusplus/BinaryTree_binaryTree
+  binary tree https://github.com/QueenieCplusplus/BinaryTree_binaryTree
 
-        2) array
+            2) array
 
-        3) linked list
+            3) linked list
 
-        4) traversal
+            4) traversal
 
-        5) iterators
+            5) iterators
 
-        6) threaded trees
+            6) threaded trees
 
-        7) heaps
+            7) heaps
 
-        8) binary search tree (delete, join)
+            8) binary search tree (delete, join)
 
-        9) selection tree (winner, loser)
+            9) selection tree (winner, loser)
 
-        10) forest
+            10) forest
 
-        11) set (union, find)
+            11) set (union, find)
+
+ ＿＿＿＿＿＿＿＿＿＿＿＿＿
+ 
+ 應用於資料庫管理應用程式和網路的路由表
 
 * Hash Table (static, dynamic), 雜湊映射表或稱字典 
 
     https://github.com/QueenieCplusplus/DataStructure_HashTable
+    
+ ＿＿＿＿＿＿＿＿＿＿＿＿＿
+  
+  串流和輸出入序列的應用
 
 * Queue, 佇列 (與堆疊相似)
 
     https://github.com/QueenieCplusplus/DataStructure_Queue
+    
+ ＿＿＿＿＿＿＿＿＿＿＿＿＿
+  
+  方程式的暫存存儲資料結構
 
 * Heap, 堆積（串列的一種）
 
     https://github.com/QueenieCplusplus/DataStructure_Heap
+    
+ ＿＿＿＿＿＿＿＿＿＿＿＿＿
+  
+  基礎概念
 
 * Stack 堆疊
 
