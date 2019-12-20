@@ -19,7 +19,7 @@ since 12/18
 
 * (Data Mine) https://github.com/QueenieCplusplus/DataMining_DataScientist
 
-* TBD (Hadoop) ...
+* TBD (Hadoop) https://github.com/QueenieCplusplus/DataStorage_Hadoop
 
 * TBD (PostgrSQL) ...
 
