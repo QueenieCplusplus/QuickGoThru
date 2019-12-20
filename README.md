@@ -13,6 +13,8 @@ since 12/18
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
+涉及資料探勘與資料採擷，攸關基礎設施如存儲系統和程式設計與運算資源調度的彈性機制。
+
 * TBD (Spark) https://github.com/QueenieCplusplus/DataMining_Spark
 
 * TBD (C＊) https://github.com/QueenieCplusplus/DataMining_Cassandra
