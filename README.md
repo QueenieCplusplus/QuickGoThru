@@ -13,7 +13,7 @@ since 2019/10, rollback on 2019/12/20
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-* Auth, 授權與驗證
+* Auth, 授權與驗證 (php & nodejs)
 
 * Cypher, 加密
 
