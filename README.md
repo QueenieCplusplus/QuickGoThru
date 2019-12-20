@@ -41,23 +41,23 @@ since 12/20-24, 2019
     
         https://github.com/QueenieCplusplus/Sort_sort
 
-    2) insertion sort
+          2) insertion sort
 
-    3) quick sort
+          3) quick sort
 
-    4) merge sort (interator, recursive)
+          4) merge sort (interator, recursive)
 
-    5) heap sort
+          5) heap sort
 
-    6) sort on keys
+          6) sort on keys
 
-    7) list sort
+          7) list sort
 
-    8) table sort
+          8) table sort
 
-    9) internal sort
+          9) internal sort
 
-    10) external sort
+          10) external sort
 
 * Binary Tree, 二元樹
 
@@ -65,25 +65,25 @@ since 12/20-24, 2019
     
         https://github.com/QueenieCplusplus/BinaryTree_binaryTree
 
-    2) array
+        2) array
 
-    3) linked list
+        3) linked list
 
-    4) traversal
+        4) traversal
 
-    5) iterators
+        5) iterators
 
-    6) threaded trees
+        6) threaded trees
 
-    7) heaps
+        7) heaps
 
-    8) binary search tree (delete, join)
+        8) binary search tree (delete, join)
 
-    9) selection tree (winner, loser)
+        9) selection tree (winner, loser)
 
-    10) forest
+        10) forest
 
-    11) set (union, find)
+        11) set (union, find)
 
 * Hash Table (static, dynamic), 雜湊映射表或稱字典 
 
