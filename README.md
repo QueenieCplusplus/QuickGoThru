@@ -111,7 +111,7 @@ since 12/20-24, 2019
 
 * Stack 堆疊
 
-* Linked List, 鏈結串列（串列的一種）
+* Linked List, 鏈結串列
 
 * Array, 陣列 (one dimension, two dimentions)
 
