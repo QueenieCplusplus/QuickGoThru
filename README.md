@@ -77,7 +77,7 @@ since 12/20-24, 2019
 
     11) set (union, find)
 
-* Hash Table (static, dynamic), 雜湊映射表
+* Hash Table (static, dynamic), 雜湊映射表 https://github.com/QueenieCplusplus/DataStructure_HashTable
 
 * Queue, 佇列 https://github.com/QueenieCplusplus/DataStructure_Queue
 
