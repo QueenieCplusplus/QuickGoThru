@@ -39,9 +39,9 @@ since 12/20-24, 2019
 
   sort https://github.com/QueenieCplusplus/Sort_sort
 
-      ) insertion sort
+      ＊) insertion sort
 
-      ) quick sort
+      ＊) quick sort
 
       ) merge sort (interator, recursive)
 
@@ -65,21 +65,21 @@ since 12/20-24, 2019
 
       ) linked list
 
-      ) traversal
+      ＊) traversal
 
-      ) iterators
+      ＊) iterators
 
       ) threaded trees
 
       ) heaps
 
-      ) binary search tree (delete, join)
+      ＊) binary search tree (delete, join)
 
       ) selection tree (winner, loser)
 
       ) forest
 
-      ) set (union, find)
+      ＊) set (union, find)
 
  ＿＿＿＿＿＿＿＿＿＿＿＿＿
  
