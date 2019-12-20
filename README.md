@@ -13,6 +13,30 @@ since 12/20-24, 2019
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
+* Search:
+
+* Sort:
+
+    1) sort https://github.com/QueenieCplusplus/Sort_sort
+
+    2) insertion sort
+
+    3) quick sort
+
+    4) merge sort (interator, recursive)
+
+    5) heap sort
+
+    6) sort on keys
+
+    7) list sort
+
+    8) table sort
+
+    9) internal sort
+
+    10) external sort
+
 * Binary Tree:
 
     1) binary tree https://github.com/QueenieCplusplus/BinaryTree_binaryTree
@@ -36,28 +60,6 @@ since 12/20-24, 2019
     10) forest
 
     11) set (union, find)
-
-* Sort:
-
-    1) sort https://github.com/QueenieCplusplus/Sort_sort
-
-    2) insertion sort
-
-    3) quick sort
-
-    4) merge sort (interator, recursive)
-
-    5) heap sort
-
-    6) sort on keys
-
-    7) list sort
-
-    8) table sort
-
-    9) internal sort
-
-    10) external sort
 
 * Hash Table (static, dynamic)
 
