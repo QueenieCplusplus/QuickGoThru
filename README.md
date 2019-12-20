@@ -17,12 +17,11 @@ since 12/18
 
 * TBD (C＊) https://github.com/QueenieCplusplus/DataMining_Cassandra
 
-* TBD (PostgrSQL) ...
-
 * (Data Mine) https://github.com/QueenieCplusplus/DataMining_DataScientist
 
 * (Hadoop) ...
 
+* TBD (PostgrSQL) ...
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 強型別後端語言
