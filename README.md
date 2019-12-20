@@ -79,9 +79,13 @@ since 12/20-24, 2019
 
     9) tries
 
+* Hash Table (static, dynamic)
+
 * Heap
 
-* Hashing
+* List
+
+* Array
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
