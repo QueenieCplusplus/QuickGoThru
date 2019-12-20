@@ -45,7 +45,7 @@ since 12/20-24, 2019
 
     3) quick sort
 
-    4) merge sort
+    4) merge sort (interator, recursive)
 
     5) heap sort
 
