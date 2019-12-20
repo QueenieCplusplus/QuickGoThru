@@ -35,7 +35,9 @@ since 12/20-24, 2019
 
 * Sort, 排序
 
-    1) sort https://github.com/QueenieCplusplus/Sort_sort
+    1) sort 
+    
+        https://github.com/QueenieCplusplus/Sort_sort
 
     2) insertion sort
 
@@ -57,7 +59,9 @@ since 12/20-24, 2019
 
 * Binary Tree, 二元樹
 
-    1) binary tree https://github.com/QueenieCplusplus/BinaryTree_binaryTree
+    1) binary tree 
+    
+        https://github.com/QueenieCplusplus/BinaryTree_binaryTree
 
     2) array
 
@@ -79,11 +83,17 @@ since 12/20-24, 2019
 
     11) set (union, find)
 
-* Hash Table (static, dynamic), 雜湊映射表 https://github.com/QueenieCplusplus/DataStructure_HashTable
+* Hash Table (static, dynamic), 雜湊映射表 
 
-* Queue, 佇列 https://github.com/QueenieCplusplus/DataStructure_Queue
+    https://github.com/QueenieCplusplus/DataStructure_HashTable
 
-* Heap, 堆積（串列的一種）https://github.com/QueenieCplusplus/DataStructure_Heap
+* Queue, 佇列 
+
+    https://github.com/QueenieCplusplus/DataStructure_Queue
+
+* Heap, 堆積（串列的一種）
+
+    https://github.com/QueenieCplusplus/DataStructure_Heap
 
 * Stack 堆疊
 
