@@ -63,11 +63,13 @@ since 12/20-24, 2019
 
 * Hash Table (static, dynamic)
 
-* Heap
+* Heap, 堆疊
 
-* List
+* Stack & Queue, 堆疊和序列
 
-* Array
+* Linked List, 鏈結
+
+* Array, 陣列 (one dimension, two dimentions)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
