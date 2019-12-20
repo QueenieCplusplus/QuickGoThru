@@ -67,7 +67,7 @@ since 12/20-24, 2019
 
 * Stack & Queue, 堆疊和佇列
 
-* Linked List, 鏈結
+* Linked List, 鏈結串列（串列的一種）
 
 * Array, 陣列 (one dimension, two dimentions)
 
