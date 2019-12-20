@@ -15,6 +15,8 @@ since 2019/10, rollback on 2019/12/20
 
 * Auth, 授權與驗證 (php & nodejs)
 
+    https://github.com/QueenieCplusplus/ITsec_Oauth
+
 * Cypher, 加密
 
 
