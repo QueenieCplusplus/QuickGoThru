@@ -9,7 +9,7 @@
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 深入資料結構
-since 12/20, 2019
+since 12/20-24, 2019
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -38,6 +38,50 @@ since 12/20, 2019
 11) set (union, find)
 
 * Sort:
+
+1) sort
+
+2) insertion sort
+
+3) quick sort
+
+4) merge sort
+
+5) heap sort
+
+6) sort on keys
+
+7) list sort
+
+8) table sort
+
+9) internal sort
+
+10) external sort
+
+* Search
+
+1) binary tree search
+
+2) AVL tree
+
+3) 2-3 tree
+
+4) 3-4 tree
+
+5) red-black tree
+
+6) b tree
+
+7) splay tree
+
+8) digital tree
+
+9) tries
+
+* Heap
+
+* Hashing
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
