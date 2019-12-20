@@ -9,7 +9,7 @@
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 深入資料結構
-since 12/
+since 12/20, 2019
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -18,7 +18,7 @@ since 12/
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 大數據資料分析
-since 12/18
+since 12/18, 2019
 
 基礎觀念：
 
@@ -42,7 +42,7 @@ TBD (PostgrSQL) ...
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 強型別後端語言
-since 11/16 & 11/22
+since 11/16 & 11/22, 2019
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -55,7 +55,7 @@ https://github.com/QueenieCplusplus/Golang (Golang 還原)
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 弱型別後端腳本
-since 7/01, 8/19, rollback on 12/10
+since 7/01, 8/19, rollback on 12/10, 2019
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -70,7 +70,7 @@ https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 電腦科學
-since 11/28 & 1216
+since 11/28 & 1216, 2019
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -84,7 +84,7 @@ since 11/28 & 1216
 
 # 手機前端 
 
-since 2018, all repos will be hidden from public
+since 2018/3, all repos will be hidden from public
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -98,7 +98,7 @@ since 2018, all repos will be hidden from public
 
 # 雲端後端
 
-since 2018, all repos will be hidden from public
+since 2018/6, all repos will be hidden from public
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
