@@ -13,9 +13,9 @@ since 12/20-24, 2019
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-* Search:
+* Search, 搜索
 
-* Sort:
+* Sort, 排序
 
     1) sort https://github.com/QueenieCplusplus/Sort_sort
 
@@ -37,7 +37,7 @@ since 12/20-24, 2019
 
     10) external sort
 
-* Binary Tree:
+* Binary Tree, 二元樹
 
     1) binary tree https://github.com/QueenieCplusplus/BinaryTree_binaryTree
 
@@ -61,7 +61,7 @@ since 12/20-24, 2019
 
     11) set (union, find)
 
-* Hash Table (static, dynamic)雜湊映射表
+* Hash Table (static, dynamic), 雜湊映射表
 
 * Heap, 堆疊
 
