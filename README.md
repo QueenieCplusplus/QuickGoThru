@@ -67,7 +67,7 @@ since 11/28 & 1216
 
 * 網路：https://github.com/QueenieCplusplus/Networking (全還原)
 
-* 結構：https://github.com/QueenieCplusplus/1216Data_Structure (搜索引擎原理)
+* 資料：https://github.com/QueenieCplusplus/1216Data_Structure (搜索引擎原理)
 
 * 效能：https://github.com/QueenieCplusplus/Optimization (全還原)   
 
