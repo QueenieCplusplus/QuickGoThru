@@ -15,67 +15,67 @@ since 12/20-24, 2019
 
 * Binary Tree:
 
-1) binary tree
+    1) binary tree
 
-2) array
+    2) array
 
-3) linked list
+    3) linked list
 
-4) traversal
+    4) traversal
 
-5) iterators
+    5) iterators
 
-6) threaded trees
+    6) threaded trees
 
-7) heaps
+    7) heaps
 
-8) binary search tree (delete, join)
+    8) binary search tree (delete, join)
 
-9) selection tree (winner, loser)
+    9) selection tree (winner, loser)
 
-10) forest
+    10) forest
 
-11) set (union, find)
+    11) set (union, find)
 
 * Sort:
 
-1) sort
+    1) sort
 
-2) insertion sort
+    2) insertion sort
 
-3) quick sort
+    3) quick sort
 
-4) merge sort
+    4) merge sort
 
-5) heap sort
+    5) heap sort
 
-6) sort on keys
+    6) sort on keys
 
-7) list sort
+    7) list sort
 
-8) table sort
+    8) table sort
 
-9) internal sort
+    9) internal sort
 
 10) external sort
 
 * Search
 
-1) binary tree search
+    1) binary tree search
 
-2) AVL tree
+    2) AVL tree
 
-3) 2-3 tree
+    3) 2-3 tree
 
-4) 3-4 tree
+    4) 3-4 tree
 
-5) red-black tree
+    5) red-black tree
 
-6) b tree
+    6) b tree
 
-7) splay tree
+    7) splay tree
 
-8) digital tree
+    8) digital tree
 
 9) tries
 
