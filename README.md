@@ -87,7 +87,7 @@ since 12/20-24, 2019
 
     https://github.com/QueenieCplusplus/DataStructure_HashTable
 
-* Queue, 佇列 
+* Queue, 佇列 (與堆疊相似)
 
     https://github.com/QueenieCplusplus/DataStructure_Queue
 
