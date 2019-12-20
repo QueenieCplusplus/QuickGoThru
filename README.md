@@ -15,6 +15,27 @@ since 12/20, 2019
 
 * Binary Tree:
 
+1) binary tree
+
+2) array
+
+3) linked list
+
+4) traversal
+
+5) iterators
+
+6) threaded trees
+
+7) heaps
+
+8) binary search tree (delete, join)
+
+9) selection tree (winner, loser)
+
+10) forest
+
+11) set (union, find)
 
 * Sort:
 
