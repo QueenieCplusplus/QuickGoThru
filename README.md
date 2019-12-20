@@ -63,7 +63,7 @@ since 12/20-24, 2019
 
 * Hash Table (static, dynamic), 雜湊映射表
 
-* Heap, 堆疊
+* Heap, 堆疊（串列的一種）https://github.com/QueenieCplusplus/DataStructure_Heap
 
 * Stack & Queue, 堆疊和佇列
 
