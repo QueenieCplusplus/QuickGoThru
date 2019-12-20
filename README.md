@@ -65,7 +65,7 @@ since 12/20-24, 2019
 
 * Heap, 堆疊
 
-* Stack & Queue, 堆疊和序列
+* Stack & Queue, 堆疊和佇列
 
 * Linked List, 鏈結
 
