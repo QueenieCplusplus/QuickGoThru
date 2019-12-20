@@ -57,7 +57,7 @@ since 12/20-24, 2019
 
     9) internal sort
 
-10) external sort
+    10) external sort
 
 * Search
 
