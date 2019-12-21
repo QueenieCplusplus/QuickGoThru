@@ -31,10 +31,10 @@ since 2019/10, rollback on 2019/12/20
     https://github.com/QueenieCplusplus/DataStorage_Hadoop#4a-角色許可權管理
 
     https://github.com/QueenieCplusplus/ITsec_Oauth
-    
-    https://github.com/QueenieCplusplus/DataStorage_Hadoop#key-in-session-加密的安全通訊技術
 
 * Cypher, 加密
+
+    https://github.com/QueenieCplusplus/DataStorage_Hadoop#key-in-session-加密的安全通訊技術
 
     https://github.com/QueenieCplusplus/ITsec_Cypher
 
