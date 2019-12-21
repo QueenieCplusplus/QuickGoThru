@@ -29,6 +29,8 @@ since 2018/2 & 2019/12/22
 
 * Pinning, 網路攻擊
 
+* Port Scanner, 通訊埠掃描攻擊
+
 * Plugin Flaw, 能在瀏覽器外部獨立運作的插件有漏洞時的攻擊
 
 * Browsers Extensions Flaw, 瀏覽器衍生套件有漏洞時的攻擊
