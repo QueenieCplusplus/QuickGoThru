@@ -14,6 +14,8 @@ since 2019/7 & 2019/12/21
 * U.C. Berkerly PostgreSQL (TBD)
 
   https://github.com/QueenieCplusplus/DBA_SearchEngine （搜索引擎架構）
+  
+  https://github.com/QueenieCplusplus/DBA_QueryOptimization （查詢最佳化)
 
 * Oracle MySQL (Done)
 
