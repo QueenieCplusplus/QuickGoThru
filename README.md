@@ -23,6 +23,7 @@ since 2019/7 & 2019/12/21
   
   * 細部
   
+  https://github.com/QueenieCplusplus/DBA_Entity (查詢實體)
   
 
 * Oracle MySQL (Done)
