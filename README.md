@@ -11,7 +11,6 @@
 # 資料庫分析與備份管理
 since 2019/7 & 2019/12/21
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 * U.C. Berkerly PostgreSQL (TBD)
 
@@ -22,7 +21,6 @@ since 2019/7 & 2019/12/21
 # 深入安全加密和驗證授權技術
 since 2019/10, rollback on 2019/12/20
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 * Auth, 授權與驗證 
 
@@ -41,7 +39,6 @@ since 2019/10, rollback on 2019/12/20
 # 深入資料結構
 since 12/20-24, 2019
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 * Search, 搜索
 
@@ -135,8 +132,6 @@ since 12/18, 2019
 * CAP
 * ACID
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
 涉及資料探勘與資料採擷，攸關基礎設施如存儲系統和程式設計與運算資源調度的彈性機制。
 
 https://github.com/QueenieCplusplus/DataMining_Spark (Spark) 
@@ -154,8 +149,6 @@ https://github.com/QueenieCplusplus/DataBase_PostgreSQL (PostgrSQL)
 # 強型別後端語言
 since 11/16 & 11/22, 2019
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
 https://github.com/QueenieCplusplus/1122Try (C)
 
 https://github.com/QueenieCplusplus/Cplusplus (C++)
@@ -167,9 +160,6 @@ https://github.com/QueenieCplusplus/Golang (Golang 還原)
 # 弱型別後端腳本
 since 7/01, 8/19, rollback on 12/10, 2019
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-* MySQL (done)
 
 https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 專案未還原）
 
@@ -181,8 +171,6 @@ https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
 
 # 電腦科學
 since 11/28 & 1216, 2019
-
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 * 網路：https://github.com/QueenieCplusplus/Networking (全還原)
 
@@ -196,8 +184,6 @@ since 11/28 & 1216, 2019
 
 since 2018/3, all repos will be hidden from public
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
 * iOS : pattyappier & pattyluvapp
 
 * Android : katesandroidapp & katesapp2019
@@ -209,8 +195,6 @@ since 2018/3, all repos will be hidden from public
 # 雲端後端
 
 since 2018/6, all repos will be hidden from public
-
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 * BaaS : quinoaPy
 
