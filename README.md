@@ -41,7 +41,7 @@ since 2019/, rollback on 2019/12/20
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 深入資料結構
-since 12/20-24, 2019
+since 12/20, 2019
 
 * Search, 搜索
 
@@ -161,7 +161,7 @@ https://github.com/QueenieCplusplus/Golang (Golang 還原)
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 弱型別後端腳本
-since 7/01, 8/19, rollback on 12/10, 2019
+since 2019/8, rollback on 2019/12/20
 
 https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 專案未還原）
 
