@@ -8,6 +8,17 @@
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
+# DBA
+since 2019/7 & 2019/12/21
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+* U.C. Berkerly PostgreSQL
+
+* Oracle MySQL
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
 # 深入安全加密和驗證授權技術
 since 2019/10, rollback on 2019/12/20
 
@@ -24,7 +35,6 @@ since 2019/10, rollback on 2019/12/20
 * Cypher, 加密
 
     https://github.com/QueenieCplusplus/ITsec_Cypher
-
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
