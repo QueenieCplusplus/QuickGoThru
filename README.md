@@ -16,6 +16,8 @@ since 2019/7 & 2019/12/21
   https://github.com/QueenieCplusplus/DBA_SearchEngine （搜索引擎架構）
   
   https://github.com/QueenieCplusplus/DBA_QueryOptimization （查詢最佳化)
+  
+  https://github.com/QueenieCplusplus/DBA_QueryPlan （查詢計畫）
 
 * Oracle MySQL (Done)
 
