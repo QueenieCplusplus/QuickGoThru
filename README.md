@@ -27,6 +27,8 @@ since 2019/7 & 2019/12/21
   
   https://github.com/QueenieCplusplus/DBA_Logics (查詢邏輯)
   
+  查詢詞語 (略)
+  
 * Oracle MySQL (Done)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
