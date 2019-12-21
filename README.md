@@ -25,7 +25,8 @@ since 2019/7 & 2019/12/21
   
   https://github.com/QueenieCplusplus/DBA_Entity (查詢實體)
   
-
+  https://github.com/QueenieCplusplus/DBA_Logics (查詢邏輯)
+  
 * Oracle MySQL (Done)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
