@@ -33,7 +33,7 @@ since 2019/7 & 2019/12/21
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# 深入安全加密和驗證授權技術
+# 安全加密和驗證授權技術
 since 2019/, rollback on 2019/12/20
 
 * Authorization & Authentication, 授權與驗證 
@@ -50,7 +50,7 @@ since 2019/, rollback on 2019/12/20
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# 深入資料結構
+# 資料結構
 since 12/20, 2019
 
 * Search, 搜索
@@ -137,7 +137,7 @@ since 12/20, 2019
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# 大數據資料分析
+# 大數據
 since 12/18, 2019
 
 基礎觀念：
@@ -159,7 +159,7 @@ https://github.com/QueenieCplusplus/DataBase_PostgreSQL (PostgrSQL)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# 強型別後端語言
+# 程式語言
 since 11/16 & 11/22, 2019
 
 https://github.com/QueenieCplusplus/1122Try (C)
@@ -167,10 +167,12 @@ https://github.com/QueenieCplusplus/1122Try (C)
 https://github.com/QueenieCplusplus/Cplusplus (C++)
     
 https://github.com/QueenieCplusplus/Golang (Golang 還原)
+
+Java & Kotlin (略)
    
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# 弱型別後端腳本
+# 腳本語言
 since 2019/8, rollback on 2019/12/20
 
 https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 專案未還原）
