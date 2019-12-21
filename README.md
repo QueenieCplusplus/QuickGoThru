@@ -13,9 +13,9 @@ since 2019/7 & 2019/12/21
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-* U.C. Berkerly PostgreSQL
+* U.C. Berkerly PostgreSQL (TBD)
 
-* Oracle MySQL
+* Oracle MySQL (Done)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
