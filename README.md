@@ -11,8 +11,9 @@
 # 資料庫分析與備份管理
 since 2019/7 & 2019/12/21
 
-
 * U.C. Berkerly PostgreSQL (TBD)
+
+  https://github.com/QueenieCplusplus/DBA_SearchEngine （搜索引擎架構）
 
 * Oracle MySQL (Done)
 
@@ -20,7 +21,6 @@ since 2019/7 & 2019/12/21
 
 # 深入安全加密和驗證授權技術
 since 2019/10, rollback on 2019/12/20
-
 
 * Auth, 授權與驗證 
 
@@ -38,7 +38,6 @@ since 2019/10, rollback on 2019/12/20
 
 # 深入資料結構
 since 12/20-24, 2019
-
 
 * Search, 搜索
 
@@ -160,7 +159,6 @@ https://github.com/QueenieCplusplus/Golang (Golang 還原)
 # 弱型別後端腳本
 since 7/01, 8/19, rollback on 12/10, 2019
 
-
 https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 專案未還原）
 
 https://github.com/QueenieCplusplus/Backend_Script2 (php: CI & Laravel 專案未還原)
@@ -205,8 +203,4 @@ since 2018/6, all repos will be hidden from public
 # CDN
 
 since 2017/11
-
-
-
-
 
