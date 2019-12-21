@@ -10,9 +10,6 @@
 
 # 資訊攻擊與相應的安全防護
 since 2018/2 & 2019/12/22
-
-* 
-  https://github.com/QueenieCplusplus/DBA_Entity (查詢實體)
   
 * On Users Behalf, 最嚴重的攻擊->針對使用者未知情況下的攻擊
 
