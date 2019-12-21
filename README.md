@@ -36,13 +36,13 @@ since 2019/7 & 2019/12/21
 # 深入安全加密和驗證授權技術
 since 2019/, rollback on 2019/12/20
 
-* Auth, 授權與驗證 
+* Authorization & Authentication, 授權與驗證 
 
     https://github.com/QueenieCplusplus/DataStorage_Hadoop#4a-角色許可權管理
 
     https://github.com/QueenieCplusplus/ITsec_Oauth
 
-* Cypher, 加密
+* Cypher & Encryption, 加密
 
     https://github.com/QueenieCplusplus/DataStorage_Hadoop#key-in-session-加密的安全通訊技術
 
