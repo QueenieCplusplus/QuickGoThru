@@ -53,7 +53,7 @@ since 2018/2 & 2019/12/22
   
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-* At Browser Side, 瀏覽器攻擊
+四, 瀏覽器攻擊
 
    (1)Finger Printing (http header, DOM, )
    
