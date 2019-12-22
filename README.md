@@ -18,11 +18,8 @@ since 2018/2 & 2019/12/22
   https://github.com/QueenieCplusplus/ITsec_UsersBehalf
 
   (1)會話識別符取得隱私的攻擊
-  
-  (2)社交攻擊（原理和輸入攻擊相似）
-  
-  (3)取得輸入的攻擊
-  
+  (2)社交攻擊（原理和輸入攻擊相似）  
+  (3)取得輸入的攻擊  
   (4)直接損毀內容的攻擊 (略)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
@@ -194,7 +191,7 @@ since 12/20, 2019
     
 * Heap v.s Stack 堆積與堆疊
 
-  
+    https://github.com/QueenieCplusplus/ITsec_JSheap#heap--stack
     
  ＿＿＿＿＿＿＿＿＿＿＿＿＿
   
