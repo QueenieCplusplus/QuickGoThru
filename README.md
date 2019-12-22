@@ -17,8 +17,10 @@ since 2018/2 & 2019/12/22
 
   https://github.com/QueenieCplusplus/ITsec_UsersBehalf
 
-  (1)會話識別符取得隱私的攻擊  (2)社交攻擊（原理和輸入攻擊相似）  
-  (3)取得輸入的攻擊  (4)直接損毀內容的攻擊 (略)
+      (1)會話識別符取得隱私的攻擊  
+      (2)社交攻擊（原理和輸入攻擊相似）  
+      (3)取得輸入的攻擊  
+      (4)直接損毀內容的攻擊 (略)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -54,23 +56,23 @@ since 2018/2 & 2019/12/22
 
 * Browser, 針對瀏覽器的攻擊
 
-   (1)Finger Printing (http header, DOM)
+     (1)Finger Printing (http header, DOM)
    
-   (2)bypass (cookies, https, path)
+     (2)bypass (cookies, https, path)
    
-   (3)attack SSL, 利用安全通訊協定的弱點加以攻擊之
+     (3)attack SSL, 利用安全通訊協定的弱點加以攻擊之
    
      https://github.com/QueenieCplusplus/ITsec_BeastCrime
    
-   (4)JS & heap, 堆積洞孔導致記憶體外洩
+     (4)JS & heap, 堆積洞孔導致記憶體外洩
    
      https://github.com/QueenieCplusplus/ITsec_JSheap
    
-   (5)Metasploit & shell
+     (5)Metasploit & shell
 
-* Plugin Flaw, 能在瀏覽器外部獨立運作的插件有漏洞時的攻擊
+      * Plugin Flaw, 能在瀏覽器外部獨立運作的插件有漏洞時的攻擊
 
-* Browsers Extensions Flaw, 瀏覽器衍生套件有漏洞時的攻擊
+      * Browsers Extensions Flaw, 瀏覽器衍生套件有漏洞時的攻擊
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
