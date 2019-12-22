@@ -11,7 +11,7 @@
 # 資安研究 
 since 2018/2 & 2019/12/22
 
-* 繞過 SOP 的攻擊 
+* 繞過 SOP 的 CORs 攻擊 
 
 * XSS, 網路應用程式的跨域及跨站攻擊
   
@@ -26,12 +26,16 @@ since 2018/2 & 2019/12/22
   (3)取得輸入的攻擊
   
   (4)直接損毀內容的攻擊 (略)
+  
+＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 * Pinning, 網路攻擊
 
 * Port Scanner, 通訊埠掃描攻擊
 
   https://github.com/QueenieCplusplus/ITsec_PortScanner
+  
+＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 * Plugin Flaw, 能在瀏覽器外部獨立運作的插件有漏洞時的攻擊
 
