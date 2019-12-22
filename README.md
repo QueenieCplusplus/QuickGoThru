@@ -33,7 +33,7 @@ since 2018/2 & 2019/12/22
 
   (1)SQL Injection
   
-  (2)CSRF 或稱 XSRF
+  (2)CSRF 或稱 XSRF (再行密碼重置)
   
   (3)DOS
   
