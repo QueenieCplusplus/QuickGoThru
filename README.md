@@ -55,6 +55,32 @@ since 2018/2 & 2019/12/22
 
 * At Browser Side, 瀏覽器遭到指紋取樣的攻擊
 
+   (1)Finger Printing
+  
+   (2)FP thru Http Header
+  
+   (3)FP thru DOM property
+  
+   (4)FP thru bug
+   
+   (5)FP thru quirks
+   
+   (6)avoid cookie
+   
+   (7)avoid path
+   
+   (8)session hijack
+   
+   (9)avoid Https
+   
+   (10)attack SSL
+   
+   (11)attack Cert
+   
+   (12)JS & heap
+   
+   (13)Metasploit & shell
+
 * Plugin Flaw, 能在瀏覽器外部獨立運作的插件有漏洞時的攻擊
 
 * Browsers Extensions Flaw, 瀏覽器衍生套件有漏洞時的攻擊
