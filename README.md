@@ -192,6 +192,10 @@ since 12/20, 2019
 
     https://github.com/QueenieCplusplus/DataStructure_Heap
     
+* Heap v.s Stack 堆積與堆疊
+
+  
+    
  ＿＿＿＿＿＿＿＿＿＿＿＿＿
   
   基礎概念
