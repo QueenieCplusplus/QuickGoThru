@@ -11,7 +11,7 @@
 # 資安研究 
 since 2018/2 & 2019/12/22
 
-* 繞過 SOP 的 XSS, 網路應用程式的跨域及跨站攻擊
+一, 繞過 SOP 的 XSS, 網路應用程式的跨域及跨站攻擊
   
 * On Users Behalf, 最嚴重的攻擊->針對使用者未知情況下的攻擊->擷取跨域資源 
 
@@ -24,18 +24,10 @@ since 2018/2 & 2019/12/22
   (3)取得輸入的攻擊
   
   (4)直接損毀內容的攻擊 (略)
-  
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-* Pinning, 網路攻擊
-
-  https://github.com/QueenieCplusplus/ITsec_PinningScanner
-
-* Port Scanner, 通訊埠掃描攻擊
-
-  https://github.com/QueenieCplusplus/ITsec_PortScanner
-  
-＿＿＿＿＿＿＿＿＿＿＿＿＿
+二, 擷取跨域資源後，針對應用程式的攻擊
 
 * Web App Flaw, 針對軟體的攻擊
 
@@ -46,6 +38,18 @@ since 2018/2 & 2019/12/22
   (3)DOS
   
   (4)RCE
+ 
+＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+三, 底層的攻擊
+
+* Pinning, 網路攻擊
+
+  https://github.com/QueenieCplusplus/ITsec_PinningScanner
+
+* Port Scanner, 通訊埠掃描攻擊
+
+  https://github.com/QueenieCplusplus/ITsec_PortScanner
   
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
