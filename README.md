@@ -31,6 +31,8 @@ since 2018/2 & 2019/12/22
 
 * Pinning, 網路攻擊
 
+  https://github.com/QueenieCplusplus/ITsec_PinningScanner
+
 * Port Scanner, 通訊埠掃描攻擊
 
   https://github.com/QueenieCplusplus/ITsec_PortScanner
