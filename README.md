@@ -55,6 +55,8 @@ since 2018/2 & 2019/12/22
 
 四, 瀏覽器攻擊
 
+* Browser, 針對瀏覽器的攻擊
+
    (1)Finger Printing (http header, DOM)
    
    (2)avoid cookie (session hijack)
