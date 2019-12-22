@@ -58,7 +58,9 @@ since 2018/2 & 2019/12/22
    
    (2)bypass (cookies, https, path)
    
-   (3)attack SSL
+   (3)attack SSL, 利用安全通訊協定的弱點加以攻擊之
+   
+     https://github.com/QueenieCplusplus/ITsec_BeastCrime
    
    (4)JS & heap, 堆積洞孔導致記憶體外洩
    
