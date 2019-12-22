@@ -34,9 +34,9 @@ since 2018/2 & 2019/12/22
   
   (2)CSRF 或稱 XSRF (再行密碼重置)
   
-  (3)DOS
+  (3)DOS, 癱瘓伺服器
   
-  (4)RCE
+  (4)RCE, 遠端命令執行
  
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -303,15 +303,4 @@ since 2018/6, all repos will be hidden from public
 # Content Delivery Network
 
 since 2017/11
-
-
-
-
-
-
-
-
-
-
-
 
