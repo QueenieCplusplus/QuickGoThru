@@ -11,11 +11,9 @@
 # 資安研究 
 since 2018/2 & 2019/12/22
 
-* 繞過 SOP 的 CORs 攻擊 
-
-* XSS, 網路應用程式的跨域及跨站攻擊
+* 繞過 SOP 的 XSS, 網路應用程式的跨域及跨站攻擊
   
-* On Users Behalf, 最嚴重的攻擊->針對使用者未知情況下的攻擊
+* On Users Behalf, 最嚴重的攻擊->針對使用者未知情況下的攻擊->擷取跨域資源 
 
   https://github.com/QueenieCplusplus/ITsec_UsersBehalf
 
