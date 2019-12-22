@@ -61,11 +61,11 @@ since 2018/2 & 2019/12/22
    
    (2)bypass (cookies, https, path)
    
-   (5)attack SSL
+   (3)attack SSL
    
-   (6)JS & heap
+   (4)JS & heap
    
-   (7)Metasploit & shell
+   (5)Metasploit & shell
 
 * Plugin Flaw, 能在瀏覽器外部獨立運作的插件有漏洞時的攻擊
 
