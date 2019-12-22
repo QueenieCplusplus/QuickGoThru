@@ -43,9 +43,12 @@ since 2018/2 & 2019/12/22
 
   (1)SQL Injection
   
-  (2)DOS
+  (2)CSRF 或稱 XSRF
   
-  (3)RCE
+  (3)DOS
+  
+  (4)RCE
+  
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 * At Browser Side, 瀏覽器遭到指紋取樣的攻擊
