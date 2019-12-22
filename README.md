@@ -11,9 +11,9 @@
 # 資安研究 
 since 2018/2 & 2019/12/22
 
-一, 繞過 SOP 的 XSS, 網路應用程式的跨域及跨站攻擊
+一, XSS 繞過 SOP, 網路應用程式的跨域及跨站攻擊
   
-* On Users Behalf, 最嚴重的攻擊->針對使用者未知情況下的攻擊->擷取跨域資源 
+* On Users Behalf, 最嚴重的攻擊->針對使用者未知情況下的攻擊->擷取跨域資源 CORs
 
   https://github.com/QueenieCplusplus/ITsec_UsersBehalf
 
@@ -26,7 +26,7 @@ since 2018/2 & 2019/12/22
 
 * Web App Flaw, 針對軟體的攻擊
 
-  (1)SQL Injection
+  (1)SQL Injection, 資料庫注入惡意代碼
   
      https://github.com/QueenieCplusplus/ITsec_SQLinjection
   
