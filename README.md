@@ -59,11 +59,7 @@ since 2018/2 & 2019/12/22
 
    (1)Finger Printing (http header, DOM)
    
-   (2)avoid cookie (session hijack)
-   
-   (3)avoid path
-   
-   (4)avoid Https
+   (2)bypass (cookies, https)
    
    (5)attack SSL
    
