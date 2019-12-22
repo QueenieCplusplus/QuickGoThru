@@ -65,6 +65,8 @@ since 2018/2 & 2019/12/22
    
    (4)JS & heap
    
+     https://github.com/QueenieCplusplus/ITsec_JSheap
+   
    (5)Metasploit & shell
 
 * Plugin Flaw, 能在瀏覽器外部獨立運作的插件有漏洞時的攻擊
