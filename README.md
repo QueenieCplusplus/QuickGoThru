@@ -56,12 +56,12 @@ since 2018/2 & 2019/12/22
 
 * Browser, 針對瀏覽器的攻擊
 
-      (1)Finger Printing (http header, DOM)
+      (1)Finger Printing (http header, DOM), 擷取指紋
  >>>  
  TBD...
  >>>
  
-       (2)bypass (cookies, https, path)
+       (2)bypass (cookies, https, path), 繞過限制
  >>>
  TBD...
  >>>
