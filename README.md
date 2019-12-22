@@ -249,6 +249,8 @@ since 2018/6, all repos will be hidden from public
 
 * BaaS : quinoaPy
 
+  https://github.com/QueenieCplusplus/BaaS （唯一還原的資源）
+
 * iCloud : pattyluvapp
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
