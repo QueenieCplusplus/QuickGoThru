@@ -56,7 +56,8 @@ since 2018/2 & 2019/12/22
 
 * Browser, 針對瀏覽器的攻擊
 
-      (1)Finger Printing (http header, DOM), 擷取指紋
+      (1)Finger Printing (http header, DOM), 指紋取樣
+         //其實技術術語中的指紋取樣的意思是取得平台版本。
  >>>  
  TBD...
  >>>
