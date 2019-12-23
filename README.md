@@ -64,7 +64,7 @@ since 2018/2 & 2019/12/22
  TBD...
  >>>
  
-       (2)bypass (cookies, https, path), 繞過限制
+       (2)bypass (cookies, https, path), 繞過同源限制
  >>>
 https://github.com/QueenieCplusplus/ITsec_BypassSOP
  >>>
