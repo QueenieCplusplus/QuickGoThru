@@ -11,11 +11,11 @@
 # 資安研究 
 since 2018/2 & 2019/12/22
 
-一, XSS 繞過 SOP, 網路應用程式的跨域及跨站攻擊
+一, XSS 或利用 CORs 旁繞 SOP, 網路應用程式的跨域及跨站攻擊
  
    https://github.com/QueenieCplusplus/ITsec_BypassSOP/blob/master/README.md#ie-瀏覽器範例
   
-* On Users Behalf, 最嚴重的攻擊->針對使用者未知情況下的攻擊->擷取跨域資源 CORs
+* On Users Behalf, 最嚴重的攻擊->針對使用者未知情況下的攻擊
 
   https://github.com/QueenieCplusplus/ITsec_UsersBehalf
 
