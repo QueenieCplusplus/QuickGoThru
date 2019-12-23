@@ -61,7 +61,7 @@ since 2018/2 & 2019/12/22
       (1)Finger Printing (http header, DOM), 指紋取樣
          //其實技術術語中的指紋取樣的意思是取得平台版本。
  >>>  
- TBD...
+
  >>>
  
        (2)bypass (cookies, https, path), 繞過同源限制
@@ -81,7 +81,7 @@ https://github.com/QueenieCplusplus/ITsec_JSheap
 
        (5)Metasploit & shell
 >>>
-TBD...
+
 >>>
  * Plugin Flaw, 能在瀏覽器外部獨立運作的插件有漏洞時的攻擊
 
