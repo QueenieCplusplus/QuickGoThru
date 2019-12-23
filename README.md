@@ -64,7 +64,7 @@ since 2018/2 & 2019/12/22
  
        (2)bypass (cookies, https, path), 繞過限制
  >>>
- TBD...
+https://github.com/QueenieCplusplus/ITsec_BypassSOP
  >>>
  
        (3)attack SSL, 利用安全通訊協定的弱點加以攻擊之
