@@ -125,7 +125,7 @@ since 2019/, rollback on 2019/12/20
 
     https://github.com/QueenieCplusplus/DataStorage_Hadoop#key-in-session-加密的安全通訊技術
 
-    https://github.com/QueenieCplusplus/ITsec_Cypher
+    https://github.com/QueenieCplusplus/ITsec_Cipher
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
