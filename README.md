@@ -146,35 +146,23 @@ since 12/20, 2019
 
   sort https://github.com/QueenieCplusplus/Sort_sort
 
-      ＊) insertion sort
-
-      ＊) quick sort
+      ＊) insertion sort & quick sort
 
       ) merge sort (interator, recursive)
 
-      ) heap sort
+      ) heap & key
 
-      ) sort on keys
+      ) list & table
 
-      ) list sort
-
-      ) table sort
-
-      ) internal sort
-
-      ) external sort
+      ) internal sort & eternal sort
 
 * Binary Tree, 二元樹
 
   binary tree https://github.com/QueenieCplusplus/BinaryTree_binaryTree
 
-      ) array
+      ) array & linked list
 
-      ) linked list
-
-      ＊) traversal
-
-      ＊) iterators
+      ＊) traversal & iterators
 
       ) threaded trees
 
