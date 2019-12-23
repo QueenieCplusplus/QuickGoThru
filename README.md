@@ -121,7 +121,7 @@ since 2019/, rollback on 2019/12/20
 
     https://github.com/QueenieCplusplus/ITsec_Oauth
 
-* Cypher & Encryption, 加密
+* Cipher & Crypto, 加密
 
     https://github.com/QueenieCplusplus/DataStorage_Hadoop#key-in-session-加密的安全通訊技術
 
