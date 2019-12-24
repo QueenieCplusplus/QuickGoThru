@@ -132,6 +132,11 @@ since 2019/7 & 2019/12/21
 * Redis DB
 
   https://redisbook.readthedocs.io/en/latest/internal/rdb.html
+  
+  +-------+-------------+-----------+-----------------+-----+-----------+
+  | REDIS | RDB-VERSION | SELECT-DB | KEY-VALUE-PAIRS | EOF | CHECK-SUM |
+  +-------+-------------+-----------+-----------------+-----+-----------+
+                    |<-------- DB-DATA ---------->|
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
