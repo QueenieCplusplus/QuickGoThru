@@ -136,7 +136,7 @@ since 2019/, rollback on 2019/12/20
     RSA & SHA, 常見的加密演算法
     TBD
     
-    Symetric & Asymetric, 對稱與非對稱的加密技術
+    Symmetric & Asymmetric, 對稱與非對稱的加密技術
     TBD
 
     https://github.com/QueenieCplusplus/DataStorage_Hadoop#key-in-session-加密的安全通訊技術
