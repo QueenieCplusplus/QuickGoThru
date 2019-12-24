@@ -137,7 +137,7 @@ since 2019/, rollback on 2019/12/20
     
 * TLS, 傳輸層安全協定
 
-   (TBD)
+    https://github.com/QueenieCplusplus/ITsec_TLS
     
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
