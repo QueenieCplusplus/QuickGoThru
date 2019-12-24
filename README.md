@@ -135,6 +135,10 @@ since 2019/, rollback on 2019/12/20
 
     https://github.com/QueenieCplusplus/ITsec_Cipher
     
+* TLS, 傳輸層安全協定
+
+   (TBD)
+    
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 資料結構  (TBD)
