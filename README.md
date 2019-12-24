@@ -11,6 +11,10 @@
 # 敘述統計
 since 2015 & 2019/12/24
 
+* Sampling, 抽樣
+
+* Average, 平均數
+
 * Coficeient, 係數變數
 
 * Exponentiation, 指數函數
