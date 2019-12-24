@@ -13,7 +13,7 @@ since 2015 & 2019/12/24
 
 * Sampling, 抽樣與次數分配
 
-* Average, 平均數
+* Average, 平均數 (包含加權、中位、調和)
 
 * Coficeient, 係數變數
 
