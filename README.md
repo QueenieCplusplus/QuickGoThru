@@ -282,23 +282,31 @@ https://github.com/QueenieCplusplus/Golang (Golang 還原)
 
 Object C, 物件導向的 C 語言
 
-* history, 發展歷史 198X - 2017
+ * history, 發展歷史 198X - 2017
 
-* poject, 專案結構
+ * poject, 專案結構
+ 
+ * 巨集
+ 
+ * 標頭
 
-* int, 數值的資料結構 (進位制的轉換)
+ * int, 數值的資料結構 (進位制的轉換)
 
-* cast, 自動或稱隱性的資料轉換和強制的資料轉換
+ * cast, 自動或稱隱性的資料轉換和強制的資料轉換
 
-* polymorphism, 類別繼承其中一個功能 (多型)
+ * polymorphism, 類別繼承其中一個功能 (多型)
 
-* property, 類別中的屬性設計
+ * property, 類別中的屬性設計
 
-* protocol, c 語言無法多重繼承故設計協定
+ * protocol, c 語言無法多重繼承故設計協定
 
-* releasepool, 資料的釋放池
+ * releasepool, 資料的釋放池
 
-* GC, 垃圾處理
+ * GC, 垃圾處理
+
+ * threads, 多執行緒
+
+ * lock, 同步執行的共用資源互斥鎖
 
 Java & Kotlin (略)
    
