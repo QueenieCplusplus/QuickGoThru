@@ -283,7 +283,11 @@ since 2018/3, all repos will be hidden from public
 
 * iOS : pattyappier & pattyluvapp
 
+     https://developer.apple.com/ (Apple 開發者官網)
+
 * Android : katesandroidapp & katesapp2019
+
+     https://developer.android.com/about/versions/10 （Android 開發者官網）
 
 * React Native : redpint819
 
