@@ -346,6 +346,8 @@ since 11/28 & 1216, 2019
 
 since 2018/3, all repos will be hidden from public
 
+* UML & Spec
+
 * iOS : pattyappier & pattyluvapp
 
      https://developer.apple.com/ (Apple 開發者官網)
