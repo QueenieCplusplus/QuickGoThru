@@ -129,6 +129,10 @@ since 2019/7 & 2019/12/21
   
 * Oracle MySQL (Done)
 
+* Redis DB
+
+  https://redisbook.readthedocs.io/en/latest/internal/rdb.html
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 資安研究
