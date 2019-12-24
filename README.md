@@ -149,7 +149,7 @@ since 2019/, rollback on 2019/12/20
     
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# 資料結構  (TBD)
+# 資料結構 
 since 12/20, 2019
 
 * Search, 搜索
@@ -157,6 +157,8 @@ since 12/20, 2019
 * Sort, 排序
 
   sort https://github.com/QueenieCplusplus/Sort_sort
+  
+  *) TBD
 
       ＊) insertion sort & quick sort
 
@@ -171,6 +173,8 @@ since 12/20, 2019
 * Binary Tree, 二元樹
 
   binary tree https://github.com/QueenieCplusplus/BinaryTree_binaryTree
+  
+  *) TBD
 
       ) array & linked list
 
