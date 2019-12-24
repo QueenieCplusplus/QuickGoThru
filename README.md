@@ -309,6 +309,8 @@ Object C, 物件導向的 C 語言
  * threads, 多執行緒
 
  * lock, 同步執行的共用資源互斥鎖
+ 
+Swift (略)
 
 Java & Kotlin (略)
    
