@@ -348,6 +348,8 @@ since 2018/3, all repos will be hidden from public
 
 * UML & Spec
 
+     https://github.com/QueenieCplusplus/UML_Spec
+
 * iOS : pattyappier & pattyluvapp
 
      https://developer.apple.com/ (Apple 開發者官網)
