@@ -124,6 +124,8 @@ since 2019/, rollback on 2019/12/20
     https://github.com/QueenieCplusplus/ITsec_Oauth
     
     Digital Certificate, 電子憑證(票據)與電子簽章
+    
+    X.509, 電子憑證的格式
 
 * Cipher & Crypto, 加密
 
