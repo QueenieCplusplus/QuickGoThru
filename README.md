@@ -17,7 +17,7 @@ since 2015 & 2019/12/24
 
 * Average, 平均數 (包含加權、中位、調和)
 
-* Coficeient, 係數變數
+* Var (diff) Coficeient, 係數變數（變異係數與標準差）
 
 * Exponentiation, 指數函數
 
