@@ -35,10 +35,12 @@ since 2018/2 & 2019/12/22
      https://github.com/QueenieCplusplus/ITsec_SQLinjection
   
   (2)CSRF 或稱 XSRF (再行密碼重置)
+     TBD
   
   (3)DOS, 癱瘓伺服器
   
-  (4)RCE, 遠端命令執行
+  (4)RCE, 遠端命令執行 
+     TBD
  
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -124,14 +126,18 @@ since 2019/, rollback on 2019/12/20
     https://github.com/QueenieCplusplus/ITsec_Oauth
     
     Digital Certificate, 電子憑證(票據)與電子簽章
+    TBD
     
     X.509, 電子憑證的格式
+    TBD
 
 * Cipher & Crypto, 加密
 
     RSA & SHA, 常見的加密演算法
+    TBD
     
     Symetric & Asymetric, 對稱與非對稱的加密技術
+    TBD
 
     https://github.com/QueenieCplusplus/DataStorage_Hadoop#key-in-session-加密的安全通訊技術
 
