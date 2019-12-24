@@ -123,7 +123,7 @@ since 2019/, rollback on 2019/12/20
 
     https://github.com/QueenieCplusplus/ITsec_Oauth
     
-    Certificate, 電子憑證(票據)與電子簽章
+    Digital Certificate, 電子憑證(票據)與電子簽章
 
 * Cipher & Crypto, 加密
 
