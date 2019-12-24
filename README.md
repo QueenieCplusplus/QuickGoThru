@@ -285,7 +285,7 @@ since 2018/3, all repos will be hidden from public
 
 * Android : katesandroidapp & katesapp2019
 
-* React : redpint819
+* React Native : redpint819
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
