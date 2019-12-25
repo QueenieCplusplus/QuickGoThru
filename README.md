@@ -301,17 +301,13 @@ https://github.com/QueenieCplusplus/Golang (Golang 還原)
 
 Object C, 物件導向的 C 語言
 
- * main & structure, 發展歷史 198X - 2017
+ * main & structure, 發展歷史與專案結構
  
    https://github.com/QueenieCplusplus/ObjectC_main
-
- * poject, 專案結構
  
  * macro, 巨集
  
  * header, 標頭
-
- * int, 數值的資料結構 (進位制的轉換)
  
  * set, 資料集合 (無序)
 
