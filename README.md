@@ -3,7 +3,7 @@
 本儲存庫繼續保留 C++ 原始的研究，並且現在會以 Data Structuture 的研究 ，以及搜索引擎 Search Engine 的應用為主，未來則將專注資料分析處理 Data Analysis 包含擷取與探勘 Data Mining 和資訊安全與駭客技術 Hack on Browser 為主要研究議題。
 
 # 人工智慧
-since 2018/11 & 2019/10/15
+since 2018/11 & 2019/10/14-11/11
 
 * Webhook, 呼叫自定義函數後回呼返回另一網站的掛鉤
 
@@ -18,6 +18,8 @@ since 2018/11 & 2019/10/15
   https://github.com/QueenieCplusplus/AI_Watson
 
 * Heroku, 發布平台
+
+  https://github.com/QueenieCplusplus/AI_Heroku/blob/master/README.md
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
