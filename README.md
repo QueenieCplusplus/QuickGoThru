@@ -337,7 +337,7 @@ Object C, 物件導向的 C 語言
  
  * property, 類別中的屬性設計
  
-   TBD
+   https://github.com/QueenieCplusplus/ObjectC_property
 
  * polymorphism, 類別繼承其中一個功能 (多型)
  
