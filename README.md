@@ -317,6 +317,8 @@ Object C, 物件導向的 C 語言
  
  * header, 標頭
  
+ * turn statement, 轉折敘述（break, continue, return）
+ 
  * set, 資料集合 (無序)
 
  * cast, 自動或稱隱性的資料轉換和強制的資料轉換
