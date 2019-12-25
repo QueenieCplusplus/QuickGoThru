@@ -332,15 +332,18 @@ Object C, 物件導向的 C 語言
     https://github.com/QueenieCplusplus/ObjectC_set
 
  * cast, 自動或稱隱性的資料轉換和強制的資料轉換
-
- * polymorphism, 類別繼承其中一個功能 (多型)
-
+ 
  * property, 類別中的屬性設計
 
+ * polymorphism, 類別繼承其中一個功能 (多型)
+ 
+   TBD
+
  * protocol, c 語言無法多重繼承故設計協定
+ 
+   TBD
 
  * releasepool & GC, 資料的釋放池及垃圾處理
-
  * threads , 多執行緒和同步執行的共用資源互斥鎖
  
 Swift (略)
