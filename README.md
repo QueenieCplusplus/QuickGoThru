@@ -5,6 +5,12 @@
 # 人工智慧
 since 2018/11 & 2019/10/14-11/11
 
+* PyTorch
+
+* TensorFlow
+
+* MatLab
+
 * Webhook, 呼叫自定義函數後回呼返回另一網站的掛鉤
 
   https://github.com/QueenieCplusplus/AI_Webhook
