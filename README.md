@@ -307,9 +307,11 @@ https://github.com/QueenieCplusplus/Golang (Golang 還原)
 
 https://github.com/QueenieCplusplus/ObjC (Object-C)
 
-https://developer.apple.com/swift/ Swift5官方網站 
+https://developer.apple.com/swift/ Swift5官方網站 since 2018/3
 
-Java & Kotlin (略)
+https://kotlinlang.org Kotlin官方網站 since 2018/10 & 2019/5
+
+Java (略) since 2018/5 & 2019/8
    
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
