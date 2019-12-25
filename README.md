@@ -311,11 +311,13 @@ Object C, 物件導向的 C 語言
  
    https://github.com/QueenieCplusplus/ObjectC_main
  
- * macro, 巨集
+ * macro, 巨集(預編譯處理)
  
    https://github.com/QueenieCplusplus/ObjectC_macro
  
- * header, 標頭
+ * header, 標頭(預編譯處理)
+ 
+   https://github.com/QueenieCplusplus/ObjectC_header
  
  * turn statement, 轉折敘述（break, continue, return）
  
