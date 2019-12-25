@@ -11,6 +11,8 @@ since 2018/11 & 2019/10/15
 
 * chatBot, 聊天機器人
 
+  https://github.com/QueenieCplusplus/AI_LineChatBot
+
 * Watson, 華生
 
   https://github.com/QueenieCplusplus/AI_Watson
