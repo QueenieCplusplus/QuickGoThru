@@ -341,7 +341,7 @@ Object C, 物件導向的 C 語言
 
  * polymorphism, 類別繼承其中一個功能 (多型，可利用方法多載或是覆寫方法達成)
  
-   https://github.com/QueenieCplusplus/ObjectC_overload
+   https://github.com/QueenieCplusplus/ObjectC_overloadoverride
 
  * protocol, c 語言無法多重繼承故設計協定
  
