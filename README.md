@@ -203,39 +203,32 @@ since 12/20, 2019
 
   sort https://github.com/QueenieCplusplus/Sort_sort
   
-  *) TBD
+  
 
-      ＊) insertion sort & quick sort
+   ＊) insertion sort & quick sort
 
-      ) merge sort (interator, recursive)
+     ) merge sort (interator, recursive)
 
-      ) heap & key
+     ) heap & key
 
-      ) list & table
+     ) list & table
 
-      ) internal sort & eternal sort
 
 * Binary Tree, 二元樹
 
   binary tree https://github.com/QueenieCplusplus/BinaryTree_binaryTree
-  
-  *) TBD
 
-      ) array & linked list
+   ＊) traversal & iterators
 
-      ＊) traversal & iterators
+     ) threaded trees
 
-      ) threaded trees
+    ＊) binary search tree (delete, join)
 
-      ) heaps
+     ) selection tree (winner, loser)
 
-      ＊) binary search tree (delete, join)
+     ) forest
 
-      ) selection tree (winner, loser)
-
-      ) forest
-
-      ＊) set (union, find)
+    ＊) set (union, find)
 
  ＿＿＿＿＿＿＿＿＿＿＿＿＿
  
