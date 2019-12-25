@@ -343,8 +343,8 @@ Object C, 物件導向的 C 語言
  
    TBD
 
- * releasepool & GC, 資料的釋放池及垃圾處理
- * threads , 多執行緒和同步執行的共用資源互斥鎖
+ * releasepool & GC, 資料的釋放池及垃圾處理 (略)
+ * threads , 多執行緒和同步執行的共用資源互斥鎖 (略)
  
 Swift (略)
 
