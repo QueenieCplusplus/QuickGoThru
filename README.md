@@ -345,7 +345,7 @@ Object C, 物件導向的 C 語言
 
  * protocol, c 語言無法多重繼承故設計協定 (爾後在 swift 語言尚衍生出委派功能)
  
-   ING...
+   https://github.com/QueenieCplusplus/ObjectC_protocol
 
  * releasepool & GC, 資料的釋放池及垃圾處理 (略)
  * threads , 多執行緒和同步執行的共用資源互斥鎖 (略)
