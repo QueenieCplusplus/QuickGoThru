@@ -301,7 +301,7 @@ https://github.com/QueenieCplusplus/Golang (Golang 還原)
 
 https://github.com/QueenieCplusplus/ObjC (Object-C)
 
-https://developer.apple.com/swift/ Swift5官方網站 since 2018/3
+https://developer.apple.com/swift/ Swift4官方網站 since 2018/3
 
 https://kotlinlang.org Kotlin官方網站 since 2018/10 & 2019/5
 
@@ -339,11 +339,11 @@ since 2018/3, all repos will be hidden from public
 
      https://github.com/QueenieCplusplus/UML_Spec
 
-* iOS : pattyappier & pattyluvapp
+* iOS 11 : pattyappier & pattyluvapp
 
      https://developer.apple.com/ (Apple 開發者官網)
 
-* Android : katesandroidapp & katesapp2019
+* Android 3: katesandroidapp & katesapp2019
 
      https://developer.android.com/about/versions/10 （Android 開發者官網）
 
