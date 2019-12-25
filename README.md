@@ -318,6 +318,10 @@ Object C, 物件導向的 C 語言
  * header, 標頭(預編譯處理)
  
    https://github.com/QueenieCplusplus/ObjectC_header
+   
+ * ifdef, 條件編譯(預編譯處理)
+ 
+   TBD
  
  * turn statement, 轉折敘述（break, continue, return）
  
