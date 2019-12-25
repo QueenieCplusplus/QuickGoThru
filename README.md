@@ -7,6 +7,8 @@ since 2018/11 & 2019/10/15
 
 * Webhook, 呼叫自定義函數後回呼返回另一網站的掛鉤
 
+  https://github.com/QueenieCplusplus/AI_Webhook
+
 * chatBot, 聊天機器人
 
 * Watson, 華生
