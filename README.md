@@ -301,7 +301,9 @@ https://github.com/QueenieCplusplus/Golang (Golang 還原)
 
 Object C, 物件導向的 C 語言
 
- * history, 發展歷史 198X - 2017
+ * main & structure, 發展歷史 198X - 2017
+ 
+   https://github.com/QueenieCplusplus/ObjectC_History/blob/master/README.md
 
  * poject, 專案結構
  
