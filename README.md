@@ -305,8 +305,8 @@ https://github.com/QueenieCplusplus/Cplusplus (C++)
     
 https://github.com/QueenieCplusplus/Golang (Golang 還原)
 
-Object C, 物件導向的 C 語言
- 
+https://github.com/QueenieCplusplus/ObjC (Object-C)
+
 Swift (略)
 
 Java & Kotlin (略)
