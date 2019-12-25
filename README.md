@@ -333,7 +333,11 @@ Object C, 物件導向的 C 語言
 
  * cast, 自動或稱隱性的資料轉換和強制的資料轉換
  
+   TBD
+ 
  * property, 類別中的屬性設計
+ 
+   TBD
 
  * polymorphism, 類別繼承其中一個功能 (多型)
  
