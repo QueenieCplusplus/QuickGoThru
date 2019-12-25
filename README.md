@@ -13,6 +13,8 @@ since 2018/11 & 2019/10/15
 
 * Watson, 華生
 
+  https://github.com/QueenieCplusplus/AI_Watson
+
 * Heroku, 發布平台
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
