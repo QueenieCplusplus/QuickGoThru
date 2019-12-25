@@ -303,7 +303,7 @@ Object C, 物件導向的 C 語言
 
  * main & structure, 發展歷史 198X - 2017
  
-   https://github.com/QueenieCplusplus/ObjectC_History/blob/master/README.md
+   https://github.com/QueenieCplusplus/ObjectC_main
 
  * poject, 專案結構
  
