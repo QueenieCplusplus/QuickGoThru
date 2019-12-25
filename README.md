@@ -337,13 +337,9 @@ Object C, 物件導向的 C 語言
 
  * protocol, c 語言無法多重繼承故設計協定
 
- * releasepool, 資料的釋放池
+ * releasepool & GC, 資料的釋放池及垃圾處理
 
- * GC, 垃圾處理
-
- * threads, 多執行緒
-
- * lock, 同步執行的共用資源互斥鎖
+ * threads , 多執行緒和同步執行的共用資源互斥鎖
  
 Swift (略)
 
