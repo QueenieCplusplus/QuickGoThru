@@ -315,7 +315,7 @@ https://github.com/QueenieCplusplus/Backend_Script2 (php: CI & Laravel 專案未
    
 https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
 
-TBD (ruby: Rail & Rack)
+https://github.com/QueenieCplusplus/Ruby_Cart TBD (ruby: Rail & Rack)
 
 TBD (perl)
 
