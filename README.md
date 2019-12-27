@@ -315,7 +315,7 @@ https://github.com/QueenieCplusplus/Backend_Script2 建立會議對話識別符 
    
 https://github.com/QueenieCplusplus/Backend_Script3 運算與圖像工具 (python: Django 還原)
 
-https://github.com/QueenieCplusplus/Ruby_Cart 電商 (ruby: Rail & Rack)
+https://github.com/QueenieCplusplus/Ruby_Cart 電商常用購物車 (ruby: Rail & Rack)
 
 TBD (perl)
 
