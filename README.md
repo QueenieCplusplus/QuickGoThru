@@ -309,13 +309,13 @@ Java (略) since 2018/5 & 2019/8
 # 腳本語言
 since 2019/8, rollback on 2019/12/20
 
-https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 專案未還原）
+https://github.com/QueenieCplusplus/Backend_Script 後端驗證功能（Nodejs: Express 專案未還原）
 
 https://github.com/QueenieCplusplus/Backend_Script2 (php: CI & Laravel 專案未還原)
    
-https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
+https://github.com/QueenieCplusplus/Backend_Script3 運算與圖像工具 (python: Django 還原)
 
-https://github.com/QueenieCplusplus/Ruby_Cart TBD (ruby: Rail & Rack)
+https://github.com/QueenieCplusplus/Ruby_Cart 電商 (ruby: Rail & Rack)
 
 TBD (perl)
 
