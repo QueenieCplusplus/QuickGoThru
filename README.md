@@ -309,7 +309,7 @@ Java (略) since 2018/5 & 2019/8
 # 腳本語言
 since 2019/8, rollback on 2019/12/20
 
-https://github.com/QueenieCplusplus/Backend_Script 後端驗證功能（Nodejs: Express 專案未還原）
+https://github.com/QueenieCplusplus/Backend_Script 登入驗證功能（Nodejs: Express 專案未還原）
 
 https://github.com/QueenieCplusplus/Backend_Script2 建立會議對話識別符 (php: CI & Laravel 專案未還原)
    
