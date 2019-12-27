@@ -162,11 +162,6 @@ since 2019/7 & 2019/12/21
 
   https://redisbook.readthedocs.io/en/latest/internal/rdb.html
   
-      +-------+-------------+-----------+-----------------+-----+-----------+
-      | REDIS | RDB-VERSION | SELECT-DB | KEY-VALUE-PAIRS | EOF | CHECK-SUM |
-      +-------+-------------+-----------+-----------------+-----+-----------+
-                        |<-------- DB-DATA ---------->|
-
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 資安研究
@@ -319,6 +314,10 @@ https://github.com/QueenieCplusplus/Backend_Script （Nodejs: Express 專案未�
 https://github.com/QueenieCplusplus/Backend_Script2 (php: CI & Laravel 專案未還原)
    
 https://github.com/QueenieCplusplus/Backend_Script3 (python: Django 還原)
+
+TBD (ruby: Rail & Rack)
+
+TBD (perl)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
