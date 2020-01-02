@@ -4,8 +4,10 @@
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# API means ?
+# API means ? 應用編程介面
 since 2020/1/02 新年紀念版
+
+https://github.com/QueenieCplusplus/API
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
