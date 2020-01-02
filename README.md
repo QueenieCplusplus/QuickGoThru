@@ -2,10 +2,19 @@
 
 本儲存庫繼續保留 C++ 原始的研究，並且現在會以 Data Structuture 的研究 ，以及搜索引擎 Search Engine 的應用為主，未來則將專注資料分析處理 Data Analysis 包含擷取與探勘 Data Mining 和資訊安全與駭客技術 Hack on Browser 為主要研究議題。
 
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+# API means ?
+since 2020/1/02 新年紀念版
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
 # 爬蟲機器
 since 2019/12/31 跨年紀念版
 
 https://github.com/QueenieCplusplus/CrawlerByUsingPython
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # SAP
 since 2019/12/29
