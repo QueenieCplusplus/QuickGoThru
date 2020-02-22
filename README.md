@@ -320,7 +320,9 @@ https://github.com/QueenieCplusplus/DataBase_PostgreSQL (PostgrSQL)
 # 程式語言
 since 11/16 & 11/22 & 12/25, 2019
 
-https://github.com/QueenieCplusplus/1122Try (C)
+https://github.com/QueenieCplusplus/1122Try (C in 2019)
+
+https://github.com/QueenieCplusplus/Qs_C (C in 2020)
 
 https://github.com/QueenieCplusplus/Cplusplus (C++)
     
