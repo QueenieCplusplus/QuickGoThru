@@ -10,14 +10,14 @@ https://github.com/QueenieCplusplus/Extension_IP_Header (封包標頭)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# Docker 容器管理工具
+# 容器管理工具
 since 2020/1/04 quickstart
 
 https://github.com/QueenieCplusplus/Docker
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# API means ? 應用編程介面
+# 應用編程介面
 since 2020/1/02 新年紀念版
 
 https://github.com/QueenieCplusplus/API
