@@ -7,6 +7,8 @@ since 2017/10/20
 
 https://github.com/QueenieCplusplus/Extension_IP_Header (封包標頭)
 
+https://github.com/QueenieCplusplus/Http_header (標頭欄位)
+
 (to be continued...)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
