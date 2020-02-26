@@ -9,6 +9,8 @@ https://github.com/QueenieCplusplus/Extension_IP_Header (封包標頭)
 
 https://github.com/QueenieCplusplus/Http_header (標頭欄位)
 
+https://github.com/QueenieCplusplus/Py_Parser (Http Req-Res Chain)
+
 (to be continued...)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
