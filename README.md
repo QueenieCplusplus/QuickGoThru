@@ -335,7 +335,7 @@ https://github.com/QueenieCplusplus/DataMining_Cassandra (C＊ DB Engine)
 
 https://github.com/QueenieCplusplus/DataMining_DataScientist (Data Mine)
 
-https://github.com/QueenieCplusplus/DataStorage_Hadoop (Hadoop DataType) 
+https://github.com/QueenieCplusplus/DataStorage_Hadoop (Hadoop) 
 
 https://github.com/QueenieCplusplus/DataBase_PostgreSQL (PostgrSQL)
 
