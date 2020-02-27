@@ -9,7 +9,7 @@ since 2020/3
 
 study -> https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#駭客技術
 
-(to be continued...)
+將研究目標往壓力測試和弱點測試方向中...，敬請期待。 (to be continued...)
 
 # Bot Being
 since 2020/1/02 新年紀念版
