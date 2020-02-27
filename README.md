@@ -5,9 +5,9 @@
 # 解析封包
 since 2017/10/20
 
-https://github.com/QueenieCplusplus/Extension_IP_Header (封包標頭)
+https://github.com/QueenieCplusplus/Extension_IP_Header (Http Header)
 
-https://github.com/QueenieCplusplus/Http_header (標頭欄位 & get API app)
+https://github.com/QueenieCplusplus/Http_header (Http-Header-Fields & get API app)
 
 https://github.com/QueenieCplusplus/Py_Parser (Http Req-Res Chain)
 
