@@ -329,13 +329,13 @@ since 12/18, 2019
 
 涉及資料探勘與資料採擷，攸關基礎設施如存儲系統和程式設計與運算資源調度的彈性機制。
 
-https://github.com/QueenieCplusplus/DataMining_Spark (Spark) 
+https://github.com/QueenieCplusplus/DataMining_Spark (Spark Tool) 
 
-https://github.com/QueenieCplusplus/DataMining_Cassandra (C＊)
+https://github.com/QueenieCplusplus/DataMining_Cassandra (C＊ DB Engine)
 
 https://github.com/QueenieCplusplus/DataMining_DataScientist (Data Mine)
 
-https://github.com/QueenieCplusplus/DataStorage_Hadoop (Hadoop) 
+https://github.com/QueenieCplusplus/DataStorage_Hadoop (Hadoop DataType) 
 
 https://github.com/QueenieCplusplus/DataBase_PostgreSQL (PostgrSQL)
 
