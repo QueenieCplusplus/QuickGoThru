@@ -4,8 +4,10 @@
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# Hacker Tech
+# Hacker To Be
 since 2020/3
+
+study -> https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#駭客技術
 
 (to be continued...)
 
