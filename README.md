@@ -11,7 +11,7 @@ study -> https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#�
 
 (to be continued...)
 
-# Bot
+# Bot Being
 since 2020/1/02 新年紀念版
 
 https://github.com/QueenieCplusplus/CrawlerByUsingPython
