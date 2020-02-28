@@ -362,6 +362,14 @@ https://github.com/QueenieCplusplus/DataStorage_Hadoop (Hadoop Storage)
 
 https://github.com/QueenieCplusplus/DataBase_PostgreSQL (PostgrSQL)
 
+Spark & Hadoop :
+
+* 分散式運算引擎
+* 企業資料匯流排
+* 資料整合與資料流分析
+* 互動式統計分析與即時計算
+* 事件處理與增加 SAS
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 程式語言
