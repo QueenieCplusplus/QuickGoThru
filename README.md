@@ -28,9 +28,9 @@ preface -> https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md
 
 將研究目標往壓力測試和弱點測試方向中，敬請期待。 
 
-Kali -> (to do)
-
 Security Assessement -> (to do)
+
+Kali for Linux -> (to do)
 
 Hacker Bible -> (to do)
 
@@ -56,9 +56,9 @@ https://github.com/QueenieCplusplus/DataMining_Spark (Smarter Pandas)
 # Web Front-End
 since 2020/2/29 quickstart
 
-React
+TODO (React)
 
-HTML5
+https://github.com/QueenieCplusplus/H5 (HTML5)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
