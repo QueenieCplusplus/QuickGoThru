@@ -32,6 +32,8 @@ https://github.com/QueenieCplusplus/H5/blob/master/Useful_H5_Syntax/iFrame.pdf (
 # Bot Being
 since 2020/1/02 新年紀念版
 
+![bot](https://upload.wikimedia.org/wikipedia/commons/c/c2/Gnome-stock_person_bot.svg)
+
 https://github.com/QueenieCplusplus/CrawlerByUsingPython
 
 
