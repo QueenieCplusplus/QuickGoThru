@@ -14,9 +14,9 @@ https://github.com/QueenieCplusplus/DataStorage_Hadoop#安全檢查清單表
    admin setup      |     √
 firewall            |     √
 version of system   |     √
-   anti-virus       |
-  port disable      |
- monitor & log      |                
+   anti-virus       |√
+  port disable      |√
+ monitor & log      |√                
 
 # Hacker To Be
 since 2020/3 將研究目標往壓力測試和弱點測試方向中，敬請期待。
