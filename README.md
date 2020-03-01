@@ -114,17 +114,15 @@ since 2018/11 & 2019/10/14-11/11
 # 敘述統計
 since 2015 & 2019/12/24
 
-* Sampling, 抽樣與次數分配
+- [x] Sampling, 抽樣與次數分配
 
   https://github.com/QueenieCplusplus/Stats_Sampling
 
-* Average, 平均數 (包含加權、中位、調和)
+- [x] Average, 平均數 (包含加權、中位、調和)
 
-* Var (diff) Coficeient, 係數變數（變異係數與標準差）
+- [ ] Var (diff) Coficeient, 係數變數（變異係數與標準差）
 
-* Exponentiation, 指數函數
-
-  TBD 
+- [ ] Exponentiation, 指數函數
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
