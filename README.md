@@ -84,11 +84,12 @@ https://github.com/QueenieCplusplus/Abaper
 # 人工智慧
 since 2018/11 & 2019/10/14-11/11
 
-* PyTorch TBD
-
-* TensorFlow TBD
-
-* MatLab TBD
+|              |          |       |
+|--------------|:--------:|------:|
+|  TensorFlow  |  Google  |       |
+|    PyTorch   |  Python  |       |
+|    Matlab    |          |       |
+|     Keras    |          |       |
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
