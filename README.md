@@ -19,11 +19,9 @@ version of system   |
  monitor & log      |                
 
 # Hacker To Be
-since 2020/3
+since 2020/3 將研究目標往壓力測試和弱點測試方向中，敬請期待。
 
-preface -> https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#駭客技術
-
-將研究目標往壓力測試和弱點測試方向中，敬請期待。 
+preface -> https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#駭客技術 
 
 To be continued... (Hacker Bible)
 
