@@ -25,13 +25,9 @@ preface -> https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md
 
 將研究目標往壓力測試和弱點測試方向中，敬請期待。 
 
-Security Assessement -> (to do)
+To be continued... (Hacker Bible)
 
-Kali for Linux -> (to do)
-
-Hacker Bible -> (to do)
-
-iframe & sandbox -> https://github.com/QueenieCplusplus/H5/blob/master/Useful_H5_Syntax/iFrame.pdf
+https://github.com/QueenieCplusplus/H5/blob/master/Useful_H5_Syntax/iFrame.pdf (iframe & sandbox)
 
 # Bot Being
 since 2020/1/02 新年紀念版
