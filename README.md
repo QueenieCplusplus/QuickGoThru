@@ -21,6 +21,8 @@ version of system   |     √
 # Hacker To Be
 since 2020/3 將研究目標往壓力測試和弱點測試方向中，敬請期待。
 
+![black hat](https://pbs.twimg.com/profile_images/882639407748046849/lc0tYBlW_400x400.jpg)
+
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#駭客技術  (Hackers Black Book)
 
 To be continued... (Hacker Bible)
