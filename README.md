@@ -84,12 +84,12 @@ https://github.com/QueenieCplusplus/Abaper
 # 人工智慧
 since 2018/11 & 2019/10/14-11/11
 
-|    AI Tool   |  Engine  |       |
+|    AI Tool   |  Engine  |  Year |
 |--------------|:--------:|------:|
-|  TensorFlow  |  Google  |       |
-|    PyTorch   |  Python  |       |
-|    Matlab    |          |       |
-|     Keras    |  Python  |       |
+|  TensorFlow  |  Google  | 2018  |
+|    PyTorch   |  Python  | 2018  |
+|    Matlab    |          | 2019  |
+|     Keras    |  Python  | 2020  |
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
