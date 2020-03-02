@@ -159,8 +159,11 @@ since 2018/2 & 2019/12/22
   (1)SQL Injection, 資料庫注入惡意代碼
   
      https://github.com/QueenieCplusplus/ITsec_SQLinjection
+     
+     solution => PreparedStatement, or SQL query with default Type Param.
   
   (2)CSRF 或稱 XSRF (再行密碼重置)
+  
      https://owasp.org/www-community/attacks/csrf
   
   (3)DOS, 癱瘓伺服器
@@ -186,34 +189,30 @@ since 2018/2 & 2019/12/22
 
 * Browser, 針對瀏覽器的攻擊
 
-      (1)Finger Printing (http header, DOM), 指紋取樣
-         //其實技術術語中的指紋取樣的意思是取得平台版本。
- >>>  
-
- >>>
+> (1)Finger Printing (http header, DOM), 指紋取樣
+      
+  其實技術術語中的指紋取樣的意思是取得平台版本。
  
-       (2)bypass (cookies, https, path), 繞過同源限制
- >>>
+> (2)bypass (cookies, https, path), 繞過同源限制
+
 https://github.com/QueenieCplusplus/ITsec_BypassSOP
- >>>
+
  
-       (3)attack SSL, 利用安全通訊協定的弱點加以攻擊之
->>>  
+> (3)attack SSL, 利用安全通訊協定的弱點加以攻擊之
+
 https://github.com/QueenieCplusplus/ITsec_BeastCrime
->>>
+
  
-       (4)JS & heap, 堆積洞孔導致記憶體外洩
->>>   
+> (4)JS & heap, 堆積洞孔導致記憶體外洩
+
 https://github.com/QueenieCplusplus/ITsec_JSheap
->>>
 
-       (5)Metasploit & shell
->>>
 
->>>
- * Plugin Flaw, 能在瀏覽器外部獨立運作的插件有漏洞時的攻擊
+> (5)Metasploit & shell
 
- * Browsers Extensions Flaw, 瀏覽器衍生套件有漏洞時的攻擊
+> (6)Plugin Flaw, 能在瀏覽器外部獨立運作的插件有漏洞時的攻擊
+
+> (7)Browsers Extensions Flaw, 瀏覽器衍生套件有漏洞時的攻擊
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
