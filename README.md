@@ -101,19 +101,19 @@ since 2018/11 & 2019/10/14-11/11
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-* Webhook, 呼叫自定義函數後回呼返回另一網站的掛鉤
+- [x] Webhook, 呼叫自定義函數後回呼返回另一網站的掛鉤
 
   https://github.com/QueenieCplusplus/AI_Webhook
 
-* chatBot, 聊天機器人
+- [x] chatBot, 聊天機器人
 
   https://github.com/QueenieCplusplus/AI_LineChatBot
 
-* Watson, 華生
+- [x] Watson, 華生
 
   https://github.com/QueenieCplusplus/AI_Watson
 
-* Heroku, 發布平台
+- [x] Heroku, 發布平台
 
   https://github.com/QueenieCplusplus/AI_Heroku/blob/master/README.md
 
