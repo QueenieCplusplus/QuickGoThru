@@ -156,19 +156,19 @@ since 2018/2 & 2019/12/22
 
 * Web App Flaw, 針對軟體的攻擊
 
-  (1)SQL Injection, 資料庫注入惡意代碼
+> (1)SQL Injection, 資料庫注入惡意代碼
   
      https://github.com/QueenieCplusplus/ITsec_SQLinjection
      
      solution => PreparedStatement, or SQL query with default Type Param.
   
-  (2)CSRF 或稱 XSRF (再行密碼重置)
+> (2)CSRF 或稱 XSRF (再行密碼重置)
   
      https://owasp.org/www-community/attacks/csrf
   
-  (3)DOS, 癱瘓伺服器
+> (3)DOS, 癱瘓伺服器
   
-  (4)RCE, 遠端命令執行 
+> (4)RCE, 遠端命令執行 
      TBD
  
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
@@ -193,7 +193,7 @@ since 2018/2 & 2019/12/22
       
   其實技術術語中的指紋取樣的意思是取得平台版本。
  
-> (2)bypass (cookies, https, path), 繞過同源限制
+> (2)bypass SOP using CORs (cookies, http header, path traversal), 繞過同源限制
 
 https://github.com/QueenieCplusplus/ITsec_BypassSOP
 
