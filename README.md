@@ -161,7 +161,7 @@ since 2018/2 & 2019/12/22
      https://github.com/QueenieCplusplus/ITsec_SQLinjection
   
   (2)CSRF 或稱 XSRF (再行密碼重置)
-     TBD
+     https://owasp.org/www-community/attacks/csrf
   
   (3)DOS, 癱瘓伺服器
   
