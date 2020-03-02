@@ -137,7 +137,7 @@ since 2015 & 2019/12/24
 # 駭客技術 
 since 2018/2 & 2019/12/22
 
-一, XSS 或利用 CORs 旁繞 SOP, 網路應用程式的跨域及跨站攻擊
+一, 利用 CORs 旁繞 SOP 再行 XSS, 網路應用程式的跨域及跨站攻擊
  
    https://github.com/QueenieCplusplus/ITsec_BypassSOP/blob/master/README.md#ie-瀏覽器範例
   
@@ -146,8 +146,8 @@ since 2018/2 & 2019/12/22
   https://github.com/QueenieCplusplus/ITsec_UsersBehalf
 
       (1)Cookies & Session ID, 會話識別符取得隱私的攻擊  
-      (2)Social Tool, 社交攻擊（原理和輸入攻擊相似）  
-      (3)Input Capture, 取得輸入的攻擊  
+      (2)Social Phishing, 社交攻擊（原理和輸入攻擊相似）  
+      (3)Input Capture such as iFrame, 取得輸入的攻擊  
       (4)直接損毀內容的攻擊 (略)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
