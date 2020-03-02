@@ -11,6 +11,10 @@ since 2019/3/03
 
 http://amwiki.org/doc/?file=020-教程学习篇/005-学习markdown/70-Markdwon流程图 (flow chart)
 
+> Foot Note
+
+http://amwiki.org/doc/?file=020-教程学习篇/005-学习markdown/11-Markdwon脚注
+
 # Security Checklist for SE
 since 2019/12/20
 
