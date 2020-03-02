@@ -9,11 +9,11 @@ since 2019/12/20
 
 https://github.com/QueenieCplusplus/DataStorage_Hadoop#安全檢查清單表
 
- Requirement        | check
---------------------|-------
-   admin setup      |     √
-firewall            |     √
-version of system   |     √
+ Requirement        | 
+--------------------|---
+   admin setup      |√
+firewall            |√
+version of system   |√
    anti-virus       |√
   port disable      |√
  monitor & log      |√                
