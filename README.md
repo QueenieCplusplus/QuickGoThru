@@ -376,6 +376,8 @@ since 12/20, 2019
 # 大數據
 since 12/18, 2019
 
+![hadoop](https://aajisaka.github.io/hadoop-document/hadoop-project/hadoop-yarn/hadoop-yarn-site/images/federation_architecture.png)
+
 基礎觀念：
 
 * CAP
