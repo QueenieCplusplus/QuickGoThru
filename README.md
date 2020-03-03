@@ -7,6 +7,8 @@
 # DBA 
 since 2020/3/04 & 3/07
 
+![odbc](https://cdn.simba.com/wp-content/uploads/2019/01/Simba-Facebook-ODBC-JDBC-Driver-Connectivity-diagram.png)
+
 * MySQL
   
 > to be continued...
