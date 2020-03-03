@@ -372,7 +372,7 @@ since 12/20, 2019
 # 大數據
 since 12/18, 2019
 
-![hadoop](https://hadoop.apache.org/docs/r2.8.2/hadoop-yarn/hadoop-yarn-site/yarn_architecture.gif)
+![hadoop](https://d1.awsstatic.com/Projects/Analyze%20Big%20Data/aws-project_analyze-big-data_diagram.a6eac723a050d5841a9656225b73ecdad2da18d8.png)
 
 基礎觀念：
 
