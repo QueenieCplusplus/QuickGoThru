@@ -4,8 +4,21 @@
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
+# DBA 
+since 2020/3/04
+
+> MySQL
+  
+  to be continued...
+
+> PostgreSQL
+
+  to be continued...
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
 # MarkDown (md)
-since 2019/3/03
+since 2020/3/03
 
 > I need this to do UML, good tips hereby
 
