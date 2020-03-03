@@ -7,13 +7,13 @@
 # DBA 
 since 2020/3/04
 
-> MySQL
+* MySQL
   
-  to be continued...
+> to be continued...
 
-> PostgreSQL
+* PostgreSQL
 
-  to be continued...
+> to be continued...
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
