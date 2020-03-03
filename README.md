@@ -372,7 +372,7 @@ since 12/20, 2019
 # 大數據
 since 12/18, 2019
 
-![hadoop](https://aajisaka.github.io/hadoop-document/hadoop-project/hadoop-yarn/hadoop-yarn-site/images/federation_architecture.png)
+![hadoop](https://hadoop.apache.org/docs/r2.8.2/hadoop-yarn/hadoop-yarn-site/yarn_architecture.gif)
 
 基礎觀念：
 
