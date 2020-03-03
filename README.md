@@ -410,6 +410,8 @@ Spark & Hadoop :
 # 程式語言
 since 11/16 & 11/22 & 12/25, 2019
 
+![C](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/87370116_1252513445139439_2151907382710501376_n.jpg?_nc_cat=104&_nc_sid=2d5d41&_nc_ohc=031unZ3In2MAX-RGCyH&_nc_ht=scontent.ftpe8-4.fna&oh=5c69b8ced0ae6e8445bb3640c7455fd1&oe=5E97BEF9)
+
 https://github.com/QueenieCplusplus/1122Try (C in 2019)
 
 https://github.com/QueenieCplusplus/Qs_C (C in 2020)
