@@ -456,6 +456,8 @@ since 11/28 & 1216, 2019
 
 since 2018/3, all repos will be hidden from public
 
+![react_native](https://akkar.media/wp-content/uploads/2018/12/khoa-hoc-lap-trinh-com-phong-van-vi-tri-react-native-6-thang-kinh-nghiem-can-nhung-gi-87676.png)
+
 * UML & Spec
 
      https://github.com/QueenieCplusplus/UML_Spec
