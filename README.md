@@ -279,6 +279,8 @@ since 2019/7 & 2019/12/21
 # 資安研究
 since 2019/, rollback on 2019/12/20
 
+![IT sec](https://media-exp1.licdn.com/dms/image/C510BAQHptd5ZoHVk0A/company-logo_200_200/0?e=2159024400&v=beta&t=6V1ByxsNF7wOgPjXdyDil3GQzK6mUymYUrylRgHFp8Q)
+
 * Authorization & Authentication, 授權與驗證 
 
     - [x] Admin, https://github.com/QueenieCplusplus/DataStorage_Hadoop#4a-角色許可權管理
