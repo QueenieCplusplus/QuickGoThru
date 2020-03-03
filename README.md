@@ -42,17 +42,6 @@ version of system   | √ |
   port disable      | √ |
  monitor & log      | √ |               
 
-# Hacker To Be
-since 2020/3 將研究目標往壓力測試和弱點測試方向中，敬請期待。
-
-![black hat](https://pbs.twimg.com/profile_images/882639407748046849/lc0tYBlW_400x400.jpg)
-
-https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#駭客技術  (Hackers Black Book)
-
-To be continued... (Hacker Bible)
-
-https://github.com/QueenieCplusplus/H5/blob/master/Useful_H5_Syntax/iFrame.pdf (iframe & sandbox)
-
 # Bot Being
 ![bot](https://upload.wikimedia.org/wikipedia/commons/c/c2/Gnome-stock_person_bot.svg)since 2020/1/02 新年紀念版
 
@@ -161,6 +150,8 @@ since 2015 & 2019/12/24
 # 駭客技術 
 since 2018/2 & 2019/12/22
 
+![black hat](https://pbs.twimg.com/profile_images/882639407748046849/lc0tYBlW_400x400.jpg)
+
 一, 利用 CORs 旁繞 SOP 再行 XSS, 網路應用程式的跨域及跨站攻擊
  
    https://github.com/QueenieCplusplus/ITsec_BypassSOP/blob/master/README.md#ie-瀏覽器範例
@@ -174,6 +165,9 @@ since 2018/2 & 2019/12/22
  > (2)Social Phishing, 社交攻擊（原理和輸入攻擊相似） 
  
  > (3)Input Capture such as iFrame, 取得輸入的攻擊 
+ 
+    https://github.com/QueenieCplusplus/H5/blob/master/Useful_H5_Syntax/iFrame.pdf      
+    (iframe & sandbox)
  
  > (4)直接損毀內容的攻擊 (略)
 
