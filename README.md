@@ -273,6 +273,8 @@ since 2019/7 & 2019/12/21
 # 資安研究
 since 2019/, rollback on 2019/12/20
 
+![rsa](https://d1dwq032kyr03c.cloudfront.net/upload/images/20170111/201034346zInPKC8sK.png)
+
 * Authorization & Authentication, 授權與驗證 
 
     - [x] Admin, https://github.com/QueenieCplusplus/DataStorage_Hadoop#4a-角色許可權管理
