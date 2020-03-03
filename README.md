@@ -281,31 +281,27 @@ since 2019/, rollback on 2019/12/20
 
 * Authorization & Authentication, 授權與驗證 
 
-    https://github.com/QueenieCplusplus/DataStorage_Hadoop#4a-角色許可權管理
+    - [x] Admin, https://github.com/QueenieCplusplus/DataStorage_Hadoop#4a-角色許可權管理
 
-    https://github.com/QueenieCplusplus/ITsec_Oauth
+    - [x] Auth, https://github.com/QueenieCplusplus/ITsec_Oauth
     
-    Digital Certificate, 電子憑證(票據)與電子簽章
-    TBD
+    - [ ] Digital Certificate, 電子憑證(票據)與電子簽章
     
-    X.509, 電子憑證的格式
-    TBD
+    - [ ] X.509, 電子憑證的格式
 
 * Cipher & Crypto, 加密
 
-    RSA & SHA, 常見的加密演算法
-    TBD
+    - [ ] RSA & SHA, 常見的加密演算法
     
-    Symmetric & Asymmetric, 對稱與非對稱的加密技術
-    TBD
+    - [ ] Symmetric & Asymmetric, 對稱與非對稱的加密技術
 
-    https://github.com/QueenieCplusplus/DataStorage_Hadoop#key-in-session-加密的安全通訊技術
+    - [x] Session, https://github.com/QueenieCplusplus/DataStorage_Hadoop#key-in-session-加密的安全通訊技術
 
-    https://github.com/QueenieCplusplus/ITsec_Cipher
+    - [x] Cipher, https://github.com/QueenieCplusplus/ITsec_Cipher
     
 * TLS, 傳輸層安全協定
 
-    https://github.com/QueenieCplusplus/ITsec_TLS
+    - [x] SSL, https://github.com/QueenieCplusplus/ITsec_TLS
     
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
