@@ -17,6 +17,10 @@ since 2020/3/04 & 3/07
 
 > to be continued...
 
+* Session
+
+http://einverne.github.io/post/2017/05/sqlalchemy-session.html
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # MarkDown (md)
