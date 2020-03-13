@@ -240,39 +240,6 @@ https://github.com/QueenieCplusplus/ITsec_JSheap
 > (6)Plugin Flaw, 能在瀏覽器外部獨立運作的插件有漏洞時的攻擊
 
 > (7)Browsers Extensions Flaw, 瀏覽器衍生套件有漏洞時的攻擊
-
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-# 搜索引擎
-since 2019/7 & 2019/12/21
-
-* GraphQL 
-
-  https://github.com/QueenieCplusplus/GraphQL/blob/master/README.md
-
-* U.C. Berkerly PostgreSQL (TBD)
-
-  * 大部
-
-  https://github.com/QueenieCplusplus/DBA_SearchEngine （搜索引擎架構）
-  
-  https://github.com/QueenieCplusplus/DBA_QueryOptimization （查詢最佳化)
-  
-  https://github.com/QueenieCplusplus/DBA_QueryPlan （查詢計畫）
-  
-  * 細部
-  
-  https://github.com/QueenieCplusplus/DBA_Entity (查詢實體)
-  
-  https://github.com/QueenieCplusplus/DBA_Logics (查詢邏輯)
-  
-  查詢詞語 (略)
-  
-* Oracle MySQL (Done)
-
-* Redis DB
-
-  https://redisbook.readthedocs.io/en/latest/internal/rdb.html
   
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -310,6 +277,39 @@ since 2019/, rollback on 2019/12/20
 * TLS, 傳輸層安全協定
 
     - [x] SSL, https://github.com/QueenieCplusplus/ITsec_TLS
+    
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+# 搜索引擎
+since 2019/7 & 2019/12/21
+
+* GraphQL 
+
+  https://github.com/QueenieCplusplus/GraphQL/blob/master/README.md
+
+* U.C. Berkerly PostgreSQL (TBD)
+
+  * 大部
+
+  https://github.com/QueenieCplusplus/DBA_SearchEngine （搜索引擎架構）
+  
+  https://github.com/QueenieCplusplus/DBA_QueryOptimization （查詢最佳化)
+  
+  https://github.com/QueenieCplusplus/DBA_QueryPlan （查詢計畫）
+  
+  * 細部
+  
+  https://github.com/QueenieCplusplus/DBA_Entity (查詢實體)
+  
+  https://github.com/QueenieCplusplus/DBA_Logics (查詢邏輯)
+  
+  查詢詞語 (略)
+  
+* Oracle MySQL (Done)
+
+* Redis DB
+
+  https://redisbook.readthedocs.io/en/latest/internal/rdb.html
     
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
