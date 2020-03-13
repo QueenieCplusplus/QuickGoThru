@@ -108,36 +108,6 @@ https://github.com/QueenieCplusplus/Abaper
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# 人工智慧
-since 2018/11 & 2019/10/14-11/11
-
-|    AI Tool   |  Engine  |  Year |
-|--------------|:--------:|------:|
-|  TensorFlow  |  Google  | 2018  |
-|    PyTorch   |  Python  | 2018  |
-|    Matlab    |          | 2019  |
-|     Keras    |  Python  | 2020  |
-
-＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-- [x] Webhook, 呼叫自定義函數後回呼返回另一網站的掛鉤
-
-  https://github.com/QueenieCplusplus/AI_Webhook
-
-- [x] chatBot, 聊天機器人
-
-  https://github.com/QueenieCplusplus/AI_LineChatBot
-
-- [x] Watson, 華生
-
-  https://github.com/QueenieCplusplus/AI_Watson
-
-- [x] Heroku, 發布平台
-
-  https://github.com/QueenieCplusplus/AI_Heroku/blob/master/README.md
-
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
 # 敘述統計
 since 2015 & 2019/12/24
 
@@ -277,7 +247,37 @@ since 2019/, rollback on 2019/12/20
 * TLS, 傳輸層安全協定
 
     - [x] SSL, https://github.com/QueenieCplusplus/ITsec_TLS
-    
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+# 人工智慧
+since 2018/11 & 2019/10/14-11/11
+
+|    AI Tool   |  Engine  |  Year |
+|--------------|:--------:|------:|
+|  TensorFlow  |  Google  | 2018  |
+|    PyTorch   |  Python  | 2018  |
+|    Matlab    |          | 2019  |
+|     Keras    |  Python  | 2020  |
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+- [x] Webhook, 呼叫自定義函數後回呼返回另一網站的掛鉤
+
+  https://github.com/QueenieCplusplus/AI_Webhook
+
+- [x] chatBot, 聊天機器人
+
+  https://github.com/QueenieCplusplus/AI_LineChatBot
+
+- [x] Watson, 華生
+
+  https://github.com/QueenieCplusplus/AI_Watson
+
+- [x] Heroku, 發布平台
+
+  https://github.com/QueenieCplusplus/AI_Heroku/blob/master/README.md
+  
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 搜索引擎
