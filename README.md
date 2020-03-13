@@ -247,7 +247,38 @@ since 2019/, rollback on 2019/12/20
 * TLS, 傳輸層安全協定
 
     - [x] SSL, https://github.com/QueenieCplusplus/ITsec_TLS
+    
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+    
+# 大數據
+since 12/18, 2019
 
+![hadoop](https://d1.awsstatic.com/Projects/Analyze%20Big%20Data/aws-project_analyze-big-data_diagram.a6eac723a050d5841a9656225b73ecdad2da18d8.png)
+
+基礎觀念：
+
+* CAP
+* ACID
+
+涉及資料探勘與資料採擷，攸關基礎設施如存儲系統和程式設計與運算資源調度的彈性機制。
+
+https://github.com/QueenieCplusplus/DataMining_Spark (Spark Tool) 
+
+https://github.com/QueenieCplusplus/DataMining_Cassandra (C＊ DB Engine)
+
+https://github.com/QueenieCplusplus/DataMining_DataScientist (Data Mine)
+
+https://github.com/QueenieCplusplus/DataStorage_Hadoop (Hadoop Storage) 
+
+https://github.com/QueenieCplusplus/DataBase_PostgreSQL (PostgrSQL)
+
+Spark & Hadoop :
+
+* 分散式運算引擎
+* 企業資料匯流排
+* 資料整合與資料流分析
+* 互動式統計分析與即時計算
+* 事件處理與增加 SAS
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 人工智慧
@@ -378,38 +409,6 @@ since 12/20, 2019
 * Linked List, 鏈結串列
 
 * Array, 陣列 (one dimension, two dimentions)
-
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-# 大數據
-since 12/18, 2019
-
-![hadoop](https://d1.awsstatic.com/Projects/Analyze%20Big%20Data/aws-project_analyze-big-data_diagram.a6eac723a050d5841a9656225b73ecdad2da18d8.png)
-
-基礎觀念：
-
-* CAP
-* ACID
-
-涉及資料探勘與資料採擷，攸關基礎設施如存儲系統和程式設計與運算資源調度的彈性機制。
-
-https://github.com/QueenieCplusplus/DataMining_Spark (Spark Tool) 
-
-https://github.com/QueenieCplusplus/DataMining_Cassandra (C＊ DB Engine)
-
-https://github.com/QueenieCplusplus/DataMining_DataScientist (Data Mine)
-
-https://github.com/QueenieCplusplus/DataStorage_Hadoop (Hadoop Storage) 
-
-https://github.com/QueenieCplusplus/DataBase_PostgreSQL (PostgrSQL)
-
-Spark & Hadoop :
-
-* 分散式運算引擎
-* 企業資料匯流排
-* 資料整合與資料流分析
-* 互動式統計分析與即時計算
-* 事件處理與增加 SAS
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
