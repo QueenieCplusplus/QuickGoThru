@@ -82,8 +82,10 @@ https://github.com/QueenieCplusplus/H5 (HTML5)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# 容器管理工具
+# 容器管理工具和瀏覽器平台解讀執行中的程式碼
 since 2020/1/04 quickstart
+
+https://github.com/QueenieCplusplus/Jupyter
 
 https://github.com/QueenieCplusplus/Docker
 
