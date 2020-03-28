@@ -4,7 +4,7 @@
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# 網路基礎建設
+# 網路技術
 since 2020/3/28 ~ 4/10 
 
 https://github.com/QueenieCplusplus/Network_Infra (路由與交換機) 
