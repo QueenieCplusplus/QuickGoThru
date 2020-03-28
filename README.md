@@ -1,6 +1,6 @@
 # QueenieCplusplus/QuickGoThru
 
-本儲存庫繼續保留以往 C++ 語言特色的研究、 Data_Structuture、搜索引擎 Search_Engine 的相關研究著作，現在、未來則以資料擷取 Parser & Extracter 與探勘 Data Mining 和資訊安全 IT Security 與駭客技術 Hack on Browser 為主要研究議題 ！
+本儲存庫繼續保留以往 C++ 語言和 Python 腳本特色的研究、 Data_Structuture 資料結構、搜索引擎 Search_Engine 的相關研究著作，現在、未來則以資料擷取 Parser & Extracter 與探勘 Data Mining 和資訊安全 IT Security 與駭客技術 Hack on Browser 為主要研究議題 ！
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
