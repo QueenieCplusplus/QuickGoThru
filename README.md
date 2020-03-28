@@ -9,6 +9,8 @@ since 2020/3/28 ~ 4/10
 
 https://github.com/QueenieCplusplus/Network_Infra (路由與交換機) 
 
+https://github.com/QueenieCplusplus/Networking (ping & traceroute)
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # DBA 
