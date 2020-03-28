@@ -11,6 +11,8 @@ https://github.com/QueenieCplusplus/Network_Infra (路由與交換機)
 
 https://github.com/QueenieCplusplus/Networking (ping & traceroute)
 
+https://github.com/QueenieCplusplus/Subnet_mask (子網域遮罩技術)
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # DBA 
