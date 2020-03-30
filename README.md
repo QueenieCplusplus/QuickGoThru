@@ -17,6 +17,8 @@ https://github.com/QueenieCplusplus/PPP
 
 https://github.com/QueenieCplusplus/Static_Routing
 
+https://github.com/QueenieCplusplus/RIP (Dynamic Routing)
+
 https://github.com/QueenieCplusplus/Networking (網路觀測技術及網路應用層)
 
 https://github.com/QueenieCplusplus/Subnet_mask (子網域遮罩技術及其運算原理)
