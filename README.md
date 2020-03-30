@@ -15,7 +15,7 @@ https://github.com/QueenieCplusplus/Routing_Strategy (路由策略)
 
 https://github.com/QueenieCplusplus/IGP_n_BGP (自治系統網路架構間的網路設計)
 
-https://github.com/QueenieCplusplus/PPP
+https://github.com/QueenieCplusplus/PPP (Peering 點對點協定)
 
 https://github.com/QueenieCplusplus/Static_Routing (Static Routing, IGP)
 
