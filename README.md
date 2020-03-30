@@ -17,11 +17,11 @@ https://github.com/QueenieCplusplus/IGP_n_BGP (自治系統網路架構間的網
 
 https://github.com/QueenieCplusplus/PPP
 
-https://github.com/QueenieCplusplus/Static_Routing
+https://github.com/QueenieCplusplus/Static_Routing (Static Routing, IGP)
 
-https://github.com/QueenieCplusplus/RIP (Dynamic Routing)
+https://github.com/QueenieCplusplus/RIP (Dynamic Routing, IGP)
 
-https://github.com/QueenieCplusplus/OSPF (Dynamic Routing) 
+https://github.com/QueenieCplusplus/OSPF (Dynamic Routing, IGP) 
 
 https://github.com/QueenieCplusplus/Networking (網路觀測技術及網路應用層)
 
