@@ -5,7 +5,7 @@
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 網路技術
-since 2020/3/28 ~ 4/10 
+since 2020/3/28 ~ 4/01 ~ 4/10 
 
 ![net](https://images.idgesg.net/images/article/2017/08/networking-100733179-large.jpg)
 
