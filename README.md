@@ -17,7 +17,7 @@ https://github.com/QueenieCplusplus/IGP_n_BGP (自治系統網路架構間的網
 
 https://github.com/QueenieCplusplus/PPP (Peering 點對點協定)
 
-https://github.com/QueenieCplusplus/Static_Routing (Static Routing, IGP)
+https://github.com/QueenieCplusplus/Static_Routing (Static Routing)
 
 https://github.com/QueenieCplusplus/RIP (Dynamic Routing, IGP)
 
