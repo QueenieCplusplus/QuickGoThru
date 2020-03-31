@@ -19,9 +19,9 @@ https://github.com/QueenieCplusplus/PPP (Peering 點對點協定)
 
 https://github.com/QueenieCplusplus/Static_Routing (Static Routing)
 
-https://github.com/QueenieCplusplus/RIP (Dynamic Routing, IGP)
+https://github.com/QueenieCplusplus/RIP (Dynamic Routing)
 
-https://github.com/QueenieCplusplus/OSPF (Dynamic Routing, IGP) 
+https://github.com/QueenieCplusplus/OSPF (Dynamic Routing) 
 
 https://github.com/QueenieCplusplus/Networking (網路觀測技術及網路應用層)
 
