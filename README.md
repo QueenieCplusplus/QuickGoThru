@@ -496,6 +496,12 @@ since 11/28 & 1216, 2019
 
 since 2018/3, all repos will be hidden from public
 
+https://www.facebook.com/277134069609204/photos/pcb.556288151693793/556287968360478/?type=3&theater
+
+https://www.facebook.com/277134069609204/photos/pcb.556288151693793/556287978360477/?type=3&theater
+
+https://www.facebook.com/277134069609204/photos/pcb.556288151693793/556287995027142/?type=3&theate
+
 ![react_native](https://akkar.media/wp-content/uploads/2018/12/khoa-hoc-lap-trinh-com-phong-van-vi-tri-react-native-6-thang-kinh-nghiem-can-nhung-gi-87676.png)
 
 * UML & Spec
