@@ -5,7 +5,7 @@
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 網路技術
-since 2020/3/26 - 4/01 (duration: 7 days)
+since 2020/3/27 - 4/06 (duration: 10 days)
 
 ![net](https://images.idgesg.net/images/article/2017/08/networking-100733179-large.jpg)
 
@@ -29,7 +29,21 @@ https://github.com/QueenieCplusplus/Subnet_mask (子網域遮罩技術及其運�
 
 https://github.com/QueenieCplusplus/Band_Width (thruput in Bit & storage in Bytes, and display their conversion in code)
 
-so on...
+(Source_Route)
+
+(Routing Info Field)
+
+(Routers Braodcast)
+
+(ReDistribution)
+
+(Filter Routing Info)
+
+(NAT)
+
+(HSRP)
+
+(Difussing Update Algorithm)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
