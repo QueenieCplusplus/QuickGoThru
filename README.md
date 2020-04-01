@@ -27,7 +27,7 @@ https://github.com/QueenieCplusplus/Networking (網路觀測技術及網路應�
 
 https://github.com/QueenieCplusplus/Subnet_mask (子網域遮罩技術及其運算原理)
 
-(thruput in Bit & storage in Bytes, and display their convesion in code)
+https://github.com/QueenieCplusplus/Band_Width (thruput in Bit & storage in Bytes, and display their convesion in code)
 
 so on...
 
