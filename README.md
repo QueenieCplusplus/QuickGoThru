@@ -5,7 +5,7 @@
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 網路技術
-since 2020/3/26 - 4/01 
+since 2020/3/26 - 4/01 (duration: 7 days)
 
 ![net](https://images.idgesg.net/images/article/2017/08/networking-100733179-large.jpg)
 
