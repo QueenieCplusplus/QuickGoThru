@@ -53,7 +53,9 @@ DSL WAN
 
 VPN
 
-BGP
+ISIS (relative to OSPF)
+
+BGP (on contrast to IGRP)
 
 Routing Protocol Selection Criteria:
 
