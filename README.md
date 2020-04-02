@@ -47,7 +47,19 @@ since 2020/4/02 - 4/06 (duration: 5 days)
 
 ARP
 
-LAN and WAN
+LAN 
+
+WAN Tech:
+
+* dial up
+
+* ISDN
+
+* x.25
+
+* frame relay
+
+* SMDS
 
 DSL WAN https://github.com/QueenieCplusplus/DSL
 
