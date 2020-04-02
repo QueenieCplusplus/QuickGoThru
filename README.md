@@ -53,6 +53,8 @@ DSL WAN
 
 VPN
 
+BGP
+
 Routing Protocol Selection Criteria:
 
 - [X] MTU
@@ -71,7 +73,11 @@ Routing Protocol Selection Criteria:
 
 - [X] Reliability
 
+Network Mgmt Tool:
 
+* SNMP
+
+* CDP
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # DBA 
