@@ -29,13 +29,13 @@ https://github.com/QueenieCplusplus/Subnet_mask (子網域遮罩技術及其運�
 
 https://github.com/QueenieCplusplus/Band_Width (thruput in Bit & storage in Bytes, and display their conversion in code)
 
-https://github.com/QueenieCplusplus/Source_Route (Source_Route)
+https://github.com/QueenieCplusplus/Source_Route_Bridging (Source_Route)
 
 (Routing Info Field)
 
 (Routers Braodcast)
 
-(ReDistribution)
+(Redistribution)
 
 (Filter Routing Info)
 
