@@ -121,15 +121,15 @@ Network Mgmt Tool:
 
 WAN Performance Indicators:
 
-* Data Compression
+- [X] Data Compression
 
-* Window Size
+- [X] Window Size
 
-* Queue
+- [X] Queue
 
-* Shape
+- [X] Shape
 
-* Policy
+- [X] Policy
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
