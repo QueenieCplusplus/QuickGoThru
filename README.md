@@ -75,7 +75,7 @@ VPN
 
 ISIS (relative to OSPF) https://github.com/QueenieCplusplus/IS_IS
 
-BGP (on contrast to IGRP) https://github.com/QueenieCplusplus/IGP_and_BGP
+BGP (on contrast to IGRP) https://github.com/QueenieCplusplus/BGP
 
 Routing Protocol Selection Criteria:
 
