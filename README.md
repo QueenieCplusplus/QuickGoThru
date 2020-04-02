@@ -50,6 +50,33 @@ https://github.com/QueenieCplusplus/RIF (Routing Info Field)
 # CCDA 
 since 2020/4/02 - 4/06 (duration: 5 days)
 
+ARP
+
+LAN and WAN
+
+DSL WAN
+
+VPN
+
+Routing Protocol Selection Criteria:
+
+- [X] MTU
+
+- [X] Routing Loop Prevention
+
+- [X] Hop Count
+
+- [X] Bandwidth 
+
+- [X] Cost
+
+- [X] Load
+
+- [X] Delay
+
+- [X] Reliability
+
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # DBA 
