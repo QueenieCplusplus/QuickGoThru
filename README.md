@@ -47,6 +47,10 @@ since 2020/4/02 - 4/06 (duration: 5 days)
 
 ARP https://github.com/QueenieCplusplus/ARP
 
+DHCP (bypass)
+
+DNS (bypass)
+
 LAN Terminology:
 
 * Ethernet
@@ -71,7 +75,7 @@ WAN Technology:
 
 DSL WAN https://github.com/QueenieCplusplus/DSL
 
-VPN
+VPN (bypass)
 
 ISIS (relative to OSPF) https://github.com/QueenieCplusplus/IS_IS
 
