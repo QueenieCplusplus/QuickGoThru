@@ -47,9 +47,17 @@ since 2020/4/02 - 4/06 (duration: 5 days)
 
 ARP
 
-LAN 
+LAN Terminology:
 
-WAN Tech:
+* Ethernet
+
+* Token Ring
+
+* FDDI
+
+* Wireless
+
+WAN Technology:
 
 * dial up
 
