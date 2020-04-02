@@ -5,7 +5,7 @@
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 網路技術
-since 2020/3/27 - 4/06 (duration: 10 days)
+since 2020/3/27 - 4/02 (duration: 7 days)
 
 ![net](https://images.idgesg.net/images/article/2017/08/networking-100733179-large.jpg)
 
@@ -44,6 +44,11 @@ https://github.com/QueenieCplusplus/RIF (Routing Info Field)
 (HSRP)
 
 (Difussing Update Algorithm)
+
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+# CCDA 
+since 2020/4/02 - 4/06 (duration: 5 days)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
