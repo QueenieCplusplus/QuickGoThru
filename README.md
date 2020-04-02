@@ -101,6 +101,18 @@ Network Mgmt Tool:
 
 * CDP
 
+WAN Performance Indicators:
+
+* Data Compression
+
+* Window Size
+
+* Queue
+
+* Shape
+
+* Policy
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # DBA 
