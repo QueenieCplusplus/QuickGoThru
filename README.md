@@ -51,6 +51,8 @@ DHCP (bypass)
 
 DNS (bypass)
 
+＿＿＿＿＿＿
+
 LAN Terminology:
 
 * Ethernet
@@ -60,6 +62,8 @@ LAN Terminology:
 * FDDI
 
 * Wireless
+
+＿＿＿＿＿＿
 
 WAN Technology:
 
@@ -73,13 +77,19 @@ WAN Technology:
 
 * SMDS
 
+＿＿＿＿＿＿
+
 DSL WAN https://github.com/QueenieCplusplus/DSL
 
 VPN (bypass)
 
+＿＿＿＿＿＿
+
 ISIS (relative to OSPF) https://github.com/QueenieCplusplus/IS_IS
 
 BGP (on contrast to IGRP) https://github.com/QueenieCplusplus/BGP
+
+＿＿＿＿＿＿
 
 Routing Protocol Selection Criteria:
 
@@ -99,11 +109,15 @@ Routing Protocol Selection Criteria:
 
 - [X] Reliability
 
+＿＿＿＿＿＿
+
 Network Mgmt Tool:
 
 * SNMP
 
 * CDP
+
+＿＿＿＿＿＿
 
 WAN Performance Indicators:
 
