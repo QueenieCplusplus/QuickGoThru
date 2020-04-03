@@ -47,7 +47,7 @@ https://github.com/QueenieCplusplus/RIF (Routing Info Field)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-# CCDA 
+# CCDA (Cisco Certified Design Associate 網路架構師專業)
 since 2020/4/02 - 4/06 
 
 ARP for IPv4 https://github.com/QueenieCplusplus/ARP
