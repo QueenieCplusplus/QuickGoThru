@@ -71,7 +71,7 @@ WAN Technology:
 
 * ISDN (Tele Service)
 
-* x.25
+* x.25 https://github.com/QueenieCplusplus/Xdot25
 
 * frame relay (Streamlined Version of X.25)
 
