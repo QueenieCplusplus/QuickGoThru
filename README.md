@@ -73,7 +73,7 @@ WAN Technology:
 
 * x.25
 
-* frame relay
+* frame relay (Streamlined Version of X.25)
 
 * SMDS
 
