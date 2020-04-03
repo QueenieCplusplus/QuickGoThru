@@ -69,7 +69,7 @@ WAN Technology:
 
 * dial up https://github.com/QueenieCplusplus/Dial_UP
 
-* ISDN 
+* ISDN (Tele Service)
 
 * x.25
 
