@@ -34,10 +34,15 @@ https://github.com/QueenieCplusplus/Source_Route_Bridging (Source_Route)
 https://github.com/QueenieCplusplus/RIF (Routing Info Field)
 
 (Routers Braodcast)
+
 (Redistribution)
+
 (Filter Routing Info)
+
 (NAT)
+
 (HSRP)
+
 (Difussing Update Algorithm)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
