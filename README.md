@@ -77,6 +77,8 @@ WAN Technology:
 
 * SMDS (for PDNs, Public Data Network)
 
+* ATM (Async Transfer Mode)
+
 ＿＿＿＿＿＿
 
 DSL WAN https://github.com/QueenieCplusplus/DSL
