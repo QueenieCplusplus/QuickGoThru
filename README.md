@@ -75,7 +75,7 @@ WAN Technology:
 
 * frame relay (Streamlined Version of X.25)
 
-* SMDS
+* SMDS (for PDNs, Public Data Network)
 
 ＿＿＿＿＿＿
 
