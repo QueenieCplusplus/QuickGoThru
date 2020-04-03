@@ -1,6 +1,6 @@
 # QueenieCplusplus/QuickGoThru
 
-本儲存庫繼續保留以往 C++ 高階 oop 語言和 Python 腳本特色、 Data Structuture、Search Engine 的相關研究著作，現在、未來則以資料擷取和嗅探 Parser & Extracter 、 Data Mining 及 IT Security 與 Hack on Browser 為主要研究議題 ！
+本儲存庫繼續保留以往 C++ 高階 oop 語言和 Python 腳本特色、 Data Structuture、Search Engine 的相關研究著作，現在、未來則以資料擷取和嗅探 Parser & Extracter 、 Data Mining 、 AI 、 IT Security & Hack on Browser 為主要研究議題 ！
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -110,7 +110,7 @@ Network Mgmt Tool:
 
 ＿＿＿＿＿＿
 
-Routing Protocol Selection Criteria:
+# Routing Protocol Selection Criteria:
 
 - [X] MTU
 
@@ -129,7 +129,7 @@ Routing Protocol Selection Criteria:
 - [X] Reliability
 ＿＿＿＿＿＿
 
-WAN Performance Indicators:
+# WAN Performance Indicators:
 
 - [X] Data Compression
 
