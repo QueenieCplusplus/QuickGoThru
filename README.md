@@ -5,7 +5,7 @@
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 網路技術
-since 2020/3/27 - 4/02 (duration: 7 days)
+since 2020/3/27 - 4/02 
 
 ![net](https://images.idgesg.net/images/article/2017/08/networking-100733179-large.jpg)
 
@@ -43,7 +43,7 @@ https://github.com/QueenieCplusplus/RIF (Routing Info Field)
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # CCDA 
-since 2020/4/02 - 4/06 (duration: 5 days)
+since 2020/4/02 - 4/06 
 
 ARP https://github.com/QueenieCplusplus/ARP
 
