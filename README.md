@@ -75,7 +75,7 @@ WAN Technology:
 
 * frame relay (Streamlined Version of X.25)
 
-* SMDS (for PDNs, Public Data Network)
+* SMDS (for PDNs, Public Data Network, see IEEE 802.6)
 
 * ATM (Async Transfer Mode)
 
