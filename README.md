@@ -59,7 +59,7 @@ LAN Terminology:
 
 * Token Ring
 
-* FDDI
+* FDDI https://github.com/QueenieCplusplus/FDDI
 
 * Wireless https://github.com/QueenieCplusplus/Wireless_LAN
 
