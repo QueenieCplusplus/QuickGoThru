@@ -52,7 +52,7 @@ since 2020/4/02 - 4/06
 
 ARP for IPv4 https://github.com/QueenieCplusplus/ARP
 
-ICMP for IPv6 https://github.com/QueenieCplusplus/ICMP
+ICMP for IPv6 https://github.com/QueenieCplusplus/ICMP (ND, Neighbour Discovering)
 
 IGMP (Multicast)
 
