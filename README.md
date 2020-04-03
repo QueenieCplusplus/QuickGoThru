@@ -55,9 +55,9 @@ DNS (bypass)
 
 LAN Terminology:
 
-* Ethernet
+* Fast Ethernet
 
-* Token Ring
+* Token Ring (see IEEE 802.5)
 
 * FDDI https://github.com/QueenieCplusplus/FDDI
 
