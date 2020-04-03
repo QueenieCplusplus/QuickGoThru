@@ -67,9 +67,9 @@ LAN Terminology:
 
 WAN Technology:
 
-* dial up
+* dial up https://github.com/QueenieCplusplus/Dial_UP
 
-* ISDN
+* ISDN 
 
 * x.25
 
