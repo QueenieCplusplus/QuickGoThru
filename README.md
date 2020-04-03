@@ -33,15 +33,15 @@ https://github.com/QueenieCplusplus/Source_Route_Bridging (Source_Route)
 
 https://github.com/QueenieCplusplus/RIF (Routing Info Field)
 
+(NAT)
+
+(HSRP)
+
 (Routers Braodcast)
 
 (Redistribution)
 
 (Filter Routing Info)
-
-(NAT)
-
-(HSRP)
 
 (Difussing Update Algorithm)
 
@@ -102,6 +102,14 @@ BGP (on contrast to IGRP) https://github.com/QueenieCplusplus/BGP
 
 ＿＿＿＿＿＿
 
+Network Mgmt Tool:
+
+* SNMP https://github.com/QueenieCplusplus/SNMP
+
+* CDP (only for Cisco)
+
+＿＿＿＿＿＿
+
 Routing Protocol Selection Criteria:
 
 - [X] MTU
@@ -119,15 +127,6 @@ Routing Protocol Selection Criteria:
 - [X] Delay
 
 - [X] Reliability
-
-＿＿＿＿＿＿
-
-Network Mgmt Tool:
-
-* SNMP https://github.com/QueenieCplusplus/SNMP
-
-* CDP (only for Cisco)
-
 ＿＿＿＿＿＿
 
 WAN Performance Indicators:
