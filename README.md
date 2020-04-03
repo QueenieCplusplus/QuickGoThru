@@ -117,7 +117,7 @@ Network Mgmt Tool:
 
 * SNMP https://github.com/QueenieCplusplus/SNMP
 
-* CDP
+* CDP (only for Cisco)
 
 ＿＿＿＿＿＿
 
