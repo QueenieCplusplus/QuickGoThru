@@ -23,9 +23,9 @@ https://github.com/QueenieCplusplus/PPP (Peering 點對點協定)
 
 https://github.com/QueenieCplusplus/Static_Routing (Static Routing)
 
-https://github.com/QueenieCplusplus/RIP (Dynamic Routing, Distance-Vector)
+https://github.com/QueenieCplusplus/RIP (Dynamic Routing, Distance-Vector 距離向量)
 
-https://github.com/QueenieCplusplus/OSPF (Dynamic Routing, LSA) 
+https://github.com/QueenieCplusplus/OSPF (Dynamic Routing, LSA 鏈結狀態通告) 
 
 ＿＿＿＿＿＿
 
@@ -64,6 +64,8 @@ since 2020/4/02 - 4/04
 Assessment https://github.com/QueenieCplusplus/Static_and_Dynamic
 
 Interior and Exterial (private & paublic) https://github.com/QueenieCplusplus/IGP_and_BGP
+
+https://github.com/QueenieCplusplus/Interior_and_Exterior
 
 ＿＿＿＿＿＿
 
