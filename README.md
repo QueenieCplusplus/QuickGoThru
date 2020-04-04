@@ -675,7 +675,7 @@ since 2018/3, all repos will be hidden from public
      
      ![ios](https://scontent.ftpe8-4.fna.fbcdn.net/v/t31.0-8/30167559_148789092632838_6815308864428869549_o.jpg?_nc_cat=104&_nc_sid=daf655&_nc_ohc=GXc3g_gvArwAX8R-u6Z&_nc_ht=scontent.ftpe8-4.fna&oh=0ef00ab2af007eb72b03c6f86d5a1a2d&oe=5EAD2F93)
      
-     ![ios2](https://scontent.ftpe8-4.fna.fbcdn.net/v/t31.0-8/30420050_148789089299505_4083137720800469215_o.jpg?_nc_cat=104&_nc_sid=daf655&_nc_ohc=Zm-1g_MeSHwAX-TAuzs&_nc_ht=scontent.ftpe8-4.fna&oh=7b7755fbcb7a815e8578219cdf415aa9&oe=5EAF7426)
+     ![ios2](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/32169124_161123168066097_1560945235972849664_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=auwxhHonvKsAX91LbIC&_nc_ht=scontent.ftpe8-1.fna&oh=b45f2616629852d3473d6a171886a4d8&oe=5EAD7B80)
 
 * Android 3: katesandroidapp & katesapp2019
 
