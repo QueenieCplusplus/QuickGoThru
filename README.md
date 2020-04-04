@@ -487,6 +487,10 @@ since 2018/11 & 2019/10/14-11/11
 
 - [x] chatBot, 聊天機器人
 
+  ![AI](https://external.ftpe8-2.fna.fbcdn.net/safe_image.php?d=AQAbvPZSvdwJWFM8&w=540&h=282&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh0WPJqd78Qg%2Fhqdefault.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQDA1N5O8yMqy1He)
+  
+  plz click on this url: https://www.youtube.com/watch?v=h0WPJqd78Qg&feature=youtu.be&fbclid=IwAR3vyXC6PN0tDHxNB-2T7Tu6IS6Xs_aDFkqQviJjY4F0d4L7geMGykGe2gY
+
   https://github.com/QueenieCplusplus/AI_LineChatBot
 
 - [x] Watson, 華生
