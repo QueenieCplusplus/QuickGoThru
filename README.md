@@ -603,7 +603,7 @@ since 12/20, 2019
 # 程式語言
 since 11/16 & 11/22 & 12/25, 2019
 
-![C](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/46499002_277135316275746_6852937246404771840_o.png?_nc_cat=111&_nc_sid=dd9801&_nc_ohc=EIHTNLFf74sAX9v9m-K&_nc_ht=scontent.ftpe8-3.fna&oh=65c1987f940a95125fab594403a71f48&oe=5EACFB23)
+![C++](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/76194400_1161384307585687_7259639227355234304_o.jpg?_nc_cat=102&_nc_sid=2d5d41&_nc_ohc=A7XJCvyj97EAX-LTQdO&_nc_ht=scontent.ftpe8-4.fna&oh=b1b4c93808a384805470a959ba3055a8&oe=5EAC935E)
 
 https://github.com/QueenieCplusplus/1122Try (C in 2019)
 
@@ -625,6 +625,9 @@ Java (略) since 2018/5 & 2019/8
 
 # 腳本語言
 since 2019/8, rollback on 2019/12/20
+
+
+![C](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/46499002_277135316275746_6852937246404771840_o.png?_nc_cat=111&_nc_sid=dd9801&_nc_ohc=EIHTNLFf74sAX9v9m-K&_nc_ht=scontent.ftpe8-3.fna&oh=65c1987f940a95125fab594403a71f48&oe=5EACFB23)
 
 ![hackathon](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/83770021_129921168497720_8167972678146195456_o.jpg?_nc_cat=107&_nc_sid=05277f&_nc_ohc=Iu-YBELZ9y8AX8tbImW&_nc_ht=scontent.ftpe8-3.fna&oh=ab465bbe129e1211948ef9d6bf130757&oe=5EACE2E8)
 
