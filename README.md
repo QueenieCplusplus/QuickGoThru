@@ -9,18 +9,18 @@ since 2020/3/2 - 4/03
 
 ![net](https://images.idgesg.net/images/article/2017/08/networking-100733179-large.jpg)
 
-Routing Protocols
-       |
-       |-----  Private to Interior Network ------|
-       |                                         |------ Distance-vector -- RIP
-       |                                         |                       -- IGRP
-       |                                         |                       -- EIGRP
-       |                                         |------ LSA |-------------- OSPF
-       |                                                     |-------------- IS-IS
-       |
-       |
-       |-----  Public to Exterior Network |------ EGP
-                                          |------ BGP
+              Routing Protocols
+                     |
+                     |-----  Private to Interior Network ------|
+                     |                                         |------ Distance-vector -- RIP
+                     |                                         |                       -- IGRP
+                     |                                         |                       -- EIGRP
+                     |                                         |------ LSA |-------------- OSPF
+                     |                                                     |-------------- IS-IS
+                     |
+                     |
+                     |-----  Public to Exterior Network |------ EGP
+                                                        |------ BGP
 
 ＿＿＿＿＿＿
 
