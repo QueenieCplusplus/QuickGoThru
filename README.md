@@ -86,9 +86,9 @@ ARP for IPv4 https://github.com/QueenieCplusplus/ARP
 
 ICMP for IPv6 https://github.com/QueenieCplusplus/ICMP (ND, Neighbour Discovering)
 
-ND (Network Discover, Router Solicitation & Advertisement) https://github.com/QueenieCplusplus/ND
+ND for IPv6 (Network Discover, Router Solicitation & Advertisement) https://github.com/QueenieCplusplus/ND
 
-IGMP (Multicast)
+IGMP for IPv6 (Multicast)
 
 DHCP (bypass)
 
