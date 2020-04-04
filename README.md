@@ -659,8 +659,6 @@ since 2018/3, all repos will be hidden from public
 
 ![C](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/46499002_277135316275746_6852937246404771840_o.png?_nc_cat=111&_nc_sid=dd9801&_nc_ohc=EIHTNLFf74sAX9v9m-K&_nc_ht=scontent.ftpe8-3.fna&oh=65c1987f940a95125fab594403a71f48&oe=5EACFB23)
 
-![myandroid](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/91398353_556287971693811_2258677452190515200_n.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=GSlq76-Y-xwAX8tzwkk&_nc_ht=scontent.ftpe8-2.fna&oh=d9b968960ee96a4086fe6106c7e418b2&oe=5EAE88E6)
-
 ![myios](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/91160543_556288008360474_5139629866672455680_n.jpg?_nc_cat=111&_nc_sid=110474&_nc_ohc=-bZKzU09FrcAX9yqu-P&_nc_ht=scontent.ftpe8-3.fna&oh=69484c6da9289a1da94d287d6fca70fd&oe=5EAE7E5D)
 
 ![react_native](https://akkar.media/wp-content/uploads/2018/12/khoa-hoc-lap-trinh-com-phong-van-vi-tri-react-native-6-thang-kinh-nghiem-can-nhung-gi-87676.png)
@@ -682,6 +680,8 @@ since 2018/3, all repos will be hidden from public
      https://developer.android.com/about/versions/10 （Android 開發者官網）
      
      ![pokemon](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/33141809_168523297326084_8569444557161234432_o.jpg?_nc_cat=100&_nc_sid=daf655&_nc_ohc=qZndPQuVmXUAX8pPJc2&_nc_ht=scontent.ftpe8-2.fna&oh=7d7fe38bf25d12d2dbfd590a5d85bf81&oe=5EAE5831)
+     
+     ![myandroid](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/91398353_556287971693811_2258677452190515200_n.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=GSlq76-Y-xwAX8tzwkk&_nc_ht=scontent.ftpe8-2.fna&oh=d9b968960ee96a4086fe6106c7e418b2&oe=5EAE88E6)
 
 * React Native : redpint819
 
