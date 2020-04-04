@@ -32,7 +32,7 @@ https://github.com/QueenieCplusplus/Network_Infra (路由與交換機)
 
 https://github.com/QueenieCplusplus/Routing_Strategy (路由策略)
 
-https://github.com/QueenieCplusplus/PPP (Peering 點對點協定)
+https://github.com/QueenieCplusplus/PPP (點對點協定)
 
 https://github.com/QueenieCplusplus/Static_Routing (Static Routing)
 
