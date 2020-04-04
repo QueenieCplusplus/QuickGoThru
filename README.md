@@ -655,11 +655,7 @@ since 11/28 & 1216, 2019
 
 since 2018/3, all repos will be hidden from public
 
-https://www.facebook.com/277134069609204/photos/pcb.556288151693793/556287968360478/?type=3&theater
-
-https://www.facebook.com/277134069609204/photos/pcb.556288151693793/556287978360477/?type=3&theater
-
-https://www.facebook.com/277134069609204/photos/pcb.556288151693793/556287995027142/?type=3&theate
+![myapp](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/91398353_556287971693811_2258677452190515200_n.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=GSlq76-Y-xwAX8tzwkk&_nc_ht=scontent.ftpe8-2.fna&oh=d9b968960ee96a4086fe6106c7e418b2&oe=5EAE88E6)
 
 ![react_native](https://akkar.media/wp-content/uploads/2018/12/khoa-hoc-lap-trinh-com-phong-van-vi-tri-react-native-6-thang-kinh-nghiem-can-nhung-gi-87676.png)
 
