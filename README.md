@@ -685,7 +685,7 @@ since 2018/3, all repos will be hidden from public
 
 since 2018/6, all repos will be hidden from public
 
-![GCP](https://blog.gcp.expert/material/2016/11/1117_API.png)
+![GCP](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/48389805_900814930309294_4733238699620302848_n.png?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=tV5F4PeHOMUAX-X6gw8&_nc_ht=scontent.ftpe8-1.fna&oh=5cbc5dbc9c43e1a92a3d0d138bd0f8fd&oe=5EAED3DB)
 
 * BaaS : quinoaPy
 
