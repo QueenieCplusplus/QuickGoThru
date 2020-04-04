@@ -260,7 +260,7 @@ since 2020/2/29 quickstart
 
 ![ui ux](https://cdn-images-1.medium.com/max/800/0*OxJ33oI1G8Z1WV1f.png)
 
-![front end](https://freelancermap.s3.eu-west-1.amazonaws.com/channel_incl2/what-does-a-front-end-developer-do----career-insights-4940.jpg)
+![front end](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/49714036_338771176967961_5749859859470221312_o.jpg?_nc_cat=101&_nc_sid=8024bb&_nc_ohc=tBb_sHdb0sgAX9D3eZw&_nc_ht=scontent.ftpe8-2.fna&oh=675033235dd6794a4a60dced0811b4aa&oe=5EAC5B0C)
 
 https://github.com/QueenieCplusplus/React (React)
 
