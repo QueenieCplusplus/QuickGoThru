@@ -193,7 +193,7 @@ Network Mgmt Tool:
 # DBA 
 since 2020/3/04 & 3/07
 
-![odbc](https://cdn.simba.com/wp-content/uploads/2019/01/Simba-Facebook-ODBC-JDBC-Driver-Connectivity-diagram.png)
+![odbc](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/46682128_2730379330309191_2557865780267974656_o.jpg?_nc_cat=104&_nc_sid=dd9801&_nc_ohc=69tWO55x8FoAX8j5GPs&_nc_ht=scontent.ftpe8-4.fna&oh=8da4bae87486f36d8e8165900338462a&oe=5EAE6BC9)
 
 * MySQL
   
