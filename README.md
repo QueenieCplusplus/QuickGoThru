@@ -655,7 +655,9 @@ since 11/28 & 1216, 2019
 
 since 2018/3, all repos will be hidden from public
 
-![myapp](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/91398353_556287971693811_2258677452190515200_n.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=GSlq76-Y-xwAX8tzwkk&_nc_ht=scontent.ftpe8-2.fna&oh=d9b968960ee96a4086fe6106c7e418b2&oe=5EAE88E6)
+![myandroid](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/91398353_556287971693811_2258677452190515200_n.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=GSlq76-Y-xwAX8tzwkk&_nc_ht=scontent.ftpe8-2.fna&oh=d9b968960ee96a4086fe6106c7e418b2&oe=5EAE88E6)
+
+![myios](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/91160543_556288008360474_5139629866672455680_n.jpg?_nc_cat=111&_nc_sid=110474&_nc_ohc=-bZKzU09FrcAX9yqu-P&_nc_ht=scontent.ftpe8-3.fna&oh=69484c6da9289a1da94d287d6fca70fd&oe=5EAE7E5D)
 
 ![react_native](https://akkar.media/wp-content/uploads/2018/12/khoa-hoc-lap-trinh-com-phong-van-vi-tri-react-native-6-thang-kinh-nghiem-can-nhung-gi-87676.png)
 
