@@ -676,6 +676,8 @@ since 2018/3, all repos will be hidden from public
 * Android 3: katesandroidapp & katesapp2019
 
      https://developer.android.com/about/versions/10 （Android 開發者官網）
+     
+     ![pokemon](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/33141809_168523297326084_8569444557161234432_o.jpg?_nc_cat=100&_nc_sid=daf655&_nc_ohc=qZndPQuVmXUAX8pPJc2&_nc_ht=scontent.ftpe8-2.fna&oh=7d7fe38bf25d12d2dbfd590a5d85bf81&oe=5EAE5831)
 
 * React Native : redpint819
 
