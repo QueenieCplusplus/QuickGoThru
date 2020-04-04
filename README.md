@@ -53,6 +53,8 @@ since 2020/4/02 - 4/04
 
 Assessment https://github.com/QueenieCplusplus/Static_and_Dynamic
 
+Interior and Exterial (private & paublic)
+
 ＿＿＿＿＿＿
 
 ARP for IPv4 https://github.com/QueenieCplusplus/ARP
