@@ -63,7 +63,7 @@ since 2020/4/02 - 4/04
 
 Assessment https://github.com/QueenieCplusplus/Static_and_Dynamic
 
-Interior and Exterial (private & paublic)
+Interior and Exterial (private & paublic) https://github.com/QueenieCplusplus/IGP_and_BGP
 
 ＿＿＿＿＿＿
 
