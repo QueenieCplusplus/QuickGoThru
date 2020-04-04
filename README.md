@@ -630,6 +630,8 @@ https://github.com/QueenieCplusplus/Ruby_Cart 電商常用購物車 (ruby: Rail 
 
 https://github.com/QueenieCplusplus/Perl (perl)
 
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#perl-again (perl again)
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 電腦科學
