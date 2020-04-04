@@ -9,6 +9,8 @@ since 2020/4/04 - 4/12
 
 https://github.com/QueenieCplusplus/Perl_Again
 
+![perlagain](https://www.gotop.com.tw/waweb2004/WawebImages/BookLL/A500.jpg)
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 網路拓樸技術
