@@ -7,7 +7,7 @@
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # Perl Again
-since 2020/4/04 - 4/13 (10 days)
+since 2020/4/04 - 4/11 (8 days)
 
 https://github.com/QueenieCplusplus/Perl_Again
 
