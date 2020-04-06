@@ -2,10 +2,15 @@
 
 本儲存庫繼續保留以往 C++ 高階 OOP 語言和 Python 腳本之特色，其他包含 Data Structure、Search Engine 的相關研究著作，現在議題包羅了 IT Security & Hack on Browser 和資料擷取和嗅探 Parser & Extracter 、 Data Mining，未來將研究 AI & ARM (人工智慧與韌體程式邏輯)！
 
+# C Again
+since 2020/4/07 - 4/~
+
+![linux_sys_program](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/92228449_4150166321663811_8556874175728320512_o.jpg?_nc_cat=101&_nc_sid=2d5d41&_nc_ohc=I-y87Xkp9e8AX9q8KLN&_nc_ht=scontent.ftpe8-2.fna&oh=0ce0edfcf0ce397c374a383fce4c5e67&oe=5EAF4D40)
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # Perl Again
-since 2020/4/04 - 4/06, 09, 10 (5 days)
+since 2020/4/04 - 4/06
 
 https://github.com/QueenieCplusplus/Perl_Again
 
