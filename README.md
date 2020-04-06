@@ -616,6 +616,8 @@ https://github.com/QueenieCplusplus/1122Try (C in 2019)
 
 https://github.com/QueenieCplusplus/Qs_C (C in 2020)
 
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#c-again (C for System Program)
+
 https://github.com/QueenieCplusplus/Cplusplus (C++)
     
 https://github.com/QueenieCplusplus/Golang (Golang 還原)
