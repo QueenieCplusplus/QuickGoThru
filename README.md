@@ -7,6 +7,8 @@
 # System Security (SSCP)
 since 2020/4/13 - 4/17
 
+![sscp](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/93308664_154086846081152_7897672463310389248_o.jpg?_nc_cat=103&_nc_sid=8024bb&_nc_ohc=quXC3I7Ue1sAX_T6QoC&_nc_ht=scontent.ftpe8-2.fna&oh=258bc5a665e99e0738a102e00681c6f9&oe=5EB7A3CC)
+
 https://github.com/QueenieCplusplus/SSCP
 
 
