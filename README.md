@@ -241,6 +241,8 @@ since 2019/12/20
 
 https://github.com/QueenieCplusplus/DataStorage_Hadoop#安全檢查清單表
 
+https://github.com/QueenieCplusplus/SSCP_Network/blob/master/README.md#phisical-layer
+
  Requirement        |   |
 --------------------|---|
    admin setup      | √ |
