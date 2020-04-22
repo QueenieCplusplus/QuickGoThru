@@ -683,7 +683,9 @@ https://developer.apple.com/swift/ Swift4官方網站 since 2018/3
 
 https://kotlinlang.org Kotlin官方網站 since 2018/10 & 2019/5
 
-Java (略) since 2018/5 & 2019/8
+Java (since 2018/5 & 2019/8)
+
+https://gist.github.com/PattyAppier?fbclid=IwAR1DdgxMcrm2HJJBTpjEQkti94GkYRK1i039JQy8rX89iNoeYlxid0ORRlI (Android)
    
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -728,6 +730,8 @@ Sandbox https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#sa
 VM https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#vm-虛擬機
 
 VM https://github.com/QueenieCplusplus/VM/blob/master/README.md#vm
+
+codebase(2018) https://gist.github.com/PattyAppier?fbclid=IwAR1DdgxMcrm2HJJBTpjEQkti94GkYRK1i039JQy8rX89iNoeYlxid0ORRlI
 
 ![C](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/46499002_277135316275746_6852937246404771840_o.png?_nc_cat=111&_nc_sid=dd9801&_nc_ohc=EIHTNLFf74sAX9v9m-K&_nc_ht=scontent.ftpe8-3.fna&oh=65c1987f940a95125fab594403a71f48&oe=5EACFB23)
 
@@ -774,6 +778,8 @@ since 2018/6, all repos will be hidden from public
   https://github.com/QueenieCplusplus/BaaS （唯一還原的資源）
 
 * iCloud : pattyluvapp
+
+https://gist.github.com/PattyAppier?fbclid=IwAR1DdgxMcrm2HJJBTpjEQkti94GkYRK1i039JQy8rX89iNoeYlxid0ORRlI
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
