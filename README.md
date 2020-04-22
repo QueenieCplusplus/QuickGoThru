@@ -413,6 +413,8 @@ since 2018/2 & 2019/12/22
 > (1)Finger Printing (http header, DOM), 指紋取樣
       
   其實技術術語中的指紋取樣的意思是取得平台版本。
+  
+  https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#attack-in-sys-level
  
 > (2)bypass SOP using CORs (cookies, http header, path traversal), 繞過同源限制
 
