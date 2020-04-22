@@ -372,7 +372,7 @@ since 2018/2 & 2019/12/22
 > (3)DOS, 癱瘓伺服器
   
 > (4)RCE, 遠端命令執行 
-     TBD
+  https://github.com/QueenieCplusplus/SSCP_Network#layer-6-presentation-layer-表現層
  
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -432,6 +432,8 @@ https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#attack-in-
 
 
 > (5)Metasploit & shell
+
+   https://github.com/QueenieCplusplus/SSCP_Network#layer-6-presentation-layer-表現層
 
 > (6)Plugin Flaw, 能在瀏覽器外部獨立運作的插件有漏洞時的攻擊
 
