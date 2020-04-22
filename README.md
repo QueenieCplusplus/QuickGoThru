@@ -346,6 +346,8 @@ since 2018/2 & 2019/12/22
 
  > (1)Cookies & Session ID, 會話識別符取得隱私的攻擊 
  
+ https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/getSessionOrCookie.js
+ 
  > (2)Social Phishing, 社交攻擊（原理和輸入攻擊相似） 
  
  > (3)Input Capture such as iFrame, 取得輸入的攻擊 
