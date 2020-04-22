@@ -460,7 +460,7 @@ since 2019/, rollback on 2019/12/20
 
     - [x] Auth, https://github.com/QueenieCplusplus/ITsec_Oauth
     
-    - [] Digital Certificate & Digital Signature, 電子憑證(票據)與電子簽章
+    - [x] Digital Certificate & Digital Signature, 電子憑證(票據)與電子簽章
       https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#digital-signature-aka-code-sign
     
     - [ ] X.509, 電子憑證的格式
