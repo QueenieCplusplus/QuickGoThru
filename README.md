@@ -243,6 +243,8 @@ https://github.com/QueenieCplusplus/DataStorage_Hadoop#安全檢查清單表
 
 https://github.com/QueenieCplusplus/SSCP_Network/blob/master/README.md#phisical-layer
 
+https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#checklist-for-system
+
  Requirement        |   |
 --------------------|---|
    admin setup      | √ |
