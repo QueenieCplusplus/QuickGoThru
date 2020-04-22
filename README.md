@@ -342,7 +342,7 @@ since 2018/2 & 2019/12/22
   
 * On Users Behalf, 最嚴重的攻擊->針對使用者未知情況下的攻擊
 
-  https://github.com/QueenieCplusplus/ITsec_UsersBehalf
+  https://github.com/QueenieCplusplus/ITsec_UsersBehalf (總覽)
 
  > (1)Cookies & Session ID, 會話識別符取得隱私的攻擊 
  
@@ -350,10 +350,11 @@ since 2018/2 & 2019/12/22
  
  > (2)Social Phishing, 社交攻擊（原理和輸入攻擊相似） 
  
+ https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/Phishing.js
+ 
  > (3)Input Capture such as iFrame, 取得輸入的攻擊 
  
   https://github.com/QueenieCplusplus/H5/blob/master/Useful_H5_Syntax/iFrame.pdf      
-    (iframe & sandbox)
  
  > (4)直接損毀內容的攻擊 (略)
  
@@ -380,6 +381,7 @@ since 2018/2 & 2019/12/22
 > (3)DOS, 癱瘓伺服器
   
 > (4)RCE, 遠端命令執行 
+
   https://github.com/QueenieCplusplus/SSCP_Network#layer-6-presentation-layer-表現層
  
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
@@ -422,7 +424,7 @@ since 2018/2 & 2019/12/22
       
   其實技術術語中的指紋取樣的意思是取得平台版本。
   
-  https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#attack-in-sys-level
+https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#attack-in-sys-level
  
 > (2)bypass SOP using CORs (cookies, http header, path traversal), 繞過同源限制
 
@@ -447,7 +449,9 @@ https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#attack-in-
 
 > (6)Plugin Flaw, 能在瀏覽器外部獨立運作的插件有漏洞時的攻擊
 
+
 > (7)Browsers Extensions Flaw, 瀏覽器衍生套件有漏洞時的攻擊
+
   
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
