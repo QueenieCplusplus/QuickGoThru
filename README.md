@@ -428,6 +428,8 @@ https://github.com/QueenieCplusplus/ITsec_BeastCrime
 
 https://github.com/QueenieCplusplus/ITsec_JSheap
 
+https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#attack-in-sys-level
+
 
 > (5)Metasploit & shell
 
