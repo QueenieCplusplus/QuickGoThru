@@ -347,19 +347,25 @@ since 2018/2 & 2019/12/22
   
 * On Users Behalf, 最嚴重的攻擊->針對使用者未知情況下的攻擊
 
-  https://github.com/QueenieCplusplus/ITsec_UsersBehalf (總覽)
+   https://github.com/QueenieCplusplus/ITsec_UsersBehalf (總覽)
 
  > (1)Cookies & Session ID, 會話識別符取得隱私的攻擊 
  
- https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/getSessionOrCookie.js
+    https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/getSessionOrCookie.js
+ 
+  https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/README.md#owasp-top-10-open-web-app-security-project
  
  > (2)Social Phishing, 社交攻擊（原理和輸入攻擊相似） 
  
- https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/Phishing.js
+   https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/Phishing.js
+ 
+   https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/README.md#owasp-top-10-open-web-app-security-project
  
  > (3)Input Capture such as iFrame, 取得輸入的攻擊 
  
-  https://github.com/QueenieCplusplus/H5/blob/master/Useful_H5_Syntax/iFrame.pdf      
+   https://github.com/QueenieCplusplus/H5/blob/master/Useful_H5_Syntax/iFrame.pdf
+  
+   https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/README.md#owasp-top-10-open-web-app-security-project
  
  > (4)直接損毀內容的攻擊 (略)
  
@@ -375,19 +381,23 @@ since 2018/2 & 2019/12/22
 
 > (1)SQL Injection, 資料庫注入惡意代碼
   
-  https://github.com/QueenieCplusplus/ITsec_SQLinjection
+   https://github.com/QueenieCplusplus/ITsec_SQLinjection
+  
+   https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/README.md#owasp-top-10-open-web-app-security-project
      
      solution => PreparedStatement, or SQL query with default Type Param.
   
 > (2)CSRF 或稱 XSRF (再行密碼重置)
   
-  https://owasp.org/www-community/attacks/csrf
+   https://owasp.org/www-community/attacks/csrf
+  
+   https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/README.md#owasp-top-10-open-web-app-security-project
   
 > (3)DOS, 癱瘓伺服器
   
 > (4)RCE, 遠端命令執行 
 
-  https://github.com/QueenieCplusplus/SSCP_Network#layer-6-presentation-layer-表現層
+   https://github.com/QueenieCplusplus/SSCP_Network#layer-6-presentation-layer-表現層
  
 ＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -429,23 +439,25 @@ since 2018/2 & 2019/12/22
       
   其實技術術語中的指紋取樣的意思是取得平台版本。
   
-https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#attack-in-sys-level
+   https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#attack-in-sys-level
  
 > (2)bypass SOP using CORs (cookies, http header, path traversal), 繞過同源限制
 
-https://github.com/QueenieCplusplus/ITsec_BypassSOP
+   https://github.com/QueenieCplusplus/ITsec_BypassSOP
 
  
 > (3)attack SSL, 利用安全通訊協定的弱點加以攻擊之
 
-https://github.com/QueenieCplusplus/ITsec_BeastCrime
+   https://github.com/QueenieCplusplus/ITsec_BeastCrime
+
+   https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/README.md#owasp-top-10-open-web-app-security-project
 
  
 > (4)JS & heap, 堆積洞孔導致記憶體外洩
 
-https://github.com/QueenieCplusplus/ITsec_JSheap
+   https://github.com/QueenieCplusplus/ITsec_JSheap
 
-https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#attack-in-sys-level
+   https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#attack-in-sys-level
 
 
 > (5)Metasploit & shell
@@ -457,7 +469,6 @@ https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#attack-in-
 
 > (7)Browsers Extensions Flaw, 瀏覽器衍生套件有漏洞時的攻擊
 
-  
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 資安研究
@@ -472,7 +483,7 @@ since 2019/, rollback on 2019/12/20
     - [x] Auth, https://github.com/QueenieCplusplus/ITsec_Oauth
     
     - [x] Digital Certificate & Digital Signature, 電子憑證(票據)與電子簽章
-      https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#digital-signature-aka-code-sign
+          https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#digital-signature-aka-code-sign
     
     - [ ] X.509, 電子憑證的格式
     
