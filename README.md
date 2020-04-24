@@ -790,6 +790,8 @@ since 2018/6, all repos will be hidden from public
 * BaaS : quinoaPy
 
   https://github.com/QueenieCplusplus/BaaS （唯一還原的資源）
+  
+ https://github.com/QueenieCplusplus/SSCP_CloudSecurity/blob/master/README.md#clouds-platform-雲端服務平台 (PaaS)
 
 * iCloud : pattyluvapp
 
