@@ -143,14 +143,10 @@ Layer 2 see https://github.com/QueenieCplusplus/CCNP_DataLink
 * Fast Ethernet
 
 * Token Ring (see IEEE 802.5)
+ 
+* FDDI https://github.com/QueenieCplusplus/FDDI (Optical Fiber)
 
-＿＿＿＿＿＿
-
-LAN Terminology:
-
-* FDDI https://github.com/QueenieCplusplus/FDDI
-
-* Wireless https://github.com/QueenieCplusplus/Wireless_LAN
+* Wireless https://github.com/QueenieCplusplus/Wireless_LAN (AP)
 
 ＿＿＿＿＿＿
 
