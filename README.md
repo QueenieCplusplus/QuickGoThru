@@ -138,7 +138,7 @@ DNS (bypass)
 
 LAN Terminology:
 
-Layer 2 see 
+Layer 2 see https://github.com/QueenieCplusplus/CCNP_DataLink
 
 * Fast Ethernet
 
