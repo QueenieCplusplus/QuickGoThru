@@ -138,9 +138,15 @@ DNS (bypass)
 
 LAN Terminology:
 
+Layer 2 see 
+
 * Fast Ethernet
 
 * Token Ring (see IEEE 802.5)
+
+＿＿＿＿＿＿
+
+LAN Terminology:
 
 * FDDI https://github.com/QueenieCplusplus/FDDI
 
