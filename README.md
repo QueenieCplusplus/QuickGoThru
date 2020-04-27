@@ -150,17 +150,19 @@ LAN Terminology:
 
 WAN Technology:
 
-* dial up https://github.com/QueenieCplusplus/Dial_UP
+DDR, Dial-On Demand Routing
 
 * ISDN (Tele Service)
 
+* dial up https://github.com/QueenieCplusplus/Dial_UP (PPP)
+
 * x.25 https://github.com/QueenieCplusplus/Xdot25
 
-* frame relay (Streamlined Version of X.25)
+frame relay (Streamlined Version of X.25)
 
-* SMDS (for PDNs, Public Data Network, see IEEE 802.6)
+SMDS (for PDNs, Public Data Network, see IEEE 802.6)
 
-* ATM (Async Transfer Mode)
+ATM (Async Transfer Mode)
 
 ＿＿＿＿＿＿
 
