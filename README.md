@@ -216,7 +216,9 @@ Network Mgmt Tool:
 - [X] Delay
 
 - [X] Reliability
+
 ＿＿＿＿＿＿
+
 
 # WAN Performance Indicators:
 
