@@ -5,7 +5,7 @@
 ![kernels](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/92057070_4153295244684252_4015601745232134144_o.jpg?_nc_cat=102&_nc_sid=2d5d41&_nc_ohc=Ysv86wkyPncAX-zxlqN&_nc_ht=scontent.ftpe8-4.fna&oh=e959864002d891a9e194b16337e3d8ac&oe=5EB037F0)
 
 # CCNP (OSI Layer 2-3)
-since 2020/4/27 - 5/04
+since 2020/4/27, 28
 
 
                           CORE
@@ -23,6 +23,7 @@ Layer 2 https://github.com/QueenieCplusplus/CCNP_DataLink
 EIGRP for routing tables integration amongs routers and sw https://github.com/QueenieCplusplus/CCNP_EIGRP
 
 OSPF (forward packets amongst AS)
+https://github.com/QueenieCplusplus/CCNP_OSPF
 
 # VM (Hyper-V||VMware)
 since 2020/4/22, 23 
