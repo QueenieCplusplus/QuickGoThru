@@ -85,6 +85,8 @@ https://github.com/QueenieCplusplus/RIF (Routing Table's Field)
      * https://github.com/QueenieCplusplus/Static_Routing (Static Routing)
 
      * https://github.com/QueenieCplusplus/RIP (Dynamic Routing, Distance-Vector 距離向量)
+     
+          * https://github.com/QueenieCplusplus/HSRP (HSRP)
 
      * https://github.com/QueenieCplusplus/OSPF (Dynamic Routing, LSA 鏈結狀態通告) 
 
@@ -118,9 +120,6 @@ https://github.com/QueenieCplusplus/Source_Route_Bridging (Source_Route)
 
 ＿＿＿＿＿＿
 
-First Hop Redundancy Protocol:
-
-https://github.com/QueenieCplusplus/HSRP (HSRP)
 
 ＿＿＿＿＿＿
 
