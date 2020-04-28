@@ -92,6 +92,8 @@ https://github.com/QueenieCplusplus/PPP (點對點協定)
 
    NAT, 網路位置轉換（演算法）
    
+   https://github.com/QueenieCplusplus/NAT (NAT)
+   
 ＿＿＿＿＿＿
 
 https://github.com/QueenieCplusplus/Networking (網路觀測技術及網路應用層)
@@ -105,8 +107,6 @@ https://github.com/QueenieCplusplus/Source_Route_Bridging (Source_Route)
 https://github.com/QueenieCplusplus/RIF (Routing Info Field)
 
 ＿＿＿＿＿＿
-
-https://github.com/QueenieCplusplus/NAT (NAT)
 
 https://github.com/QueenieCplusplus/HSRP (HSRP)
 
