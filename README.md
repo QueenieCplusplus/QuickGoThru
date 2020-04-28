@@ -20,6 +20,9 @@ since 2020/4/27 - 5/04
 
 Layer 2 https://github.com/QueenieCplusplus/CCNP_DataLink
 
+EIGRP
+
+OSPF 
 
 # VM (Hyper-V||VMware)
 since 2020/4/22, 23 
