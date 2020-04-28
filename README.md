@@ -72,21 +72,23 @@ https://github.com/QueenieCplusplus/Routing_Strategy (路由策略)
 
 https://github.com/QueenieCplusplus/PPP (點對點協定)
 
-Private IP
+＿＿＿＿＿＿
 
-   Static IP, 靜態邏輯位置設定
+* Private IP
 
-   https://github.com/QueenieCplusplus/Static_Routing (Static Routing)
+   * Static IP, 靜態邏輯位置設定
 
-   https://github.com/QueenieCplusplus/RIP (Dynamic Routing, Distance-Vector 距離向量)
+     * https://github.com/QueenieCplusplus/Static_Routing (Static Routing)
 
-   https://github.com/QueenieCplusplus/OSPF (Dynamic Routing, LSA 鏈結狀態通告) 
+     * https://github.com/QueenieCplusplus/RIP (Dynamic Routing, Distance-Vector 距離向量)
 
-   Dynamic IP, 動態邏輯位置分配
+     * https://github.com/QueenieCplusplus/OSPF (Dynamic Routing, LSA 鏈結狀態通告) 
 
-   DHCP, 動態主機設定 (協定)
+   * Dynamic IP, 動態邏輯位置分配
+
+     * DHCP, 動態主機設定 (協定)
    
-Public IP
+* Public IP
 
    NAT, 網路位置轉換（演算法）
 ＿＿＿＿＿＿
