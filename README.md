@@ -176,6 +176,8 @@ DNS (bypass)
 ＿＿＿＿＿＿
 
 * WAN Technology:
+ 
+    * DSL WAN https://github.com/QueenieCplusplus/DSL
 
     * ISDN (Tele Service)
 
@@ -187,11 +189,9 @@ DNS (bypass)
 
     * SMDS (for PDNs, Public Data Network, see IEEE 802.6)
 
-   * ATM (Async Transfer Mode)
+    * ATM (Async Transfer Mode)
 
 ＿＿＿＿＿＿
-
-DSL WAN https://github.com/QueenieCplusplus/DSL
 
 VPN (bypass)
 
