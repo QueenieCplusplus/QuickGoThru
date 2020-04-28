@@ -76,6 +76,8 @@ https://github.com/QueenieCplusplus/Routing_Strategy (路由策略)
 
 https://github.com/QueenieCplusplus/Subnet_mask (子網域遮罩技術及其運算原理)
 
+https://github.com/QueenieCplusplus/RIF (Routing Table's Field)
+
 * Private IP
 
    * Static IP, 靜態邏輯位置設定
@@ -108,9 +110,9 @@ https://github.com/QueenieCplusplus/Band_Width (thruput in Bit & storage in Byte
 
 ＿＿＿＿＿＿
 
-https://github.com/QueenieCplusplus/Source_Route_Bridging (Source_Route)
+Bridge: 
 
-https://github.com/QueenieCplusplus/RIF (Routing Info Field)
+https://github.com/QueenieCplusplus/Source_Route_Bridging (Source_Route)
 
 ＿＿＿＿＿＿
 
