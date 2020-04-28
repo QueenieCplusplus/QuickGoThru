@@ -136,9 +136,9 @@ since 2020/4/02 - 4/04 & 4/09
 
 ![architecture](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/90356838_4112599058753871_5151945715458506752_o.jpg?_nc_cat=102&_nc_sid=2d5d41&_nc_ohc=wzWx2Snse6kAX8BStzA&_nc_ht=scontent.ftpe8-4.fna&oh=c40a5ab47e5af6b14d6ffbf8ebc60579&oe=5EABDFC5)
 
-Assessment https://github.com/QueenieCplusplus/Static_and_Dynamic
+Assessment https://github.com/QueenieCplusplus/Static_and_Dynamic (Routing Protocols)
 
-Interior and Exterial (private & paublic) https://github.com/QueenieCplusplus/IGP_and_BGP
+Interior and Exterial (Private IP & Public IP) https://github.com/QueenieCplusplus/IGP_and_BGP
 
 https://github.com/QueenieCplusplus/Interior_and_Exterior
 
@@ -147,8 +147,6 @@ https://github.com/QueenieCplusplus/Interior_and_Exterior
 ISIS (relative to OSPF) https://github.com/QueenieCplusplus/IS_IS
 
 BGP (on contrast to IGRP) https://github.com/QueenieCplusplus/BGP
-
-＿＿＿＿＿＿
 
 ＿＿＿＿＿＿
 
