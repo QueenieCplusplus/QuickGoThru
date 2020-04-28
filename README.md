@@ -20,9 +20,9 @@ since 2020/4/27 - 5/04
 
 Layer 2 https://github.com/QueenieCplusplus/CCNP_DataLink
 
-EIGRP
+EIGRP for routing tables integration amongs routers and sw
 
-OSPF 
+OSPF for LB 
 
 # VM (Hyper-V||VMware)
 since 2020/4/22, 23 
