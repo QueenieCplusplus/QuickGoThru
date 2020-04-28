@@ -164,34 +164,30 @@ DNS (bypass)
 ＿＿＿＿＿＿
 
 * LAN Terminology:
-
- Layer 2 see https://github.com/QueenieCplusplus/CCNP_DataLink
  
-   * FDDI https://github.com/QueenieCplusplus/FDDI (Optical Fiber)
+    * FDDI https://github.com/QueenieCplusplus/FDDI (Optical Fiber)
 
-   * Wireless https://github.com/QueenieCplusplus/Wireless_LAN (AP)
+    * Wireless https://github.com/QueenieCplusplus/Wireless_LAN (AP)
  
-   * Fast Ethernet
+    * Fast Ethernet
 
-   * Token Ring (see IEEE 802.5)
+    * Token Ring (see IEEE 802.5)
 
 ＿＿＿＿＿＿
 
 * WAN Technology:
 
- DDR, Dial-On Demand Routing
+    * ISDN (Tele Service)
 
-   * ISDN (Tele Service)
+    * dial up https://github.com/QueenieCplusplus/Dial_UP (PPP)
 
-   * dial up https://github.com/QueenieCplusplus/Dial_UP (PPP)
+    * x.25 https://github.com/QueenieCplusplus/Xdot25
 
-   * x.25 https://github.com/QueenieCplusplus/Xdot25
+    * frame relay (Streamlined Version of X.25)
 
-   * frame relay (Streamlined Version of X.25)
+    * SMDS (for PDNs, Public Data Network, see IEEE 802.6)
 
-   * SMDS (for PDNs, Public Data Network, see IEEE 802.6)
-
- * ATM (Async Transfer Mode)
+   * ATM (Async Transfer Mode)
 
 ＿＿＿＿＿＿
 
