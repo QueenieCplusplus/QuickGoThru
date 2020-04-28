@@ -22,7 +22,7 @@ Layer 2 https://github.com/QueenieCplusplus/CCNP_DataLink
 
 EIGRP for routing tables integration amongs routers and sw https://github.com/QueenieCplusplus/CCNP_EIGRP
 
-OSPF for LB 
+OSPF (forward packets amongst AS)
 
 # VM (Hyper-V||VMware)
 since 2020/4/22, 23 
