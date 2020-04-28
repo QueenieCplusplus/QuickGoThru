@@ -74,6 +74,8 @@ https://github.com/QueenieCplusplus/Network_Infra (路由與交換機)
 
 https://github.com/QueenieCplusplus/Routing_Strategy (路由策略)
 
+https://github.com/QueenieCplusplus/Subnet_mask (子網域遮罩技術及其運算原理)
+
 * Private IP
 
    * Static IP, 靜態邏輯位置設定
@@ -98,9 +100,9 @@ https://github.com/QueenieCplusplus/Routing_Strategy (路由策略)
 
 https://github.com/QueenieCplusplus/Networking (網路觀測技術及網路應用層)
 
-https://github.com/QueenieCplusplus/Subnet_mask (子網域遮罩技術及其運算原理)
-
 ＿＿＿＿＿＿
+
+Codebase: 
 
 https://github.com/QueenieCplusplus/Band_Width (thruput in Bit & storage in Bytes, and display their conversion in code)
 
