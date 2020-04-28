@@ -20,7 +20,7 @@ since 2020/4/27 - 5/04
 
 Layer 2 https://github.com/QueenieCplusplus/CCNP_DataLink
 
-EIGRP for routing tables integration amongs routers and sw
+EIGRP for routing tables integration amongs routers and sw https://github.com/QueenieCplusplus/CCNP_EIGRP
 
 OSPF for LB 
 
