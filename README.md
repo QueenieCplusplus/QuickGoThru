@@ -66,13 +66,13 @@ https://github.com/QueenieCplusplus/IGP_and_BGP (自治系統網路架構間的�
 
 ＿＿＿＿＿＿
 
-https://github.com/QueenieCplusplus/Network_Infra (路由與交換機) 
-
-https://github.com/QueenieCplusplus/Routing_Strategy (路由策略)
-
 https://github.com/QueenieCplusplus/PPP (點對點協定)
 
 ＿＿＿＿＿＿
+
+https://github.com/QueenieCplusplus/Network_Infra (路由與交換機) 
+
+https://github.com/QueenieCplusplus/Routing_Strategy (路由策略)
 
 * Private IP
 
@@ -100,7 +100,11 @@ https://github.com/QueenieCplusplus/Networking (網路觀測技術及網路應�
 
 https://github.com/QueenieCplusplus/Subnet_mask (子網域遮罩技術及其運算原理)
 
+＿＿＿＿＿＿
+
 https://github.com/QueenieCplusplus/Band_Width (thruput in Bit & storage in Bytes, and display their conversion in code)
+
+＿＿＿＿＿＿
 
 https://github.com/QueenieCplusplus/Source_Route_Bridging (Source_Route)
 
