@@ -192,9 +192,9 @@ BGP (on contrast to IGRP) https://github.com/QueenieCplusplus/BGP
 
 ＿＿＿＿＿＿
 
-Network Mgmt Tool:
+* Network Mgmt Tool:
 
-* SNMP https://github.com/QueenieCplusplus/SNMP
+   * SNMP https://github.com/QueenieCplusplus/SNMP
 
 ＿＿＿＿＿＿
 
