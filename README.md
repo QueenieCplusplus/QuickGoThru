@@ -120,9 +120,6 @@ https://github.com/QueenieCplusplus/Source_Route_Bridging (Source_Route)
 
 ＿＿＿＿＿＿
 
-
-＿＿＿＿＿＿
-
 (Routers Braodcast)
 
 (Redistribution)
@@ -147,6 +144,14 @@ https://github.com/QueenieCplusplus/Interior_and_Exterior
 
 ＿＿＿＿＿＿
 
+ISIS (relative to OSPF) https://github.com/QueenieCplusplus/IS_IS
+
+BGP (on contrast to IGRP) https://github.com/QueenieCplusplus/BGP
+
+＿＿＿＿＿＿
+
+＿＿＿＿＿＿
+
 ARP for IPv4 https://github.com/QueenieCplusplus/ARP
 
 ICMP for IPv6 https://github.com/QueenieCplusplus/ICMP (ND, Neighbour Discovering)
@@ -155,10 +160,6 @@ ND for IPv6 (Network Discover, Router Solicitation & Advertisement) https://gith
 
 IGMP for IPv6 (Multicast)
 https://github.com/QueenieCplusplus/MLD_and_MRD
-
-DHCP (bypass)
-
-DNS (bypass)
 
 ＿＿＿＿＿＿
 
@@ -192,21 +193,9 @@ DNS (bypass)
 
 ＿＿＿＿＿＿
 
-VPN (bypass)
-
-＿＿＿＿＿＿
-
-ISIS (relative to OSPF) https://github.com/QueenieCplusplus/IS_IS
-
-BGP (on contrast to IGRP) https://github.com/QueenieCplusplus/BGP
-
-＿＿＿＿＿＿
-
 Network Mgmt Tool:
 
 * SNMP https://github.com/QueenieCplusplus/SNMP
-
-* CDP (only for Cisco)
 
 ＿＿＿＿＿＿
 
