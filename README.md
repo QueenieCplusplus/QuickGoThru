@@ -200,7 +200,7 @@ BGP (on contrast to IGRP) https://github.com/QueenieCplusplus/BGP
 
 ＿＿＿＿＿＿
 
-# Routing Protocol Selection Criteria:
+* Routing Protocol Selection Criteria:
 
 - [X] MTU
 
@@ -221,7 +221,7 @@ BGP (on contrast to IGRP) https://github.com/QueenieCplusplus/BGP
 ＿＿＿＿＿＿
 
 
-# WAN Performance Indicators:
+* WAN Performance Indicators:
 
 - [X] Data Compression
 
