@@ -109,6 +109,8 @@ https://github.com/QueenieCplusplus/RIF (Routing Table's Field)
    * Dynamic IP, 動態邏輯位置分配
 
      * DHCP, 動態主機設定 (協定)
+     
+     ![dhcp server as end devices](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/95108454_4236178209729288_944513370529202176_o.jpg?_nc_cat=110&_nc_sid=2d5d41&_nc_ohc=svKyATzPYs4AX8iwhiV&_nc_ht=scontent.ftpe8-4.fna&oh=51b987b5fb2b5c80f455ba755d1647b1&oe=5ECD08F3)
    
 * Public IP
 
