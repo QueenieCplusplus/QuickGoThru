@@ -26,7 +26,7 @@ since 2020/4/30
    
    * VM
    
-   如下 bypass，筆者已於編寫 C++ 和研發 Android 系統時研究過。)
+   (如下 bypass，筆者已於編寫 C++ 和研發 Android 系統時研究過。)
    
    * Scheduling   
    * Memory   
