@@ -26,17 +26,11 @@ since 2020/4/30
    
    * VM
    
-   * Scheduling
+   如下 bypass，筆者已於編寫 C++ 和研發 Android 系統時研究過。)
    
-      (bypass)
-   
-   * Memory
-   
-      (bypass)
-   
-   * OOM Killer
-   
-      (bypass)
+   * Scheduling   
+   * Memory   
+   * OOM Killer   
    
 * Network
 
