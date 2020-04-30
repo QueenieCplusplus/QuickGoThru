@@ -20,7 +20,7 @@ since 2020/4/30
    
     使用 Cgroup 分割 CPU 和 Memory 資源與 Namespace 切割網路和 PID 資源所實現的。
     
-   * I/O
+   * Block I/O
    
    * VM
    
