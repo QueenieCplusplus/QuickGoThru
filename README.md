@@ -19,16 +19,22 @@ since 2020/4/30
    * Container （容器）
    
     使用 Cgroup 分割 CPU 和 Memory 資源與 Namespace 切割網路和 PID 資源所實現的。
-   
-   * Scheduling
-   
-   * Memory
-   
+    
    * I/O
    
    * VM
    
+   * Scheduling
+   
+    (bypass)
+   
+   * Memory
+   
+    (bypass)
+   
    * OOM Killer
+   
+    (bypass)
    
 * Network
 
