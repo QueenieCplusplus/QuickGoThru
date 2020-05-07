@@ -2,6 +2,11 @@
 
 本儲存庫繼續保留以往 C++ 高階 OOP 語言和 Python 腳本之特色，其他包含 Data Structure、Search Engine 的相關研究著作，現在議題包羅了 IT Security & Hack on Browser & Netwroking 和資料擷取和嗅探 Parser & Extracter 、 Data Mining，未來將研究 ARM (韌體程式邏輯)，請拭目以待！
 
+# SQL 
+since 2019.7-8 & 2020.5/8-5/12
+
+(to be continued...)
+
 # Kernel Hackers
 since 2020/4/30-5/02
 ![kernels](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/92057070_4153295244684252_4015601745232134144_o.jpg?_nc_cat=102&_nc_sid=2d5d41&_nc_ohc=Ysv86wkyPncAX-zxlqN&_nc_ht=scontent.ftpe8-4.fna&oh=e959864002d891a9e194b16337e3d8ac&oe=5EB037F0)
