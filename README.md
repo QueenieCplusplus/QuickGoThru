@@ -5,7 +5,9 @@
 # SQL 
 since 2019.7-8 & 2020.5/8-5/12
 
-(to be continued...)
+Preview : https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba
+
+Review :  (to be continued...)
 
 # Kernel Hackers
 since 2020/4/30-5/02
