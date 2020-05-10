@@ -111,9 +111,27 @@ https://github.com/QueenieCplusplus/Perl_Again
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # 網路拓樸技術
-since 2020/3/28 - 4/03
+since 2020/3/28 - 4/03, 5/03
 
 ![net](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/91250330_4131843193496124_7225672568689131520_o.jpg?_nc_cat=111&_nc_sid=2d5d41&_nc_ohc=NasdR3yOZjsAX-P1vfI&_nc_ht=scontent.ftpe8-3.fna&oh=aafcfcba4b5ce5ae513ad97fc6a99ec2&oe=5EAC85D2)
+
+* Routing Protocol Selection Criteria:
+
+- [X] MTU
+
+- [X] Routing Loop Prevention
+
+- [X] Hop Count
+
+- [X] Bandwidth 
+
+- [X] Cost
+
+- [X] Load
+
+- [X] Delay
+
+- [X] Reliability
 
 ＿＿＿＿＿＿
 
@@ -195,7 +213,7 @@ https://github.com/QueenieCplusplus/Source_Route_Bridging (Source_Route)
 
 # CCDA (Cisco Certified Design Associate 網路架構師專業)
 
-since 2020/4/02 - 4/04 & 4/09 
+since 2020/4/02 - 4/04 & 4/09, 5/03
 
 ![architecture](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/90356838_4112599058753871_5151945715458506752_o.jpg?_nc_cat=102&_nc_sid=2d5d41&_nc_ohc=wzWx2Snse6kAX8BStzA&_nc_ht=scontent.ftpe8-4.fna&oh=c40a5ab47e5af6b14d6ffbf8ebc60579&oe=5EABDFC5)
 
@@ -260,27 +278,6 @@ BGP (on contrast to IGRP) https://github.com/QueenieCplusplus/BGP
    * SNMP https://github.com/QueenieCplusplus/SNMP
 
 ＿＿＿＿＿＿
-
-* Routing Protocol Selection Criteria:
-
-- [X] MTU
-
-- [X] Routing Loop Prevention
-
-- [X] Hop Count
-
-- [X] Bandwidth 
-
-- [X] Cost
-
-- [X] Load
-
-- [X] Delay
-
-- [X] Reliability
-
-＿＿＿＿＿＿
-
 
 * WAN Performance Indicators:
 
