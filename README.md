@@ -56,7 +56,7 @@ since 2020/4/30-5/02
 * Kernel Tracing using System Tap
 
 # CCNP (OSI Layer 2-3)
-since 2020/4/27-29, , 5/04
+since 2020/4/27-29, 5/04
 
 
                           CORE
