@@ -3,7 +3,7 @@
 本儲存庫繼續保留以往 C++ 高階 OOP 語言和 Python 腳本之特色，其他包含 Data Structure、Search Engine 的相關研究著作，現在議題包羅了 IT Security & Hack on Browser & Netwroking 和資料擷取和嗅探 Parser & Extracter 、 Data Mining，未來將研究 ARM (韌體程式邏輯)，請拭目以待！
 
 # SQL 
-since 2019.7-8 & 2020.5/8-5/12
+since 2019.7-8 & 2020.5/10-5/15
 
 Preview : https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba
 
