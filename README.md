@@ -4,7 +4,7 @@
 
 # ARM
 
-preserve in Future !
+preserved in Future !
 
 # SQL 
 since 2019.7-8 & 2020.5/10-5/15
