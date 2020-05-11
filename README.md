@@ -11,7 +11,7 @@ since 2019.7-8 & 2020.5/10-5/15
 
 Preview : https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba
 
-Review :  (to be continued...)
+Review :  
 
 1. https://github.com/QueenieCplusplus/SQL_Concepts
 
