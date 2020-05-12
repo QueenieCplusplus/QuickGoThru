@@ -856,7 +856,7 @@ Lifecycle of app https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/READ
      
      ![ios](https://scontent.ftpe8-4.fna.fbcdn.net/v/t31.0-8/30167559_148789092632838_6815308864428869549_o.jpg?_nc_cat=104&_nc_sid=daf655&_nc_ohc=t96yDdGFCbIAX86krOJ&_nc_ht=scontent.ftpe8-4.fna&oh=ca4095aca3df89857b4d20e412daf2ed&oe=5EE09A13)
      
-     ![ios2](https://scontent.ftpe8-1.fna.fbcdn.net/v/t31.0-8/30171229_142891389889275_5255610056900231730_o.jpg?_nc_cat=109&_nc_sid=daf655&_nc_ohc=lB5WvxS4oCcAX9Eaudx&_nc_ht=scontent.ftpe8-1.fna&oh=3baee70531ffddd03c413a949e2e035c&oe=5EE0AE98)
+     ![ios2](https://www.facebook.com/photo.php?fbid=148789082632839&set=a.122648678580213&type=3&theater)
 
 * Android 3: katesandroidapp & katesapp2019
 
