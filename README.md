@@ -828,6 +828,9 @@ since 11/28 & 1216, 2019
 
 since 2018/3, all repos will be hidden from public
 
+2018 Memoir
+https://www.facebook.com/pattyluvapp/videos/627286591019953/?redirect=false
+
 Sandbox https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#sandbox-沙盒
 
 VM https://github.com/QueenieCplusplus/SSCP_System/blob/master/README.md#vm-虛擬機
