@@ -854,7 +854,7 @@ Lifecycle of app https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/READ
 
      https://developer.apple.com/ (Apple 開發者官網)
      
-     ![ios](https://scontent.ftpe8-4.fna.fbcdn.net/v/t31.0-8/30167559_148789092632838_6815308864428869549_o.jpg?_nc_cat=104&_nc_sid=daf655&_nc_ohc=GXc3g_gvArwAX8R-u6Z&_nc_ht=scontent.ftpe8-4.fna&oh=0ef00ab2af007eb72b03c6f86d5a1a2d&oe=5EAD2F93)
+     ![ios](https://scontent.ftpe8-4.fna.fbcdn.net/v/t31.0-8/30167559_148789092632838_6815308864428869549_o.jpg?_nc_cat=104&_nc_sid=daf655&_nc_ohc=t96yDdGFCbIAX86krOJ&_nc_ht=scontent.ftpe8-4.fna&oh=ca4095aca3df89857b4d20e412daf2ed&oe=5EE09A13)
      
      ![ios2](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/32169124_161123168066097_1560945235972849664_o.jpg?_nc_cat=109&_nc_sid=8024bb&_nc_ohc=auwxhHonvKsAX91LbIC&_nc_ht=scontent.ftpe8-1.fna&oh=b45f2616629852d3473d6a171886a4d8&oe=5EAD7B80)
 
