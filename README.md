@@ -23,7 +23,7 @@ Review :
 
 5. https://github.com/QueenieCplusplus/SQL_Session
 
-6. 
+6. https://github.com/QueenieCplusplus/Stateless_and_Stateful
 
 
 # Kernel Hackers
