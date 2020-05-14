@@ -11,7 +11,11 @@ since 2019.7-8 & 2020.5/10-5/15
 
 ![threads session pool connection db](https://mobisoftinfotech.com/resources/wp-content/uploads/2018/04/Understanding-DB-Connection-Pools-Architecture.png)
 
-Preview : https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba
+Preview : 
+
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba
+
+https://github.com/QueenieCplusplus/QuickGoThru#搜索引擎
 
 Review :  
 
