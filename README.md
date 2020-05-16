@@ -31,13 +31,9 @@ Review :
 
 6. https://github.com/QueenieCplusplus/Stateless_and_Stateful
 
-* PostgreSQL:
+* PostgreSQL: (to be continued...)
 
-(to be continued...)
-
-* Hadoop:
-
-(to be continued...)
+* Hadoop: (to be continued...)
 
 
 # Kernel Hackers
