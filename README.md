@@ -33,7 +33,7 @@ Review :
 
 Main Study :
 
-# Hadoop: 
+# Hadoop
 
 https://github.com/QueenieCplusplus/Hadoop_and_IOE (趨勢與潮流)
 
