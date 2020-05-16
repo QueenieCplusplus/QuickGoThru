@@ -35,6 +35,12 @@ Main Study :
 
 # Hadoop
 
+Preview:
+
+https://github.com/QueenieCplusplus/DataStorage_Hadoop#key-in-session-加密的安全通訊技術 (安全性議題)
+
+Review:
+
 https://github.com/QueenieCplusplus/Hadoop_and_IOE (趨勢與潮流)
 
 https://github.com/QueenieCplusplus/GFS_and_BigTable (起源與契機)
