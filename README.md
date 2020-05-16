@@ -38,7 +38,7 @@ since 2019.12 & 2020.5/16 ~
 
 Preview:
 
-https://github.com/QueenieCplusplus/DataStorage_Hadoop
+https://github.com/QueenieCplusplus/DataStorage_Hadoop (安全議題)
 
 Review:
 
