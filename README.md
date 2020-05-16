@@ -49,6 +49,13 @@ https://github.com/QueenieCplusplus/GFS_and_BigTable (起源與契機)
 (to be continued...)
 
 # PostgreSQL
+since 2020.3 and 2020.5/17~
+
+Preview:
+
+https://github.com/QueenieCplusplus/PostgreSQL
+
+Review:
 
 (to be continued...)
 
