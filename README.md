@@ -60,6 +60,14 @@ https://github.com/QueenieCplusplus/DataMining_Spark (分散式運算框架)
 
 https://github.com/QueenieCplusplus/DataMining_Spark#spark--hadoop (Hadoop & Spark)
 
+Bound-Oriented 應用密集的導向：
+
+1. Storage Bound, 存儲密集的應用
+
+2. CPU/Memory Bound, 運算密集的應用
+
+3. IO Bound, 網路密集的應用
+
 (to be continued...)
 
 # PostgreSQL
