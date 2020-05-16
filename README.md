@@ -37,7 +37,7 @@ Main Study :
 
 Preview:
 
-https://github.com/QueenieCplusplus/DataStorage_Hadoop#key-in-session-加密的安全通訊技術 (安全性議題)
+https://github.com/QueenieCplusplus/DataStorage_Hadoop
 
 Review:
 
