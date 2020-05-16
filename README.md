@@ -11,13 +11,13 @@ since 2019.7-8 & 2020.5/10-5/15
 
 ![threads session pool connection db](https://mobisoftinfotech.com/resources/wp-content/uploads/2018/04/Understanding-DB-Connection-Pools-Architecture.png)
 
-Preview : 
+* Preview : 
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba
 
 https://github.com/QueenieCplusplus/QuickGoThru#搜索引擎
 
-Review :  
+* Review :  
 
 1. https://github.com/QueenieCplusplus/SQL_Concepts
 
@@ -31,12 +31,12 @@ Review :
 
 6. https://github.com/QueenieCplusplus/Stateless_and_Stateful
 
-Main Study :
+* Main Study :
 
 # Hadoop
 since 2019.12 & 2020.5/16 ~
 
-Main Charaters:
+* Main Charaters:
 
 1. 分散式存儲，並且採叢集管理。
 
@@ -44,11 +44,11 @@ Main Charaters:
 
 3. 檔案中間內容無法被竄改，只能在尾部增加，概念類似區塊鏈。
 
-Preview:
+* Preview:
 
 https://github.com/QueenieCplusplus/DataStorage_Hadoop (安全議題)
 
-Review:
+* Review:
 
 https://github.com/QueenieCplusplus/Hadoop_and_IOE (趨勢與潮流)
 
@@ -60,7 +60,7 @@ https://github.com/QueenieCplusplus/DataMining_Spark (分散式運算框架)
 
 https://github.com/QueenieCplusplus/DataMining_Spark#spark--hadoop (Hadoop & Spark)
 
-Bound-Oriented 應用密集的導向：
+* Bound-Oriented 應用密集的導向：
 
 1. Storage Bound, 存儲密集的應用
 
@@ -73,11 +73,11 @@ Bound-Oriented 應用密集的導向：
 # PostgreSQL
 since 2020.3 and 2020.5/17~
 
-Preview:
+* Preview:
 
 https://github.com/QueenieCplusplus/PostgreSQL
 
-Review:
+* Review:
 
 (to be continued...)
 
