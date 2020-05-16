@@ -33,13 +33,17 @@ Review :
 
 Main Study :
 
-* Hadoop: (to be continued...)
+# Hadoop: 
 
 https://github.com/QueenieCplusplus/Hadoop_and_IOE (趨勢與潮流)
 
 https://github.com/QueenieCplusplus/GFS_and_BigTable (起源與契機)
 
-* PostgreSQL: (to be continued...)
+(to be continued...)
+
+# PostgreSQL
+
+(to be continued...)
 
 # Kernel Hackers
 since 2020/4/30-5/02
