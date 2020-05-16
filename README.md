@@ -36,6 +36,14 @@ Main Study :
 # Hadoop
 since 2019.12 & 2020.5/16 ~
 
+Main Charaters:
+
+1. 分散式存儲，並且採叢集管理。
+
+2. 單筆檔案相對傳統來得大，約莫 500 MB 。
+
+3. 檔案中間內容無法被竄改，只能在尾部增加，概念類似區塊鏈。
+
 Preview:
 
 https://github.com/QueenieCplusplus/DataStorage_Hadoop (安全議題)
