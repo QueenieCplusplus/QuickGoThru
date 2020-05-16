@@ -35,7 +35,7 @@ Main Study :
 
 * Hadoop: (to be continued...)
 
-https://github.com/QueenieCplusplus/Hadoop_and_IOE
+https://github.com/QueenieCplusplus/Hadoop_and_IOE (趨勢與潮流)
 
 * PostgreSQL: (to be continued...)
 
