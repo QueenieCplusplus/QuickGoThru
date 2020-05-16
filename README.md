@@ -81,6 +81,8 @@ https://github.com/QueenieCplusplus/QuickGoThru#搜索引擎
 
 * Review:
 
+![postgresql](https://covers.oreillystatic.com/images/0636920052715/lrg.jpg)
+
 (to be continued...)
 
 # Kernel Hackers
