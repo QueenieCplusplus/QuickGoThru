@@ -58,6 +58,8 @@ https://github.com/QueenieCplusplus/MapReducer (運算架構基礎)
 
 https://github.com/QueenieCplusplus/DataMining_Spark (分散式運算框架)
 
+https://github.com/QueenieCplusplus/DataMining_Spark#spark--hadoop (Hadoop & Spark)
+
 (to be continued...)
 
 # PostgreSQL
