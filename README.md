@@ -56,6 +56,8 @@ https://github.com/QueenieCplusplus/GFS_and_BigTable (起源與契機)
 
 https://github.com/QueenieCplusplus/MapReducer (運算架構基礎)
 
+https://github.com/QueenieCplusplus/DataMining_Spark (分散式運算框架)
+
 (to be continued...)
 
 # PostgreSQL
