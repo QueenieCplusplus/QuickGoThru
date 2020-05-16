@@ -77,6 +77,8 @@ since 2020.3 and 2020.5/17~
 
 https://github.com/QueenieCplusplus/PostgreSQL
 
+https://github.com/QueenieCplusplus/QuickGoThru#搜索引擎
+
 * Review:
 
 (to be continued...)
