@@ -33,10 +33,11 @@ Review :
 
 Main Study :
 
-* PostgreSQL: (to be continued...)
-
 * Hadoop: (to be continued...)
 
+https://github.com/QueenieCplusplus/Hadoop_and_IOE
+
+* PostgreSQL: (to be continued...)
 
 # Kernel Hackers
 since 2020/4/30-5/02
