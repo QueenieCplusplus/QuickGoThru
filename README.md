@@ -34,6 +34,7 @@ Review :
 Main Study :
 
 # Hadoop
+since 2019.12 & 2020.5/16 ~
 
 Preview:
 
