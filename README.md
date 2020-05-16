@@ -54,6 +54,8 @@ https://github.com/QueenieCplusplus/Hadoop_and_IOE (趨勢與潮流)
 
 https://github.com/QueenieCplusplus/GFS_and_BigTable (起源與契機)
 
+https://github.com/QueenieCplusplus/MapReducer (運算架構基礎)
+
 (to be continued...)
 
 # PostgreSQL
