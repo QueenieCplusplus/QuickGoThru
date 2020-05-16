@@ -31,6 +31,8 @@ Review :
 
 6. https://github.com/QueenieCplusplus/Stateless_and_Stateful
 
+Main Study :
+
 * PostgreSQL: (to be continued...)
 
 * Hadoop: (to be continued...)
