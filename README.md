@@ -6,6 +6,48 @@
 
 preserved in Future !
 
+# Shell Scripts
+2020.5/17
+
+* Programming
+
+echo
+
+date
+
+timestamp
+
+dir
+
+file
+
+interactive_tool
+
+calendar_tool
+
+grep
+
+compress
+
+* Sys Admin
+
+df
+
+disk
+
+* Linux
+
+auth
+
+* WWW
+
+FTP
+
+URL
+
+Github
+
+
 # SQL 
 since 2019.7-8 & 2020.5/10-5/15
 
