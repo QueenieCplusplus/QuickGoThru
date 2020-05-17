@@ -85,6 +85,10 @@ https://github.com/QueenieCplusplus/PSQL_command_tool (below version 9.2)
 
 https://github.com/QueenieCplusplus/PSQL_interactive_cli (below version 9.2)
 
+* Where it hosts on:
+
+https://github.com/QueenieCplusplus/PostgreSQL_Hosts
+
 (to be continued...)
 
 # Kernel Hackers
