@@ -83,6 +83,8 @@ https://github.com/QueenieCplusplus/QuickGoThru#搜索引擎
 
 https://github.com/QueenieCplusplus/PSQL_command_tool (below version 9.2)
 
+https://github.com/QueenieCplusplus/PSQL_interactive_cli (below version 9.2)
+
 (to be continued...)
 
 # Kernel Hackers
