@@ -81,6 +81,8 @@ https://github.com/QueenieCplusplus/QuickGoThru#搜索引擎
 
 ![postgresql](https://covers.oreillystatic.com/images/0636920052715/lrg.jpg)
 
+https://github.com/QueenieCplusplus/PSQL_command_tool (below version 9.2)
+
 (to be continued...)
 
 # Kernel Hackers
