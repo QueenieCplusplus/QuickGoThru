@@ -68,8 +68,6 @@ https://github.com/QueenieCplusplus/DataMining_Spark#spark--hadoop (Hadoop & Spa
 
 3. IO Bound, 網路密集的應用
 
-(to be continued...)
-
 # PostgreSQL
 since 2020.3 and 2020.5/17~
 
