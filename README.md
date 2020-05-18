@@ -9,6 +9,8 @@ preserved in Future !
 # Shell Scripts
 2020.5/18 ~ 5/22
 
+![bash shell](https://cf-assets2.tenlong.com.tw/products/images/000/106/490/original/9789864763672.jpg?1525538893)
+
 * Programming
 
   * echo
