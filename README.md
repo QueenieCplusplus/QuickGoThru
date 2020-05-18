@@ -15,27 +15,19 @@ since 2018.5 & 2019.4 & 2020.5/18 ~ 5/22
 
   * echo
 
-  * date
+  * dir & file
 
-  * timestamp
-
-  * dir
-
-  * file
-
-  * interactive_tool
-
-  * calendar_tool
-
+  * date & timestamp
+  
   * grep
 
   * compress
 
+  * interactive_tool & calendar_tool
+
 * Sys Admin
 
-  * df
-
-  * disk
+  * df & disk
 
 * Linux
 
@@ -43,11 +35,7 @@ since 2018.5 & 2019.4 & 2020.5/18 ~ 5/22
 
 * WWW
 
-  * FTP
-
-  * URL
-
-  * Github
+  * FTP & URL
 
 (to be continued...)
 
