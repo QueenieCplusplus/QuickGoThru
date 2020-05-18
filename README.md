@@ -7,7 +7,7 @@
 preserved in Future !
 
 # Shell Scripts
-2020.5/17
+2020.5/1
 
 * Programming
 
