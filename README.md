@@ -31,21 +31,21 @@ preserved in Future !
 
 * Sys Admin
 
- * df
+  * df
 
- * disk
+  * disk
 
 * Linux
 
- * auth
+  * auth
 
 * WWW
 
- * FTP
+  * FTP
 
- * URL
+  * URL
 
- * Github
+  * Github
 
 (to be continued...)
 
