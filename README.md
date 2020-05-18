@@ -134,6 +134,8 @@ https://github.com/QueenieCplusplus/PSQL_interactive_cli (below version 9.2)
 
 https://github.com/QueenieCplusplus/PostgreSQL_Hosts
 
+* Table & Functions
+
 (to be continued...)
 
 # Kernel Hackers
