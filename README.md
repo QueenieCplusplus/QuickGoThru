@@ -8,6 +8,9 @@ preserved in Future !
 
 # Bash Shell Scripts
 since 2018.5 & 2019.4 & 2020.5/18 ~ 5/22 ![bash shell](https://cf-assets2.tenlong.com.tw/products/images/000/106/490/original/9789864763672.jpg?1525538893)
+
+(to be continued...)
+
 * Programming
 
   * echo
@@ -33,8 +36,6 @@ since 2018.5 & 2019.4 & 2020.5/18 ~ 5/22 ![bash shell](https://cf-assets2.tenlon
 * WWW
 
   * FTP & URL
-
-(to be continued...)
 
 # SQL 
 since 2019.7-8 & 2020.5/10-5/15
