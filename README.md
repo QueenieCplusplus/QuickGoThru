@@ -21,7 +21,7 @@ https://github.com/QueenieCplusplus/POSIX
 
   * dir & file
   
-  https://github.com/QueenieCplusplus/Shell_inPath/blob/master/README.md
+  https://github.com/QueenieCplusplus/Shell_inPath
 
   * date & timestamp
   
