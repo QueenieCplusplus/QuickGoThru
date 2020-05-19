@@ -17,13 +17,7 @@ since 2018.5 & 2019.4 & 2020.5/18 ~ 5/22 ![bash shell](https://cf-assets2.tenlon
 
   * dir & file
   
-     * cd to directory
-  
-     * touch < file_name > to create file
-     
-     * open -e < file_name > to edit file
-     
-     * .. < file_name > to reload file
+  https://github.com/QueenieCplusplus/Shell_inPath/blob/master/README.md
 
   * date & timestamp
   
