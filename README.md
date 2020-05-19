@@ -24,12 +24,12 @@ since 2018.5 & 2019.4 & 2020.5/18 ~ 5/22 ![bash shell](https://cf-assets2.tenlon
   * dir & file
   
   https://github.com/QueenieCplusplus/Shell_inPath
-
-  * date & timestamp
   
   * grep
 
   * compress
+
+  * date & timestamp
 
   * interactive_tool & calendar_tool
 
