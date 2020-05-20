@@ -29,6 +29,8 @@ since 2018.5 & 2019.4 & 2020.5/18 ~ 5/22 ![bash shell](https://cf-assets2.tenlon
   
   https://github.com/QueenieCplusplus/Shell_grep
 
+* Tools
+
   * compress
 
   * date & timestamp
@@ -40,10 +42,6 @@ since 2018.5 & 2019.4 & 2020.5/18 ~ 5/22 ![bash shell](https://cf-assets2.tenlon
   * df & disk
   
   https://github.com/QueenieCplusplus/Shell_df
-
-* Linux
-
-  * auth
 
 * WWW
 
