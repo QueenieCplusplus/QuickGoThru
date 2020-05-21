@@ -33,7 +33,7 @@ since 2019.7.01 ~ 8.01 & 2020.5/21.22
 
   * auth and root
   
-    https://github.com/QueenieCplusplus/LinuxShell_root
+    https://github.com/QueenieCplusplus/LinuxShell_root (whoami)
   
   * cpu and memory
   
@@ -41,7 +41,7 @@ since 2019.7.01 ~ 8.01 & 2020.5/21.22
   
   * kernel info
   
-    https://github.com/QueenieCplusplus/LinuxShell_kernel
+    https://github.com/QueenieCplusplus/LinuxShell_kernel (uname)
     
 * Common Utility
 
