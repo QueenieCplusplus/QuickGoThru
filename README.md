@@ -6,6 +6,39 @@
 
 preserved in Future !
 
+# Linux Shell 
+since 2020.5/21 ~ 5/24
+
+* String
+
+* Computing Operation
+
+* Flow Control
+
+* Process & IPC
+
+* File
+
+* Media (Graph, Window, Sound)
+
+* Network
+
+  * ifconfig
+  
+  * route
+  
+  * ssh
+  
+  * ping
+
+* Sys Admin
+
+  * sudo or root
+  
+  * cpu and memory
+  
+  * auth
+
 # Bash Shell Scripts
 since 2018.5 & 2019.4 & 2020.5/18 ~ 5/21 ![bash shell](https://cf-assets2.tenlong.com.tw/products/images/000/106/490/original/9789864763672.jpg?1525538893)
 
