@@ -39,7 +39,7 @@ since 2018.5 & 2019.4 & 2020.5/18 ~ 5/22 ![bash shell](https://cf-assets2.tenlon
 
   * calculator
   
-  https://github.com/QueenieCplusplus/QuickGoThru#bash-shell-scripts
+  https://github.com/QueenieCplusplus/Shell_calculator
 
 * Sys Admin
 
