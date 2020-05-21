@@ -17,9 +17,11 @@ since 2020.5/21 ~ 5/24
   
   * route
   
-  * ssh
-  
   * ping
+  
+  * ssh and scp
+  
+  * ftp and wget
 
 * Sys Admin
 
