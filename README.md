@@ -9,6 +9,8 @@ preserved in Future !
 # Linux Shell 
 since 2019.7.01 ~ 8.01 & 2020.5/21.22
 
+    讓我嘶吼一下！ 兩年來買了一百多本書，終於輪到這本，呦呼～～～
+
 ![linux shell](http://www.drmaster.com.tw/Cover/big/MP21617.jpg)
 
 * Network Setup
