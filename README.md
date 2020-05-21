@@ -23,7 +23,7 @@ since 2020.5/21 ~ 5/24
   
    * Advanced:
    
-    https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#bash-shell-scripts
+    https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#bash-shell-scripts-for-unix
   
 * Common Utility
 
