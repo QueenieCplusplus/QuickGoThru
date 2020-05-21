@@ -41,11 +41,13 @@ since 2020.5/21 ~ 5/24
 
   * auth and root
   
-   https://github.com/QueenieCplusplus/LinuxShell_root
+    https://github.com/QueenieCplusplus/LinuxShell_root
   
   * cpu and memory
   
   * kernel info
+  
+    https://github.com/QueenieCplusplus/LinuxShell_kernel
 
 # Bash  (Shell Scripts for Unix)
 since 2018.5 & 2019.4 & 2020.5/18 ~ 5/21 ![bash shell](https://cf-assets2.tenlong.com.tw/products/images/000/106/490/original/9789864763672.jpg?1525538893)
