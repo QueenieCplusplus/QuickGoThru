@@ -80,7 +80,7 @@ since 2018.5 & 2019.4 & 2020.5/18 ~ 5/21 ![bash shell](https://cf-assets2.tenlon
 
   * date & timestamp & calendar_tool
   
-  https://github.com/QueenieCplusplus/Shell_time/blob/master/README.md
+  https://github.com/QueenieCplusplus/Shell_time
 
   * calculator
   
