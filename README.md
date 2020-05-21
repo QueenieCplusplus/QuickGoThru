@@ -13,17 +13,11 @@ since 2020.5/21 ~ 5/24
 
 * Shell & Bash
 
-   * Basics:
-
      * String
  
      * Computing Operation
 
      * Flow Control
-  
-   * Advanced:
-   
-    https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#bash-shell-scripts-for-unix
   
 * Common Utility
 
