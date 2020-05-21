@@ -11,17 +11,21 @@ since 2020.5/21 ~ 5/24
 
 ![linux shell](http://www.drmaster.com.tw/Cover/big/MP21617.jpg)
 
-* String
+* Shell & Bash
 
-* Computing Operation
+  * String
+ 
+  * Computing Operation
 
-* Flow Control
+  * Flow Control
+  
+* Common Utility
 
-* Process & IPC
+  * Process & IPC
 
-* File
+  * File
 
-* Media (Graph, Window, Sound)
+  * Media (Graph, Window, Sound)
 
 * Network
 
