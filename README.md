@@ -17,6 +17,8 @@ since 2019.7.01 ~ 8.01 & 2020.5/21.22
   
   * route
   
+  * nslookup
+  
   * ping
   
   * ssh and scp
