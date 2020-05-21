@@ -51,7 +51,7 @@ since 2020.5/21 ~ 5/24
   
   * auth
 
-# Bash Shell Scripts for Unix
+# Bash  (Shell Scripts for Unix)
 since 2018.5 & 2019.4 & 2020.5/18 ~ 5/21 ![bash shell](https://cf-assets2.tenlong.com.tw/products/images/000/106/490/original/9789864763672.jpg?1525538893)
 
 * POSIX
