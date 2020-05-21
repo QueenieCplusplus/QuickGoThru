@@ -7,7 +7,7 @@
 preserved in Future !
 
 # Linux Shell 
-since 2020.5/21 ~ 5/24
+since 2019.7.01~8.01 & 2020.5/21.22
 
 ![linux shell](http://www.drmaster.com.tw/Cover/big/MP21617.jpg)
 
