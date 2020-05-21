@@ -29,6 +29,8 @@ since 2020.5/21 ~ 5/24
   
   * cpu and memory
   
+  * group and member
+  
   * kernel info
   
     https://github.com/QueenieCplusplus/LinuxShell_kernel
