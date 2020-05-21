@@ -41,6 +41,8 @@ since 2020.5/21 ~ 5/24
 
   * sudo or root
   
+   https://github.com/QueenieCplusplus/LinuxShell_root
+  
   * cpu and memory
   
   * auth
