@@ -9,6 +9,8 @@ preserved in Future !
 # Linux Shell 
 since 2020.5/21 ~ 5/24
 
+![linux shell](http://www.drmaster.com.tw/Cover/big/MP21617.jpg)
+
 * String
 
 * Computing Operation
