@@ -37,6 +37,8 @@ since 2019.7.01 ~ 8.01 & 2020.5/21.22
   
   * nslookup
   
+    https://github.com/QueenieCplusplus/LinuxShell_nameserver 
+  
   * ping
   
     https://github.com/QueenieCplusplus/LinuxShell_ping (^C or ^Z)
