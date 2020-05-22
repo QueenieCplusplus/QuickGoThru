@@ -31,7 +31,7 @@ since 2019.7.01 ~ 8.01 & 2020.5/21.22
   
     https://github.com/QueenieCplusplus/LinuxShell_ping (^C or ^Z)
     
-* Remote_Connection
+* Remote Connection
   
   * ssh and scp
   
@@ -44,14 +44,14 @@ since 2019.7.01 ~ 8.01 & 2020.5/21.22
   * auth and root
   
     https://github.com/QueenieCplusplus/LinuxShell_root (whoami)
-  
-  * cpu and memory
-  
-  * group and member
+    
+    * group and member
   
   * kernel info
   
     https://github.com/QueenieCplusplus/LinuxShell_kernel (uname)
+    
+    * cpu and memory
     
 * Common Utility
 
