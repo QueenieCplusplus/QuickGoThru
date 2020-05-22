@@ -15,7 +15,11 @@ since 2019.7.01 ~ 8.01 & 2020.5/21.22
 
 * Basic Usage
 
-  https://github.com/QueenieCplusplus/LinuxShell_cmd (execution & startupFile)
+  * ./
+  
+  * ~/.bash_profile
+
+    https://github.com/QueenieCplusplus/LinuxShell_cmd (execution & startupFile)
 
 * Network Setup
 
