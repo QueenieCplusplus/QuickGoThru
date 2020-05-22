@@ -18,6 +18,8 @@ since 2019.7.01 ~ 8.01 & 2020.5/21.22
   * ./
   
   * ~/.bash_profile
+  
+  * $PATH
 
     https://github.com/QueenieCplusplus/LinuxShell_cmd (execution & startupFile)
 
