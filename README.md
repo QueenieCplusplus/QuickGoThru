@@ -29,11 +29,11 @@ since 2019.7.01 ~ 8.01 & 2020.5/21.22
 
 * Network Setup
 
-  * ifconfig
+  * ifconfig in Unix and Linux || ipconfig in Windows
   
     https://github.com/QueenieCplusplus/LinuxShell_netmask (subnetmask)
   
-  * route || netstat in Unix
+  * route in Linux || netstat in Unix
   
     https://github.com/QueenieCplusplus/LinuxShell_route (gateway)
   
