@@ -6,6 +6,13 @@
 
 preserved in Future !
 
+# DBA
+since 2020.5/25
+
+
+
+
+
 # Linux Shell 
 since 2019.7.01 ~ 8.01 & 2020.5/21.22
 
