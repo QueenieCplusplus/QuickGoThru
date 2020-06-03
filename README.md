@@ -9,12 +9,23 @@ preserved in Future !
 # DBA
 since 2020.5/25
 
+* 伺服器建置圖
+
 https://github.com/QueenieCplusplus/Server_Architecture/blob/master/README.md
+
+* 資料庫熱備援
 
 https://github.com/QueenieCplusplus/HA_solutions
 
+* 資料庫叢集
+
 https://github.com/QueenieCplusplus/DB_Cluster
 
+* 資料操作述句 DDL / DML
+
+https://github.com/QueenieCplusplus/SQL_Statement
+
+* 預存函數
 https://github.com/QueenieCplusplus/SQL_Statement
 
 https://github.com/QueenieCplusplus/SQL_Stored_Procedure
@@ -22,6 +33,8 @@ https://github.com/QueenieCplusplus/SQL_Stored_Procedure
 https://github.com/QueenieCplusplus/SQL_Stored_Procedure2
 
 https://github.com/QueenieCplusplus/SQL_Error_Code
+
+* 事件排程器
 
 https://github.com/QueenieCplusplus/SQL_Event_Scheduler
 
