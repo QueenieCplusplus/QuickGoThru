@@ -21,6 +21,8 @@ https://github.com/QueenieCplusplus/SQL_Stored_Procedure
 
 https://github.com/QueenieCplusplus/SQL_Stored_Procedure2
 
+https://github.com/QueenieCplusplus/SQL_Error_Code
+
 # Linux Shell 
 since 2019.7.01 ~ 8.01 & 2020.5/21.22
 
