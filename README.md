@@ -11,7 +11,7 @@ since 2020.5/25
 
 https://github.com/QueenieCplusplus/Server_Architecture/blob/master/README.md
 
-
+https://github.com/QueenieCplusplus/HA_solutions
 
 
 
