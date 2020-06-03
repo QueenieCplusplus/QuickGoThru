@@ -21,7 +21,7 @@ https://github.com/QueenieCplusplus/HA_solutions
 
 https://github.com/QueenieCplusplus/DB_Cluster
 
-* 資料操作述句 DDL / DML
+* SQL Statement 資料操作述句 DDL / DML
 
 https://github.com/QueenieCplusplus/SQL_Statement
 
