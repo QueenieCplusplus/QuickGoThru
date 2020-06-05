@@ -31,8 +31,6 @@ https://github.com/QueenieCplusplus/SQL_Stored_Procedure
 
 https://github.com/QueenieCplusplus/SQL_Stored_Procedure2
 
-https://github.com/QueenieCplusplus/SQL_Error_Code
-
 * Event Scheduler 事件排程器
 
 https://github.com/QueenieCplusplus/SQL_Event_Scheduler
