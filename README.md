@@ -7,7 +7,7 @@
 preserved in Future !
 
 # DBA
-since 2020.5/25 ~ 6/03 (10 days)
+since 2020.5/25 ~ 6/05 (10 days)
 
 * Server Architecture 伺服器建置圖
 
