@@ -35,7 +35,7 @@ https://github.com/QueenieCplusplus/SQL_NULL
 
 * Functions 資料庫函數(有回傳值)
 
-
+https://github.com/QueenieCplusplus/SQL_Fn
 
 * Stored Procedure 預存函數
 
