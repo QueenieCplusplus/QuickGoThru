@@ -29,6 +29,10 @@ https://github.com/QueenieCplusplus/SQL_Statement
 
 https://github.com/QueenieCplusplus/SQL_Order_By
 
+* null or not null 預設可否為空
+
+https://github.com/QueenieCplusplus/SQL_NULL
+
 * Stored Procedure 預存函數
 
 https://github.com/QueenieCplusplus/SQL_Stored_Procedure
