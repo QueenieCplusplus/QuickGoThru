@@ -39,6 +39,9 @@ https://github.com/QueenieCplusplus/SQL_Event_Scheduler
 
 * Error Handler 錯誤處理經驗
 
+https://github.com/QueenieCplusplus/SQL_Error_Code
+
+* Flow Control 流程處理環節
 
 
 # Linux Shell 
