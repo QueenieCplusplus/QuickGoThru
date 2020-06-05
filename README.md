@@ -43,6 +43,7 @@ https://github.com/QueenieCplusplus/SQL_Error_Code
 
 * Flow Control 流程處理環節
 
+https://github.com/QueenieCplusplus/SQL_SW_CASE 
 
 # Linux Shell 
 since 2019.7.01 ~ 8.01 & 2020.5/21.22
