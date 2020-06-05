@@ -37,7 +37,7 @@ https://github.com/QueenieCplusplus/SQL_NULL
 
 https://github.com/QueenieCplusplus/SQL_Fn
 
-* Stored Procedure 預存函數
+* Stored Procedure 預存函數(無回傳值)
 
 https://github.com/QueenieCplusplus/SQL_Stored_Procedure
 
