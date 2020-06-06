@@ -33,11 +33,11 @@ https://github.com/QueenieCplusplus/SQL_Order_By
 
 https://github.com/QueenieCplusplus/SQL_NULL
 
-* Functions 資料庫函數(有回傳值)
+* Functions 資料庫函數(有回傳值, 可以回傳 text or blob or string)
 
 https://github.com/QueenieCplusplus/SQL_Fn
 
-* Stored Procedure 預存函數(無回傳值)
+* Stored Procedure 預存函數(無回傳值, 可以回傳 table )
 
 https://github.com/QueenieCplusplus/SQL_Stored_Procedure
 
