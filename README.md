@@ -1059,6 +1059,8 @@ since 2019/8, rollback on 2019/12/20
 
 https://github.com/QueenieCplusplus/Backend_Script 登入驗證功能（Nodejs: Express 專案未還原）
 
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#react (js: React 專案，進行中)
+
 https://github.com/QueenieCplusplus/Backend_Script2 建立會議對話識別符 (php: CI & Laravel 專案未還原)
    
 https://github.com/QueenieCplusplus/Backend_Script3 運算與圖像工具 (python: Django 還原)
