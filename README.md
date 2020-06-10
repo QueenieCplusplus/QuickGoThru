@@ -65,7 +65,7 @@ https://github.com/QueenieCplusplus/SQL_Data_Type
 
 * In Loop 迴圈
 
-
+https://github.com/QueenieCplusplus/SQL_Not_In
 
 * API
 
