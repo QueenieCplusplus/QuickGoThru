@@ -7,7 +7,7 @@
 preserved in Future !
 
 # DBA
-since 2020.5/25 ~ 6/05 (10 days)
+since 2020.5/25 ~ 6/09 (14 days)
 
 * Server Architecture 伺服器建置圖
 
@@ -58,6 +58,14 @@ https://github.com/QueenieCplusplus/SQL_SW_CASE (包含 if - else )
 * Time Utility 時間工具
 
 https://github.com/QueenieCplusplus/SQL_Time_Range
+
+* Data Type 資料型別
+
+
+
+* In Loop 迴圈
+
+
 
 * API
 
