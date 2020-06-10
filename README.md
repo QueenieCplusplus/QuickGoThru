@@ -8,7 +8,7 @@ since 2018.6
 GCP...
 
 # React
-since 2019.10
+since 2019.10 & 2020.6/10
 
 https://github.com/QueenieCplusplus/SocketIO (Node && Express App)
 
