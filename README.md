@@ -7,15 +7,6 @@ since 2018.6
 
 GCP...
 
-# PostgreSQL
-since 2020.3 & 2020.6/13
-
-preview: https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#postgresql-1
-
-new study:
-
-to be continued...
-
 # React
 since 2019.10 & 2020.6/10
 
