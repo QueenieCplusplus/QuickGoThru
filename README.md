@@ -13,7 +13,7 @@ since 2020.6/15 ~ 6/30
 
 
 # React
-since 2019.10 & 2020.6/10 & 6/14 (5 days)
+since 2019.10.11 & 2020.6/10 & 6/14 
 
 https://github.com/QueenieCplusplus/SocketIO (Node && Express App)
 
