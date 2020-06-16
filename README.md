@@ -46,6 +46,8 @@ https://github.com/QueenieCplusplus/ICND_Physical_Layer
 
 https://github.com/QueenieCplusplus/ICND_Data_Link_Layer (乙太網路中最常見的交換技術)
 
+https://github.com/QueenieCplusplus/ICND_Bridge (橋接器的交換技術)
+
 https://github.com/QueenieCplusplus/ICND_Frame (資料框內容解析)
 
 (to be continued...)
