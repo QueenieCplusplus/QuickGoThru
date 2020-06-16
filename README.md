@@ -22,7 +22,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cisco-rout
 
 * main-research:
 
-...(to be continued...)
+(to be continued...)
 
 # ICND (CCNA)
 since 2020.6/16 ~ 6/30
@@ -35,7 +35,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 https://github.com/QueenieCplusplus/ICND_OSI_7Layer
 
-...(to be continued...)
+(to be continued...)
 
 # React
 since 2019.10.11 & 2020.6/10 & 6/14 
