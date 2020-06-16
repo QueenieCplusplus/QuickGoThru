@@ -61,6 +61,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#postgresql
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#hadoop
 
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba-1
+
 * Server Architecture 伺服器建置圖
 
 https://github.com/QueenieCplusplus/Server_Architecture/blob/master/README.md
