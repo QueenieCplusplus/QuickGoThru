@@ -35,6 +35,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 https://github.com/QueenieCplusplus/ICND_OSI_7Layer
 
+https://github.com/QueenieCplusplus/ICND_Physical_Layer
+
 (to be continued...)
 
 # React
