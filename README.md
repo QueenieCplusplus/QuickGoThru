@@ -19,6 +19,8 @@ since 2019.10.11 & 2020.6/10 & 6/14
 
 https://github.com/QueenieCplusplus/SocketIO (Node && Express App)
 
+https://github.com/QueenieCplusplus/AI_Watson (AI Express App)
+
 https://github.com/QueenieCplusplus/npx_app (React App)
 
 # DBA
