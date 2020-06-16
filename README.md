@@ -3,9 +3,14 @@
 本儲存庫繼續保留以往 C++ 高階 OOP 語言和 Python 腳本之特色，其他包含 Data Structure、Search Engine 的相關研究著作，現在議題包羅了 IT Security & Hack on Browser & Netwroking 和資料擷取和嗅探 Parser & Extracter 、 Data Mining，未來將研究 ARM (韌體程式邏輯) & Kernel Hacks (系統核心開發)，請拭目以待！
 
 # Cloud Service
-since 2018.6 & 2020.7/1 ~ 7/15
+since 2018.6 & 2020.7/16 ~
 
-GCP...
+preview: https://github.com/QueenieCplusplus/BaaS
+
+GCP...(to be continued...)
+
+# CCNP
+since 2020.7/01 ~ 7/15
 
 # ICND
 since 2020.6/16 ~ 6/30
