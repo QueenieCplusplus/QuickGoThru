@@ -24,7 +24,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cisco-rout
 
 ...(to be continued...)
 
-# ICND
+# ICND (CCNA)
 since 2020.6/16 ~ 6/30
 
 * pre-study:
