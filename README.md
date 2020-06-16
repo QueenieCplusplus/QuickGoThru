@@ -9,19 +9,29 @@ preview: https://github.com/QueenieCplusplus/BaaS
 
 GCP...(to be continued...)
 
+AWS...(to be continued...)
+
 # CCNP
 since 2020.7/01 ~ 7/15
 
-pre-study: 
+* pre-study: 
 
 https://github.com/QueenieCplusplus/QuickGoThru#ccnp-osi-layer-2-3
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cisco-router
 
+* main-research:
 
+...(to be continued...)
 
 # ICND
 since 2020.6/16 ~ 6/30
+
+* pre-study:
+
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco-certified-design-associate-網路架構師專業
+
+* main-research:
 
 https://github.com/QueenieCplusplus/ICND_OSI_7Layer
 
