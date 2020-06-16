@@ -5,11 +5,11 @@
 # Cloud Service
 since 2018.6 & 2020.7/16 ~
 
-preview: https://github.com/QueenieCplusplus/BaaS
+* preview: https://github.com/QueenieCplusplus/BaaS
 
-GCP...(to be continued...)
+* GCP...(to be continued...)
 
-AWS...(to be continued...)
+* AWS...(to be continued...)
 
 # CCNP
 since 2020.7/01 ~ 7/15
@@ -35,6 +35,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 https://github.com/QueenieCplusplus/ICND_OSI_7Layer
 
+...(to be continued...)
 
 # React
 since 2019.10.11 & 2020.6/10 & 6/14 
