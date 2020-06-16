@@ -18,7 +18,6 @@ since 2020.6/16 ~ 6/30
 https://github.com/QueenieCplusplus/ICND_OSI_7Layer
 
 
-
 # React
 since 2019.10.11 & 2020.6/10 & 6/14 
 
@@ -1176,9 +1175,5 @@ https://gist.github.com/PattyAppier?fbclid=IwAR1DdgxMcrm2HJJBTpjEQkti94GkYRK1i03
 since 2017/11
 
 Content is stored in Objective Sotage, which is distributed to Distributed Nodes (Mirror) to improve Internet Consumption Speed.
-
-![akamai](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/50103917_341680980010314_5406345544752693248_o.jpg?_nc_cat=111&_nc_sid=110474&_nc_ohc=o5yfDcT8a0AAX90Z6je&_nc_ht=scontent.ftpe8-3.fna&oh=544a896052994748b766dd289de73478&oe=5EAD014C)
-
-
 
 
