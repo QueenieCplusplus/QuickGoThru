@@ -40,7 +40,11 @@ https://github.com/QueenieCplusplus/ICND_OSI_7Layer
 # React
 since 2019.10.11 & 2020.6/10 & 6/14 
 
+* pre-study:
+
 https://github.com/QueenieCplusplus/SocketIO (Express App)
+
+* main-research:
 
 https://github.com/QueenieCplusplus/AI_Watson (AI Express App)
 
