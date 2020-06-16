@@ -1,6 +1,6 @@
 # QueenieCplusplus/QuickGoThru
 
-本儲存庫繼續保留以往 C++ 高階 OOP 語言和 Python 腳本之特色，其他包含 Data Structure、Search Engine、DBA (MySQL & PostgreSQL) 的相關研究著作，現在議題包羅了 IT Security & Hack on Browser & Netwroking 和資料擷取和嗅探 Data Mining，為來將主攻雲端技術 Cloud Service ，敬請拭目以待。
+本儲存庫繼續保留以往 C++ 高階程式語言和 Python 腳本特色，且包含 Data Structure、Search Engine、DBA (MySQL & PostgreSQL) 的相關研究著作，議題尚包羅 IT Security & Hack on Browser & Netwroking 和資料擷取和嗅探 Data Mining，為來將主攻雲端技術 Cloud Service ，敬請拭目以待。
 
 # Cloud Service
 since 2018.6 & 2020.7/16 ~
