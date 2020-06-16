@@ -35,6 +35,8 @@ since 2020.5/25 ~ 6/09 (14 days)
 pre-study:
 https://github.com/QueenieCplusplus/QuickGoThru#sql
 
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#postgresql
+
 * Server Architecture 伺服器建置圖
 
 https://github.com/QueenieCplusplus/Server_Architecture/blob/master/README.md
