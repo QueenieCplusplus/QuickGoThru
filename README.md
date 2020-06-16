@@ -44,11 +44,13 @@ since 2019.10.11 & 2020.6/10 & 6/14
 
 * pre-study:
 
+https://github.com/QueenieCplusplus/QuickGoThru#腳本語言
+
 https://github.com/QueenieCplusplus/SocketIO (Express App)
 
-* main-research:
-
 https://github.com/QueenieCplusplus/AI_Watson (AI Express App)
+
+* main-research:
 
 https://github.com/QueenieCplusplus/npx_app (React App)
 
