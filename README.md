@@ -91,6 +91,8 @@ https://github.com/QueenieCplusplus/SQL_NULL
 
 https://github.com/QueenieCplusplus/SQL_Fn
 
+https://github.com/QueenieCplusplus/PostgreSQL/blob/master/psql_function_tips.pdf
+
 * Stored Procedure 預存函數(無回傳值, 可以回傳 table )
 
 https://github.com/QueenieCplusplus/SQL_Stored_Procedure
