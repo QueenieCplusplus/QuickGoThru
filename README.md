@@ -32,10 +32,13 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 # DBA
 since 2020.5/25 ~ 6/09 (14 days)
 
-pre-study:
+* pre-study:
+
 https://github.com/QueenieCplusplus/QuickGoThru#sql
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#postgresql
+
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#hadoop
 
 * Server Architecture 伺服器建置圖
 
