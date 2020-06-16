@@ -10,6 +10,8 @@ GCP...
 # ICND
 since 2020.6/16 ~ 6/30
 
+https://github.com/QueenieCplusplus/ICND_OSI_7Layer
+
 
 
 # React
