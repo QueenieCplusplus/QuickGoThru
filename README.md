@@ -12,6 +12,8 @@ GCP...(to be continued...)
 # CCNP
 since 2020.7/01 ~ 7/15
 
+pre-study: https://github.com/QueenieCplusplus/QuickGoThru#ccnp-osi-layer-2-3
+
 # ICND
 since 2020.6/16 ~ 6/30
 
