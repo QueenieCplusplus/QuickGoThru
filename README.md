@@ -42,7 +42,7 @@ https://github.com/QueenieCplusplus/HA_solutions
 
 https://github.com/QueenieCplusplus/DB_Cluster
 
-* SQL Statement 資料操作述句 DDL / DML
+* SQL Access & Statement（DDL / DML） 資料存取與操作述句 
 
 https://github.com/QueenieCplusplus/SQL_Statement
 
