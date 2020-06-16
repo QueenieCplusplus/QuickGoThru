@@ -37,7 +37,7 @@ https://github.com/QueenieCplusplus/ICND_OSI_7Layer
 
 https://github.com/QueenieCplusplus/ICND_Physical_Layer
 
-https://github.com/QueenieCplusplus/ICND_Data_Link_Layer
+https://github.com/QueenieCplusplus/ICND_Data_Link_Layer (乙太網路中最常見的交換技術)
 
 (to be continued...)
 
