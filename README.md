@@ -305,7 +305,7 @@ https://github.com/QueenieCplusplus/QuickGoThru#搜索引擎
 * Main Study :
 
 # Hadoop
-since 2019.12 & 2020.5/16 ~
+since 2019.12 & 2020.5/16
 
 * Main Charaters:
 
