@@ -58,7 +58,7 @@ https://github.com/QueenieCplusplus/ICND_Internet_Packet#路由設備 (路由器
 
 https://github.com/QueenieCplusplus/ICND_TCP
 
-https://github.com/QueenieCplusplus/ICND_Connection (ISDN & Frame Relay)
+https://github.com/QueenieCplusplus/ICND_Connection (RJ45 & TxRx)
 
 (to be continued...)
 
