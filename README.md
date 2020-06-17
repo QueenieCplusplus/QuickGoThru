@@ -1099,12 +1099,6 @@ codebase(2018) https://gist.github.com/PattyAppier?fbclid=IwAR1DdgxMcrm2HJJBTpjE
 
 Lifecycle of app https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/README.md#system-software-security
 
-![C](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/46499002_277135316275746_6852937246404771840_o.png?_nc_cat=111&_nc_sid=dd9801&_nc_ohc=EIHTNLFf74sAX9v9m-K&_nc_ht=scontent.ftpe8-3.fna&oh=65c1987f940a95125fab594403a71f48&oe=5EACFB23)
-
-![mylucky7app](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/32853922_165886317589782_5830205589338193920_o.jpg?_nc_cat=110&_nc_sid=daf655&_nc_ohc=O49aJEhX50wAX_YTNFm&_nc_ht=scontent.ftpe8-4.fna&oh=696479d634e2bd39d0f4cedf9de69270&oe=5EACB694)
-
-![myios](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/91160543_556288008360474_5139629866672455680_n.jpg?_nc_cat=111&_nc_sid=110474&_nc_ohc=-bZKzU09FrcAX9yqu-P&_nc_ht=scontent.ftpe8-3.fna&oh=69484c6da9289a1da94d287d6fca70fd&oe=5EAE7E5D)
-
 
 * UML & Spec
 
@@ -1122,9 +1116,6 @@ Lifecycle of app https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/READ
 
      https://developer.android.com/about/versions/10 （Android 開發者官網）
      
-     ![pokemon](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/33141809_168523297326084_8569444557161234432_o.jpg?_nc_cat=100&_nc_sid=daf655&_nc_ohc=qZndPQuVmXUAX8pPJc2&_nc_ht=scontent.ftpe8-2.fna&oh=7d7fe38bf25d12d2dbfd590a5d85bf81&oe=5EAE5831)
-     
-     ![myandroid](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/91398353_556287971693811_2258677452190515200_n.jpg?_nc_cat=100&_nc_sid=110474&_nc_ohc=GSlq76-Y-xwAX8tzwkk&_nc_ht=scontent.ftpe8-2.fna&oh=d9b968960ee96a4086fe6106c7e418b2&oe=5EAE88E6)
 
 * React Native : redpint819
 
@@ -1135,8 +1126,6 @@ Lifecycle of app https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/READ
 # 雲端後端
 
 since 2018/6, all repos will be hidden from public
-
-![GCP](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/48389805_900814930309294_4733238699620302848_n.png?_nc_cat=105&_nc_sid=8024bb&_nc_ohc=tV5F4PeHOMUAX-X6gw8&_nc_ht=scontent.ftpe8-1.fna&oh=5cbc5dbc9c43e1a92a3d0d138bd0f8fd&oe=5EAED3DB)
 
 * BaaS : quinoaPy
 
