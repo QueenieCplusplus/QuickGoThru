@@ -17,7 +17,7 @@ since 2020.7/01 ~ 7/15
 
 * pre-study: 
 
-https://github.com/QueenieCplusplus/QuickGoThru#ccnp-osi-layer-2-3
+https://github.com/QueenieCplusplus/QuickGoThru#ccnp-osi-layer-2-3 (EIGRP & OSPF)
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cisco-router (Static Routing & Dynamic Routing for Private IP)
 
