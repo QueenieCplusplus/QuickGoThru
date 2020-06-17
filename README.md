@@ -348,8 +348,6 @@ https://github.com/QueenieCplusplus/QuickGoThru#搜索引擎
 
 * Review:
 
-![postgresql](https://covers.oreillystatic.com/images/0636920052715/lrg.jpg)
-
 https://github.com/QueenieCplusplus/PSQL_command_tool (below version 9.2)
 
 https://github.com/QueenieCplusplus/PSQL_interactive_cli (below version 9.2)
@@ -359,6 +357,8 @@ https://github.com/QueenieCplusplus/PSQL_interactive_cli (below version 9.2)
 https://github.com/QueenieCplusplus/PostgreSQL_Hosts
 
 * Table & Functions
+
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba (MySQL)
 
 
 # Kernel Hackers
