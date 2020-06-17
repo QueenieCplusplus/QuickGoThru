@@ -44,6 +44,8 @@ https://github.com/QueenieCplusplus/ICND_OSI_7Layer
 
 https://github.com/QueenieCplusplus/ICND_Physical_Layer
 
+https://github.com/QueenieCplusplus/ICND_Physical_Layer#集線器 (集線器)
+
 https://github.com/QueenieCplusplus/ICND_Data_Link_Layer (乙太網路中最常見的交換技術)
 
 https://github.com/QueenieCplusplus/ICND_Bridge (橋接器的交換技術)
