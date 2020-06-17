@@ -36,7 +36,7 @@ since 2020.6/16 ~ 6/30
 
 * pre-study:
 
-https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco-certified-design-associate-網路架構師專業
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco-certified-design-associate-網路架構師專業 (LAN & WAN)
 
 * main-research:
 
