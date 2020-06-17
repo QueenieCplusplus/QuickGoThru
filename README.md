@@ -52,7 +52,7 @@ https://github.com/QueenieCplusplus/ICND_Frame (資料框內容解析)
 
 https://github.com/QueenieCplusplus/ICND_Internet_Packet (網路封包)
 
-https://github.com/QueenieCplusplus/ICND_Internet_Packet#路由設備 (路由器的技術)
+https://github.com/QueenieCplusplus/ICND_Internet_Packet#路由設備 (路由器與路由表)
 
 (to be continued...)
 
