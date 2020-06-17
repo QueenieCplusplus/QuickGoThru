@@ -157,7 +157,6 @@ since 2019.7.01 ~ 8.01 & 2020.5/21.22
 
     讓我嘶吼一下！ 兩年半來買了一百多本科技書，終於輪到這本，呦呼～～～
 
-![linux shell](http://www.drmaster.com.tw/Cover/big/MP21617.jpg)
 
 * Basic Usage
 
@@ -228,7 +227,7 @@ since 2019.7.01 ~ 8.01 & 2020.5/21.22
       https://github.com/QueenieCplusplus/LinuxShell_fgbg (fg or bg)
 
 # Bash  (Shell Scripts for Unix)
-since 2018.5 & 2019.4 & 2020.5/18 ~ 5/21 ![bash shell](https://cf-assets2.tenlong.com.tw/products/images/000/106/490/original/9789864763672.jpg?1525538893)
+since 2018.5 & 2019.4 & 2020.5/18 ~ 5/21 
 
 * POSIX
 
@@ -361,11 +360,9 @@ https://github.com/QueenieCplusplus/PostgreSQL_Hosts
 
 * Table & Functions
 
-(to be continued...)
 
 # Kernel Hackers
 since 2020/4/30-5/02
-![kernels](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/92057070_4153295244684252_4015601745232134144_o.jpg?_nc_cat=102&_nc_sid=2d5d41&_nc_ohc=Ysv86wkyPncAX-zxlqN&_nc_ht=scontent.ftpe8-4.fna&oh=e959864002d891a9e194b16337e3d8ac&oe=5EB037F0)
 
 * Source Mgmt
 
@@ -395,7 +392,7 @@ since 2020/4/30-5/02
    
 * Network
 
-    https://github.com/QueenieCplusplus/Kernel_Network/blob/master/README.md
+    https://github.com/QueenieCplusplus/Kernel_Network
 
 * VM
 
@@ -433,15 +430,11 @@ since 2020/4/13, 21, 22, 24
 
 https://github.com/QueenieCplusplus/SSCP
 
-![sscp](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/93308664_154086846081152_7897672463310389248_o.jpg?_nc_cat=103&_nc_sid=8024bb&_nc_ohc=quXC3I7Ue1sAX_T6QoC&_nc_ht=scontent.ftpe8-2.fna&oh=258bc5a665e99e0738a102e00681c6f9&oe=5EB7A3CC)
-
 
 # C Again
 since 2020/4/07 - 4/08, 4/11
 
 https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/README.md
-
-![linux_sys_program](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/92228449_4150166321663811_8556874175728320512_o.jpg?_nc_cat=101&_nc_sid=2d5d41&_nc_ohc=I-y87Xkp9e8AX9q8KLN&_nc_ht=scontent.ftpe8-2.fna&oh=0ce0edfcf0ce397c374a383fce4c5e67&oe=5EAF4D40)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -450,16 +443,11 @@ since 2020/4/04 - 4/06
 
 https://github.com/QueenieCplusplus/Perl_Again
 
-![perl](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/91909804_4142636599083450_5917151593018425344_o.jpg?_nc_cat=101&_nc_sid=2d5d41&_nc_ohc=ofXp29-FLr8AX9imAvk&_nc_ht=scontent.ftpe8-2.fna&oh=de7ca1e48c0891f58998ff077646ef0b&oe=5EADA18F)
-
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # Cisco Router
 since 2020/3/28 - 4/03, 5/03
 
-![net](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/91250330_4131843193496124_7225672568689131520_o.jpg?_nc_cat=111&_nc_sid=2d5d41&_nc_ohc=NasdR3yOZjsAX-P1vfI&_nc_ht=scontent.ftpe8-3.fna&oh=aafcfcba4b5ce5ae513ad97fc6a99ec2&oe=5EAC85D2)
-
-＿＿＿＿＿＿
 
 * AS:
 
@@ -541,8 +529,6 @@ https://github.com/QueenieCplusplus/Source_Route_Bridging (Source_Route)
 
 since 2020/4/02 - 4/04 & 4/09, 5/03
 
-![architecture](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/90356838_4112599058753871_5151945715458506752_o.jpg?_nc_cat=102&_nc_sid=2d5d41&_nc_ohc=wzWx2Snse6kAX8BStzA&_nc_ht=scontent.ftpe8-4.fna&oh=c40a5ab47e5af6b14d6ffbf8ebc60579&oe=5EABDFC5)
-
 Assessment https://github.com/QueenieCplusplus/Static_and_Dynamic (Routing Protocols)
 
 Interior and Exterial (Private IP & Public IP) https://github.com/QueenieCplusplus/IGP_and_BGP
@@ -603,26 +589,10 @@ BGP (on contrast to IGRP) https://github.com/QueenieCplusplus/BGP
 
    * SNMP https://github.com/QueenieCplusplus/SNMP
 
-＿＿＿＿＿＿
-
-* WAN Performance Indicators:
-
-- [X] Data Compression
-
-- [X] Window Size
-
-- [X] Queue
-
-- [X] Shape
-
-- [X] Policy
-
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # DBA 
 since 2020/3/04 & 3/07
-
-![odbc](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/46682128_2730379330309191_2557865780267974656_o.jpg?_nc_cat=104&_nc_sid=dd9801&_nc_ohc=69tWO55x8FoAX8j5GPs&_nc_ht=scontent.ftpe8-4.fna&oh=8da4bae87486f36d8e8165900338462a&oe=5EAE6BC9)
 
 * MySQL
   
@@ -668,15 +638,12 @@ version of system   | √ |
  monitor & log      | √ |               
 
 # Bot Being
-![bot](https://upload.wikimedia.org/wikipedia/commons/c/c2/Gnome-stock_person_bot.svg)since 2020/1/02 新年紀念版
 
 https://github.com/QueenieCplusplus/CrawlerByUsingPython
 
 
 # 解析封包
 since 2017/10/20 & update on 2020/02/27 
-
-![Inetnet Packet](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/78979984_100131028143401_6743161275343175680_o.jpg?_nc_cat=102&_nc_sid=05277f&_nc_ohc=F4R51Dr1QYcAX_iTdOt&_nc_ht=scontent.ftpe8-4.fna&oh=adbad6ff5506a68416d0b2800d6a52b6&oe=5EAD3048)
 
 https://github.com/QueenieCplusplus/Extension_IP_Header (Http Header)
 
@@ -691,8 +658,6 @@ https://github.com/QueenieCplusplus/DataMining_Spark (Smarter Pandas)
 # 網頁前端
 since 2020/2/29 quickstart
 
-![front end](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/49714036_338771176967961_5749859859470221312_o.jpg?_nc_cat=101&_nc_sid=8024bb&_nc_ohc=tBb_sHdb0sgAX9D3eZw&_nc_ht=scontent.ftpe8-2.fna&oh=675033235dd6794a4a60dced0811b4aa&oe=5EAC5B0C)
-
 https://github.com/QueenieCplusplus/React (React)
 
 https://github.com/QueenieCplusplus/H5 (HTML5)
@@ -701,8 +666,6 @@ https://github.com/QueenieCplusplus/H5 (HTML5)
 
 # 容器管理工具和瀏覽器平台解讀執行中的程式碼
 since 2020/1/04 quickstart
-
-![container](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/44590289_295590661286013_2341529828051648512_o.jpg?_nc_cat=106&_nc_sid=110474&_nc_ohc=ILqNaY8wdMUAX8JKLJi&_nc_ht=scontent.ftpe8-3.fna&oh=0d66364482942caa0bad2a7dbb4c622a&oe=5EABE530)
 
 https://github.com/QueenieCplusplus/Jupyter
 
@@ -746,8 +709,6 @@ since 2015 & 2019/12/24
 
 # 駭客技術 
 since 2018/2 & 2019/12/22
-
-![black hat](https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/91406067_149826639840506_1249889269011447808_o.jpg?_nc_cat=105&_nc_sid=dd9801&_nc_ohc=ieFo74uET7UAX9v61kI&_nc_ht=scontent.ftpe8-1.fna&oh=ab939810b8f1c9781b392f278580d520&oe=5EAEBEA2)
 
 一, 利用 CORs 旁繞 SOP 再行 XSS, 網路應用程式的跨域及跨站攻擊
  
@@ -908,8 +869,6 @@ since 2019/, rollback on 2019/12/20
 # 大數據
 since 12/18, 2019
 
-![hadoop](https://d1.awsstatic.com/Projects/Analyze%20Big%20Data/aws-project_analyze-big-data_diagram.a6eac723a050d5841a9656225b73ecdad2da18d8.png)
-
 基礎觀念：
 
 * CAP
@@ -954,8 +913,6 @@ since 2018/11 & 2019/10/14-11/11
   https://github.com/QueenieCplusplus/AI_Webhook
 
 - [x] chatBot, 聊天機器人
-
-  ![AI](https://external.ftpe8-2.fna.fbcdn.net/safe_image.php?d=AQAbvPZSvdwJWFM8&w=540&h=282&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh0WPJqd78Qg%2Fhqdefault.jpg&cfs=1&upscale=1&fallback=news_d_placeholder_publisher&_nc_hash=AQDA1N5O8yMqy1He)
   
   plz click on this url: https://www.youtube.com/watch?v=h0WPJqd78Qg&feature=youtu.be&fbclid=IwAR3vyXC6PN0tDHxNB-2T7Tu6IS6Xs_aDFkqQviJjY4F0d4L7geMGykGe2gY
 
@@ -995,8 +952,6 @@ since 2019/7 & 2019/12/21
   https://github.com/QueenieCplusplus/DBA_Logics (查詢邏輯)
   
   查詢詞語 (略)
-  
-* Oracle MySQL (Done)
 
 * Redis DB
 
@@ -1075,8 +1030,6 @@ since 12/20, 2019
 # 程式語言
 since 11/16 & 11/22 & 12/25, 2019
 
-![C++](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/76194400_1161384307585687_7259639227355234304_o.jpg?_nc_cat=102&_nc_sid=2d5d41&_nc_ohc=A7XJCvyj97EAX-LTQdO&_nc_ht=scontent.ftpe8-4.fna&oh=b1b4c93808a384805470a959ba3055a8&oe=5EAC935E)
-
 https://github.com/QueenieCplusplus/1122Try (C in 2019)
 
 https://github.com/QueenieCplusplus/Qs_C (C in 2020)
@@ -1102,8 +1055,6 @@ https://gist.github.com/PattyAppier?fbclid=IwAR1DdgxMcrm2HJJBTpjEQkti94GkYRK1i03
 # 腳本語言
 since 2019/8, rollback on 2019/12/20
 
-![hackathon](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/70703759_487561688755575_4016249688293376_o.jpg?_nc_cat=110&_nc_sid=8024bb&_nc_ohc=X_X9uQCoTooAX86FrHg&_nc_ht=scontent.ftpe8-4.fna&oh=3287770d7e85d474f62c55c2f7b9c220&oe=5EAD38A9)
-
 https://github.com/QueenieCplusplus/Backend_Script 登入驗證功能（Nodejs: Express 專案未還原）
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#react (js: React 專案，進行中)
@@ -1117,8 +1068,6 @@ https://github.com/QueenieCplusplus/Ruby_Cart 電商常用購物車 (ruby: Rail 
 https://github.com/QueenieCplusplus/Perl (perl)
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#perl-again (perl again)
-
-![php](https://scontent.ftpe8-2.fna.fbcdn.net/v/t1.0-9/53419721_371771003667978_5518997636369088512_n.jpg?_nc_cat=103&_nc_sid=110474&_nc_ohc=oZH25eTIOPcAX9S1gRN&_nc_ht=scontent.ftpe8-2.fna&oh=c06fc88120602233b5614c64b24e64cd&oe=5EADB8E8)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
@@ -1156,7 +1105,6 @@ Lifecycle of app https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/READ
 
 ![myios](https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/91160543_556288008360474_5139629866672455680_n.jpg?_nc_cat=111&_nc_sid=110474&_nc_ohc=-bZKzU09FrcAX9yqu-P&_nc_ht=scontent.ftpe8-3.fna&oh=69484c6da9289a1da94d287d6fca70fd&oe=5EAE7E5D)
 
-![react_native](https://akkar.media/wp-content/uploads/2018/12/khoa-hoc-lap-trinh-com-phong-van-vi-tri-react-native-6-thang-kinh-nghiem-can-nhung-gi-87676.png)
 
 * UML & Spec
 
