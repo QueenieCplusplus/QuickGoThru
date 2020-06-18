@@ -1,4 +1,4 @@
-本儲存庫繼續保留以往 C++ 高階程式語言和 Python 腳本特色，且包含 Data Structure、Search Engine、DBA (MySQL & PostgreSQL) 的相關研究著作，議題尚包羅 IT Security & Hack on Browser & Netwroking 和資料擷取和嗅探 Data Mining，為來將主攻雲端技術 Cloud Service ，敬請拭目以待。
+本儲存庫繼續保留以往 C++ 高階程式語言和 Python 腳本特色和資料擷取和嗅探 Data Mining，且包含 Data Structure、Search Engine、DBA 的相關研究著作，議題尚包羅 IT Security & Hack on Browser & Netwroking ，未來將主攻雲端技術 Cloud Service ，敬請拭目以待。 ：）
 
         有鑒於許多程式設計師或是其它非網路領域的工程師抑或是資安稽核者...，
         未花心力、時間、精神於網路知識，但所有產業一數位服務能否成功上線，
