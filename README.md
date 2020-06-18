@@ -43,7 +43,7 @@ https://github.com/QueenieCplusplus/CCNP_DataLink
 
 https://github.com/QueenieCplusplus/Network_Infra#graphics-of-network-placement
 
-* main-research:
+* OSI 7 Layer
 
 https://github.com/QueenieCplusplus/ICND_OSI_7Layer
 
