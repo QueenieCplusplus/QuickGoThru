@@ -60,7 +60,7 @@ https://github.com/QueenieCplusplus/ICND_TCP
 
 https://github.com/QueenieCplusplus/ICND_Connection (RJ45 & TxRx)
 
-https://github.com/QueenieCplusplus/ICND_CLI
+https://github.com/QueenieCplusplus/ICND_CLI (交換器與路由器設定指令)
 
 (to be continued...)
 
