@@ -67,6 +67,8 @@ https://github.com/QueenieCplusplus/ICND_Connection (RJ45 & TxRx)
 
 https://github.com/QueenieCplusplus/ICND_CLI (交換器與路由器設定指令)
 
+https://github.com/QueenieCplusplus/ICND_CDP (管理網路環境)
+
 (to be continued...)
 
 # React
