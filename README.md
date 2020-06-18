@@ -444,14 +444,11 @@ since 2020/4/07 - 4/08, 4/11
 
 https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/README.md
 
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # Perl Again
 since 2020/4/04 - 4/06
 
 https://github.com/QueenieCplusplus/Perl_Again
-
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 # Cisco Router
 since 2020/3/28 - 4/03, 5/03
