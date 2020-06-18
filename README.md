@@ -69,9 +69,11 @@ https://github.com/QueenieCplusplus/ICND_Internet_Packet#路由設備 (路由器
 
 https://github.com/QueenieCplusplus/ICND_TCP
 
-* RJ-45
+* 接線
 
 https://github.com/QueenieCplusplus/ICND_Connection (RJ45 & TxRx)
+
+* 指令
 
 https://github.com/QueenieCplusplus/ICND_CLI (交換器與路由器設定指令)
 
