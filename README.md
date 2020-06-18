@@ -41,6 +41,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 https://github.com/QueenieCplusplus/CCNP_DataLink
 
+https://github.com/QueenieCplusplus/Network_Infra#graphics-of-network-placement
+
 * main-research:
 
 https://github.com/QueenieCplusplus/ICND_OSI_7Layer
