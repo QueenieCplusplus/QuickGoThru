@@ -83,6 +83,10 @@ https://github.com/QueenieCplusplus/ICND_CDP (管理網路環境)
 
 https://github.com/QueenieCplusplus/ICND_IFS
 
+* Telnet (SSH)
+
+https://github.com/QueenieCplusplus/ICND_Telnet
+
 (to be continued...)
 
 # React
