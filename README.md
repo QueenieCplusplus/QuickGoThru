@@ -443,7 +443,7 @@ https://github.com/QueenieCplusplus/SSCP
 # C Again
 since 2020/4/07 - 4/08, 4/11
 
-https://github.com/QueenieCplusplus/Linux_sys_program/blob/master/README.md
+https://github.com/QueenieCplusplus/Linux_sys_program
 
 
 # Perl Again
@@ -469,24 +469,26 @@ https://github.com/QueenieCplusplus/RIF (Routing Table's Field)
 * Private IP
 
    * Static IP, 靜態邏輯位置設定
+   
+      * Static Routing, 靜態路由設定
 
-     * https://github.com/QueenieCplusplus/Static_Routing (Static Routing)
+           * https://github.com/QueenieCplusplus/Static_Routing (Static Routing)
+          
+      * Dynamic Routing, 動態路由設定
 
-     * https://github.com/QueenieCplusplus/RIP (Dynamic Routing, Distance-Vector 距離向量)
+           * https://github.com/QueenieCplusplus/RIP (Distance-Vector 距離向量)
      
-       https://github.com/QueenieCplusplus/CCNP_EIGRP
+           * https://github.com/QueenieCplusplus/CCNP_EIGRP
      
-          * https://github.com/QueenieCplusplus/HSRP (HSRP)
+           * https://github.com/QueenieCplusplus/HSRP (HSRP)
 
-     * https://github.com/QueenieCplusplus/OSPF (Dynamic Routing, LSA 鏈結狀態通告) 
+           * https://github.com/QueenieCplusplus/OSPF (LSA 鏈結狀態通告) 
      
-       https://github.com/QueenieCplusplus/CCNP_OSPF
+           * https://github.com/QueenieCplusplus/CCNP_OSPF
 
    * Dynamic IP, 動態邏輯位置分配
 
      * DHCP, 動態主機設定 (協定)
-     
-     ![dhcp server as end devices](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/95108454_4236178209729288_944513370529202176_o.jpg?_nc_cat=110&_nc_sid=2d5d41&_nc_ohc=svKyATzPYs4AX8iwhiV&_nc_ht=scontent.ftpe8-4.fna&oh=51b987b5fb2b5c80f455ba755d1647b1&oe=5ECD08F3)
    
 * Public IP
    
