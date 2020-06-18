@@ -77,15 +77,15 @@ https://github.com/QueenieCplusplus/ICND_CLI (交換器與路由器設定指令)
 
 * CDP | LLDP
 
-https://github.com/QueenieCplusplus/ICND_CDP (管理網路環境)
+https://github.com/QueenieCplusplus/ICND_CDP (相鄰設備)
 
 * IFS
 
-https://github.com/QueenieCplusplus/ICND_IFS
+https://github.com/QueenieCplusplus/ICND_IFS (ISO 檔案系統)
 
 * Telnet (SSH)
 
-https://github.com/QueenieCplusplus/ICND_Telnet
+https://github.com/QueenieCplusplus/ICND_Telnet (遠端設備)
 
 (to be continued...)
 
