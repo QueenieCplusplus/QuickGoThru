@@ -11,20 +11,21 @@ since 2018.6 & 2020.7/16 ~
 
 * preview: https://github.com/QueenieCplusplus/BaaS
 
-* GCP...(to be continued...)
+* GCP
 
-* AWS...(to be continued...)
-    
+* AWS
+
+(to be continued...)
 
 # CCNP
 since 2020.7/01 ~ 7/15
 
 * pre-study: 
 
-https://github.com/QueenieCplusplus/QuickGoThru#ccnp-osi-layer-2-3 (EIGRP & OSPF)
+https://github.com/QueenieCplusplus/QuickGoThru#ccnp-osi-layer-2-3 
+(EIGRP & OSPF)
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cisco-router 
-
 (Dynamic Routing for Private IP)
 
 * main-research:
