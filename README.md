@@ -39,6 +39,8 @@ since 2020.6/16 ~ 6/30
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco-certified-design-associate-網路架構師專業 (LAN & WAN)
 
+https://github.com/QueenieCplusplus/CCNP_DataLink
+
 * main-research:
 
 https://github.com/QueenieCplusplus/ICND_OSI_7Layer
