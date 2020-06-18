@@ -346,7 +346,7 @@ https://github.com/QueenieCplusplus/DataMining_Spark#spark--hadoop (Hadoop & Spa
 3. IO Bound, 網路密集的應用
 
 # PostgreSQL
-since 2020.3 and 2020.5/17~
+since 2020.3 and 2020.5/17
 
 * Preview:
 
@@ -428,7 +428,7 @@ since 2020/4/27-29, 5/04
      
      https://github.com/QueenieCplusplus/CCNP_OSPF
 
-# VM (Hyper-V||VMware)
+# VM 
 since 2020/4/22, 23 
 
 https://github.com/QueenieCplusplus/VM
@@ -456,16 +456,9 @@ https://github.com/QueenieCplusplus/Perl_Again
 # Cisco Router
 since 2020/3/28 - 4/03, 5/03
 
-
-* AS:
-
-   * https://github.com/QueenieCplusplus/IGP_and_BGP (自治系統網路架構間的網路設計)
-
-＿＿＿＿＿＿
+https://github.com/QueenieCplusplus/IGP_and_BGP (自治系統網路架構間的網路設計)
 
 https://github.com/QueenieCplusplus/PPP (點對點協定)
-
-＿＿＿＿＿＿
 
 https://github.com/QueenieCplusplus/Network_Infra (路由與交換機) 
 
@@ -498,38 +491,20 @@ https://github.com/QueenieCplusplus/RIF (Routing Table's Field)
      ![dhcp server as end devices](https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/95108454_4236178209729288_944513370529202176_o.jpg?_nc_cat=110&_nc_sid=2d5d41&_nc_ohc=svKyATzPYs4AX8iwhiV&_nc_ht=scontent.ftpe8-4.fna&oh=51b987b5fb2b5c80f455ba755d1647b1&oe=5ECD08F3)
    
 * Public IP
-
-   NAT, 網路位置轉換（演算法）
    
    https://github.com/QueenieCplusplus/NAT (NAT)
-   
-＿＿＿＿＿＿
 
 Terminology:
 
 https://github.com/QueenieCplusplus/Networking (網路觀測技術及網路應用層)
 
-＿＿＿＿＿＿
-
 Codebase: 
 
 https://github.com/QueenieCplusplus/Band_Width (thruput in Bit & storage in Bytes, and display their conversion in code)
 
-＿＿＿＿＿＿
-
 Bridge: 
 
 https://github.com/QueenieCplusplus/Source_Route_Bridging (Source_Route)
-
-＿＿＿＿＿＿
-
-(Routers Braodcast)
-
-(Redistribution)
-
-(Filter Routing Info)
-
-(Difussing Update Algorithm)
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
