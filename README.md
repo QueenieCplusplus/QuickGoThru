@@ -107,15 +107,17 @@ https://github.com/QueenieCplusplus/ICND_Telnet (遠端設備)
 
 * IP Route (路徑選擇)
 
-* PPP
+* PPP (點對點序列式連線)
 
-* IPX
+* Post-Study
 
-(to be continued...)
+     * IPX
 
-* Access Control
+     * Access Control
 
-(to be continued...)
+     * BRI
+
+     * RVC
 
 # React
 since 2019.10.11 & 2020.6/10 & 6/14 
