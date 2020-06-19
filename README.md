@@ -11,7 +11,7 @@
 7/15
 
 # Cloud Service
-since 2018.6 & 2020.7/02 ~ 7/14
+since 2018.6 & 2020.7/03 ~ 7/14
 
 * preview: https://github.com/QueenieCplusplus/BaaS
 
@@ -22,7 +22,7 @@ since 2018.6 & 2020.7/02 ~ 7/14
 (to be continued...)
 
 # CCNP
-since 2020.6/26 ~ 7/01
+since 2020.6/26 ~ 7/02
 
 * pre-study: 
 
