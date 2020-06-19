@@ -93,9 +93,9 @@ https://github.com/QueenieCplusplus/ICND_Telnet (遠端設備)
 
   * 交換器運作原理、設定、MAC address table (略，請詳 Bridge)
 
-* Vlan (switcher)
+* Vlan (Switcher)
 
-  ING....
+  * ING....
 
 * TCP/IP 
 
