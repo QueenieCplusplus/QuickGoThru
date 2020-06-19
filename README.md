@@ -7,7 +7,7 @@
                   故本筆者想多做網路精進的篇章，預計八月前完成。
 
 # Cloud Service
-since 2018.6 & 2020.7/08 ~ 7/14
+since 2018.6 & 2020.7/02 ~ 7/14
 
 * preview: https://github.com/QueenieCplusplus/BaaS
 
@@ -18,7 +18,7 @@ since 2018.6 & 2020.7/08 ~ 7/14
 (to be continued...)
 
 # CCNP
-since 2020.5/26 ~ 7/07
+since 2020.6/26 ~ 7/01
 
 * pre-study: 
 
