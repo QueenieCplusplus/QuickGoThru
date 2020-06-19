@@ -97,6 +97,8 @@ https://github.com/QueenieCplusplus/ICND_Telnet (遠端設備)
 
 * IP Route (路徑選擇)
 
+* IPX
+
 (to be continued...)
 
 # React
