@@ -105,9 +105,13 @@ https://github.com/QueenieCplusplus/ICND_Telnet (遠端設備)
 
   * (略，請詳 TCP)
 
-* IP Route (路徑選擇)
+* IP Route 
 
-* PPP (點對點序列式連線)
+   (路徑選擇)
+
+* PPP 
+
+   (點對點序列式連線)
 
 * Post-Study
 
