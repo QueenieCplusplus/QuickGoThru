@@ -99,7 +99,7 @@ https://github.com/QueenieCplusplus/ICND_Telnet (遠端設備)
 
 * Vlan 
 
-  * ING.... (虛擬區域網路)
+https://github.com/QueenieCplusplus/ICND_VLAN (虛擬區域網路)
 
 * TCP/IP 
 
