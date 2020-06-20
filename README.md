@@ -113,7 +113,14 @@ https://github.com/QueenieCplusplus/ICND_TCPIP#subnet-mask (網路遮罩)
 
 * IP Route 
 
-   sh ip route (路徑選擇)
+   * sh ip route (路徑選擇)
+   
+   * sub-prestudy
+   
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccnp-osi-layer-2-3
+     
+   * 
+   
 
 * PPP 
 
