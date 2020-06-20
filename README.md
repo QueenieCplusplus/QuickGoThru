@@ -81,6 +81,8 @@ https://github.com/QueenieCplusplus/ICND_Connection (RJ45 & TxRx)
 
 https://github.com/QueenieCplusplus/ICND_CLI (交換器與路由器設定指令)
 
+https://github.com/QueenieCplusplus/ICND_TCPIP/blob/master/README.md#ip-set-up (為交換器介面、路由器介面、主機設定邏輯網路位置)
+
 * CDP | LLDP
 
 https://github.com/QueenieCplusplus/ICND_CDP (相鄰設備)
