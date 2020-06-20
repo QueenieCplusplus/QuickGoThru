@@ -103,7 +103,7 @@ https://github.com/QueenieCplusplus/ICND_VLAN (虛擬區域網路，網管人的
 
 * TCP/IP 
 
-https://github.com/QueenieCplusplus/ICND_TCPIP
+https://github.com/QueenieCplusplus/ICND_TCPIP (傳輸層與網路層)
 
 * IP Route 
 
