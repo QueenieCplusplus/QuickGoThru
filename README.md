@@ -22,7 +22,7 @@ since 2018.6 & 2020.7/03 ~ 7/14
 (to be continued...)
 
 # CCNP
-since 2020.6/25 ~ 7/02
+since 2020.6/27 ~ 7/02
 
 * pre-study: 
 
@@ -37,7 +37,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cisco-rout
 (to be continued...)
 
 # ICND (CCNA)
-since 2020.6/16 ~ 6/24
+since 2020.6/16 ~ 6/26
 
 * pre-study:
 
