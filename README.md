@@ -113,22 +113,22 @@ https://github.com/QueenieCplusplus/ICND_TCPIP#subnet-mask (網路遮罩)
 
 * IP Route 
 
-   * sh ip route (路徑選擇)
+   * #sh ip route 
    
    * sub-prestudy
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccnp-osi-layer-2-3
      
-   * 
+   * https://github.com/QueenieCplusplus/ICND_IP_Route (路徑選擇)
    
 
 * PPP 
 
-   ppp authentication (點對點序列式連線)
+   #ppp authentication (點對點序列式連線)
    
 * Access Control
 
-   access list _ permit ip subnetmask (存取控制)
+   #access list _ permit ip subnetmask (存取控制)
 
 # React
 since 2019.10.11 & 2020.6/10 & 6/14 
