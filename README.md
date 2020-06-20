@@ -113,11 +113,11 @@ https://github.com/QueenieCplusplus/ICND_TCPIP#subnet-mask (網路遮罩)
 
 * IP Route 
 
-   (路徑選擇)
+   sh ip route (路徑選擇)
 
 * PPP 
 
-   (點對點序列式連線)
+   ppp authentication (點對點序列式連線)
    
 * Access Control
 
