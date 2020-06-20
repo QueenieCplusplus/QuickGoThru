@@ -112,9 +112,9 @@ https://github.com/QueenieCplusplus/ICND_VLAN (虛擬區域網路，網管人的
 
    (點對點序列式連線)
    
-   
 * Access Control
 
+   (存取控制)
 
 * Post-Study
 
