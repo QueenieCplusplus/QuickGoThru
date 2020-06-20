@@ -11,7 +11,7 @@
 7/15
 
 # Cloud Service
-since 2018.6 & 2020.7/03 ~ 7/14
+since 2018.6 & 2020.7/03 
 
 * preview: https://github.com/QueenieCplusplus/BaaS
 
