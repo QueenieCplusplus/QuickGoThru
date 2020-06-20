@@ -103,7 +103,6 @@ https://github.com/QueenieCplusplus/ICND_VLAN (虛擬區域網路，網管人的
 
 * TCP/IP 
 
-  * (略，請詳 TCP)
 
 * IP Route 
 
@@ -112,16 +111,18 @@ https://github.com/QueenieCplusplus/ICND_VLAN (虛擬區域網路，網管人的
 * PPP 
 
    (點對點序列式連線)
+   
+   
+* Access Control
+
 
 * Post-Study
 
-     * IPX
+     * IPX (略)
 
-     * Access Control
+     * BRI (略）
 
-     * BRI
-
-     * RVC
+     * RVC (略)
 
 # React
 since 2019.10.11 & 2020.6/10 & 6/14 
