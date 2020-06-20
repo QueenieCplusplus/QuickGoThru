@@ -121,7 +121,7 @@ https://github.com/QueenieCplusplus/ICND_TCPIP#subnet-mask (網路遮罩)
    
 * Access Control
 
-   (存取控制)
+   access list _ permit ip subnetmask (存取控制)
 
 * Post-Study
 
