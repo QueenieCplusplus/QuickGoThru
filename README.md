@@ -109,6 +109,8 @@ https://github.com/QueenieCplusplus/ICND_VLAN_Route (虛擬區域網路內的路
 
 https://github.com/QueenieCplusplus/ICND_TCPIP (傳輸層與網路層)
 
+https://github.com/QueenieCplusplus/ICND_TCPIP#subnet-mask (網路遮罩)
+
 * IP Route 
 
    (路徑選擇)
