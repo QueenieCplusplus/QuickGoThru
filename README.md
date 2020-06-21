@@ -134,7 +134,9 @@ https://github.com/QueenieCplusplus/ICND_TCPIP#subnet-mask (網路遮罩)
    
       https://github.com/QueenieCplusplus/Networking/blob/master/VPN.md
 
-   #ppp authentication (點對點序列式連線)
+   #ppp authentication 
+   
+   * https://github.com/QueenieCplusplus/ICND_PPP  (點對點序列式連線)
    
 * Access Control
 
