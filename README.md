@@ -101,6 +101,10 @@ https://github.com/QueenieCplusplus/ICND_Telnet (遠端設備)
 
 * Vlan 
 
+  * sub-prestudy
+  
+    https://github.com/QueenieCplusplus/Networking/blob/master/VLan.md
+
 https://github.com/QueenieCplusplus/ICND_VLAN (虛擬區域網路，網管人的主要工作任務)
 
 https://github.com/QueenieCplusplus/ICND_VLAN_Route (虛擬區域網路內的路由活動)
