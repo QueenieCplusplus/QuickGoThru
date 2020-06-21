@@ -15,6 +15,8 @@ since 2018.6 & 2020.7/04 ~
 
 * preview: https://github.com/QueenieCplusplus/BaaS
 
+     https://github.com/QueenieCplusplus/ICND_PPP/blob/master/README.md#isp--cloud-service
+
 * GCP
 
 * AWS
