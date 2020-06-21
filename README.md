@@ -144,7 +144,11 @@ https://github.com/QueenieCplusplus/ICND_TCPIP#subnet-mask (網路遮罩)
 
    #access list _ permit ip subnetmask (存取控制)
    
-* Apple Talk
+* Apple Talk (deprecated)
+
+          1990年代，TCP/IP興起，主導了網際網路，使得這個協定支援的許多功能需要重新實作，
+          以適應TCP/IP建立的環境。因此在2009年釋出Mac OS X v10.6之後，
+          蘋果公司已經不再支援AppleTalk。
 
 # React
 since 2019.10.11 & 2020.6/10 & 6/14 
