@@ -38,6 +38,27 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cisco-rout
 
 (to be continued...)
 
+1. Routing, 路由概念
+
+2. VPN, 虛擬私有網路
+
+3. ADSL, 非對稱數位用戶訂閱專線/迴路
+
+4. AS, 自治系統
+
+5. BGP, 邊界閘道器協定
+
+6. EIGRP
+
+7. OSPF
+
+8. Route Redistribution, 路徑的再次配置
+
+9. IP, Subnet, VLSM, CIDR 位址的規劃
+
+10. IP ACL, 網路流量管理
+
+
 # ICND (CCNA)
 since 2020.6/16 ~ 6/22
 
