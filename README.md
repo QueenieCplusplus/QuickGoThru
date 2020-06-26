@@ -44,7 +44,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cisco-rout
   
   * IGRP
   
-     https://github.com/QueenieCplusplus/CCNP_IGRP
+     https://github.com/QueenieCplusplus/CCNP_IGRP （包含路由器的收斂方式）
 
 2. VPN, 虛擬私有網路
 
