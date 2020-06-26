@@ -50,7 +50,7 @@ since 2020.6/26 ~ 7/05
      
   * Comparison
   
-     https://github.com/QueenieCplusplus/CCNP_Routing
+     https://github.com/QueenieCplusplus/CCNP_Routing （包含 EIGRP）
 
 2. VPN, 虛擬私有網路
 
