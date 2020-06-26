@@ -42,7 +42,7 @@ since 2020.6/26 ~ 7/05
 
   * Link-State
   
-     https://github.com/QueenieCplusplus/CCNP_Linkstate
+     https://github.com/QueenieCplusplus/CCNP_Linkstate (包含 OSPF)
   
   * IGRP
   
