@@ -36,8 +36,6 @@ since 2020.6/26 ~ 7/05
 
 * main-research:
 
-(to be continued...)
-
 1. Routing, 路由概念
 
   * Link-State
@@ -51,18 +49,34 @@ since 2020.6/26 ~ 7/05
   * Comparison
   
      https://github.com/QueenieCplusplus/CCNP_Routing （包含 EIGRP）
+     
+-------------------------------
 
 2. VPN, 虛擬私有網路
 
+   (to be continued...)
+
 3. ADSL, 非對稱數位用戶訂閱專線/迴路
+
+   (to be continued...)
 
 4. AS, 自治系統
 
+   (to be continued...)
+
+-------------------------------
+
 5. EIGRP (能選擇最佳路徑的路由協定)
 
-6. BGP, 邊界閘道器協定
+   (to be continued...)
 
-7. OSPF （可高負載）
+6. BGP, 邊界閘道器協定 (for ISP)
+
+   (to be continued...)
+
+7. OSPF （可高負載 for ISP）
+
+-------------------------------
 
 8. Route Redistribution, 路徑的再次配置
 
