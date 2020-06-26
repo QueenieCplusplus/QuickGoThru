@@ -40,6 +40,10 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cisco-rout
 
 1. Routing, 路由概念
 
+  * Link-State
+  
+  * IGRP
+
 2. VPN, 虛擬私有網路
 
 3. ADSL, 非對稱數位用戶訂閱專線/迴路
