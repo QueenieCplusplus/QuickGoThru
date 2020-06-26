@@ -42,6 +42,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cisco-rout
 
   * Link-State
   
+     https://github.com/QueenieCplusplus/CCNP_Linkstate
+  
   * IGRP
   
      https://github.com/QueenieCplusplus/CCNP_IGRP （包含路由器的收斂方式、RIP）
