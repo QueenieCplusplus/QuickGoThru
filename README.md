@@ -58,11 +58,11 @@ since 2020.6/26 ~ 7/05
 
 4. AS, 自治系統
 
-5. EIGRP
+5. EIGRP (能選擇最佳路徑的路由協定)
 
 6. BGP, 邊界閘道器協定
 
-7. OSPF
+7. OSPF （可高負載）
 
 8. Route Redistribution, 路徑的再次配置
 
