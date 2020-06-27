@@ -61,7 +61,7 @@ since 2020.6/26 ~ 7/02
      
 -------------------------------
 
-2. VPN, 虛擬私有網路 (略)
+2. VPN, 虛擬私有網路 
 
    https://github.com/QueenieCplusplus/Networking/blob/master/VPN.md (pre-study of PPP)
 
