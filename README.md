@@ -11,7 +11,7 @@
 7/15
 
 # Cloud Service
-since 2018.6 & 2020.7/06 - 7/14
+since 2018.6 & 2020.7/05 - 7/14
 
 * preview: https://github.com/QueenieCplusplus/BaaS
 
@@ -23,8 +23,11 @@ since 2018.6 & 2020.7/06 - 7/14
 
 (to be continued...)
 
+# PHP 
+since 2019.8-9 & 2020.7/03-7/-4
+
 # CCNP
-since 2020.6/26 ~ 7/05
+since 2020.6/26 ~ 7/02
 
 * pre-study: 
 
@@ -60,7 +63,7 @@ since 2020.6/26 ~ 7/05
 
    https://github.com/QueenieCplusplus/CCNP_ADSL
 
-4. AS, 自治系統
+4. AS, 自治系統 (略)
 
 -------------------------------
 
@@ -72,7 +75,7 @@ since 2020.6/26 ~ 7/05
 
    (to be continued...)
    
-7. BGP, 邊界閘道器協定 (for ISP)
+7. BGP, 邊界閘道器協定 (for ISP) (略)
 
 -------------------------------
 
