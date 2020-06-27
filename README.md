@@ -76,6 +76,8 @@ since 2020.6/26 ~ 7/05
 
 7. OSPF （可高負載 for ISP）
 
+   (to be continued...)
+
 -------------------------------
 
 8. Route Redistribution, 路徑的再次配置
