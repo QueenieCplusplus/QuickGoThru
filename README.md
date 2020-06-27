@@ -46,7 +46,7 @@ since 2020.6/26 ~ 7/05
   
      https://github.com/QueenieCplusplus/CCNP_IGRP （包含路由器的收斂方式、RIP）
      
-  * Comparison
+  * Comparison of Dynamic Routing
   
      https://github.com/QueenieCplusplus/CCNP_Routing （包含 EIGRP）
      
