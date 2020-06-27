@@ -68,6 +68,8 @@ since 2020.6/26 ~ 7/02
 3. ADSL, 非對稱數位用戶訂閱專線/迴路
 
    https://github.com/QueenieCplusplus/CCNP_ADSL
+   
+   接線請參考：https://github.com/QueenieCplusplus/ICND_Connection
 
 4. AS, 自治系統 (略)
 
