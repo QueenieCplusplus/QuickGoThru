@@ -68,11 +68,11 @@ since 2020.6/26 ~ 7/05
 
    (to be continued...)
 
-6. BGP, 邊界閘道器協定 (for ISP)
+6. OSPF （可高負載 for ISP）
 
    (to be continued...)
-
-7. OSPF （可高負載 for ISP）
+   
+7. BGP, 邊界閘道器協定 (for ISP)
 
    (to be continued...)
 
