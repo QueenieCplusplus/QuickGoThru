@@ -26,6 +26,10 @@ since 2018.6 & 2020.7/05 - 7/14
 # PHP 
 since 2019.8-9 & 2020.7/03-7/-4
 
+* pre-study: https://github.com/QueenieCplusplus/Backend_Script2
+
+* main-reseach: php & mysql
+
 # CCNP
 since 2020.6/26 ~ 7/02
 
