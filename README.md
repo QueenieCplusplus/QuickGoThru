@@ -64,6 +64,8 @@ since 2020.6/26 ~ 7/02
 2. VPN, 虛擬私有網路 
 
    https://github.com/QueenieCplusplus/Networking/blob/master/VPN.md (pre-study of PPP)
+   
+   https://github.com/QueenieCplusplus/CCNP_VPN
 
 3. ADSL, 非對稱數位用戶訂閱專線/迴路
 
