@@ -79,7 +79,7 @@ since 2020.6/26 ~ 7/02
 
 5. EIGRP (能選擇最佳路徑的路由協定)
 
-   (to be continued...)
+   https://github.com/QueenieCplusplus/CCNP_EIGRP_2
 
 6. OSPF （可高負載 for ISP）
 
