@@ -50,6 +50,8 @@ since 2020.6/26 ~ 7/02
   * Link-State
   
      https://github.com/QueenieCplusplus/CCNP_Linkstate (包含 OSPF)
+     
+     https://github.com/QueenieCplusplus/IGP_and_BGP#advertisement (LSA 的限制)
   
   * IGRP
   
@@ -1290,6 +1292,9 @@ https://gist.github.com/PattyAppier?fbclid=IwAR1DdgxMcrm2HJJBTpjEQkti94GkYRK1i03
 since 2017/11
 
 Content is stored in Objective Sotage, which is distributed to Distributed Nodes (Mirror) to improve Internet Consumption Speed.
+
+
+
 
 
 
