@@ -59,6 +59,12 @@ since 2020.6/26 ~ 7/02
   
      https://github.com/QueenieCplusplus/CCNP_Routing （包含 EIGRP）
      
+  * HSRP
+  
+     回顧：
+     
+     新研究：
+       
 -------------------------------
 
 2. VPN, 虛擬私有網路 
