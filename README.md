@@ -95,9 +95,9 @@ since 2020.6/26 ~ 7/02
 
 -------------------------------
 
-7. AS, 自治系統 (略)
+7. AS, 自治系統 
    
-8. BGP, 邊界閘道器協定 (for ISP) (略)
+8. BGP, 邊界閘道器協定 (for ISP) 
 
    回顧：https://github.com/QueenieCplusplus/BGP
    
