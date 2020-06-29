@@ -620,6 +620,8 @@ https://github.com/QueenieCplusplus/RIF (Routing Table's Field)
            * https://github.com/QueenieCplusplus/RIP (Distance-Vector 距離向量)
           
       * Dynamic Routing, 動態路由設定     
+      
+           * 各路由方式的比較 https://github.com/QueenieCplusplus/CCNP_Routing
     
            * https://github.com/QueenieCplusplus/CCNP_EIGRP (僅 Cisco 支援)
      
