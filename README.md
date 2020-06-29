@@ -83,7 +83,7 @@ since 2020.6/26 ~ 7/02
 
 6. OSPF （可高負載 for ISP）
 
-   (to be continued...)
+   https://github.com/QueenieCplusplus/CCNP_OSPF_2
    
 7. BGP, 邊界閘道器協定 (for ISP) (略)
 
