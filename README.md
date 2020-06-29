@@ -97,6 +97,10 @@ since 2020.6/26 ~ 7/02
    
 8. BGP, 邊界閘道器協定 (for ISP) (略)
 
+   回顧：https://github.com/QueenieCplusplus/BGP
+   
+   新研究：
+
 -------------------------------
 
 9. Route Redistribution, 路徑的再次配置
