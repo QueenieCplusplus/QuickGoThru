@@ -91,7 +91,7 @@ since 2020.6/26 ~ 7/02
 
    https://github.com/QueenieCplusplus/CCNP_OSPF_2
    
-6. 多區域的 OSPF 
+6. 多區域的 OSPF (for ISP)
 
 -------------------------------
 
