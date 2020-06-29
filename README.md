@@ -61,7 +61,7 @@ since 2020.6/26 ~ 7/02
      
   * HSRP
   
-     回顧：
+     回顧：https://github.com/QueenieCplusplus/HSRP (不見於 CCNP, 請詳見 Cisco Routing 一書)
      
      新研究：
        
