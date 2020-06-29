@@ -621,13 +621,13 @@ https://github.com/QueenieCplusplus/RIF (Routing Table's Field)
           
       * Dynamic Routing, 動態路由設定     
     
-           * https://github.com/QueenieCplusplus/CCNP_EIGRP
+           * https://github.com/QueenieCplusplus/CCNP_EIGRP (僅 Cisco 支援)
      
-           * https://github.com/QueenieCplusplus/HSRP (HSRP)
+           * https://github.com/QueenieCplusplus/HSRP (HSRP, RIP 的擴充方案)
 
-           * https://github.com/QueenieCplusplus/OSPF (LSA 鏈結狀態通告) 
+           * https://github.com/QueenieCplusplus/OSPF (LSA 鏈結狀態通告, 也是廣播) 
      
-           * https://github.com/QueenieCplusplus/CCNP_OSPF
+           * https://github.com/QueenieCplusplus/CCNP_OSPF (常見於 ISP)
 
    * Dynamic IP, 動態邏輯位置分配
 
