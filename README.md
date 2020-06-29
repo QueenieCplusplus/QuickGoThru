@@ -79,27 +79,31 @@ since 2020.6/26 ~ 7/02
    
    接線請參考：https://github.com/QueenieCplusplus/ICND_Connection
 
-4. AS, 自治系統 (略)
-
 -------------------------------
 
-5. EIGRP (能選擇最佳路徑的路由協定)
+4. EIGRP (能選擇最佳路徑的路由協定)
 
    https://github.com/QueenieCplusplus/CCNP_EIGRP_2
 
-6. OSPF （可高負載 for ISP）
+5. OSPF （可高負載 for ISP）
 
    https://github.com/QueenieCplusplus/CCNP_OSPF_2
    
-7. BGP, 邊界閘道器協定 (for ISP) (略)
+6. 多區域的 OSPF 
 
 -------------------------------
 
-8. Route Redistribution, 路徑的再次配置
+7. AS, 自治系統 (略)
+   
+8. BGP, 邊界閘道器協定 (for ISP) (略)
 
-9. IP, Subnet, VLSM, CIDR 位址的規劃
+-------------------------------
 
-10. IP ACL, 網路流量管理
+9. Route Redistribution, 路徑的再次配置
+
+10. IP, Subnet, VLSM, CIDR 位址的規劃
+
+11. IP ACL, 網路流量管理
 
 
 # ICND (CCNA)
