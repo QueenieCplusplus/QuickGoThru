@@ -8,10 +8,10 @@
                   
 # 水逆結束
 
-7/15
+7/14
 
 # Cloud Service
-since 2018.6 & 2020.7/05 - 7/14
+since 2018.6 & 2020.7/05 - 7/07
 
 * preview: https://github.com/QueenieCplusplus/BaaS
 
