@@ -107,9 +107,9 @@ since 2020.6/26 ~ 7/02
 
 9. Route Redistribution, 路徑的再次配置
 
-10. IP, Subnet, VLSM, CIDR 位址的規劃
+10. IP, Subnet Mask, VLSM, CIDR 位址的規劃
 
-    https://github.com/QueenieCplusplus/CCNP_IP
+    https://github.com/QueenieCplusplus/CCNP_IP 
 
 11. IP ACL, 網路流量管理
 
