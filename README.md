@@ -96,12 +96,14 @@ since 2020.6/26 ~ 7/02
 -------------------------------
 
 7. AS, 自治系統 (for ISP)
+
+   https://github.com/QueenieCplusplus/CCNP_BGP
    
 8. BGP, 邊界閘道器協定 (for ISP) 
 
    回顧：https://github.com/QueenieCplusplus/BGP
    
-   新研究：
+   新研究：https://github.com/QueenieCplusplus/CCNP_BGP
 
 -------------------------------
 
