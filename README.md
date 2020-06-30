@@ -109,7 +109,7 @@ since 2020.6/26 ~ 7/02
 
 10. IP, Subnet Mask, VLSM, CIDR 位址的規劃
 
-    https://github.com/QueenieCplusplus/CCNP_IP 
+    https://github.com/QueenieCplusplus/CCNP_IP (CIDR 非常重要，但僅有 EIGRP 和 OSPF 支援)
 
 11. IP ACL, 網路流量管理
 
