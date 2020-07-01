@@ -14,7 +14,7 @@ since 2018.6 & 2020.7/02 - 7/14 (14 days)
 
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#vm (VM)
 
-     https://github.com/QueenieCplusplus/ICND_PPP/blob/master/README.md#isp--cloud-service
+     https://github.com/QueenieCplusplus/ICND_PPP/blob/master/README.md#isp--cloud-service (ISP)
 
 * GCP
 
