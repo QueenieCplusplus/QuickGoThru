@@ -26,7 +26,7 @@ since 2018.6 & 2020.7/02 - 7/14 (14 days)
       導讀：https://medium.com/@dustfantasy/google-app-script-到底是什麼-6a37a06a85a8
      
     
-    * ： Cloud Consol & Cloud Shell & Cloud Mobile App
+    * System： Cloud Consol & Cloud Shell & Cloud Mobile App
     
     * Serverless/CPU, App Engine
     
