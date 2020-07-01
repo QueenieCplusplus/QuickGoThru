@@ -29,6 +29,8 @@ since 2018.6 & 2020.7/02 - 7/14 (14 days)
     * K8s, GKE
     
     * Serverless, App Engine
+    
+    * Security, Cloud IAM
 
       (to be continued...)
 
