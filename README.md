@@ -109,6 +109,8 @@ since 2020.6/26 ~ 7/02
 
 9. Route Redistribution, 路徑的再次配置
 
+    (to be continued...)
+
 10. IP, Subnet Mask, VLSM, CIDR 位址的規劃
 
     https://github.com/QueenieCplusplus/CCNP_IP (CIDR 非常重要，但僅有 EIGRP 和 OSPF 支援)
