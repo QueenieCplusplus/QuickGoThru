@@ -30,11 +30,11 @@ since 2018.6 & 2020.7/02 - 7/14 (14 days)
     
     * Serverless/CPU, App Engine
     
+    * DB, Big Query + DataFlow + Pub/Sub
+    
     * Security, Cloud IAM
     
     * Hybrid, Anthos
-    
-    * DB, Big Query + DataFlow + Pub/Sub
     
     * Network: Coud CDN + DNS + VPC
     
