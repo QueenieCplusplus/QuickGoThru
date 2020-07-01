@@ -7,7 +7,7 @@
                   故本筆者想多做網路精進的篇章，預計七月初完成。
                   
 
-# Cloud Service
+# Cloud Service (VM)
 since 2018.6 & 2020.7/02 - 7/14 (14 days)
 
 * preview: https://github.com/QueenieCplusplus/BaaS (DB, Firebase + Firestore)
