@@ -11,6 +11,7 @@
 since 2018.6 & 2020.7/02 - 7/14 (14 days)
 
          半路出家讀理工如同吃餃子，一顆一顆入口奠定基礎知識，才能往後走，很開心終於走到今天。
+               ( 一開始都會懷疑自己智商的，但是只要堅持，一定有禮物！感動 ～ )
 
 * preview: https://github.com/QueenieCplusplus/BaaS (DB, Firebase + Firestore)
 
