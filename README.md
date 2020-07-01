@@ -10,7 +10,7 @@
 # Cloud Service
 since 2018.6 & 2020.7/02 - 7/14 (14 days)
 
-* preview: https://github.com/QueenieCplusplus/BaaS (DB, Firebase)
+* preview: https://github.com/QueenieCplusplus/BaaS (DB, Firebase + Firestore)
 
      https://github.com/QueenieCplusplus/ICND_PPP/blob/master/README.md#isp--cloud-service
 
