@@ -35,6 +35,9 @@ since 2018.6 & 2020.7/02 - 7/14 (14 days)
     * Security, Cloud IAM
     
     * Hybrid, Anthos
+    
+    * DB, Big Query + DataFlow + PubSub
+    
 
       (to be continued...)
 
