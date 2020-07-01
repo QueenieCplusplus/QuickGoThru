@@ -40,6 +40,8 @@ since 2018.6 & 2020.7/02 - 7/14 (14 days)
     
     * DB, Big Query + DataFlow + PubSub
     
+    * Network: Coud CDN + DNS + VPC
+    
 
       (to be continued...)
 
