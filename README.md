@@ -103,7 +103,7 @@ since 2020.6/26 ~ 7/02
 
    回顧：https://github.com/QueenieCplusplus/BGP
    
-   新研究：https://github.com/QueenieCplusplus/CCNP_BGP
+   新研究：https://github.com/QueenieCplusplus/CCNP_BGP (封包分析，to be continued...)
 
 -------------------------------
 
