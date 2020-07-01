@@ -23,6 +23,8 @@ since 2018.6 & 2020.7/02 - 7/14 (14 days)
     * Streaming, Anvato
     
     * Medical, Apigee Healthcare APIx
+    
+    * Manager, Cloud Consol & Cloud Shell
 
       (to be continued...)
 
