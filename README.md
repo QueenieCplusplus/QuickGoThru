@@ -11,7 +11,7 @@
 7/14
 
 # Cloud Service
-since 2018.6 & 2020.7/05 - 7/07
+since 2018.6 & 2020.7/05 - 7/14 (10 days)
 
 * preview: https://github.com/QueenieCplusplus/BaaS
 
@@ -95,7 +95,9 @@ since 2020.6/26 ~ 7/04
 
    回顧：https://github.com/QueenieCplusplus/BGP
    
-   新研究：https://github.com/QueenieCplusplus/CCNP_BGP (封包分析，to be continued...)
+   新研究：https://github.com/QueenieCplusplus/CCNP_BGP (封包分析)
+   
+   指令操作：https://github.com/QueenieCplusplus/CCNP_BGP_CLI
 
 -------------------------------
 
