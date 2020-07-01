@@ -27,6 +27,8 @@ since 2018.6 & 2020.7/02 - 7/14 (14 days)
     * Manager, Cloud Consol & Cloud Shell & Cloud Mobile App
     
     * K8s, GKE
+    
+    * Serverless, App Engine
 
       (to be continued...)
 
