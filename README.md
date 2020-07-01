@@ -8,7 +8,7 @@
                   
 
 # Cloud Service
-since 2018.6 & 2020.7/05 - 7/14 (10 days)
+since 2018.6 & 2020.7/02 - 7/14 (14 days)
 
 * preview: https://github.com/QueenieCplusplus/BaaS
 
@@ -16,13 +16,13 @@ since 2018.6 & 2020.7/05 - 7/14 (10 days)
 
 * GCP
 
-* AWS
+    * Google App Scripts
 
   (to be continued...)
 
 
 # CCNP
-since 2020.6/26 ~ 7/04
+since 2020.6/26 ~ 7/01 (尚有 3 個子議題待完成。)
 
 * pre-study: 
 
