@@ -23,22 +23,27 @@ since 2018.6 & 2020.7/02 - 7/14 (14 days)
     * Developer, Google App Scripts
     
       導讀：https://medium.com/@dustfantasy/google-app-script-到底是什麼-6a37a06a85a8
-      
-    * Cloud Developer, Cloud SDK 
+     
     
     * Manager： Cloud Consol & Cloud Shell & Cloud Mobile App
     
-    * K8s, GKE
-    
     * Serverless/CPU, App Engine
     
-    * DB, Big Query + DataFlow + Pub/Sub
+    * DB, Big Query + DataFlow + Pub/Sub 
+
     
+* GCP 網路
+
+    * Cloud Developer, Cloud SDK 
+
+    * K8s, GKE
+
     * Security, Cloud IAM
     
     * Hybrid, Anthos
     
     * Network: Coud CDN + DNS + VPC
+
     
 * GCP 產業應用
 
