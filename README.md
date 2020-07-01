@@ -117,7 +117,7 @@ since 2020.6/26 ~ 7/02
 
     回顧：https://github.com/QueenieCplusplus/ICND_ACL
     
-    新研究：
+    新研究：https://github.com/QueenieCplusplus/CCNP_IP_ACL
 
 
 # ICND (CCNA)
