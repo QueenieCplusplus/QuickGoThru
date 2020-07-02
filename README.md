@@ -24,6 +24,8 @@ since 2018.6 & 2020.7/02 - 7/14 (14 days)
     * Developer, Google App Scripts
     
       導讀：https://medium.com/@dustfantasy/google-app-script-到底是什麼-6a37a06a85a8
+      
+      實驗：https://github.com/QueenieCplusplus/GCP_GAS
      
     
     * System： Cloud Consol & Cloud Shell & Cloud Mobile App
