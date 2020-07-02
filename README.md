@@ -27,7 +27,7 @@ since 2018.6 & 2020.7/02 - 7/14 (14 days)
       
       實驗：https://github.com/QueenieCplusplus/GCP_GAS 
       
-      (串接 sheet API、自動寄信、行事曆會議室借用通知、翻譯器、天氣預報)
+      (串接 sheet API、自動寄信、行事曆、會議室借用通知、翻譯器、天氣預報)
      
     
     * System： Cloud Consol & Cloud Shell & Cloud Mobile App
