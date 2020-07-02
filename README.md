@@ -25,7 +25,7 @@ since 2018.6 & 2020.7/02 - 7/14 (14 days)
     
       導讀：https://medium.com/@dustfantasy/google-app-script-到底是什麼-6a37a06a85a8
       
-      實驗：https://github.com/QueenieCplusplus/GCP_GAS
+      實驗：https://github.com/QueenieCplusplus/GCP_GAS (串接 sheet API、自動寄信、行事曆會議室借用通知)
      
     
     * System： Cloud Consol & Cloud Shell & Cloud Mobile App
