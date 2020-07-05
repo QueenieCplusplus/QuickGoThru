@@ -39,6 +39,10 @@ since 2018.6 & 2020.7/02 - 7/13 (10 days)
     
 * GCP 網路
 
+    * GCE 虛擬機（遠端部署環境）
+    
+    * 雲端記憶體
+
     * K8s 容器管理技術, GKE
 
     * Cloud Developer, Cloud SDK 
