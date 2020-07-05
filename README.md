@@ -30,11 +30,11 @@ since 2018.6 & 2020.7/02 - 7/13 (10 days)
       (串接 sheet API、自動寄信、行事曆、會議室借用通知、翻譯器、天氣預報)
      
     
-    * System： Cloud Consol & Cloud Shell & Cloud Mobile App
+    * System 系統管理： Cloud Consol & Cloud Shell & Cloud Mobile App
     
-    * Serverless/CPU, App Engine
+    * Serverless/CPU 應用程式的執行環境, App Engine
     
-    * DB, Big Query + DataFlow + Pub/Sub 
+    * DB 資料庫, Big Query + DataFlow + Pub/Sub 
 
     
 * GCP 網路
