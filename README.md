@@ -39,24 +39,24 @@ since 2018.6 & 2020.7/02 - 7/13 (10 days)
     
 * GCP 網路
 
+    * K8s 容器管理技術, GKE
+
     * Cloud Developer, Cloud SDK 
 
-    * K8s, GKE
-
-    * Security, Cloud IAM
+    * Security 安全, Cloud IAM
     
-    * Hybrid, Anthos
+    * Hybrid 混合雲, Anthos
     
     * Network: Coud CDN + DNS + VPC
 
     
 * GCP 產業應用
 
-    * Streaming, Anvato
+    * Streaming 串流影音, Anvato
     
-    * Medical, Apigee Healthcare APIx
+    * Medical 醫療, Apigee Healthcare APIx
     
-    * Bank, Apigee Open Banking APIx
+    * Bank 銀行, Apigee Open Banking APIx
     
 * GCP 2nd generation support Langs:
 
@@ -69,9 +69,6 @@ since 2018.6 & 2020.7/02 - 7/13 (10 days)
      * Go 1.12+
      
      * PHP 7
-    
-
-      (to be continued...)
 
 
 # CCNP
