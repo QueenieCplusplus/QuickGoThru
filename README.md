@@ -64,15 +64,7 @@ since 2018.6 & 2020.7/02 - 7/13 (10 days)
     
 * GCP 2nd generation support Langs:
 
-     * python 3
-     
-     * Node.js
-     
-     * Java 11
-     
-     * Go 1.12+
-     
-     * PHP 7
+     （python 3 、 Node.js 、 Java 11 、  Go 1.12+ 、 PHP 7）
 
 
 # CCNP
