@@ -99,8 +99,6 @@ since 2020.6/26 ~ 7/01 (尚有 3 個子議題待完成。)
   * HSRP
   
      回顧：https://github.com/QueenieCplusplus/HSRP (不見於 CCNP, 請詳見 Cisco Routing 一書)
-     
-     新研究：(to be continued...)
        
 -------------------------------
 
@@ -127,8 +125,6 @@ since 2020.6/26 ~ 7/01 (尚有 3 個子議題待完成。)
    https://github.com/QueenieCplusplus/CCNP_OSPF_2
    
 6. 多區域的 OSPF (for ISP)
-
-   (to be continued...)
    
 -------------------------------
 
@@ -147,8 +143,6 @@ since 2020.6/26 ~ 7/01 (尚有 3 個子議題待完成。)
 -------------------------------
 
 9. Route Redistribution, 路徑的再次配置
-
-    (to be continued...)
 
 10. IP, Subnet Mask, VLSM, CIDR 位址的規劃
 
