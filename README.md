@@ -6,9 +6,28 @@
               尚且需要網路的技術做配合，方才能完成一項良好的服務體驗，
                   故本筆者想多做網路精進的篇章，預計七月初完成。
                   
+# React
+since 2019.10.11 & 2020.6/10 & 6/14  & 7/08-7/16
+
+* pre-study:
+
+https://github.com/QueenieCplusplus/QuickGoThru#腳本語言
+
+https://github.com/QueenieCplusplus/SocketIO (Express App)
+
+https://github.com/QueenieCplusplus/AI_Watson (AI Express App)
+
+* main-research:
+
+https://github.com/QueenieCplusplus/npx_app (React App)
+
+* react-syntax:
+
+
+                  
 
 # Cloud Service (VM)
-since 2018.6 & 2020.7/02 - 7/13 (10 days)
+since 2018.6 & 2020.7/02 - 7/04 (3 days)
 
          半路出家讀理工如同吃餃子，一顆一顆入口奠定基礎知識，才能往後走，很開心終於走到今天。
                  (一開始都會懷疑自己智商的，但是只要堅持，一定有禮物！感動 ～)
@@ -269,20 +288,6 @@ https://github.com/QueenieCplusplus/ICND_TCPIP#subnet-mask (網路遮罩)
           以適應TCP/IP建立的環境。因此在2009年釋出Mac OS X v10.6之後，
           蘋果公司已經不再支援AppleTalk。
 
-# React
-since 2019.10.11 & 2020.6/10 & 6/14 
-
-* pre-study:
-
-https://github.com/QueenieCplusplus/QuickGoThru#腳本語言
-
-https://github.com/QueenieCplusplus/SocketIO (Express App)
-
-https://github.com/QueenieCplusplus/AI_Watson (AI Express App)
-
-* main-research:
-
-https://github.com/QueenieCplusplus/npx_app (React App)
 
 # DBA
 since 2020.5/25 ~ 6/09 (14 days)
