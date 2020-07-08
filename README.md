@@ -25,7 +25,7 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 
 https://github.com/QueenieCplusplus/Reactsyntax_state 狀態與屬性 
 
-https://github.com/QueenieCplusplus/Reactsyntax_dom 類別的工廠與元素的實例
+https://github.com/QueenieCplusplus/Reactsyntax_dom 類別的工廠與(元件)元素的實例
 
 # Cloud Service (VM)
 since 2018.6 & 2020.7/02 - 7/04 (3 days)
