@@ -27,6 +27,8 @@ https://github.com/QueenieCplusplus/Reactsyntax_state 狀態與屬性
 
 https://github.com/QueenieCplusplus/Reactsyntax_dom 類別的工廠與元件的實例元素
 
+https://github.com/QueenieCplusplus/Reactsyntax_flux 資料流，事件觸發導致UI的更新
+
 # Cloud Service (VM)
 since 2018.6 & 2020.7/02 - 7/04 (3 days)
 
