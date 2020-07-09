@@ -29,6 +29,8 @@ https://github.com/QueenieCplusplus/Reactsyntax_dom 類別的工廠與元件的�
 
 https://github.com/QueenieCplusplus/Reactsyntax_flux 資料流，事件觸發導致UI的更新
 
+https://github.com/QueenieCplusplus/Reactsyntax_eventHandler 事件物件及內部的共用屬性和事件處理器
+
 # Cloud Service (VM)
 since 2018.6 & 2020.7/02 - 7/04 (3 days)
 
