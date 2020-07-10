@@ -33,6 +33,8 @@ https://github.com/QueenieCplusplus/Reactsyntax_eventHandler 事件物件及內�
 
 https://github.com/QueenieCplusplus/Reactsyntax_propTypes 並非必要，建議使用狀態
 
+https://github.com/QueenieCplusplus/Reactsyntax_mixin 多元件共享行為與角色
+
 # Cloud Service (VM)
 since 2018.6 & 2020.7/02 - 7/04 (3 days)
 
