@@ -37,6 +37,14 @@ https://github.com/QueenieCplusplus/Reactsyntax_reactHtmlTag 超文本標記語�
 
 https://github.com/QueenieCplusplus/Reactsyntax_mixin 多元件共享行為與角色
 
+* features:
+
+表單介面
+
+圖形介面
+
+收發信件
+
 # Cloud Service (VM)
 since 2018.6 & 2020.7/02 - 7/04 (3 days)
 
