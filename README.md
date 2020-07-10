@@ -39,7 +39,7 @@ https://github.com/QueenieCplusplus/Reactsyntax_mixin 多元件共享行為與�
 
 * features:
 
-表單介面 https://github.com/QueenieCplusplus/React_form
+表單介面 https://github.com/QueenieCplusplus/React_form 包含輸入、按鈕
 
 圖形介面
 
