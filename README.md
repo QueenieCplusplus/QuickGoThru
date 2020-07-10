@@ -33,6 +33,8 @@ https://github.com/QueenieCplusplus/Reactsyntax_eventHandler 事件物件及內�
 
 https://github.com/QueenieCplusplus/Reactsyntax_propTypes 並非必要，建議使用狀態
 
+https://github.com/QueenieCplusplus/Reactsyntax_reactHtmlTag 超文本標記語言的標籤
+
 https://github.com/QueenieCplusplus/Reactsyntax_mixin 多元件共享行為與角色
 
 # Cloud Service (VM)
