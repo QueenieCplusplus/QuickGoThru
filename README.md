@@ -7,6 +7,9 @@
                   故本筆者想多做網路精進的篇章，預計七月初完成。
                   
 # React
+
+(Single Page APP)
+
 since 2019.10.11 & 2020.6/10 & 6/14  & 7/08-7/15 (8 days)
 
 all providing version is 2016, new version plz see react website in 2020
