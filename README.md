@@ -41,7 +41,7 @@ https://github.com/QueenieCplusplus/Reactsyntax_mixin 多元件共享行為與�
 
 表單介面 https://github.com/QueenieCplusplus/React_form 
 
-下拉選單 
+複選項框 
 
 按鈕選單 https://github.com/QueenieCplusplus/React_radio 
 
