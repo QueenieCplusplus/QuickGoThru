@@ -49,6 +49,14 @@ https://github.com/QueenieCplusplus/Reactsyntax_mixin 多元件共享行為與�
 
 收發信件
 
+* architecture:
+
+複合元件
+
+路由
+
+自動測試
+
 # Cloud Service (VM)
 since 2018.6 & 2020.7/02 - 7/04 (3 days)
 
