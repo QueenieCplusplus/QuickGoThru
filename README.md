@@ -9,6 +9,8 @@
 # React
 since 2019.10.11 & 2020.6/10 & 6/14  & 7/08-7/15 (8 days)
 
+all providing version is 2016, new version plz see react website in 2020
+
 * pre-study:
 
 https://github.com/QueenieCplusplus/QuickGoThru#腳本語言
