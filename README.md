@@ -4,7 +4,7 @@
 
 (Single Page APP & Responsive Web Design)
 
-since 2018.12 (10/20 黑客松比賽後) & 2019.5 & 2019.10.11 & 2020.6/10 & 6/14  & 7/08-7/15 (8 days)
+since 2018.11月下旬 (10/20 黑客松比賽後) & 2019.5 & 2019.10.11 & 2020.6/10 & 6/14  & 7/08-7/15 (8 days)
 
 all providing version is 2016, new version plz see react website in 2020
 
@@ -70,9 +70,6 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 
 # Cloud Service (VM)
 since 2018.6 & 2020.7/02 - 7/04 (3 days)
-
-         半路出家讀理工如同吃餃子，一顆一顆入口奠定基礎知識，才能往後走，很開心終於走到今天。
-                 (一開始都會懷疑自己智商的，但是只要堅持，一定有禮物！感動 ～)
 
 * preview: https://github.com/QueenieCplusplus/BaaS (DB, Firebase + Firestore)
 
