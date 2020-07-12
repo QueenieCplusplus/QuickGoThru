@@ -66,9 +66,9 @@ https://github.com/QueenieCplusplus/Reactsyntax_mixin 多元件共享行為與�
 
 伺服器渲染 https://github.com/QueenieCplusplus/React_static_markup (SEO 、 Async)
 
-單向資料流
+單向資料流 (Flux & Immutable)
 
-自動測試
+自動測試  (Jest)
 
 # Cloud Service (VM)
 since 2018.6 & 2020.7/02 - 7/04 (3 days)
