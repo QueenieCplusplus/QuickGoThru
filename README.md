@@ -72,7 +72,7 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 
    ＊ https://github.com/QueenieCplusplus/React_css (CSS)
 
-... (Interval Renderer & requestAnimationFrame)
+   ＊ ... (Interval Renderer & requestAnimationFrame)
 
 # Cloud Service (VM)
 since 2018.6 & 2020.7/02 - 7/04 (3 days)
