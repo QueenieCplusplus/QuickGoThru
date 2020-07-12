@@ -52,7 +52,7 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 
   ＊ 圖形介面
 
-  ＊ 收發信件
+  ＊ 收發信件 https://github.com/QueenieCplusplus/React_email (含樣式的附加元件)
 
 * server side renderer:
 
