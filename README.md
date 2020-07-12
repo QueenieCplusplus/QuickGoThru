@@ -28,49 +28,49 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 
 * react-syntax:
 
-https://github.com/QueenieCplusplus/Reactsyntax_state 狀態與屬性 
+  ＊ https://github.com/QueenieCplusplus/Reactsyntax_state 狀態與屬性 
 
-https://github.com/QueenieCplusplus/Reactsyntax_dom 類別的工廠與元件的實例元素
+  ＊ https://github.com/QueenieCplusplus/Reactsyntax_dom 類別的工廠與元件的實例元素
 
-https://github.com/QueenieCplusplus/Reactsyntax_flux 資料流，事件觸發導致UI的更新
+  ＊ https://github.com/QueenieCplusplus/Reactsyntax_flux 資料流，事件觸發導致UI的更新
 
-https://github.com/QueenieCplusplus/Reactsyntax_eventHandler 事件物件及內部的共用屬性和事件處理器
+  ＊ https://github.com/QueenieCplusplus/Reactsyntax_eventHandler 事件物件及內部的共用屬性和事件處理器
 
-https://github.com/QueenieCplusplus/Reactsyntax_propTypes 並非必要，建議使用狀態
+  ＊ https://github.com/QueenieCplusplus/Reactsyntax_propTypes 並非必要，建議使用狀態
 
-https://github.com/QueenieCplusplus/Reactsyntax_reactHtmlTag 超文本標記語言的標籤
+  ＊ https://github.com/QueenieCplusplus/Reactsyntax_reactHtmlTag 超文本標記語言的標籤
 
-https://github.com/QueenieCplusplus/Reactsyntax_mixin 多元件共享行為與角色
+  ＊ https://github.com/QueenieCplusplus/Reactsyntax_mixin 多元件共享行為與角色
 
 * features:
 
-表單介面 https://github.com/QueenieCplusplus/React_form 
+  ＊ 表單介面 https://github.com/QueenieCplusplus/React_form 
 
-複選項框 https://github.com/QueenieCplusplus/React_checkbox (受控元件示範)                                            
+  ＊ 複選項框 https://github.com/QueenieCplusplus/React_checkbox (受控元件示範)                                            
 
-按鈕選單 https://github.com/QueenieCplusplus/React_radio (不受控元件示範)
+  ＊ 按鈕選單 https://github.com/QueenieCplusplus/React_radio (不受控元件示範)
 
-圖形介面
+  ＊ 圖形介面
 
-收發信件
+  ＊ 收發信件
 
 * server side renderer:
 
-伺服器渲染 https://github.com/QueenieCplusplus/React_static_markup (SEO 、 Async)
+  ＊ 伺服器渲染 https://github.com/QueenieCplusplus/React_static_markup (SEO 、 Async)
 
 * architecture:
 
-複合元件
+  ＊ 複合元件
 
-路由元件 https://github.com/QueenieCplusplus/React_router
+  ＊ 路由元件 https://github.com/QueenieCplusplus/React_router
 
-單向資料流 (Flux & Immutable)
+  ＊ 單向資料流 (Flux & Immutable)
 
-自動測試  (Jest)
+  ＊ 自動測試  (Jest)
 
 * UI transition group:
 
-https://github.com/QueenieCplusplus/React_css (CSS)
+   ＊ https://github.com/QueenieCplusplus/React_css (CSS)
 
 ... (Interval Renderer & requestAnimationFrame)
 
