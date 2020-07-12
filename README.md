@@ -1,10 +1,4 @@
 本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取（和嗅探） Data Mining & Web Crawler，亦包含 Data Structure、DBA (Search Engine) 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻前端與雲端技術 Cloud Service & Front-End using ReactJs 最潮的雲端框架，敬請拭目以待。 ：）
-
-         有鑒於許多程式設計師或是其它非網路領域的工程師抑或是資安稽核者...，
-          未花心力、時間、精神於網路知識，但所有產業一數位服務能否成功上線，
-            給予使用者很好的體驗，並非只是前後端或資料庫這些知識的彙整，
-              尚且需要網路的技術做配合，方才能完成一項良好的服務體驗，
-                  故本筆者想多做網路精進的篇章，預計七月初完成。
                   
 # React
 
