@@ -44,8 +44,6 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 
   ＊ 按鈕選單 https://github.com/QueenieCplusplus/React_radio (不受控元件示範)
 
-  ＊ 圖形介面
-
   ＊ 收發信件 https://github.com/QueenieCplusplus/React_email (含樣式的附加元件)
 
 * server side renderer:
@@ -55,10 +53,10 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 * architecture:
 
   ＊ 複合元件
+  
+  ＊ 單向資料流 (Flux & Immutable)
 
   ＊ 路由元件 https://github.com/QueenieCplusplus/React_router
-
-  ＊ 單向資料流 (Flux & Immutable)
 
   ＊ 自動測試  https://github.com/QueenieCplusplus/React_test (Jest)
 
