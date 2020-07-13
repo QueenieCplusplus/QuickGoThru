@@ -52,13 +52,13 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 
 * architecture:
 
-  ＊ 複合元件
-  
-  ＊ 單向資料流 (Flux & Immutable)
-
   ＊ 路由元件 https://github.com/QueenieCplusplus/React_router
 
   ＊ 自動測試  https://github.com/QueenieCplusplus/React_test (Jest)
+  
+  ＊ 複合元件
+  
+  ＊ 單向資料流 (Flux & Immutable)
 
 * UI transition group:
 
