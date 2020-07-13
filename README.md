@@ -60,7 +60,7 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 
   ＊ 單向資料流 (Flux & Immutable)
 
-  ＊ 自動測試  (Jest)
+  ＊ 自動測試  https://github.com/QueenieCplusplus/React_test (Jest)
 
 * UI transition group:
 
