@@ -58,7 +58,7 @@ https://github.com/QueenieCplusplus/npx_app (React App)
   
   ＊ 複合元件
   
-  ＊ 單向資料流 (Flux & Immutable)
+  ＊ 單向資料流 https://github.com/QueenieCplusplus/React_flux (Flux & Immutable)
 
 * UI transition group:
 
