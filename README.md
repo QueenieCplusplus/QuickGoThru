@@ -22,6 +22,8 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 
 * OAuth to Login Feature (FB SDK)
 
+https://github.com/QueenieCplusplus/FB_oauth 登入認證
+
 * react-syntax:
 
   ＊ https://github.com/QueenieCplusplus/Reactsyntax_state 狀態與屬性 
