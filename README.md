@@ -22,7 +22,7 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 
 * OAuth to Login Feature (FB SDK)
 
-https://github.com/QueenieCplusplus/FB_oauth 登入認證
+https://github.com/QueenieCplusplus/FB_oauth 第三方登入認證
 
 * react-syntax:
 
