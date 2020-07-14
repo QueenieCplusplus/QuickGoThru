@@ -20,9 +20,11 @@ https://github.com/QueenieCplusplus/AI_Watson (AI Express App)
 
 https://github.com/QueenieCplusplus/npx_app (React App)
 
-* OAuth to Login Feature (FB SDK)
+* OAuth to Login Feature (FB SDK 、 Google API)
 
 https://github.com/QueenieCplusplus/FB_oauth 第三方登入認證
+
+https://github.com/QueenieCplusplus/Google_oauth
 
 * react-syntax:
 
