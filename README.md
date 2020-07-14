@@ -22,7 +22,9 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 
 * OAuth to Login Feature 第三方登入認證
 
-https://www.itread01.com/content/1544003766.html (React Login App)
+https://github.com/QueenieCplusplus/React_loginApp (React Login App)
+
+https://www.itread01.com/content/1544003766.html (ref doc)
 
 https://github.com/QueenieCplusplus/FB_oauth （FB SDK)
 
