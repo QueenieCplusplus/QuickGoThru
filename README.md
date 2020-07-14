@@ -56,7 +56,7 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 
   ＊ 自動測試  https://github.com/QueenieCplusplus/React_test (Jest)
   
-  ＊ 複合元件
+  ＊ 自定義元件 https://github.com/QueenieCplusplus/React_component
   
   ＊ 單向資料流 https://github.com/QueenieCplusplus/React_flux (Flux & Immutable)
 
