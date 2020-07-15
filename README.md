@@ -10,6 +10,8 @@ new version in 2020 using ES6
 
 https://github.com/QueenieCplusplus/React_loginApp (React Login App)
 
+ES5 & ES6 https://blog.techbridge.cc/2016/04/04/react-react-native-es5-es6-cheat-sheet/
+
 all providing version is 2016 (ES5)
 
 * pre-study:
