@@ -6,7 +6,11 @@
 
 since 2018.11月下旬 (10/20 黑客松比賽後) & 2019.5 & 2019.10/14-11/11 & 2020.6/106/14  & 7/08-7/15 (8 days)
 
-all providing version is 2016, new version plz see react website in 2020
+new version in 2020 using ES6
+
+https://github.com/QueenieCplusplus/React_loginApp (React Login App)
+
+all providing version is 2016 (ES5)
 
 * pre-study:
 
