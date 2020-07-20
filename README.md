@@ -32,9 +32,11 @@ https://github.com/QueenieCplusplus/ReactNative_videoApp (react native, video mp
 
 https://github.com/QueenieCplusplus/ReactNative_mapApp (react native, map)
 
+https://github.com/QueenieCplusplus/React_geoApp (react, geoLocation)
+
 https://github.com/QueenieCplusplus/ReactNative_webviewApp (react native, webview)
 
-https://github.com/QueenieCplusplus/React_cameraApp (react native, camera)
+https://github.com/QueenieCplusplus/React_cameraApp (react, camera)
 
 ES5 & ES6 https://blog.techbridge.cc/2016/04/04/react-react-native-es5-es6-cheat-sheet/
 
