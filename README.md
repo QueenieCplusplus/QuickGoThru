@@ -8,6 +8,8 @@ since 2018.11月下旬 (10/20 黑客松比賽後) & 2019.5 & 2019.10/14-11/11 & 
 
 new version in 2020 using ES6
 
+https://github.com/QueenieCplusplus/React_modernJS (modern JS)
+
 https://github.com/QueenieCplusplus/React_loginApp (React Login App)
 
 https://github.com/QueenieCplusplus/React_catApp (button, input)
