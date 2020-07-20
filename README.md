@@ -40,7 +40,7 @@ https://github.com/QueenieCplusplus/React_browserApp (react, browser web url)
 
 https://github.com/QueenieCplusplus/React_cameraApp (react, camera)
 
-(react, battery)
+https://github.com/QueenieCplusplus/React_batteryApp (react, battery)
 
 ES5 & ES6 https://blog.techbridge.cc/2016/04/04/react-react-native-es5-es6-cheat-sheet/
 
