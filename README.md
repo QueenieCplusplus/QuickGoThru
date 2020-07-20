@@ -2,7 +2,7 @@
                   
 # React & React Native
 
-(Single Page APP & Responsive Web Design)
+(Single Page APP & Responsive Web Design & Cross-Platform Apps)
 
 since 2018.11月下旬 (10/20 黑客松比賽後) & 2019.5 & 2019.10/14-11/11 & 2020.2 & 2020.6/10-6/14  & 7/08-7/20 (15 days)
 
