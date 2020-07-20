@@ -28,6 +28,8 @@ https://github.com/QueenieCplusplus/ReactNative_buttonApp (react native, button)
 
 https://github.com/QueenieCplusplus/ReactNative_videoApp (react native, video mp4)
 
+https://github.com/QueenieCplusplus/ReactNative_mapApp (react native, map)
+
 ES5 & ES6 https://blog.techbridge.cc/2016/04/04/react-react-native-es5-es6-cheat-sheet/
 
 all providing version is 2016 (ES5)
