@@ -1331,7 +1331,7 @@ https://developer.apple.com/swift/ Swift4官方網站 since 2018/3
 
 https://kotlinlang.org Kotlin官方網站 since 2018/10 & 2019/5
 
-Java (since 2018/5 & 2019/8)
+https://github.com/QueenieCplusplus/AndroidApp/tree/master/2019_java_code (Java since 2018/5 & 2019/8)
 
 https://gist.github.com/PattyAppier?fbclid=IwAR1DdgxMcrm2HJJBTpjEQkti94GkYRK1i039JQy8rX89iNoeYlxid0ORRlI (Android)
    
