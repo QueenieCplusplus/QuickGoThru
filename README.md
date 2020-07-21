@@ -1399,7 +1399,7 @@ Lifecycle of app https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/READ
 
 * Android 3: katesandroidapp & katesapp2019
 
-     https://developer.android.com/about/versions/10 （Android 開發者官網）
+     https://github.com/QueenieCplusplus/AndroidApp （Android 開發者官網）
      
 
 * React Native : redpint819
