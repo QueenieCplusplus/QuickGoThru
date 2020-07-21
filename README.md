@@ -1391,15 +1391,12 @@ Lifecycle of app https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/READ
 
 * iOS 11 : pattyappier & pattyluvapp
 
-     https://developer.apple.com/ (Apple 開發者官網)
+     (code 尚未還原)
      
-     ![ios](https://scontent.ftpe8-4.fna.fbcdn.net/v/t31.0-8/30167559_148789092632838_6815308864428869549_o.jpg?_nc_cat=104&_nc_sid=daf655&_nc_ohc=t96yDdGFCbIAX86krOJ&_nc_ht=scontent.ftpe8-4.fna&oh=ca4095aca3df89857b4d20e412daf2ed&oe=5EE09A13)
-     
-     ![ios2](https://scontent.ftpe8-3.fna.fbcdn.net/v/t31.0-8/30846638_148789082632839_5464428596532847837_o.jpg?_nc_cat=111&_nc_sid=daf655&_nc_ohc=RpHcsDlBMnIAX_E4gB8&_nc_ht=scontent.ftpe8-3.fna&oh=6b6bf6c709df082b1dd96016aa0e6ab9&oe=5EE13E70)
 
 * Android 3: katesandroidapp & katesapp2019
 
-     https://github.com/QueenieCplusplus/AndroidApp （Android 開發者官網）
+     https://github.com/QueenieCplusplus/AndroidApp 
      
 
 * React Native : redpint819
