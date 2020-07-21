@@ -22,6 +22,8 @@ https://github.com/QueenieCplusplus/React_muzikApp (link, iframe)
 
 https://github.com/QueenieCplusplus/React_tryReduxApp (flux, redux)
 
+https://github.com/QueenieCplusplus/React_tryReduxApp2 (action, reducer, store, dispatch)
+
 https://github.com/QueenieCplusplus/Qs_ReactNative (react native)
 
 https://github.com/QueenieCplusplus/ReactNative_imageApp (react native, image)
