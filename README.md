@@ -58,6 +58,8 @@ https://github.com/QueenieCplusplus/SocketIO (Express App)
 
 https://github.com/QueenieCplusplus/AI_Watson (AI Express App)
 
+https://github.com/QueenieCplusplus/Express_NodeRed (private)
+
 * main-research:
 
 https://github.com/QueenieCplusplus/npx_app (React App)
