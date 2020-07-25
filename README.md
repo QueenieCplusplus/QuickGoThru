@@ -154,6 +154,8 @@ since 2018.6 & 2020.7/02 - 7/04 (3 days)
     * 雲端記憶體
 
     * K8s 容器管理技術, GKE
+    
+      https://github.com/QueenieCplusplus/K8s
 
     * Cloud Developer, Cloud SDK 
 
