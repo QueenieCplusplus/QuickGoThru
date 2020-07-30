@@ -4,6 +4,8 @@
 
 Redux or Context
 
+https://github.com/QueenieCplusplus/Context_Hook
+
 此 hook 的出現也許可以當作取代 Redux 的備案方式。（全域物件，提供 app 中所有元件讀寫的共用物件（共同存取）。）
 
 
