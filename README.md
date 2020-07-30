@@ -6,6 +6,8 @@ to be continued...
 
 # GQL Train
 
+ since 2020.7.30
+
 https://github.com/QueenieCplusplus/GQL_app
 
 # React Train
