@@ -9,7 +9,7 @@ Redux or Context
 https://github.com/QueenieCplusplus/Context_Hook
 
 
-# GQL Train
+# GQL Tag & Apollo Client Server
 
  since 2020.7.30
 
