@@ -6,7 +6,7 @@ to be continued...
 
 # GQL Train
 
-https://www.sitepoint.com/how-to-build-a-web-app-with-graphql-and-react/
+https://github.com/QueenieCplusplus/GQL_app
 
 # React Train
 
