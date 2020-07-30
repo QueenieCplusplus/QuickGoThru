@@ -1,5 +1,13 @@
 本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取（和嗅探） Data Mining & Web Crawler，亦包含 Data Structure、DBA (Search Engine) 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻前端與雲端技術 Cloud Service & Front-End using ReactJs 最潮的雲端框架，敬請拭目以待。 ：）
 
+# Redux 
+
+to be continued...
+
+# GQL Train
+
+https://www.sitepoint.com/how-to-build-a-web-app-with-graphql-and-react/
+
 # React Train
 
 https://github.com/ReactTraining
