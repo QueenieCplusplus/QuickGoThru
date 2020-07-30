@@ -34,6 +34,8 @@ https://github.com/QueenieCplusplus/ReactNative_videoApp (react native, video mp
 
 https://github.com/QueenieCplusplus/ReactNative_mapApp (react native, map)
 
+https://github.com/QueenieCplusplus/Map_App (react, map)
+
 https://github.com/QueenieCplusplus/React_geoApp (react, geoLocation)
 
 https://github.com/QueenieCplusplus/ReactNative_webviewApp (react native, webview)
