@@ -1,10 +1,14 @@
 本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取（和嗅探） Data Mining & Web Crawler，亦包含 Data Structure、DBA (Search Engine) 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻前端與雲端技術 Cloud Service & Front-End using ReactJs 最潮的雲端框架，敬請拭目以待。 ：）
+
+# React Train
+
+https://github.com/ReactTraining
                   
 # React & React Native
 
 (Single Page APP & Responsive Web Design & Cross-Platform Apps)
 
-since 2018.11月下旬 (10/20 黑客松比賽後) & 2019.4 & 2019.10 & 2020.2 & 2020.6/10-6/14  & 7/08-7/21 (16 days) & 7/29
+since 2018.11月下旬 (10/20 黑客松比賽後) & 2019.4 & 2019.10 & 2020.2 & 2020.6/10-6/14  & 7/08-7/21 (16 days) & 7/29-30
 
 new version in 2020 using ES6
 
