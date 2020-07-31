@@ -13,7 +13,7 @@ https://github.com/QueenieCplusplus/Redux_Store
 
 # GQL Tag & Apollo Client Server
 
- since 2020.7.30
+ since 2020.7/30 & 8/01 (to know GQL syntax & concept)
 
 https://github.com/QueenieCplusplus/GQL_app
 
