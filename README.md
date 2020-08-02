@@ -8,6 +8,8 @@ https://github.com/QueenieCplusplus/GQL_app (frontend)
 
 https://github.com/QueenieCplusplus/GQL_api (backend)
 
+ttps://github.com/QueenieCplusplus/GQL_api2
+
 # Global State
 
 Redux or Context
