@@ -8,7 +8,7 @@ https://github.com/QueenieCplusplus/GQL_app (frontend)
 
 https://github.com/QueenieCplusplus/GQL_api (backend)
 
-ttps://github.com/QueenieCplusplus/GQL_api2
+https://github.com/QueenieCplusplus/GQL_api2 (private usage)
 
 # Global State
 
