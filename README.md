@@ -8,7 +8,9 @@ since 2018.12 & 2020, 8/02
 
 # Apollo Client/Server
 
- since 2020.7/30 & 8/01-02 (to know GQL syntax & concept)
+since 2020.7/30 & 8/01-02 (to know GQL syntax & concept)
+
+express app since 2019.10-11
 
 https://github.com/QueenieCplusplus/GQL_app (frontend)
 
