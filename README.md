@@ -6,7 +6,7 @@
 
 https://github.com/QueenieCplusplus/GQL_app (frontend)
 
-https://github.com/QueenieCplusplus/GQL_api (backend)
+https://github.com/QueenieCplusplus/GQL_api1 (backend)
 
 https://github.com/QueenieCplusplus/GQL_api2 (private usage)
 
