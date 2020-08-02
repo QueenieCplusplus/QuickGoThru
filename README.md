@@ -2,9 +2,11 @@
 
 # GQL Tag & Apollo Client Server
 
- since 2020.7/30 & 8/01 (to know GQL syntax & concept)
+ since 2020.7/30 & 8/01-02 (to know GQL syntax & concept)
 
-https://github.com/QueenieCplusplus/GQL_app
+https://github.com/QueenieCplusplus/GQL_app (frontend)
+
+https://github.com/QueenieCplusplus/GQL_api (backend)
 
 # Global State
 
