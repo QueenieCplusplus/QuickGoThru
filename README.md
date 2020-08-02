@@ -1,6 +1,8 @@
 本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取（和嗅探） Data Mining & Web Crawler，亦包含 Data Structure、DBA (Search Engine) 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻前端與雲端技術 Cloud Service & Front-End using ReactJs 最潮的雲端框架，敬請拭目以待。 ：）
 
-# GQL Tag & Apollo Client Server
+# GQL Schema & Resolver
+
+# Apollo Client/Server
 
  since 2020.7/30 & 8/01-02 (to know GQL syntax & concept)
 
