@@ -10,13 +10,17 @@ https://github.com/QueenieCplusplus/gql_tag (搭配 GQL_api1 (backend))
 
 since 2020.7/30 & 8/01-02 (to know GQL syntax & concept)
 
-express app since 2019.10-11
-
 https://github.com/QueenieCplusplus/GQL_app (frontend)
 
 https://github.com/QueenieCplusplus/GQL_api1 (backend)
 
 https://github.com/QueenieCplusplus/GQL_api2 (private usage)
+
+* Review:
+
+express app since 2019.10-11
+
+https://github.com/QueenieCplusplus/Backend_Script
 
 # Global State
 
