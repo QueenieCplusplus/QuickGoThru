@@ -2,6 +2,10 @@
 
 # GQL Schema & Resolver
 
+since 2018.12 & 2020, 8/02
+
+
+
 # Apollo Client/Server
 
  since 2020.7/30 & 8/01-02 (to know GQL syntax & concept)
