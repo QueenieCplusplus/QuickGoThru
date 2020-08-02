@@ -4,7 +4,7 @@
 
 since 2018.12 & 2020, 8/02
 
-https://github.com/QueenieCplusplus/gql_tag
+https://github.com/QueenieCplusplus/gql_tag (搭配 GQL_api1 (backend))
 
 # Apollo Client/Server
 
