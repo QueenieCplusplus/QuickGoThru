@@ -18,15 +18,14 @@ https://github.com/QueenieCplusplus/Context_Hook
 
 https://github.com/QueenieCplusplus/Redux_Store
 
-# React Train
-
-https://github.com/ReactTraining
                   
 # React & React Native
 
 (Single Page APP & Responsive Web Design & Cross-Platform Apps)
 
 since 2018.11月下旬 (10/20 黑客松比賽後) & 2019.4 & 2019.10 & 2020.2 & 2020.6/10-6/14  & 7/08-7/21 (16 days) & 7/29-30
+
+ React Train https://github.com/ReactTraining
 
 new version in 2020 using ES6
 
