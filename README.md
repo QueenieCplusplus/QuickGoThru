@@ -105,7 +105,9 @@ https://github.com/QueenieCplusplus/npx_app (React App)
 
 * OAuth to Login Feature 第三方登入認證
 
-https://github.com/QueenieCplusplus/React_loginApp (React Login App)
+https://github.com/QueenieCplusplus/Backend_Script/tree/master/Auth
+
+https://github.com/QueenieCplusplus/React_loginApp (React Login App, not work, Redux is difficult)
 
 https://www.itread01.com/content/1544003766.html (ref doc)
 
