@@ -12,6 +12,8 @@ since 2020.7/30 & 8/01-02 (to know GQL syntax & concept)
 
 https://github.com/QueenieCplusplus/GQL_app (frontend)
 
+https://github.com/QueenieCplusplus/GQL_appX (private usage)
+
 https://github.com/QueenieCplusplus/GQL_api1 (backend)
 
 https://github.com/QueenieCplusplus/GQL_api2 (private usage)
