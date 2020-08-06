@@ -60,6 +60,8 @@ since 2018.11月下旬 (10/20 黑客松比賽後) & 2019.4 & 2019.10 & 2020.2 & 
 
 new version in 2020 using ES6
 
+https://github.com/QueenieCplusplus/ES6_App (auto bind)
+
 https://github.com/QueenieCplusplus/React_modernJS (modern JS)
 
 https://github.com/QueenieCplusplus/React_loginApp (React Login App)
