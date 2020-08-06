@@ -60,8 +60,10 @@ since Aug 2020
 
 * context and Provider
 
-* 渲染時使用 bool 判斷是否顯示，如{{回傳值為 true} && <component/>}
-                  
+* 渲染時使用 bool 判斷是否顯示，如
+
+      {{true} && 元件}
+
 # React & React Native
 
 (Single Page APP & Responsive Web Design & Cross-Platform Apps)
