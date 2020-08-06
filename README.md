@@ -49,6 +49,18 @@ https://github.com/QueenieCplusplus/Context_Hook
 
 https://github.com/QueenieCplusplus/Redux_Store
 
+# Other React Experience
+since Aug 2020
+
+* useState
+
+* withRouter
+
+* redirect
+
+* context and Provider
+
+* 渲染時使用 bool 判斷是否顯示，如{{回傳值為 true} && <component/>}
                   
 # React & React Native
 
