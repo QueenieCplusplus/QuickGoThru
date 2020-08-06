@@ -6,6 +6,12 @@ since 2018.12 & 2020, 8/02
 
 https://github.com/QueenieCplusplus/gql_tag (搭配 GQL_api1 (backend))
 
+# RWD
+
+since 2020.8/06 
+
+(useragent and their Bot...)
+
 # Apollo Client/Server
 
 since 2020.7/30 & 8/01-02 (to know GQL syntax & concept)
