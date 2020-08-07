@@ -64,7 +64,7 @@ since Aug 2020
 
 * { redirect }
 
-  https://github.com/QueenieCplusplus/QuickGoThru
+  https://github.com/QueenieCplusplus/React_redirect
 
 * context and Provider
 
