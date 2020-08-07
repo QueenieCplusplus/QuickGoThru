@@ -52,17 +52,19 @@ https://github.com/QueenieCplusplus/Redux_Store
 # Other React Experience
 since Aug 2020
 
-* useState
+* { useState }
 
-* withRouter
+* { withRouter } 
 
-* redirect
+* { NavLink }
+
+* { redirect }
 
 * context and Provider
 
 * 渲染時使用 bool 判斷是否顯示，如
 
-      {{true} && 元件}
+      {{cb is true} && 元件}
 
 # React & React Native
 
