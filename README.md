@@ -64,6 +64,8 @@ since Aug 2020
 
 * { redirect }
 
+  https://github.com/QueenieCplusplus/QuickGoThru
+
 * context and Provider
 
 * 渲染時使用 bool 判斷是否顯示，如
