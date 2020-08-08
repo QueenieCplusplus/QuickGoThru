@@ -19,15 +19,17 @@ https://github.com/QueenieCplusplus/React_rwd_app (useragent and their Bot...)
 
 # GQL Schema & Resolver
 
-since 2018.12 & 2020, 8/02, 8/08
+since 2018.12 & 2020, 8/02, 8/08, 8/09
 
 https://github.com/QueenieCplusplus/gql_tag (搭配 GQL_api1 (backend))
 
 https://github.com/QueenieCplusplus/Github_Auth (實作 GithubAuth Login React App)
 
+Github_Auth_API  (實作 GithubAuth Login React API)
+
 # Apollo Client/Server
 
-since 2020.7/30 & 8/01-02 & 8/09 (to know GQL syntax & concept)
+since 2020.7/30 & 8/01-02 (to know GQL syntax & concept)
 
 https://github.com/QueenieCplusplus/GQL_app (frontend)
 
