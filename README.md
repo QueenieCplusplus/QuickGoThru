@@ -25,7 +25,7 @@ https://github.com/QueenieCplusplus/gql_tag (搭配 GQL_api1 (backend))
 
 https://github.com/QueenieCplusplus/Github_Auth (實作 GithubAuth Login React App)
 
-Github_Auth_API  (實作 GithubAuth Login React API)
+https://github.com/QueenieCplusplus/Github_Auth_API (實作 GithubAuth Login React API)
 
 # Apollo Client/Server
 
