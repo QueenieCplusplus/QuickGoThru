@@ -66,6 +66,8 @@ since Aug 2020
 
 * { useState }
 
+   only applies to func, not class.
+
 * { withRouter } 
 
   https://github.com/QueenieCplusplus/React_withRouter
