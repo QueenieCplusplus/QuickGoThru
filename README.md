@@ -80,6 +80,8 @@ since Aug 2020
 
 * context and Provider
 
+  https://github.com/QueenieCplusplus/Github_Auth_API/blob/master/2_basic_context.js
+
 * 渲染時使用 bool 判斷是否顯示，如
 
       {{cb is true} && 元件}
