@@ -21,6 +21,8 @@ https://github.com/QueenieCplusplus/React_rwd_app (useragent and their Bot...)
 
 # GQL Schema & Resolver
 
+it is DB coursor as well ~
+
 since 2018.12 & 2020, 8/02, 8/08-10 (to be continued...)
 
 https://github.com/QueenieCplusplus/gql_tag (搭配 GQL_api1 (backend))
