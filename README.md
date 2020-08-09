@@ -2,7 +2,7 @@
 
 # React UI
 
-https://github.com/QueenieCplusplus/React_favicon (icon)
+https://github.com/QueenieCplusplus/React_favicon (icon, browser logo)
 
 https://github.com/QueenieCplusplus/UI_app (modules to change css)
 
