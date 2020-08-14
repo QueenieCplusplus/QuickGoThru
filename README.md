@@ -142,6 +142,8 @@ https://github.com/QueenieCplusplus/React_screenPlaysApp (react native, navigati
 
 https://github.com/QueenieCplusplus/UI_app (UI)
 
+https://github.com/QueenieCplusplus/a_private_app (for private usage)
+
 ES5 & ES6 https://blog.techbridge.cc/2016/04/04/react-react-native-es5-es6-cheat-sheet/
 
 all providing version is 2016 (ES5)
