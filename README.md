@@ -142,6 +142,8 @@ https://github.com/QueenieCplusplus/React_batteryApp (react, battery)
 
 https://github.com/QueenieCplusplus/React_screenPlaysApp (react native, navigation)
 
+https://github.com/QueenieCplusplus/ReactNative_listApp/blob/master/README.md (react native, List)
+
 https://github.com/QueenieCplusplus/UI_app (UI)
 
 https://github.com/QueenieCplusplus/a_private_app (for private usage)
