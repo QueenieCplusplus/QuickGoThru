@@ -106,6 +106,8 @@ https://github.com/QueenieCplusplus/React_loginApp (React Login App)
 
 https://github.com/QueenieCplusplus/React_catApp (button, input)
 
+https://github.com/QueenieCplusplus/ReactNative_boolApp (when val is true, show the component)
+
 https://github.com/QueenieCplusplus/React_kissApp (counter button with hard code, plz use forEach loop.)
 
 https://github.com/QueenieCplusplus/React_routerApp (react-router-dom)
