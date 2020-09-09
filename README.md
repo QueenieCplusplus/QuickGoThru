@@ -1,9 +1,9 @@
-本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取（和嗅探） Data Mining & Web Crawler，亦包含 Data Structure、DBA (Search Engine) 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻雲端技術 Cloud Service 與程式化網路技術 SDN，敬請拭目以待。 ：）
+本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取（和嗅探） Data Mining & Web Crawler，亦包含 Data Structure、DBA (Search Engine) 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻『 雲端技術 Cloud Service 與程式化網路技術 SDN 』，敬請拭目以待。 ：）
 
 # CCNA Revsersion in 2020
 
 繼以往閱讀的 CCNA， 20 年來都是一樣的概念，然而今年 3 月開始確認重新改版內容，故技術迷們可能要重新閱讀這些大綱細節，
-其中可程式化與自動化測試是新加入的內容，提醒網路領域的工程師們要注意這方面的趨勢發展囉！當然對已經會寫程式的我是沒問題的，
+其中『 可程式化與自動化測試 』是新加入的內容，提醒網路領域的工程師們要注意這方面的趨勢發展囉！當然對已經會寫程式的我是沒問題的，
 不過還是希望能夠再次利用三個月休息時間好好的重新檢視閱讀與探究新版的 CCNA 2020 唄～
 
 2020 改版大綱：
@@ -50,13 +50,13 @@
 
 21. DHCP 與 SDN
 
-22. SDN （智能網路管理）
+22. 『 SDN 』（智能網路管理）
 
-23. 虛擬化技術
+23. 『 虛擬化技術 』
 
 24. WLC
 
-25. Wireless LAN
+25. 『 Wireless LAN 』
 
 26. QoS
 
