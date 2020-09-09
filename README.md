@@ -46,7 +46,7 @@ https://github.com/QueenieCplusplus/CCNA2020_NetworkComponent (2020)
 
 16. STP, Spanning Tree Protocol 與 RSTP
 
-17. 鏈路聚合配置
+17. Port Trunking | Link Aggregation (鏈路聚合配置)
 
 18. 第三層冗余協定
 
