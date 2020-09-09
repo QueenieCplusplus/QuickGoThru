@@ -14,7 +14,7 @@ since 2020. 9/09 - 10/10
 
 https://github.com/QueenieCplusplus/ICND_Connection (Before 2020)
 
-https://github.com/QueenieCplusplus/CCNA2020_NetworkComponent
+https://github.com/QueenieCplusplus/CCNA2020_NetworkComponent (2020)
 
 2. 主機與主機之間的通信模型
 
