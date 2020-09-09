@@ -42,7 +42,7 @@ https://github.com/QueenieCplusplus/CCNA2020_NetworkComponent (2020)
 
 14. 動態路由
 
-15. OSPF
+15. OSPF (屬於 Link-State Routing Protocol)
 
 16. STP, Spanning Tree Protocol 與 RSTP
 
