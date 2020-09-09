@@ -1,4 +1,60 @@
-本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取（和嗅探） Data Mining & Web Crawler，亦包含 Data Structure、DBA (Search Engine) 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻前端與雲端技術 Cloud Service，敬請拭目以待。 ：）
+本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取（和嗅探） Data Mining & Web Crawler，亦包含 Data Structure、DBA (Search Engine) 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻雲端技術 Cloud Service 與程式化網路技術 SDN，敬請拭目以待。 ：）
+
+# CCNA Revsersion in 2020
+
+繼以往閱讀的 CCNA， 20 年來都是一樣的概念，然而今年 3 月開始確認重新改版內容，故技術迷們可能要重新閱讀這些大綱細節，
+其中可程式化與自動化測試是新加入的內容，提醒網路領域的工程師們要注意這方面的趨勢發展囉！當然對已經會寫程式的我是沒問題的，
+不過還是希望能夠再次利用三個月休息時間好好的重新檢視閱讀與探究新版的 CCNA 2020 唄～
+
+2020 改版大綱：
+
+1. 網路元件
+
+2. 主機與主機之間的通信模型
+
+3. 操作系統的軟體及功能
+
+4. LAN 與 SW （安裝與初始化）
+
+5. TCP/IP 網路存取層 - Ethernet
+
+6. TCP/IP 網際網路層 - IP 與 Subnet
+
+7. TCP/IP 傳輸層與應用層
+
+8. 路由器基本配置
+
+9. 跨越交換器和路由器之間的主機對主機通信
+
+10. 解決交換網路與 IP 地址
+
+11. 靜態路由
+
+12. VLAN 與 Trunk
+
+13. 跨越 VLAN 的路由配置
+
+14. 動態路由
+
+15. OSPF
+
+16. STP 與 RSTP
+
+17. 鏈路聚合配置
+
+18. 第三層冗余協定
+
+19. WAN 和 VPN
+
+20. ACL 
+
+21. DHCP 與 SDN
+
+22. SDN （智能網路管理）
+
+23. 虛擬化技術
+
+24. WLC
 
 # Vue JS
 
