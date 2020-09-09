@@ -50,7 +50,7 @@ since 2020. 9/09 - 10/10
 
 20. ACL 
 
-21. DHCP 與 SDN
+21. DHCP 與 DNS
 
 22. 『 SDN 』（智能網路管理）
 
