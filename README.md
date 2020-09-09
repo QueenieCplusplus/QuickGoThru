@@ -44,7 +44,7 @@ https://github.com/QueenieCplusplus/CCNA2020_NetworkComponent
 
 15. OSPF
 
-16. STP 與 RSTP
+16. STP, Spanning Tree Protocol 與 RSTP
 
 17. 鏈路聚合配置
 
