@@ -56,6 +56,10 @@
 
 24. WLC
 
+25. Wireless LAN
+
+26. QoS
+
 # Vue JS
 
 since 2020. 9/05
