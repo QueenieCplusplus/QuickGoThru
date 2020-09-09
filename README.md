@@ -12,6 +12,8 @@ since 2020. 9/09 - 10/10
 
 1. 網路元件
 
+https://github.com/QueenieCplusplus/ICND_Connection (Before 2020)
+
 2. 主機與主機之間的通信模型
 
 3. 操作系統的軟體及功能
