@@ -62,7 +62,7 @@ https://github.com/QueenieCplusplus/CCNA2020_NetworkComponent
 
 24. WLC
 
-25. 『 Wireless LAN 』
+25. 『 Wireless LAN 』無線網路
 
 26. QoS
 
