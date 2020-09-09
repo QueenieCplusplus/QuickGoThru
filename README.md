@@ -48,7 +48,7 @@ https://github.com/QueenieCplusplus/CCNA2020_NetworkComponent (2020)
 
 17. Port Trunking | Link Aggregation (鏈路聚合配置)
 
-18. 第三層冗余協定
+18. Redundancy, 第三層冗余協定
 
 19. WAN 和 VPN
 
