@@ -60,7 +60,7 @@ https://github.com/QueenieCplusplus/CCNA2020_NetworkComponent
 
 23. 『 虛擬化技術 』
 
-24. WLC
+24. WLC, Wireless Lan Controller （無線網路控制器）
 
 25. 『 Wireless LAN 』無線網路
 
