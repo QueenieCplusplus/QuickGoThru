@@ -12,6 +12,8 @@ since 2020. 9/09 - 10/05
 
 https://github.com/QueenieCplusplus/Networking (技術詞彙)
 
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccnp (CCNP)
+
 2020 改版大綱：
 
 1. 網路元件 (9/09)
