@@ -105,7 +105,7 @@ https://github.com/QueenieCplusplus/Vue
 
 # React UI
 
-since 2020. 7/30
+since 2020. 7/30 （實際工作執行至 8/14）
 
 https://github.com/QueenieCplusplus/React_favicon (icon, browser logo)
 
