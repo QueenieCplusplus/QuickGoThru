@@ -22,7 +22,7 @@ since 2020. 9/09 - 10/10
 
    同一部主機的 IPC 進程通信方式：https://github.com/QueenieCplusplus/CCNA2020_IPC 
 
-   不同部主機在同一網段中的通信方式：
+   不同部主機在同一網段中的通信方式：https://github.com/QueenieCplusplus/CCNA2020_Socket1
 
    不同主機在不同網段下的通信方式：
 
