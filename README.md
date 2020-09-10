@@ -12,17 +12,17 @@ since 2020. 9/09 - 10/10
 
 1. 網路元件 (9/09)
 
-https://github.com/QueenieCplusplus/ICND_Connection (Before 2020)
+   https://github.com/QueenieCplusplus/ICND_Connection (Before 2020)
 
-https://github.com/QueenieCplusplus/CCNA2020_NetworkComponent (2020)
+   https://github.com/QueenieCplusplus/CCNA2020_NetworkComponent (2020)
 
 2. 主機與主機之間的通信模型
 
-同一部主機的 IPC 進程通信方式：
+   同一部主機的 IPC 進程通信方式：
 
-不同部主機在同一網段中的通信方式：
+   不同部主機在同一網段中的通信方式：
 
-不同主機在不同網段下的通信方式：
+   不同主機在不同網段下的通信方式：
 
 3. 操作系統的軟體及功能
 
