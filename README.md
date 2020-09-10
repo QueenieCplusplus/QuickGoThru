@@ -10,7 +10,7 @@ since 2020. 9/09 - 10/05
 
 2019 閱讀前導：
 
-https://github.com/QueenieCplusplus/Networking ()
+https://github.com/QueenieCplusplus/Networking (技術詞彙)
 
 2020 改版大綱：
 
