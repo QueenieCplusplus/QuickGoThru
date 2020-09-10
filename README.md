@@ -20,6 +20,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccnp-osi-l
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cisco-router (Cisco Router)
 
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco-certified-design-associate-網路架構師專業 (CCDA)
+
 2020 改版大綱：
 
 1. 網路元件 (9/09)
