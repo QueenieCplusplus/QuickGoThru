@@ -8,7 +8,9 @@ since 2020. 9/09 - 10/05
 
 不過還是希望能夠再次利用三個月休息時間好好的重新檢視閱讀與探究新版的 CCNA 2020 唄～
 
-2019 
+2019 閱讀前導：
+
+https://github.com/QueenieCplusplus/Networking ()
 
 2020 改版大綱：
 
