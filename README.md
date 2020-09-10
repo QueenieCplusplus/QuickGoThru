@@ -16,6 +16,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#icnd-ccna 
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccnp (CCNP)
 
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccnp-osi-layer-2-3 (CCNP)
+
 2020 改版大綱：
 
 1. 網路元件 (9/09)
