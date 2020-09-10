@@ -18,6 +18,8 @@ since 2020. 9/09 - 10/10
 
 2. 主機與主機之間的通信模型
 
+   https://github.com/QueenieCplusplus/Golang (Before 2020)
+
    同一部主機的 IPC 進程通信方式：https://github.com/QueenieCplusplus/CCNA2020_IPC 
 
    不同部主機在同一網段中的通信方式：
