@@ -16,7 +16,7 @@ since 2020. 9/09 - 10/05
 
    https://github.com/QueenieCplusplus/CCNA2020_NetworkComponent (2020)
 
-2. 主機與主機之間的通信模型
+2. 主機與主機之間的通信模型 (9/10)
 
    https://github.com/QueenieCplusplus/Golang (Before 2020)
 
