@@ -40,7 +40,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
    不同部主機在同一網段中的通信方式：https://github.com/QueenieCplusplus/CCNA2020_Socket1
 
-   不同主機在不同網段下的通信方式：
+   不同主機在不同網段下的通信方式： 詳見標題 『TCP/IP 網際網路層 - IP 與 Subnet』
 
 3. 操作系統的軟體及功能
 
