@@ -1,4 +1,4 @@
-本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取（和嗅探） Data Mining & Web Crawler，亦包含 Data Structure、DBA (Search Engine) 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻『 雲端技術 Cloud Service 與程式化網路技術 SDN 』，敬請拭目以待。 ：）
+本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取（和嗅探） Data Mining & Web Crawler，亦包含 Data Structure、DBA (Search Engine) 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻『 雲端技術 Cloud Service https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-service-vm 與程式化網路技術 SDN 』，敬請拭目以待。 ：）
 
 # CCNA Revsersion in 2020
 
