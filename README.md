@@ -12,6 +12,8 @@ since 2020. 9/09 - 10/05
 
 https://github.com/QueenieCplusplus/Networking (技術詞彙)
 
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#解析封包 (封包解析)
+
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#icnd-ccna (ICND)
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccnp (CCNP)
