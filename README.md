@@ -70,6 +70,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 12. VLAN 與 Trunk (9/12)
 
+    https://github.com/QueenieCplusplus/CCNA2020_dot1q
+
 13. 跨越 VLAN 的路由配置
 
 14. 動態路由
