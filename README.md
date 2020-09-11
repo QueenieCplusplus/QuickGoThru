@@ -48,9 +48,11 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 -------------------
 
-5. TCP/IP 網路存取層 - Ethernet
+5. TCP/IP 網路存取層 - Ethernet(9/11)
 
-   想對於 25 項次的 WLAN 而言，LAN 屬於乙太網（有線的區域網路）
+   https://github.com/QueenieCplusplus/CCNA2020_Ethernet
+   
+   相對於 25 項次的 WLAN 而言，LAN 屬於乙太網（有線的區域網路）
 
 6. TCP/IP 網際網路層 - IP 與 Subnet
 
