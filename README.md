@@ -68,7 +68,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 11. 靜態路由
 
-12. VLAN 與 Trunk
+12. VLAN 與 Trunk (9/12)
 
 13. 跨越 VLAN 的路由配置
 
