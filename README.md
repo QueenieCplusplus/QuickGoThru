@@ -76,7 +76,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 15. OSPF (屬於 Link-State Routing Protocol)
 
-16. STP, Spanning Tree Protocol 與 RSTP
+16. STP, Spanning Tree Protocol 與 RSTP （生成樹協定能協調多個交換器的工作）
 
 17. Port Trunking | Link Aggregation (鏈路聚合配置)
 
