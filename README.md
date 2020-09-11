@@ -92,7 +92,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 24. WLC, Wireless Lan Controller （無線網路控制器）
 
-25. 『 Wireless LAN 』無線區域網路
+25. 『 Wireless LAN 』無線區域網路 (9/11)
 
 26. QoS
 
