@@ -47,6 +47,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 4. LAN 與 SW （安裝與初始化）
 
    https://github.com/QueenieCplusplus/CCNA2020_SW
+   
+   建議搭配閱讀：詳見標題 『STP, Spanning Tree Protocol 與 RSTP 』、『Port Trunking | Link Aggregation』
 
 -------------------
 
