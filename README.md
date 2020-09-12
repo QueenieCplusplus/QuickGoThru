@@ -44,6 +44,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 3. 操作系統的軟體及功能
 
+   ...略...
+
 4. LAN 與 SW （安裝與初始化）
 
    https://github.com/QueenieCplusplus/CCNA2020_SW
