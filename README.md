@@ -82,7 +82,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
     
     建議搭配閱讀：詳見標題 『LAN 與 SW』、『STP, Spanning Tree Protocol 與 RSTP』、『Port Trunking | Link Aggregation』
 
-13. 跨越 VLAN 的路由配置 (9/12)
+13. 跨越 VLAN 的路由配置 (9/12～9/13)
 
     https://github.com/QueenieCplusplus/CCNA2020_interVlans_thruRouter
 
