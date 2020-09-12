@@ -66,6 +66,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 8. 路由器基本配置
 
+   ...略...
+
 9. 跨越交換器和路由器之間的主機對主機通信
 
 10. 解決交換網路與 IP 地址
