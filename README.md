@@ -75,6 +75,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 12. VLAN 與 Trunk (9/12)
 
     https://github.com/QueenieCplusplus/CCNA2020_dot1q
+    
+    建議搭配閱讀：詳見標題 『LAN 與 SW』、『STP, Spanning Tree Protocol 與 RSTP』、『Port Trunking | Link Aggregation』
 
 13. 跨越 VLAN 的路由配置
 
@@ -84,11 +86,11 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 16. STP, Spanning Tree Protocol 與 RSTP （生成樹協定能協調多個交換器的工作）
 
-    建議搭配閱讀：詳見標題 『LAN 與 SW 』、『Port Trunking | Link Aggregation』
+    建議搭配閱讀：詳見標題 『VLAN 與 Trunk』、『Port Trunking | Link Aggregation』
 
 17. Port Trunking | Link Aggregation (鏈路聚合配置)
 
-    建議搭配閱讀：詳見標題 『LAN 與 SW』、『STP, Spanning Tree Protocol 與 RSTP 』、
+    建議搭配閱讀：詳見標題 『VLAN 與 Trunk』、『STP, Spanning Tree Protocol 與 RSTP 』
 
 18. Redundancy, 第三層冗余協定
 
