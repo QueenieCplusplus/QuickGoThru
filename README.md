@@ -84,7 +84,11 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 16. STP, Spanning Tree Protocol 與 RSTP （生成樹協定能協調多個交換器的工作）
 
+    建議搭配閱讀：詳見標題 『LAN 與 SW 』、『Port Trunking | Link Aggregation』
+
 17. Port Trunking | Link Aggregation (鏈路聚合配置)
+
+    建議搭配閱讀：詳見標題 『LAN 與 SW』、『STP, Spanning Tree Protocol 與 RSTP 』、
 
 18. Redundancy, 第三層冗余協定
 
