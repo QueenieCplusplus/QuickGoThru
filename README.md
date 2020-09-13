@@ -72,7 +72,11 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 9. 跨越交換器和路由器之間的主機對主機通信
 
+   建議搭配閱讀：詳見標題 『 TCP/IP 網際網路層 - IP 與 Subnet 』
+
 10. 解決交換網路與 IP 地址
+
+    建議搭配閱讀：詳見標題 『 TCP/IP 網際網路層 - IP 與 Subnet 』
 
 -------------------
 
