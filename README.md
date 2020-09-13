@@ -409,6 +409,8 @@ since 2018.6 & 2020.7/02 - 7/04 (3 days)
     * Hybrid 混合雲, Anthos
     
     * Network: Coud CDN + DNS + VPC
+    
+      https://github.com/QueenieCplusplus/QuickGoThru#ccna-revsersion-in-2020
 
     
 * GCP 產業應用
