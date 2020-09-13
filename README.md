@@ -62,6 +62,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 6. TCP/IP 網際網路層 - IP 與 Subnet (9/13)
 
+   https://github.com/QueenieCplusplus/CCNA_IP_and_Subnet
+
 7. 『 TCP/IP 傳輸層與應用層 』 - 雲端發展後，使用者端與客戶端可以專注在 L4 ~ L7
 
 8. 路由器基本配置
