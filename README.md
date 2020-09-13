@@ -118,6 +118,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 21. 『 DHCP 與 DNS 』
 
+     https://github.com/QueenieCplusplus/CCNA2020_DHCP
+
 22. 『 SDN 』（智能網路管理）
 
 23. 『 虛擬化技術 』
