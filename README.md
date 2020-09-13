@@ -116,7 +116,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 20. 『 ACL 』
 
-21. 『 DHCP 與 DNS 』
+21. 『 DHCP 與 DNS 』(9/14)
 
      https://github.com/QueenieCplusplus/CCNA2020_DHCP
      
