@@ -403,7 +403,7 @@ since 2018.6 & 2020.7/02 - 7/04 (3 days)
     
     * Serverless/CPU 應用程式的執行環境, App Engine
     
-      GCP 重點產品！
+      GCP 重點產品！（待續）
     
     * DB 資料庫, Big Query + DataFlow + Pub/Sub 
     
@@ -427,6 +427,8 @@ since 2018.6 & 2020.7/02 - 7/04 (3 days)
       https://github.com/QueenieCplusplus/K8s
 
     * Cloud Developer, Cloud SDK 
+    
+      GCP 重點產品！（待續）
 
     * Security 安全, Cloud IAM
     
@@ -440,7 +442,9 @@ since 2018.6 & 2020.7/02 - 7/04 (3 days)
     
     * Network: Coud CDN + DNS + VPC
     
-      https://github.com/QueenieCplusplus/QuickGoThru#ccna-revsersion-in-2020
+      前導: https://github.com/QueenieCplusplus/QuickGoThru#ccna-revsersion-in-2020
+      
+      2020: 待續。
 
     
 * GCP 產業應用
