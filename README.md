@@ -126,7 +126,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 23. 『 虛擬化技術 』
 
-24. WLC, Wireless Lan Controller （無線網路控制器）
+24. WLC, Wireless Lan Controller (embedded in AP)
 
 25. 『 Wireless LAN 』無線區域網路 (9/11)
 
@@ -1677,6 +1677,8 @@ https://gist.github.com/PattyAppier?fbclid=IwAR1DdgxMcrm2HJJBTpjEQkti94GkYRK1i03
 since 2017/11
 
 Content is stored in Objective Sotage, which is distributed to Distributed Nodes (Mirror) to improve Internet Consumption Speed.
+
+
 
 
 
