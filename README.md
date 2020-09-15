@@ -430,7 +430,13 @@ since 2018.6 & 2020.7/02 - 7/04 (3 days)
 
     * Security 安全, Cloud IAM
     
+      前導: https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#資安研究
+      
+      2020: 待續。
+    
     * Hybrid 混合雲, Anthos
+    
+      GCP 重點產品。
     
     * Network: Coud CDN + DNS + VPC
     
