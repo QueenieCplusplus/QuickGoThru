@@ -126,7 +126,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 23. 『 虛擬化技術 』
 
-24. WLC, Wireless Lan Controller (embedded in AP)
+24. WLC, Wireless Lan Controller (embedded in AP, 9/15)
 
 25. 『 Wireless LAN 』無線區域網路 (9/11)
 
