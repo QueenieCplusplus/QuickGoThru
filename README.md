@@ -58,6 +58,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 -------------------
 
+此 六 章是網路最基本的知識包含 OSI 七層觀念。
+
 5. TCP/IP 網路存取層 - Ethernet(9/11)
 
    https://github.com/QueenieCplusplus/CCNA2020_Ethernet
@@ -83,6 +85,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
     建議搭配閱讀：詳見標題 『 TCP/IP 網際網路層 - IP 與 Subnet 』
 
 -------------------
+
+此 九 章主軸焦點為網管對於虛擬區域網路的流量設定。
 
 11. 靜態路由
 
