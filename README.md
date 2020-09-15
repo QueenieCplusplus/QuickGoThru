@@ -50,7 +50,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
    ...略...
 
-4. LAN 與 SW （安裝與初始化）
+4. LAN 與 SW （RIP is widely used in LAN）
 
    https://github.com/QueenieCplusplus/CCNA2020_SW
    
@@ -1677,6 +1677,9 @@ https://gist.github.com/PattyAppier?fbclid=IwAR1DdgxMcrm2HJJBTpjEQkti94GkYRK1i03
 since 2017/11
 
 Content is stored in Objective Sotage, which is distributed to Distributed Nodes (Mirror) to improve Internet Consumption Speed.
+
+
+
 
 
 
