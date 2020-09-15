@@ -30,7 +30,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 2020 改版大綱：
 
-前 四 章主要是以往 ICND 的內容，就是網路設備元件的說明。 
+前 四 章主要是以往 ICND 的內容，即『網路設備元件』的說明。 
 
 1. 網路元件 (9/09)
 
