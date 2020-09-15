@@ -417,6 +417,10 @@ since 2018.6 & 2020.7/02 - 7/04 (3 days)
     * GCE 虛擬機（遠端部署環境）
     
     * 雲端記憶體
+    
+      前導：資料結構 https://github.com/QueenieCplusplus/1216Data_Structure
+      
+      2020: 待續。
 
     * K8s 容器管理技術, GKE
     
