@@ -128,6 +128,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 24. WLC, Wireless Lan Controller (embedded in AP, 9/15)
 
+    https://github.com/QueenieCplusplus/CCNA2020_WLC (可直接觀看產品說明書)
+
 25. 『 Wireless LAN 』無線區域網路 (9/11)
 
     https://github.com/QueenieCplusplus/CCNA2020_WirelessLAN
