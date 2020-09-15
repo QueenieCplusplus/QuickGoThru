@@ -142,7 +142,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
     https://github.com/QueenieCplusplus/CCNA2020_WirelessLAN
 
-26. QoS
+26. QoS (對影音串流的網路品質很重要)
 
 # Vue JS
 
