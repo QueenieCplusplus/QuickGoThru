@@ -400,6 +400,10 @@ since 2018.6 & 2020.7/02 - 7/04 (3 days)
     * Serverless/CPU 應用程式的執行環境, App Engine
     
     * DB 資料庫, Big Query + DataFlow + Pub/Sub 
+    
+    前導：https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba
+    
+    2020: 待續。
 
     
 * GCP 網路
