@@ -120,7 +120,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
      https://github.com/QueenieCplusplus/CCNA2020_DHCP
      
-     https://github.com/QueenieCplusplus/CCNA2020_DNS 
+     https://github.com/QueenieCplusplus/CCNA2020_DNS (暫略)
 
 22. 『 SDN 』（智能網路管理）
 
