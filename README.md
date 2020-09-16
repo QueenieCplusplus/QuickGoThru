@@ -122,6 +122,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 19. 『 WAN 和 VPN 』(廣域網路中的虛擬私人網路, 9/16)
 
+     https://github.com/QueenieCplusplus/CCNA2020_VPN
+
 20. 『 ACL 』（存取控制）
 
 21. 『 DHCP 與 DNS 』(9/14)
