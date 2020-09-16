@@ -120,7 +120,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 最後 八 章尤為重要，呼應了 Cisco 要發展的 DevNet 與 Google 的 SRE。
 
-19. 『 WAN 和 VPN 』(廣域網路中的虛擬私人網路)
+19. 『 WAN 和 VPN 』(廣域網路中的虛擬私人網路, 9/16)
 
 20. 『 ACL 』（存取控制）
 
