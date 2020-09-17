@@ -104,7 +104,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
     https://github.com/QueenieCplusplus/CCNA2020_interVlans_thruRouter
 
-14. 動態路由
+14. 動態路由 (9/17)
 
 15. OSPF (屬於 Link-State Routing Protocol)
 
