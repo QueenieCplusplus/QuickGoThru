@@ -4,6 +4,8 @@
 
 since 2020. 9/26 - 11/13 (ET: 3 weeks)
 
+設計了小小實驗室實作計畫，屆時分享成果給大家！
+
 # CCNA Revsersion in 2020
 
 since 2020. 9/09 - 9/25 (ET: 2 weeks)
