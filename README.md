@@ -104,7 +104,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
     https://github.com/QueenieCplusplus/CCNA2020_interVlans_thruRouter
 
-14. 動態路由中的 RIP (9/17)
+14. 動態路由中的 RIP ((屬於 Distance-Vector Routing Protocol, 9/17)
 
     https://github.com/QueenieCplusplus/CCNA2020_DynamicRouting
 
