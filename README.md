@@ -106,6 +106,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 14. 動態路由 (9/17)
 
+    https://github.com/QueenieCplusplus/CCNA2020_DynamicRouting
+
 15. OSPF (屬於 Link-State Routing Protocol)
 
     建議搭配閱讀：詳見標題 『動態路由』、『LAN 與 SW』
