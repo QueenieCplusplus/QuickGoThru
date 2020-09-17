@@ -90,7 +90,9 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 此 九 章主軸焦點為網管對於虛擬區域網路的流量設定。
 
-11. 靜態路由
+11. 靜態路由 (9/17)
+
+    https://github.com/QueenieCplusplus/CCNA2020_StaticRouting
 
 12. VLAN 與 Trunk (9/12)
 
