@@ -75,8 +75,11 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 7. 『 TCP/IP 傳輸層與應用層 』 - 雲端發展後，使用者端與客戶端可以專注在 L4 ~ L7
 
     L4 略
+    
     L5
+    
     L6
+    
     L7 略
 
 8. 路由器基本配置
