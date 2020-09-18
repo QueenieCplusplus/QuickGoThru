@@ -25,6 +25,7 @@ since 2020. 9/20 - 10/04 (ET: 2 week)
 
 * Nginx 初始化與啟動 (core)
 
+* IPC amongs Nginx Servers
 
 # CCNA Revsersion in 2020
 
