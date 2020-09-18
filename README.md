@@ -17,7 +17,7 @@ since 2020. 9/20 - 10/04 (ET: 2 week)
 
 * Proxy Server 反向代理與正向代理及其 Load Balance 功能
 
-* 網路連接序列化、事件驅動
+* 網路連接序列化、Event 事件驅動
 
 * 設定：最大連線數、MIME-Type、TimeOut、單連接請求數上限、造訪權限設定
 
