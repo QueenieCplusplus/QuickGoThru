@@ -11,21 +11,23 @@ since 2020. 10/05 - 11/13 (ET: 1 week)
 
 since 2020. 9/20 - 10/04 (ET: 2 week)
 
-* Web Server
+* Nginx
 
-* Mail Server
+   * Web Server
 
-* Proxy Server 反向代理與正向代理及其 Load Balance 功能
+   * Mail Server
 
-* 網路連接序列化、Event 事件驅動
+   * Proxy Server 反向代理與正向代理及其 Load Balance 功能
 
-* 設定：最大連線數、MIME-Type、TimeOut、單連接請求數上限、造訪權限設定
+   * 網路連接序列化、Event 事件驅動
 
-* 虛擬主機設定
+   * 設定：最大連線數、MIME-Type、TimeOut、單連接請求數上限、造訪權限設定
 
-* Nginx 初始化與啟動 (core)
+   * 虛擬主機設定
 
-* IPC amongs Nginx Servers
+   * Nginx 初始化與啟動 (core)
+
+   * IPC amongs Nginx Servers
 
 # CCNA Revsersion in 2020
 
