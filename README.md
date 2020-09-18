@@ -78,9 +78,10 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
     L4 略
     
-    L5
+    L5 ~ L6
     
-    L6
+    https://github.com/QueenieCplusplus/CCNA2020_L5_and_L6 (會議層與表現層)  
+    
     
     L7 略
 
