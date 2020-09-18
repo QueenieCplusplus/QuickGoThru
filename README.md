@@ -7,9 +7,21 @@ since 2020. 10/05 - 11/13 (ET: 1 week)
 設計了小小實驗室實作計畫，屆時分享成果給大家！
 
 
-# NginX & K8s in 2020
+# Nginx & K8s in 2020
 
 since 2020. 9/20 - 10/04 (ET: 2 week)
+
+* Web Server
+
+* Mail Server
+
+* Proxy Server
+
+* 網路連接序列化、事件驅動
+
+* 設定：最大連線數、MIME-Type、TimeOut、單連接請求數上限
+
+* 虛擬主機設定
 
 # CCNA Revsersion in 2020
 
