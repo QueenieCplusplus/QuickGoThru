@@ -74,16 +74,16 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
    https://github.com/QueenieCplusplus/CCNA2020_IP_and_Subnet
 
-7. 『 TCP/IP 傳輸層與應用層 』 - 雲端發展後，使用者端與客戶端可以專注在 L4 ~ L7
+7. 『 TCP/IP 傳輸層與應用層 』 - 雲端發展後，使用者端與客戶端可以專注在 L4 ~ L7 (9/18)
 
-    L4 略
+    L4, TCP 略
     
     L5 ~ L6
     
     https://github.com/QueenieCplusplus/CCNA2020_L5_and_L6 (會議層與表現層)  
     
     
-    L7 略
+    L7, APP 略
 
 8. 路由器基本配置
 
