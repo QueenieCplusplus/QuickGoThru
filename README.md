@@ -23,6 +23,8 @@ since 2020. 9/20 - 10/04 (ET: 2 week)
 
 * 虛擬主機設定
 
+* Nginx 初始化與啟動 (core)
+
 
 # CCNA Revsersion in 2020
 
