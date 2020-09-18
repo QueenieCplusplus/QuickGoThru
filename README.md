@@ -28,6 +28,26 @@ since 2020. 9/20 - 10/04 (ET: 2 week)
    * Nginx 初始化與啟動 (core)
 
    * IPC amongs Nginx Servers
+   
+ * K8s
+ 
+   * Pod (master、slave、frontend)
+   
+   * RC
+   
+   * Namespace
+   
+   * Auth (AC、Secret)
+   
+   * Network (模型、實作、測試)
+   
+   * K8s API in Java
+   
+   * Kubelet
+   
+   * K8s DNS
+   
+   * Kubectl
 
 # CCNA Revsersion in 2020
 
