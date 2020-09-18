@@ -19,9 +19,10 @@ since 2020. 9/20 - 10/04 (ET: 2 week)
 
 * 網路連接序列化、事件驅動
 
-* 設定：最大連線數、MIME-Type、TimeOut、單連接請求數上限
+* 設定：最大連線數、MIME-Type、TimeOut、單連接請求數上限、造訪權限設定
 
 * 虛擬主機設定
+
 
 # CCNA Revsersion in 2020
 
