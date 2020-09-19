@@ -164,6 +164,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 15. 動態路由中的 OSPF (屬於 Link-State Routing Protocol)
 
+    https://github.com/QueenieCplusplus/CCNA2020_OSPF
+
     建議搭配閱讀：詳見標題 『動態路由』、『LAN 與 SW』
 
 16. STP, Spanning Tree Protocol 與 RSTP （生成樹協定能協調多個交換器的工作）
