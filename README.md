@@ -1,4 +1,11 @@
+
+雖然目前是行動裝置時代，然後行動裝置僅能做客戶端設備顯示使用，運算能力集中在雲端上，透過網路互相連接，故科技時代的 2016 年之後，尤其 2018 年到今年和未來，科技業展開新革命：手機應用程式（行動支付）、雲端運算(PaaS)、虛擬化後端。
+
+但其實雲端基礎上，仍然是硬體伺服器與網路設備，所以網頁伺服器、資料庫伺服器、檔案伺服器、郵件伺服器、訊息交換伺服器並無消失，反而需求量更大，隨著虛擬機的流行，一台硬體設備安裝百千個伺服器（虛擬化叢集）已經是正常現狀，傳統的伺服器將消逝。
+
 本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取（和嗅探） Data Mining & Web Crawler，亦包含 Data Structure、DBA (Search Engine) 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻『 雲端技術 Cloud Service https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-service-vm 與程式化網路技術 SDN 』，敬請拭目以待。 ：）
+
+
 
 # Cloud Tech in 2020
 
