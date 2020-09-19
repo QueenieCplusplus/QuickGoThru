@@ -6,6 +6,8 @@ since 2020. 10/05 - 11/13 (ET: 1 week)
 
 基礎網管將遭淘汰，所以我將專注在雲端技術上。
 
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-service-vm
+
 
 # Nginx & K8s in 2020
 
