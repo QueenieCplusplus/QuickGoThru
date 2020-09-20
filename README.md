@@ -25,14 +25,14 @@ since 2020. 9/20 - 10/04 (ET: 2 week)
    * Web Server
    
      https://github.com/QueenieCplusplus/Nginx_WWW
+     
+   * Serialize 網路連接序列化、Event 事件驅動（事件處理機制）
+   
+   * 設定：最大連線數、MIME-Type、TimeOut、單連接請求數上限、造訪權限設定
 
    * Mail Server
 
    * Proxy Server 反向代理與正向代理及其 Load Balance 功能
-
-   * 網路連接序列化、Event 事件驅動
-
-   * 設定：最大連線數、MIME-Type、TimeOut、單連接請求數上限、造訪權限設定
 
    * 虛擬主機設定
 
