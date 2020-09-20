@@ -28,7 +28,23 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
      
    * Serialize 網路連接序列化、Event 事件驅動（事件處理機制）
    
-   * 伺服器的設定：最大連線數、MIME-Type、TimeOut、單連接請求數上限、造訪權限設定
+   * 伺服器的設定：
+   
+      * 最大連線數
+      
+      * MIME-Type
+      
+      * TimeOut
+      
+      * 單連接請求數上限
+      
+      * 造訪權限設定
+      
+      * CPU
+      
+      * Core
+      
+      * EventDrive
 
    * Mail Server
 
