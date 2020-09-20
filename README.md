@@ -30,22 +30,8 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
    
    * 伺服器的設定：
    
-      * 最大連線數
-      
-      * MIME-Type
-      
-      * TimeOut
-      
-      * 單連接請求數上限
-      
-      * 造訪權限設定
-      
-      * CPU
-      
-      * Core
-      
-      * EventDrive
-
+     https://github.com/QueenieCplusplus/Nginx_Server
+   
    * Mail Server
 
    * Proxy Server 反向代理與正向代理及其 Load Balance 功能
