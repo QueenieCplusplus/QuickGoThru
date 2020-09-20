@@ -9,7 +9,7 @@
 
 # Cloud Tech in 2020
 
-since 2020. 10/05 - 11/13 (ET: 1 week)
+since 2020. 10/08 - 11/15 (ET: 1 week)
 
 基礎網管將遭淘汰，所以我將專注在雲端技術上。
 
@@ -18,7 +18,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-serv
 
 # Nginx & K8s in 2020
 
-since 2020. 9/20 - 10/04 (ET: 2 week)
+since 2020. 9/20 - 10/07 (ET: 2 week)
 
 * Nginx
 
