@@ -22,21 +22,21 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
 
 * Nginx
 
-   * Web Server
+   * Web Server (9/20)
    
      https://github.com/QueenieCplusplus/Nginx_WWW
      
    * Serialize 網路連接序列化、Event 事件驅動（事件處理機制）
    
-   * 伺服器的設定：
+   * 伺服器的設定 (9/21)
    
      https://github.com/QueenieCplusplus/Nginx_Server
      
-   * 後端伺服器的設定：
+   * 後端伺服器的設定
    
    * Mail Server
 
-   * Proxy Server 反向代理與正向代理及其 Load Balance 功能
+   * Proxy Server 反向代理與正向代理及其 Load Balance 功能 (9/23)
 
    * 虛擬主機設定
 
