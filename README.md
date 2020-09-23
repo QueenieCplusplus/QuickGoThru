@@ -32,19 +32,19 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
    
      https://github.com/QueenieCplusplus/Nginx_Server
      
-   * 後端伺服器的設定
+   * 後端伺服器的設定 (9/27)
    
-   * Mail Server
+   * Mail Server (9/24)
 
    * Proxy Server 反向代理與正向代理及其 Load Balance 功能 (9/23)
    
      https://github.com/QueenieCplusplus/Nginx_Proxy
 
-   * 虛擬主機設定
+   * 虛擬主機設定 (9/28)
 
-   * Nginx 初始化與啟動 (core)
+   * Nginx 初始化與啟動 (core, 9/26)
 
-   * IPC amongs Nginx Servers
+   * IPC amongs Nginx Servers (9/25)
    
  * K8s
  
