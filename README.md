@@ -52,13 +52,13 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
    
  * K8s
  
-   * Pod (master、slave、frontend)(9/24)
+   * Pod 豌豆莢 (master、slave、frontend)(9/24)
    
      https://github.com/QueenieCplusplus/K8s_Pod
    
-   * RC
+   * RC 豌豆莢抄本數量管理者
    
-   * Namespace
+   * Namespace 命名空間
    
    * Auth (AC、Secret)
    
