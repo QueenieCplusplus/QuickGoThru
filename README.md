@@ -21,6 +21,10 @@ since 2020.4/23 閱讀前導：
 
 https://github.com/QueenieCplusplus/VM (HyperV 範例)
 
+since 2020.4/30 閱讀前導：
+
+https://github.com/QueenieCplusplus/QuickGoThru#kernel-hackers (核心系統)
+
 since 2020. 10/07 - 11/08 (ET: 1 month)
 
 * 實現 FT 應用的叢集、主機、虛擬機
