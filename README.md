@@ -22,25 +22,25 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
 
 * Nginx
 
-   * Web Server 網頁服務 (9/20)
+   * Web Server 網頁服務 
    
      https://github.com/QueenieCplusplus/Nginx_WWW
      
-   * Serialize 網路連接序列化、Event 事件驅動（事件處理機制）
+   * Serialize 網路連接序列化、Event 事件驅動（事件處理機制）(9/28)
    
-   * 伺服器的設定 (9/21)
+   * 伺服器的設定 
    
      https://github.com/QueenieCplusplus/Nginx_Server
      
-   * 後端伺服器的設定 (9/24)
+   * 後端伺服器的設定 
    
      https://github.com/QueenieCplusplus/Nginx_Backend
    
-   * Mail Server 郵件服務 (9/24)
+   * Mail Server 郵件服務 
    
      https://github.com/QueenieCplusplus/Nginx_Mail
 
-   * Proxy Server 反向代理與正向代理及其 Load Balance 功能 (9/23)
+   * Proxy Server 反向代理與正向代理及其 Load Balance 功能 
    
      https://github.com/QueenieCplusplus/Nginx_Proxy
 
@@ -56,9 +56,11 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
    
      https://github.com/QueenieCplusplus/K8s_Pod
    
-   * RC 豌豆莢抄本數量管理者
+   * RC 豌豆莢抄本數量管理者 (9/25)
    
-   * Namespace 命名空間
+   * IP 配置 (9/26)
+   
+   * Namespace 命名空間 (9/27)
    
    * Auth (AC、Secret)
    
