@@ -110,7 +110,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
    https://github.com/QueenieCplusplus/Golang (Before 2020)
 
-   同一部主機的 IPC 進程通信方式：https://github.com/QueenieCplusplus/CCNA2020_IPC 
+   ＊＊＊ 同一部主機的 IPC 進程通信方式 ＊＊＊：https://github.com/QueenieCplusplus/CCNA2020_IPC 
 
    不同部主機在同一網段中的通信方式：https://github.com/QueenieCplusplus/CCNA2020_Socket1
 
