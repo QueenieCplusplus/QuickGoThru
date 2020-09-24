@@ -136,7 +136,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
    
    相對於 25 項次的 WLAN 而言，LAN 屬於乙太網（有線的區域網路）
 
-6. TCP/IP 網際網路層 - IP 與 Subnet (9/13)
+6. ＊＊＊TCP/IP 網際網路層 - IP 與 Subnet ＊＊＊(9/13)
 
    https://github.com/QueenieCplusplus/CCNA2020_IP_and_Subnet
 
@@ -167,9 +167,9 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 此 九 章主軸焦點為網管對於虛擬區域網路的流量設定。
 
-11. 靜態路由 (9/17)
+11. ＊＊＊靜態路由＊＊＊ (9/17)
 
-    https://github.com/QueenieCplusplus/CCNA2020_StaticRouting
+    https://github.com/QueenieCplusplus/CCNA2020_StaticRouting 
 
 12. VLAN 與 Trunk (9/12)
 
