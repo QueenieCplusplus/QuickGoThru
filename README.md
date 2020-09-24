@@ -9,16 +9,21 @@
 
 # Cloud Tech in 2020
 
-since 2020. 10/05 | 11/11 (ET: 1 month)
+since 2020. 11/11 (ET: 1 month)
 
 基礎網管將遭淘汰，所以我將專注在雲端技術上。
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-service-vm
 
+# VMware 虛擬化技術 
+
+since 2020. 10/06 - 11/08 (ET: 1 month)
+
+
 
 # Nginx & K8s in 2020
 
-since 2020. 9/20 - 10/04 (ET: 2 week)
+since 2020. 9/20 - 10/05 (ET: 2 week)
 
 * Nginx
 
