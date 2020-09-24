@@ -22,7 +22,7 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
 
 * Nginx
 
-   * Web Server (9/20)
+   * Web Server 網頁服務 (9/20)
    
      https://github.com/QueenieCplusplus/Nginx_WWW
      
@@ -36,7 +36,7 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
    
      https://github.com/QueenieCplusplus/Nginx_Backend
    
-   * Mail Server (9/24)
+   * Mail Server 郵件服務 (9/24)
    
      https://github.com/QueenieCplusplus/Nginx_Mail
 
@@ -44,15 +44,15 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
    
      https://github.com/QueenieCplusplus/Nginx_Proxy
 
-   * 虛擬主機設定 (9/27)
+   * VM 虛擬主機設定 (9/27)
 
    * Nginx 初始化與啟動 (core, 9/26)
 
-   * IPC amongs Nginx Servers (9/25)
+   * IPC amongs Nginx Servers 虛擬主機之間通訊 (9/25)
    
  * K8s
  
-   * Pod (master、slave、frontend)
+   * Pod (master、slave、frontend)(9/24)
    
    * RC
    
