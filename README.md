@@ -25,6 +25,8 @@ since 2020. 10/07 - 11/08 (ET: 1 month)
 
 * 管理 vSphere 網路
 
+* vSAN、SAN 存儲區域網路
+
 # Nginx & K8s in 2020
 
 since 2020. 9/20 - 10/06 (ET: 2 week)
