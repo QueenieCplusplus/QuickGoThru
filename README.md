@@ -32,7 +32,7 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
    
      https://github.com/QueenieCplusplus/Nginx_Server
      
-   * 後端伺服器的設定 (9/27)
+   * 後端伺服器的設定 (9/24)
    
    * Mail Server (9/24)
    
@@ -42,7 +42,7 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
    
      https://github.com/QueenieCplusplus/Nginx_Proxy
 
-   * 虛擬主機設定 (9/28)
+   * 虛擬主機設定 (9/27)
 
    * Nginx 初始化與啟動 (core, 9/26)
 
