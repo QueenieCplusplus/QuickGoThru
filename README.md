@@ -15,7 +15,7 @@ since 2020. 11/11 to Future ~
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-service-vm
 
-# VMware 虛擬化技術 
+# VMware 虛擬化技術 in 2018
 
 since 2020.4/23 閱讀前導：
 
