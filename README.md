@@ -19,7 +19,11 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-serv
 
 since 2020. 10/07 - 11/08 (ET: 1 month)
 
+* 實現 FT 應用的叢集、主機、虛擬機
 
+* 運用 vSphere 軟體建立叢集，管理主機資源，並且建立虛擬機
+
+* 管理 vSphere 網路
 
 # Nginx & K8s in 2020
 
