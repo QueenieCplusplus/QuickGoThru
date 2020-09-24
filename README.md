@@ -43,7 +43,7 @@ since 2020. 10/07 - 11/08 (ET: 1 month)
 
   * 熱移轉虛擬機
 
-* vSAN、SAN 存儲區域網路
+* vSAN、SAN 由虛擬交換機發展為存儲區域網路
 
 # Nginx & K8s in 2020
 
