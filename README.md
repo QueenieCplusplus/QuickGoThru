@@ -34,6 +34,8 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
      
    * 後端伺服器的設定 (9/24)
    
+     https://github.com/QueenieCplusplus/Nginx_Backend
+   
    * Mail Server (9/24)
    
      https://github.com/QueenieCplusplus/Nginx_Mail
