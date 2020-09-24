@@ -17,7 +17,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-serv
 
 # VMware 虛擬化技術 
 
-2020.4 閱讀前導：
+since 2020.4/23 閱讀前導：
 
 https://github.com/QueenieCplusplus/VM (HyperV 範例)
 
