@@ -35,6 +35,8 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
    * 後端伺服器的設定 (9/27)
    
    * Mail Server (9/24)
+   
+     https://github.com/QueenieCplusplus/Nginx_Mail
 
    * Proxy Server 反向代理與正向代理及其 Load Balance 功能 (9/23)
    
