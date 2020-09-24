@@ -26,7 +26,7 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
    
      https://github.com/QueenieCplusplus/Nginx_WWW
      
-   * Serialize 網路連接序列化、Event 事件驅動（事件處理機制）(9/28)
+   * Serialize 網路連接序列化、Event 事件驅動（事件處理機制）(10/02)
    
    * 伺服器的設定 
    
@@ -44,9 +44,9 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
    
      https://github.com/QueenieCplusplus/Nginx_Proxy
 
-   * VM 虛擬主機設定 (9/27)
+   * VM 虛擬主機設定 (10/03)
 
-   * Nginx 初始化與啟動 (core, 9/26)
+   * Nginx 初始化與啟動 (core, 10/04)
 
    * IPC amongs Nginx Servers 虛擬主機之間通訊 (9/25)
    
