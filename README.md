@@ -54,6 +54,8 @@ since 2020. 9/20 - 10/07 (ET: 2 week)
  
    * Pod (master、slave、frontend)(9/24)
    
+     https://github.com/QueenieCplusplus/K8s_Pod
+   
    * RC
    
    * Namespace
