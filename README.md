@@ -17,13 +17,13 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-serv
 
 # VMware 虛擬化技術 
 
-since 2020. 10/06 - 11/08 (ET: 1 month)
+since 2020. 10/07 - 11/08 (ET: 1 month)
 
 
 
 # Nginx & K8s in 2020
 
-since 2020. 9/20 - 10/05 (ET: 2 week)
+since 2020. 9/20 - 10/06 (ET: 2 week)
 
 * Nginx
 
