@@ -17,6 +17,10 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-serv
 
 # VMware 虛擬化技術 
 
+2020.4 閱讀前導：
+
+https://github.com/QueenieCplusplus/VM (HyperV 範例)
+
 since 2020. 10/07 - 11/08 (ET: 1 month)
 
 * 實現 FT 應用的叢集、主機、虛擬機
