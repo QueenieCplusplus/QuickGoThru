@@ -113,13 +113,13 @@ since 2020. 9/20 - 10/06 (ET: 2 week)
    
      https://github.com/QueenieCplusplus/K8s_RC
      
-   * Service thru Pods IP 透過豌豆莢的虛擬網路位址實現不中斷服務 (9/25)
+   * ＊＊＊ Service thru Pods IP 透過豌豆莢的虛擬網路位址實現不中斷服務＊＊＊ (9/25)
    
      https://github.com/QueenieCplusplus/K8s_PodsIP
    
    * Namespace 命名空間為 Pod 的名稱 (9/26)  
    
-   * Network (模型、實作、測試)(9/27)
+   * Network(9/27)
    
    * Kubelet, Node 的管理軟體 (9/28)
    
