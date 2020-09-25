@@ -85,7 +85,7 @@ since 2020. 9/20 - 10/06 (ET: 2 week)
 
    * Nginx 初始化與啟動 (core, 10/04)
 
-   * IPC amongs Nginx Servers 虛擬主機之間通訊 (9/25)
+   * IPC amongs Nginx Servers 代理伺服器內的通訊方式 (9/25)
    
      前導：https://github.com/QueenieCplusplus/CCNA2020_IPC/blob/master/README.md#ccna2020_ipc
    
