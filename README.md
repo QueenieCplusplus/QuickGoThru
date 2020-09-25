@@ -87,9 +87,11 @@ since 2020. 9/20 - 10/06 (ET: 2 week)
 
    * IPC amongs Nginx Servers 代理伺服器內的通訊方式 (9/25)
    
-     前導：https://github.com/QueenieCplusplus/CCNA2020_IPC/blob/master/README.md#ccna2020_ipc
+     前導(1)：https://github.com/QueenieCplusplus/CCNA2020_IPC/blob/master/README.md#ccna2020_ipc
+     
+     前導(2)：
    
-     https://github.com/QueenieCplusplus/Nginx_IPC_thru_VM
+     https://github.com/QueenieCplusplus/Nginx_IPC
    
  * K8s
  
