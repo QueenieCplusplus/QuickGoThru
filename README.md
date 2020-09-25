@@ -137,13 +137,13 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 前 四 章主要是以往 ICND 的內容，即『網路設備元件』的說明。 
 
-1. 網路元件 (9/09)
+1. 網路元件
 
    https://github.com/QueenieCplusplus/ICND_Connection (Before 2020)
 
    https://github.com/QueenieCplusplus/CCNA2020_NetworkComponent (2020)
 
-2. 主機與主機之間的通信模型 (9/10)
+2. 主機與主機之間的通信模型 
 
    https://github.com/QueenieCplusplus/Golang (Before 2020)
 
@@ -167,17 +167,17 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 此 六 章是網路最基本的知識包含 OSI 七層觀念。
 
-5. TCP/IP 網路存取層 - Ethernet(9/11)
+5. TCP/IP 網路存取層 - Ethernet
 
    https://github.com/QueenieCplusplus/CCNA2020_Ethernet
    
    相對於 25 項次的 WLAN 而言，LAN 屬於乙太網（有線的區域網路）
 
-6. ＊＊＊TCP/IP 網際網路層 - IP 與 Subnet ＊＊＊(9/13)
+6. ＊＊＊TCP/IP 網際網路層 - IP 與 Subnet ＊＊＊
 
    https://github.com/QueenieCplusplus/CCNA2020_IP_and_Subnet
 
-7. 『 TCP/IP 傳輸層與應用層 』 - 雲端發展後，使用者端與客戶端可以專注在 L4 ~ L7 (9/18)
+7. 『 TCP/IP 傳輸層與應用層 』 - 雲端發展後，使用者端與客戶端可以專注在 L4 ~ L7 
 
     L4, TCP 略
     
@@ -204,21 +204,21 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 此 九 章主軸焦點為網管對於虛擬區域網路的流量設定。
 
-11. ＊＊＊靜態路由＊＊＊ (9/17)
+11. ＊＊＊靜態路由＊＊＊
 
     https://github.com/QueenieCplusplus/CCNA2020_StaticRouting 
 
-12. VLAN 與 Trunk (9/12)
+12. ＊＊＊VLAN 與 Trunk＊＊＊ 
 
     https://github.com/QueenieCplusplus/CCNA2020_dot1q
     
     建議搭配閱讀：詳見標題 『LAN 與 SW』、『STP, Spanning Tree Protocol 與 RSTP』、『Port Trunking | Link Aggregation』
 
-13. 跨越 VLAN 的路由配置 (9/12～9/13)
+13. 跨越 VLAN 的路由配置 
 
     https://github.com/QueenieCplusplus/CCNA2020_interVlans_thruRouter
 
-14. 動態路由中的 RIP (屬於 Distance-Vector Routing Protocol, 9/17)
+14. 動態路由中的 RIP (屬於 Distance-Vector Routing Protocol)
 
     https://github.com/QueenieCplusplus/CCNA2020_DynamicRouting
 
@@ -242,7 +242,7 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 最後 八 章尤為重要，呼應了 Cisco 要發展的 DevNet 與 Google 的 SRE。
 
-19. 『 WAN 和 VPN 』(廣域網路中的虛擬私人網路, 9/16)
+19. 『 WAN 和 VPN 』(廣域網路中的虛擬私人網路)
 
      https://github.com/QueenieCplusplus/CCNA2020_VPN
 
@@ -258,11 +258,11 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#ccda-cisco
 
 23. 『 虛擬化技術 』
 
-24. WLC, Wireless Lan Controller (embedded in AP, 9/15)
+24. WLC, Wireless Lan Controller (embedded in AP)
 
     https://github.com/QueenieCplusplus/CCNA2020_WLC (可直接觀看產品說明書)
 
-25. 『 Wireless LAN 』無線區域網路 (9/11)
+25. 『 Wireless LAN 』無線區域網路 
 
     https://github.com/QueenieCplusplus/CCNA2020_WirelessLAN
 
