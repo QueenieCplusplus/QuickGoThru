@@ -83,7 +83,7 @@ since 2020. 9/20 - 10/06 (ET: 2 week)
 
    * VM 虛擬主機設定 (10/03)
 
-   * Nginx 初始化與啟動 (core, 10/04)
+   * ＊＊＊ Nginx 初始化與啟動 ＊＊＊ (core, 10/04)
 
    * IPC amongs Nginx Servers 代理伺服器內的通訊方式 (9/25)
    
