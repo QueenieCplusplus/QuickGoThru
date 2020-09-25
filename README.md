@@ -125,8 +125,6 @@ since 2020. 9/20 - 10/06 (ET: 2 week)
    
    * Auth (AC、Secret)(10/01)
    
-   * K8s API in Java (10/05)
-   
    * Kubectl, 管控叢集中的 Master Node (10/06)
 
 # CCNA Revsersion in 2020
