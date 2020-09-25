@@ -101,19 +101,19 @@ since 2020. 9/20 - 10/06 (ET: 2 week)
    
    * RC 豌豆莢抄本數量管理者 (9/25)
    
-   * Namespace 命名空間為 Pod 的名稱 (9/26)
+   * Namespace 命名空間為 Pod 的名稱 (9/26)  
    
-   * Auth (AC、Secret)(10/01)
+   * K8s DNS (9/26)
    
    * Network (模型、實作、測試)(9/27)
    
-   * K8s API in Java (9/29)
-   
    * Kubelet, Node 的管理軟體 (9/28)
    
-   * K8s DNS (9/27)
-   
    * Kubectl (9/28)
+   
+   * Auth (AC、Secret)(10/01)
+   
+   * K8s API in Java (10/05)
 
 # CCNA Revsersion in 2020
 
