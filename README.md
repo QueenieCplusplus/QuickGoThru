@@ -123,9 +123,9 @@ since 2020. 9/20 - 10/06 (ET: 2 week)
    
    * Kubelet, Node 的管理軟體 (9/28)
    
-   * Auth (AC、Secret)(10/0)
+   * Kubectl, 管控叢集中的 Master Node (10/05)
    
-   * Kubectl, 管控叢集中的 Master Node (10/06)
+   * Auth (AC、Secret)(10/06)
 
 # CCNA Revsersion in 2020
 
