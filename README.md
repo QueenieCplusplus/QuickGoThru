@@ -87,6 +87,8 @@ since 2020. 9/20 - 10/06 (ET: 2 week)
 
    * IPC amongs Nginx Servers 虛擬主機之間通訊 (9/25)
    
+     https://github.com/QueenieCplusplus/Nginx_IPC_thru_VM
+   
  * K8s
  
    * Pod 豌豆莢 (master、slave、frontend)(9/24)
