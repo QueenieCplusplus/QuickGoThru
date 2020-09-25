@@ -25,7 +25,7 @@ since 2020.4/30 閱讀前導：
 
 https://github.com/QueenieCplusplus/QuickGoThru#kernel-hackers (核心系統)
 
-since 2020. 10/07 - 11/08 (ET: 1 month)
+since 2020. 10/20 - 11/10
 
 * 實現 FT 應用的叢集、主機、虛擬機
 
@@ -55,7 +55,7 @@ since 2020. 10/07 - 11/08 (ET: 1 month)
 
 # Nginx & K8s in 2020
 
-since 2020. 9/20 - 10/06 (ET: 2 week)
+since 2020. 9/20 - 10/06 
 
 * Nginx
 
@@ -129,7 +129,7 @@ since 2020. 9/20 - 10/06 (ET: 2 week)
 
 # CCNA Revsersion in 2020
 
-since 2020. 9/09 - 9/19 (ET: 10 days)
+since 2020. 9/09 - 9/19 
 
 繼以往閱讀的 CCNA， 20 年來都是一樣的概念，然而今年 3 月開始確認重新改版內容，故技術迷們可能要重新閱讀這些大綱細節，除了融合 ICND (設備操作方式)，最特別的是加入了『 可程式化與自動化測試、虛擬化 』新內容，提醒網路領域的工程師們要注意這方面的趨勢發展囉！當然對已經會寫程式的我是沒問題的。
 
