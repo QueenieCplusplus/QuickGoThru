@@ -97,15 +97,15 @@ since 2020. 9/20 - 10/06 (ET: 2 week)
    
  * K8s
  
-   * Pod 豌豆莢 (master、slave、frontend)(9/24)
+   * Pod 豌豆莢 (master、slave、frontend)
    
      https://github.com/QueenieCplusplus/K8s_Pod
      
-   * K8s DNS (9/25)
+   * K8s DNS 
    
      https://github.com/QueenieCplusplus/K8s_DNS
      
-   * K8s Architecture (9/25)
+   * K8s Architecture 
    
      https://github.com/QueenieCplusplus/K8s_Architecture
    
