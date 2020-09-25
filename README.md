@@ -109,11 +109,11 @@ since 2020. 9/20 - 10/06
    
      https://github.com/QueenieCplusplus/K8s_Architecture
    
-   * RC 豌豆莢抄本數量管理者 (9/25)
+   * RC 豌豆莢抄本數量管理者 
    
      https://github.com/QueenieCplusplus/K8s_RC
      
-   * ＊＊＊ Service thru Pods IP 透過豌豆莢的虛擬網路位址實現不中斷服務＊＊＊ (9/25)
+   * ＊＊＊ Service thru Pods IP 透過豌豆莢的虛擬網路位址實現不中斷服務＊＊＊ 
    
      https://github.com/QueenieCplusplus/K8s_PodsIP
    
