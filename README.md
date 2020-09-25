@@ -32,7 +32,7 @@ since 2020. 10/07 - 11/08 (ET: 1 month)
 * 運用 vSphere 軟體建立叢集，管理主機資源，並且建立虛擬機
 
 * 管理 vSphere 網路
-
+ 
   * 單一實體機的實體網路卡
   
   * 虛擬機的虛擬網路卡
@@ -105,7 +105,7 @@ since 2020. 9/20 - 10/06 (ET: 2 week)
    
      https://github.com/QueenieCplusplus/K8s_DNS
      
-   * K8s Architecture 
+   * ＊＊＊ K8s Architecture ＊＊＊ 
    
      https://github.com/QueenieCplusplus/K8s_Architecture
    
