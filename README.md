@@ -104,6 +104,8 @@ since 2020. 9/20 - 10/06 (ET: 2 week)
    * K8s DNS (9/25)
    
      https://github.com/QueenieCplusplus/K8s_DNS
+     
+   * K8s Architecture (9/25)
    
    * RC 豌豆莢抄本數量管理者 (9/26)
    
