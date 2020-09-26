@@ -119,9 +119,9 @@ since 2020. 9/20 - 10/06
    
    * Namespace 命名空間為 Pod 的名稱 (9/26)  
    
-   * Network(9/27)
+   * Network(9/26)
    
-   * Kubelet, Node 的管理軟體 (9/28)
+   * Kubelet, Node 的管理軟體 (9/27)
    
    * Kubectl, 管控叢集中的 Master Node (10/05)
    
