@@ -117,7 +117,9 @@ since 2020. 9/20 - 10/06
    
      https://github.com/QueenieCplusplus/K8s_PodsIP
    
-   * Namespace 命名空間為k8s物件的群組名稱 (9/26)  
+   * Namespace 命名空間為k8s物件的群組名稱
+   
+     https://github.com/QueenieCplusplus/K8s_Namespace
    
    * Network(9/26)
    
