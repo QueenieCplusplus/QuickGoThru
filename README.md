@@ -25,7 +25,7 @@ since 2020.4/30 閱讀前導：
 
 https://github.com/QueenieCplusplus/QuickGoThru#kernel-hackers (核心系統)
 
-since 2020. 10/20 - 11/10 (10/07-11/4)
+since 2020. 10/20 - 11/10 (10/07-11/04)
 
 * 實現 FT 應用的叢集、主機、虛擬機
 
