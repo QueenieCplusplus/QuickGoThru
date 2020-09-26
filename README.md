@@ -121,7 +121,9 @@ since 2020. 9/20 - 10/06
    
      https://github.com/QueenieCplusplus/K8s_Namespace
    
-   * Network(9/26)
+   * Network
+   
+     https://github.com/QueenieCplusplus/K8s_Networking
    
    * Kubelet, Node 的管理軟體 (9/27)
    
