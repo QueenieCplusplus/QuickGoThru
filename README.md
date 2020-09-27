@@ -127,7 +127,7 @@ since 2020. 9/20 - 10/06
    
    * Kubelet, Node 的管理軟體 
    
-     https://github.com/QueenieCplusplus/K8s_Kubelete
+     hhttps://github.com/QueenieCplusplus/K8s_Kubelet
    
    * Kubectl, 管控叢集中的 Master Node (10/05)
    
