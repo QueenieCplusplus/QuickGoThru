@@ -129,7 +129,7 @@ since 2020. 9/20 - 10/06
    
      https://github.com/QueenieCplusplus/K8s_Kubelet
      
-   * Kubeproxy 含有 k8s 代理伺服器的調節 (9/28)
+   * Kubeproxy 含有 k8s 代理伺服器的調節 
    
      https://github.com/QueenieCplusplus/K8s_Kubeproxy
    
