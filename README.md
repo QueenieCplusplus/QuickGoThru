@@ -131,6 +131,8 @@ since 2020. 9/20 - 10/06
      
    * Kubeproxy 含有 k8s 代理伺服器的調節 (9/28)
    
+     https://github.com/QueenieCplusplus/K8s_Kubeproxy
+   
    * Kubectl, 管控叢集中的 Master Node (10/05)
    
    * Auth (AC、Secret)(10/06)
