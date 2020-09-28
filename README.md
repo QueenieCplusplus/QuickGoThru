@@ -128,6 +128,8 @@ since 2020. 9/20 - 10/06
    * Kubelet, Node 的管理軟體 
    
      https://github.com/QueenieCplusplus/K8s_Kubelet
+     
+   * Kubeproxy 含有 k8s 代理伺服器的調節 (9/28)
    
    * Kubectl, 管控叢集中的 Master Node (10/05)
    
