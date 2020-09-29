@@ -574,7 +574,7 @@ since 2018.6 & 2020.7/02 - 7/04 (3 days)
 
     * GCE 虛擬機（遠端部署環境）
     
-      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#nginx--k8s-in-2020
+     
     
     * 雲端記憶體
     
@@ -585,6 +585,8 @@ since 2018.6 & 2020.7/02 - 7/04 (3 days)
     * K8s 容器管理技術, GKE
     
       https://github.com/QueenieCplusplus/K8s
+      
+      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#nginx--k8s-in-2020
 
     * Cloud Developer, Cloud SDK 
     
