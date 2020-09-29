@@ -606,7 +606,7 @@ since 2018.6 & 2020.7/02 - 7/04 (3 days)
     
       前導: https://github.com/QueenieCplusplus/QuickGoThru#ccna-revsersion-in-2020
       
-      2020: 待續。
+      2020: https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cdn-in-2020
 
     
 * GCP 產業應用
