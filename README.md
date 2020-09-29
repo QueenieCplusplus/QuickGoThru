@@ -574,7 +574,7 @@ since 2018.6 & 2020.7/02 - 7/04 (3 days)
 
     * GCE 虛擬機（遠端部署環境）
     
-     
+      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#vmware-虛擬化技術-in-2018
     
     * 雲端記憶體
     
