@@ -59,6 +59,8 @@ since 2017.11/15 & since 2020.9/30-10/06
 
 * 對 CDN 的需求
 
+  https://github.com/QueenieCplusplus/CDN
+
 * ALTO 應用層流量最佳化
 
 * CDN 架構圖
