@@ -57,11 +57,25 @@ since 2020. 10/20 - 11/10 (10/07-11/04)
 
 since 2017.11/15 & since 2020.10/07-10/19
 
+* 對 CDN 的需求
+
+* ALTO 應用層流量最佳化
+
+* CDN 架構圖
+
+* CDN 與網路部署（Ping、Traceroute、SNMP）
+
 * Request Routing System, RSS 內容服務的請求路由機制 (DNS 重新導向、IP 重新導向)
 
 * HTTP req/res 涉及的所有角色
 
-* RSTP, Realtime Streaming Protocol (有狀態協定、兩端對稱的協定)
+* Realtime Streaming Protocol, RSTP (有狀態協定、兩端對稱的協定)
+
+* CDN 服務指標 : 命中率、傳輸量、平行處理值、回應時間、媒體傳輸品質指標（延遲、封包遺失）、 平均意見指標
+
+* P2P
+
+* CDN 與雲端儲存
 
 (to be continued...)
 
