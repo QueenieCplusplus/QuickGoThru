@@ -71,7 +71,9 @@ since 2017.11/15 & since 2020.9/30-10/06
 
   https://github.com/QueenieCplusplus/CCNA2020_VPN#p2p-peer-to-peer-bt-bit-torrent
 
-* CDN 與雲端儲存
+* CDN 與雲端
+
+  https://github.com/QueenieCplusplus/CDN_and_Cloud
 
 * CDN 與 Cloud 的架構圖
 
