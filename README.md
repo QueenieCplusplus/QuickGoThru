@@ -55,7 +55,7 @@ since 2020. 10/20 - 11/10 (10/07-11/04)
 
 # CDN in 2020
 
-since 2017.11/15 & since 2020.10/07-10/19
+since 2017.11/15 & since 2020.9/30-10/06
 
 * 對 CDN 的需求
 
@@ -84,15 +84,13 @@ since 2017.11/15 & since 2020.10/07-10/19
 
 # Nginx & K8s in 2020
 
-since 2020. 9/20 - 10/06 
+since 2020. 9/20 - 9/29
 
 * Nginx
 
    * ＊＊＊ Web Server 網頁服務 (IPC, IO)＊＊＊
    
      https://github.com/QueenieCplusplus/Nginx_WWW
-     
-   * Serialize 網路連接序列化、Event 事件驅動（事件處理機制）(10/02)
    
    * 伺服器的設定 
    
@@ -110,10 +108,6 @@ since 2020. 9/20 - 10/06
    
      https://github.com/QueenieCplusplus/Nginx_Proxy
 
-   * VM 虛擬主機設定 (10/03)
-
-   * ＊＊＊ Nginx 初始化與啟動 ＊＊＊ (core, 10/04)
-
    * IPC amongs Nginx Servers 代理伺服器內的通訊方式 
    
      前導(1)：https://github.com/QueenieCplusplus/CCNA2020_IPC/blob/master/README.md#ccna2020_ipc
@@ -123,6 +117,12 @@ since 2020. 9/20 - 10/06
      前導(3)：https://github.com/QueenieCplusplus/Nginx_WWW#請求處理
    
      https://github.com/QueenieCplusplus/Nginx_IPC
+     
+   * VM 虛擬主機設定
+
+   * ＊＊＊ Nginx 初始化與啟動 ＊＊＊
+   
+   * Serialize 網路連接序列化、Event 事件驅動（事件處理機制）
    
  * K8s
  
