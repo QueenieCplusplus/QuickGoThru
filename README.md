@@ -57,6 +57,12 @@ since 2020. 10/20 - 11/10 (10/07-11/04)
 
 since 2017.11/15 & since 2020.10/07-10/19
 
+* Request Routing System, RSS 內容服務的請求路由機制 (DNS 重新導向、IP 重新導向)
+
+* HTTP req/res 涉及的所有角色
+
+* RSTP, Realtime Streaming Protocol (有狀態協定)
+
 (to be continued...)
 
 # Nginx & K8s in 2020
