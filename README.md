@@ -91,6 +91,8 @@ since 2017.11/15 & since 2020.9/30-10/06
 
 * CDN 服務指標 : 命中率、傳輸量、平行處理值、回應時間、媒體傳輸品質指標（延遲、封包遺失）、 平均意見指標
 
+  https://github.com/QueenieCplusplus/QoS_and_QoE
+
 # Nginx & K8s in 2020
 
 since 2020. 9/20 - 9/29
