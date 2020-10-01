@@ -25,7 +25,7 @@ since 2020.4/30 閱讀前導：
 
 https://github.com/QueenieCplusplus/QuickGoThru#kernel-hackers (核心系統)
 
-since 2020. 10/20 - 11/10 (10/07-11/04)
+since 2020. 10/20 - 11/10 
 
 * 實現 FT 應用的叢集、主機、虛擬機
 
@@ -55,7 +55,7 @@ since 2020. 10/20 - 11/10 (10/07-11/04)
 
 # CDN in 2020
 
-since 2017.11/15 & since 2020.9/30-10/06
+since 2017.11/15 & since 2020.9/30-10/02
 
 * 對 CDN 的需求
 
@@ -95,7 +95,7 @@ since 2017.11/15 & since 2020.9/30-10/06
 
 # Nginx & K8s in 2020
 
-since 2020. 9/20 - 9/29
+since 2020. 9/20 - 10/08
 
 * Nginx
 
@@ -173,9 +173,9 @@ since 2020. 9/20 - 9/29
    
      https://github.com/QueenieCplusplus/K8s_Kubeproxy
    
-   * Kubectl, 管控叢集中的 Master Node (10/05)
+   * Kubectl, 管控叢集中的 Master Node 
    
-   * Auth (AC、Secret)(10/06)
+   * Auth (AC、Secret)
 
 # CCNA Revsersion in 2020
 
