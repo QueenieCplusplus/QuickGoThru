@@ -81,12 +81,6 @@ since 2017.11/15 & since 2020.9/30-10/02
 
   https://github.com/QueenieCplusplus/CDN_and_Network
 
-* Request Routing System, RRS 內容服務的請求路由機制 (DNS 重新導向、IP 重新導向)
-
-* HTTP req/res 涉及的所有角色
-
-* HTTP 實現 CDN 快取
-
 * Realtime Streaming Protocol, RTSP 即時串流傳輸協議 (有狀態協定、兩端對稱的協定) 
 
   https://github.com/QueenieCplusplus/CDN_RTSP
@@ -94,6 +88,12 @@ since 2017.11/15 & since 2020.9/30-10/02
 * CDN 服務指標 : 命中率、傳輸量、平行處理值、回應時間、媒體傳輸品質指標（延遲、封包遺失）、 平均意見指標
 
   https://github.com/QueenieCplusplus/QoS_and_QoE
+  
+* Request Routing System, RRS 內容服務的請求路由機制 (DNS 重新導向、IP 重新導向)
+
+* HTTP req/res 涉及的所有角色
+
+* HTTP 實現 CDN 快取
 
 # Nginx & K8s in 2020
 
