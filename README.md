@@ -91,6 +91,8 @@ since 2017.11/15 & since 2020.9/30-10/04
   
 * Request Routing System, RRS 內容服務的請求路由機制 (DNS 重新導向、IP 重新導向)
 
+  https://github.com/QueenieCplusplus/CDN_DPI
+
 * HTTP req/res 涉及的所有角色
 
   https://github.com/QueenieCplusplus/CDN_http_progressive_download
