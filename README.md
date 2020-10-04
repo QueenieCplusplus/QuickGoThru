@@ -93,6 +93,8 @@ since 2017.11/15 & since 2020.9/30-10/04
 
 * HTTP req/res 涉及的所有角色
 
+  https://github.com/QueenieCplusplus/CDN_http_progressive_download
+
 * HTTP 實現 CDN 快取
 
 # Nginx & K8s in 2020
