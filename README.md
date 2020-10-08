@@ -9,6 +9,10 @@
 
 since 2020.10/09 ~ 11/01 
 
+閉關學習中，勿擾！
+
+![azure](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/knowledgeIsPower.png)
+
 
 # Cloud Tech in 2020
 
