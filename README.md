@@ -5,6 +5,9 @@
 
 本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取（和嗅探） Data Mining & Web Crawler，亦包含 Data Structure、DBA (Search Engine) 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻『 雲端技術 Cloud Service https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-service-vm 與程式化網路技術 SDN 』，敬請拭目以待。 ：）
 
+# Azure Cloud Tech in 2020
+
+since 2020.10/09 ~ 11/01 
 
 
 # Cloud Tech in 2020
@@ -25,35 +28,6 @@ since 2020.4/30 閱讀前導：
 
 https://github.com/QueenieCplusplus/QuickGoThru#kernel-hackers (核心系統)
 
-since 2020. 10/20 - 11/10 
-
-* 實現 FT 應用的叢集、主機、虛擬機
-
-* 運用 vSphere 軟體建立叢集，管理主機資源，並且建立虛擬機
-
-* 管理 vSphere 網路
- 
-  * 單一實體機的實體網路卡
-  
-  * 虛擬機的虛擬網路卡
-
-  * vSphere 標準交換機
-  
-  * 標準交換機與虛擬主機通訊阜
-  
-* 流量控制
-
-  * 網路資源池
-  
-  * 頻寬分配予虛擬機
-  
-* 移轉
-
-  * 熱移轉虛擬機
-  
-  * 冷移轉虛擬機
-
-* vSAN、SAN 由虛擬交換機發展為存儲區域網路
 
 # CDN in 2020
 
