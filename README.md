@@ -5,6 +5,8 @@
 
 本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取（和嗅探） Data Mining & Web Crawler，亦包含 Data Structure、DBA (Search Engine) 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻『 雲端技術 https://github.com/QueenieCplusplus/QuickGoThru#azure-cloud-tech-in-2020 與程式化網路技術 SDN 』，敬請拭目以待。 ：）
 
+![azure](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/azure.png)
+
 # Azure Cloud Tech in 2020
 
 since 2020.10/08 ~ 11/04
