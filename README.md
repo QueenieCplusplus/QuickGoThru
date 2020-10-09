@@ -31,6 +31,10 @@ Networking Main Concepts:
 
 * DDoS
 
+* Peering
+
+* Spoke Network
+
 
 ![azure](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/knowledgeIsPower.png)
 
