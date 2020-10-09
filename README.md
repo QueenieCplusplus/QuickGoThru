@@ -15,7 +15,11 @@ Networking Main Concepts:
 
 * VM creation, config 
 
+* RDP
+
 * VPN thru Portal, Power Shell, CLI
+
+* ExpressRoute
 
 * LB
 
