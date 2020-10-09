@@ -27,6 +27,10 @@ Networking Main Concepts:
 
 * LB
 
+* Firewall
+
+* DDoS
+
 
 ![azure](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/knowledgeIsPower.png)
 
