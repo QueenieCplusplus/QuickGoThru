@@ -15,11 +15,11 @@ Networking Main Concepts:
 
 * Private IP and Subnetting
 
-* VM creation, config 
+* VM creation, config (1)
 
-* RDP
+* RDP (1)
 
-* VPN thru Portal, Power Shell, CLI
+* VPN thru Portal, Power Shell (1), CLI
 
 * ExpressRoute
 
