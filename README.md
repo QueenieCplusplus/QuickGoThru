@@ -13,7 +13,7 @@ since 2020.10/09 ~ 11/01
 
 Networking Main Concepts:
 
-* Provate IP and Subnetting
+* Private IP and Subnetting
 
 * VM creation, config 
 
