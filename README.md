@@ -37,10 +37,6 @@ Networking Main Concepts:
 
 * Spoke Network
 
-
-![azure](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/knowledgeIsPower.png)
-
-
 # GCP Cloud Tech in 2020
 
 since 2020. 11/11
