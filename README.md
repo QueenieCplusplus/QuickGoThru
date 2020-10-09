@@ -41,7 +41,7 @@ Networking Main Concepts:
 
 # GCP Cloud Tech in 2020
 
-since 2020. 11/11 to Future ~
+since 2020. 11/11
 
 基礎網管將遭淘汰，所以我將專注在雲端技術上。
 
