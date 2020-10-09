@@ -11,6 +11,15 @@ since 2020.10/09 ~ 11/01
 
 閉關學習中，勿擾！
 
+Networking Main Concepts:
+
+* VM creation, config 
+
+* VPN thru Portal, Power Shell, CLI
+
+* LB
+
+
 ![azure](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/knowledgeIsPower.png)
 
 
