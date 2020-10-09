@@ -13,6 +13,8 @@ since 2020.10/09 ~ 11/01
 
 Networking Main Concepts:
 
+* Provate IP and Subnetting
+
 * VM creation, config 
 
 * RDP
@@ -20,6 +22,8 @@ Networking Main Concepts:
 * VPN thru Portal, Power Shell, CLI
 
 * ExpressRoute
+
+* DNS
 
 * LB
 
