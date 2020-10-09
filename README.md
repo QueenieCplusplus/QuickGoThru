@@ -39,7 +39,7 @@ Networking Main Concepts:
 ![azure](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/knowledgeIsPower.png)
 
 
-# Cloud Tech in 2020
+# GCP Cloud Tech in 2020
 
 since 2020. 11/11 to Future ~
 
