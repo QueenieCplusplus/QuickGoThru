@@ -31,6 +31,8 @@ Networking Main Concepts:
 
 * RDP (1)
 
+* RDP/SSH over TLS ()
+
 * VPN thru Portal, Power Shell (1), CLI
 
 * ExpressRoute (1)
