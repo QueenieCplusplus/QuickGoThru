@@ -17,6 +17,8 @@ Networking Main Concepts:
 
 * Azur CLI (1)
 
+* Cloud Shell (or called as Power Shell) https://shell.azure.com
+
 * Private IP and Subnetting
 
 * VM creation, config (1)
