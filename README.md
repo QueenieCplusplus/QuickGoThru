@@ -35,7 +35,7 @@ Networking Main Concepts:
 
 * ExpressRoute (1)
 
-* DNS (1)
+* DNS (1) https://digwebinterface.com
 
 * LB
 
