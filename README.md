@@ -17,6 +17,8 @@ Networking Main Concepts:
 
 * Azur CLI (1)
 
+ ![cli](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/azure-cli.png)
+
 * Cloud Shell (or called as Power Shell) https://shell.azure.com
 
 * Azure Portal  https://portal.azure.com/
