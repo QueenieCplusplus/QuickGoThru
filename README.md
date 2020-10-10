@@ -40,6 +40,8 @@ Networking Main Concepts:
   https://digwebinterface.com
 
   https://dnschecker.org/
+  
+  ![dns](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/dns.png)
 
 * LB
 
