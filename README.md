@@ -19,6 +19,8 @@ Networking Main Concepts:
 
 * Cloud Shell (or called as Power Shell) https://shell.azure.com
 
+* Azure Portal  https://portal.azure.com/
+
 * Private IP and Subnetting
 
 * VM creation, config (1)
