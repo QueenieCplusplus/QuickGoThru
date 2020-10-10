@@ -29,7 +29,7 @@ Networking Main Concepts:
 
 * VPN thru Portal, Power Shell (1), CLI
 
-* ExpressRoute
+* ExpressRoute (1)
 
 * DNS
 
