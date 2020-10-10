@@ -23,7 +23,7 @@ Networking Main Concepts:
 
 * Azure Portal  https://portal.azure.com/
 
-* Private IP and Subnetting
+* Private IP range and Subnetting
 
 ![private ip](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/private%20ip%20range.png)
 
