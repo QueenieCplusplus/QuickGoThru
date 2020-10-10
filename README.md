@@ -25,6 +25,8 @@ Networking Main Concepts:
 
 * Private IP and Subnetting
 
+![private ip](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/private%20ip%20range.png)
+
 * VM creation, config (1)
 
 * RDP (1)
