@@ -15,6 +15,8 @@ since 2020.10/08 ~ 11/04
 
 Networking Main Concepts:
 
+* Azur CLI (1)
+
 * Private IP and Subnetting
 
 * VM creation, config (1)
