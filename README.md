@@ -33,7 +33,7 @@ Networking Main Concepts:
 
 * ExpressRoute (1)
 
-* DNS
+* DNS (1)
 
 * LB
 
