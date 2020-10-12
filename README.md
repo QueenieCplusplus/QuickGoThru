@@ -35,7 +35,7 @@ Networking Main Concepts:
 
   ![tls](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/bastion%20TLS.png)
 
-* VPN thru Portal, Power Shell (1), CLI
+* VPN (encrypted connection) thru Portal, Power Shell (1), CLI
 
 * ExpressRoute (1)
 
