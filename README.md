@@ -29,49 +29,55 @@ Networking Main Concepts:
 
 * VM creation, config (1)
 
-* RDP (1)
+* Connect Sec
 
-* RDP/SSH over TLS (1)
+   * RDP (1)
 
-  ![tls](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/bastion%20TLS.png)
+   * RDP/SSH over TLS (1)
 
-* VPN (encrypted connection) thru Portal, Power Shell (1), CLI
+     ![tls](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/bastion%20TLS.png)
 
-  ![vpn](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vpn%20gw.png)
+   * VPN (encrypted connection) thru Portal, Power Shell (1), CLI
 
-* ExpressRoute (1)
+     ![vpn](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vpn%20gw.png)
 
-* DNS (1) 
+   * ExpressRoute (1)
 
-  https://digwebinterface.com
+   * DNS (1) 
 
-  https://dnschecker.org/
-  
-  ![dns](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/dns.png)
-  
-  ![dns LB](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/dns%20lb.png)
+     https://digwebinterface.com
 
-* LB
+     https://dnschecker.org/
 
-  ![lb tier4](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/LB%20tier4.png)
+     ![dns](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/dns.png)
 
-  ![lb](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/LB.png)
+     ![dns LB](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/dns%20lb.png)
 
-* Firewall (Static Public IP)
+* Delivery Sec
 
-  ![fw](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/FW.png)
+   * LB
 
-* DDoS Protection
+     ![lb tier4](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/LB%20tier4.png)
 
-  ![ddos](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/ddos%20protection.png)
+     ![lb](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/LB.png)
 
-* Peering
+* Protection
 
-* Private Link
+   * Firewall (Static Public IP)
 
-  ![private link](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/private%20link.png)
+     ![fw](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/FW.png)
 
-* Spoke Network
+   * DDoS Protection
+
+     ![ddos](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/ddos%20protection.png)
+
+   * Peering
+
+   * Private Link
+
+     ![private link](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/private%20link.png)
+
+   * Spoke Network
 
 # GCP Cloud Tech in 2020
 
