@@ -37,6 +37,8 @@ Networking Main Concepts:
 
 * VPN (encrypted connection) thru Portal, Power Shell (1), CLI
 
+  ![vpn](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vpn%20gw.png)
+
 * ExpressRoute (1)
 
 * DNS (1) 
