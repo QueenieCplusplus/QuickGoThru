@@ -29,6 +29,8 @@ Networking Main Concepts:
 
 * VM creation, config (1)
 
+  https://docs.microsoft.com/en-us/azure/virtual-network/quick-create-portal?toc=/azure/networking/toc.json
+
 * Connect Sec
 
    * RDP (1)
