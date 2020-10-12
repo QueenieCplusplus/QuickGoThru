@@ -34,6 +34,8 @@ Networking Main Concepts:
 * Connect Sec
 
    * RDP (1)
+   
+     ![rdp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/rdp%20connection.png)
 
    * RDP/SSH over TLS (1)
    
