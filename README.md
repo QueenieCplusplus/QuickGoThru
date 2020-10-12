@@ -66,6 +66,8 @@ Networking Main Concepts:
      ![dns](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/dns.png)
 
      ![dns LB](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/dns%20lb.png)
+     
+   * Peering 
 
 * Delivery Sec
 
@@ -86,8 +88,6 @@ Networking Main Concepts:
    * DDoS Protection
 
      ![ddos](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/ddos%20protection.png)
-
-   * Peering
 
    * Private Link
 
