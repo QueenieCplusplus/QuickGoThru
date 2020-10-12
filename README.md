@@ -35,6 +35,12 @@ Networking Main Concepts:
 
    * RDP (1)
    
+      When using RDP, remmember to add Rule to FW to allow inbound ICMP.
+      
+      This command allows ICMP inbound through the Windows firewall:
+      
+           New-NetFirewallRule –DisplayName "Allow ICMPv4-In" –Protocol ICMPv4
+   
      ![rdp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/rdp%20connection.png)
 
    * RDP/SSH over TLS (1)
