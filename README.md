@@ -47,6 +47,8 @@ Networking Main Concepts:
 
 * LB
 
+  ![lb tier4](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/LB%20tier4.png)
+
   ![lb](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/LB.png)
 
 * Firewall
