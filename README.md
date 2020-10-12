@@ -31,7 +31,9 @@ Networking Main Concepts:
 
 * RDP (1)
 
-* RDP/SSH over TLS ()
+* RDP/SSH over TLS (1)
+
+  ![tls](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/bastion%20TLS.png)
 
 * VPN thru Portal, Power Shell (1), CLI
 
