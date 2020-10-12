@@ -59,6 +59,10 @@ Networking Main Concepts:
 
 * Peering
 
+* Private Link
+
+  ![private link](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/private%20link.png)
+
 * Spoke Network
 
 # GCP Cloud Tech in 2020
