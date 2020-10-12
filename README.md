@@ -76,8 +76,10 @@ Networking Main Concepts:
      ![lb tier4](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/LB%20tier4.png)
 
      ![lb](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/LB.png)
+     
+   * CDN
 
-* Protection
+* App Protection
 
    * Firewall (Static Public IP)
    
