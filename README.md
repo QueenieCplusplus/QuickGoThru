@@ -55,6 +55,8 @@ Networking Main Concepts:
 
 * Firewall
 
+  ![fw](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/FW.png)
+
 * DDoS
 
 * Peering
