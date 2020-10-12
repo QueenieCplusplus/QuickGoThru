@@ -34,6 +34,8 @@ Networking Main Concepts:
    * RDP (1)
 
    * RDP/SSH over TLS (1)
+   
+      When using Bastion, Public IP is not needed.
 
      ![tls](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/bastion%20TLS.png)
 
@@ -64,6 +66,8 @@ Networking Main Concepts:
 * Protection
 
    * Firewall (Static Public IP)
+   
+      When using FW, fixed Public IP is required.
 
      ![fw](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/FW.png)
 
