@@ -47,6 +47,8 @@ Networking Main Concepts:
 
 * LB
 
+  ![lb](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/LB.png)
+
 * Firewall
 
 * DDoS
