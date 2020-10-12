@@ -44,6 +44,8 @@ Networking Main Concepts:
   https://dnschecker.org/
   
   ![dns](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/dns.png)
+  
+  ![dns LB](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/dns%20lb.png)
 
 * LB
 
