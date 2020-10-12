@@ -54,6 +54,8 @@ Networking Main Concepts:
      ![vpn](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vpn%20gw.png)
 
    * ExpressRoute (1)
+   
+       To extend on-premise network over private connection. 
 
    * DNS (1) 
 
