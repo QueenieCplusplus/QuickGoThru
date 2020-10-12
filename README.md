@@ -53,11 +53,13 @@ Networking Main Concepts:
 
   ![lb](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/LB.png)
 
-* Firewall
+* Firewall (Static Public IP)
 
   ![fw](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/FW.png)
 
-* DDoS
+* DDoS Protection
+
+  ![ddos](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/ddos%20protection.png)
 
 * Peering
 
