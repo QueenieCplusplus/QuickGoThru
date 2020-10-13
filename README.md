@@ -19,8 +19,7 @@ since 2018.3, restart on 2020.10/14
     
    * 雲端記憶體
 
-   * Serverless/CPU 應用程式的執行環境, App Engine
-
+   * 應用程式的執行環境 App Engine
  
    * GCP 網路
     
@@ -30,7 +29,6 @@ since 2018.3, restart on 2020.10/14
  
         * GKE
       
-
    * Cloud IAM
         
    * Anthos
