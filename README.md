@@ -7,7 +7,7 @@
 
 ![azure](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/azure.png)
 
-# Azure Cloud Tech in 2020
+# Cloud Tech in 2020
 
 since 2020.10/08 (12) ~ 11/04
 
