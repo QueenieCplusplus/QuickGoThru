@@ -22,6 +22,8 @@ since 2018.3, restart on 2020.10/14 ～ 11/05
      ![vm1](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm1.png)
      
      ![vm2](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm2.png)
+     
+     ![vm3](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm3.png)
     
    * 雲端記憶體
 
