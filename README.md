@@ -7,7 +7,7 @@
 
 # GCP Cloud Tech in 2020
 
-since 2020. 11/11 (2018.3) restart on 2020.11/14
+since 2018.3, restart on 2020.10/14
 
 基礎網管將遭淘汰，所以我將專注在雲端技術上。
 
