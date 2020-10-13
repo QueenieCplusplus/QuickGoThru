@@ -26,6 +26,8 @@ since 2018.3, restart on 2020.10/14 ～ 11/05
    * GCP 網路
     
         * System 系統管理： Cloud Consol & Cloud Shell & Cloud Mobile App
+        
+        ![cloud console](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/cloud%20console.png)
  
         * Network 網路 : Coud CDN + DNS + VPC
  
