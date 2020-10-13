@@ -18,6 +18,8 @@ since 2018.3, restart on 2020.10/14 ～ 11/05
 跟進：
 
    * GCE 虛擬機（遠端部署環境）
+   
+     ![vm1](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm1.png)
     
    * 雲端記憶體
 
