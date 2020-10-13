@@ -11,9 +11,32 @@ since 2018.3, restart on 2020.10/14
 
 基礎網管將遭淘汰，所以我將專注在雲端技術上。
 
-https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-service-vm
+前導：https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-service-vm
 
+跟進：
 
+   * GCE 虛擬機（遠端部署環境）
+    
+   * 雲端記憶體
+
+   * Serverless/CPU 應用程式的執行環境, App Engine
+
+ 
+   * GCP 網路
+    
+        * System 系統管理： Cloud Consol & Cloud Shell & Cloud Mobile App
+ 
+        * Network 網路 : Coud CDN + DNS + VPC
+ 
+        * GKE
+      
+
+   * Cloud IAM
+        
+   * Anthos
+    
+   * Cloud SDK 
+ 
 # Cloud Tech in 2020
 
 since 2020.10/08 ~ 10/12 (5d)
