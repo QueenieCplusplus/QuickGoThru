@@ -81,6 +81,18 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
       
           gcloud components list
           
+          sudo apt-get install google-cloud-sdk
+          
+          gcloud beta interactive
+          
+          // to enable gcloud interactive mode
+          // press tab to complete file path and arg
+          // press tab + space bar 
+          
+          gloud compute instance describe <vm name>
+          
+          // press F2 to toggle the help on or off
+          
       
  
 # Cloud Tech in 2020
