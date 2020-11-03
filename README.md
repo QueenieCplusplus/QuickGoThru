@@ -13,8 +13,6 @@
 
 since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
 
-" 基礎網管將遭淘汰，所以我將專注在雲端技術上。"
-
 前導：https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-service-vm
 
 跟進：
