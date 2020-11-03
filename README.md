@@ -49,6 +49,8 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
                   generating Public/Private RSA Key Pairs
                   
                   enter PassPhrase (empty for no passphrase)
+                  
+                  // to disconnect the ssh by existing the shell.
                 
  
         * GKE(進階網路拓樸)
