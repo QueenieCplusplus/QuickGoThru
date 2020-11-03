@@ -44,9 +44,21 @@ GKE :
 
    * IaaS, GCE 虛擬機（遠端部署環境, 可擴展的運算器）
    
-     ![vm1](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm1.png)
+      * HA & DR 災難復原和高可用性（備援）
+
+使用場景:
+(a) data transfer (backup)
+(b) migration (on-premise to Cloud)
+(c) outage 
+
+Original or Replacement VM:
+無論是虛擬機群組中哪個替代壞掉的原本的虛擬機，都是要一樣的 private IP 設定的，類似電影花木蘭中劉亦菲和替身群組，無論誰替代本尊上陣武打場面，
+流血受傷的，替補的，正式鏡頭前，仍然是一樣的臉孔。
+       
+   
+   ![vm1](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm1.png)
      
-     ![vm2](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm2.png)
+   ![vm2](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm2.png)
     
     
    * 雲端記憶體
