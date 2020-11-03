@@ -92,7 +92,16 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
           gloud compute instance describe <vm name>
           
           // press F2 to toggle the help on or off
+       
+       (5) home directory, path and file
+       
+          (home dir will persist across projects between all cloud shell sessions even VM is terminated or restart.)
+       
+          cd $Home
           
+          vi ./.bashrc
+          
+          // esc + :wq
       
  
 # Cloud Tech in 2020
