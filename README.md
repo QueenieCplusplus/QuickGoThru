@@ -9,7 +9,7 @@
 
 # GCP Cloud Tech in 2020
 
->>> 閉關學習中，勿擾！>>>
+>>> 閉關學習中，勿擾！
 
 since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
 
