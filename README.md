@@ -59,9 +59,9 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
    ![vm2](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm2.png)
     
     
-   * 雲端記憶體
+   * 雲端記憶體 (略)
 
-   * SaaS, 應用程式的執行環境 App Engine
+   * SaaS, 應用程式的執行環境 App Engine 實現 Serverless
  
    * GCP 網路 (VPC, GKE)
     
@@ -118,6 +118,8 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
                     
  
         * GKE(進階網路拓樸)
+        
+           待續 ...
       
    * Cloud IAM（Istio）
    
@@ -138,6 +140,8 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
                   gcloud config list Project (這句不確定...)
         
    * Anthos (Multi-Cloud + GKE)
+   
+       待續 ...
     
    * Cloud SDK (cmd line tool: cloud shell)
    
