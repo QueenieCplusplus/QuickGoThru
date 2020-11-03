@@ -35,7 +35,11 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
         
         ![cloud console](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/cloud%20console.png)
  
-        * Network 網路 : Coud CDN + DNS + VPC + VPN
+        * Network 網路 : Firewall + Coud CDN + DNS + VPC + VPN
+        
+            * VM 建構時會同時設定防火牆
+            
+                  Allow Http Traffic
         
             * using cloud shell to do remote connection and server deployment
             
