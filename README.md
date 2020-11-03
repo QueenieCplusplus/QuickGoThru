@@ -9,15 +9,17 @@
 
 # GCP Cloud Tech in 2020
 
+>>> 閉關學習中，勿擾！>>>
+
 since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
 
-基礎網管將遭淘汰，所以我將專注在雲端技術上。
+" 基礎網管將遭淘汰，所以我將專注在雲端技術上。"
 
 前導：https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-service-vm
 
 跟進：
 
-   * GCE 虛擬機（遠端部署環境）
+   * IaaS, GCE 虛擬機（遠端部署環境）
    
      ![vm1](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm1.png)
      
@@ -27,9 +29,9 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
     
    * 雲端記憶體
 
-   * 應用程式的執行環境 App Engine
+   * SaaS, 應用程式的執行環境 App Engine
  
-   * GCP 網路
+   * GCP 網路 (VPN, VPC, GKE)
     
         * System 系統管理： Cloud Consol & Cloud Shell & Cloud Mobile App
         
@@ -37,19 +39,17 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
  
         * Network 網路 : Coud CDN + DNS + VPC
  
-        * GKE
+        * GKE(進階網路拓樸)
       
-   * Cloud IAM
+   * Cloud IAM（Istio）
         
-   * Anthos
+   * Anthos (Multi-Cloud + GKE)
     
-   * Cloud SDK 
+   * Cloud SDK (cmd line tool: cloud shell)
  
 # Cloud Tech in 2020
 
 since 2020.10/08 ~ 10/12 (5d)
-
-閉關學習中，勿擾！
 
 Networking Main Concepts:
 
