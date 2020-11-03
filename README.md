@@ -69,7 +69,7 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
                   
                   ctrl + X, Y, enter
             
-            
+                  gcloud config list Project (這句不確定...)
         
    * Anthos (Multi-Cloud + GKE)
     
