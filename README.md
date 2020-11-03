@@ -117,7 +117,7 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
                       add external IP to http://<external IP>/  in browser
                     
  
-        * GKE(進階網路拓樸)
+        * GKE(容器管理工具與 LB 的實現)
         
            待續 ...
       
