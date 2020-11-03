@@ -31,13 +31,23 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
 
    * SaaS, 應用程式的執行環境 App Engine
  
-   * GCP 網路 (VPN, VPC, GKE)
+   * GCP 網路 (VPN, GKE)
     
         * System 系統管理： Cloud Consol & Cloud Shell & Cloud Mobile App
         
         ![cloud console](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/cloud%20console.png)
  
-        * Network 網路 : Coud CDN + DNS + VPC
+        * Network 網路 : Coud CDN + DNS + VPC + VPN
+        
+            * using cloud shell to do remote connection and server deployment
+            
+            
+                  gcloud compute ssh <vm name> --zone <zone>
+                  
+                  // ssh helps the remote connection in a wrapper of authentication and mapping instance name to IP addr.
+            
+            
+            
  
         * GKE(進階網路拓樸)
       
