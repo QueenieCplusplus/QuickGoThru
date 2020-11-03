@@ -17,7 +17,7 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
 
 跟進：
 
-   * IaaS, GCE 虛擬機（遠端部署環境）
+   * IaaS, GCE 虛擬機（遠端部署環境, 可擴展的運算器）
    
      ![vm1](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm1.png)
      
