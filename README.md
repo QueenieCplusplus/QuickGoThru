@@ -138,6 +138,9 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
                   ctrl + X, Y, enter
             
                   gcloud config list Project (You can list the project ID with this command)
+                  
+                  [output]
+                  project = <project_ID>
         
    * Anthos (Multi-Cloud + GKE)
    
