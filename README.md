@@ -53,7 +53,32 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
                   enter PassPhrase (empty for no passphrase)
                   
                   // type Ctrl + C to disconnect the ssh by existing the shell.
-                     
+                  
+                  
+             * deploy Nginx Server in SSH'ed VM while ssh connecting
+             
+                  (1) to get root access
+             
+                      sudo su-
+                   
+                  (2) to update OS
+                   
+                      apt-get update
+                      
+                  (3) install nginx server
+                  
+                      apt-get install nginx -y
+                      
+                      ps auwx | gerp ngix
+                      
+                  (4) to deploy the VM server
+                  
+                      click the external IP link of VM instance
+                      
+                      or
+                      
+                      add external IP to http://<external IP>/  in browser
+                    
  
         * GKE(進階網路拓樸)
       
