@@ -22,8 +22,7 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
      ![vm1](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm1.png)
      
      ![vm2](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm2.png)
-     
-     ![vm3](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm3.png)
+    
     
    * 雲端記憶體
 
@@ -53,6 +52,9 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
                   enter PassPhrase (empty for no passphrase)
                   
                   // type Ctrl + C to disconnect the ssh by existing the shell.
+                  
+                  
+            ![vm3](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/vm3.png)
                   
                   
              * deploy Nginx Server in SSH'ed VM while ssh connecting
