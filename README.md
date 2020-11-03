@@ -121,7 +121,7 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
         
            待續 ...
       
-   * Cloud IAM（Istio）
+   * Cloud IAM（Istio Mesh）
    
         * IAM
         
