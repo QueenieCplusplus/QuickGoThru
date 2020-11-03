@@ -28,7 +28,7 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
 
    * SaaS, 應用程式的執行環境 App Engine
  
-   * GCP 網路 (VPN, GKE)
+   * GCP 網路 (VPC, GKE)
     
         * System 系統管理： Cloud Consol & Cloud Shell & Cloud Mobile App
         
