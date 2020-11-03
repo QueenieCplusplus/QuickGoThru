@@ -63,6 +63,10 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
             
                   gcloud auth list
                   
+                  credential accounts:
+                  
+                  - <account name>@<domain>.com (active)
+                  
                   ctrl + X, Y, enter
             
             
