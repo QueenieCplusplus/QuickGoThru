@@ -63,7 +63,7 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
 
    * SaaS, 應用程式的執行環境 App Engine 實現 Serverless (略)
  
-   * GCP 網路 (VPC, GKE)
+   * GCP 網路拓樸 (VPC, GKE)
     
         * System 系統管理： Cloud Consol & Cloud Shell & Cloud Mobile App (可以啟動 200+ API 做流量觀測)
         
