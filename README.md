@@ -44,10 +44,12 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
             
                   gcloud compute ssh <vm name> --zone <zone>
                   
-                  // ssh helps the remote connection in a wrapper of authentication and mapping instance name to IP addr.
-            
-            
-            
+                  // ssh helps the remote connection in a wrapper of authentication and mapping instance name to IP addr. In this way, it outputes RSA keys pair.
+                  
+                  generating Public/Private RSA Key Pairs
+                  
+                  enter PassPhrase (empty for no passphrase)
+                
  
         * GKE(進階網路拓樸)
       
