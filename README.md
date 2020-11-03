@@ -56,6 +56,18 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
         * GKE(進階網路拓樸)
       
    * Cloud IAM（Istio）
+   
+        * IAM
+        
+            * using cloud shell to do authentication
+            
+               (request auth credential to make API calls)
+            
+                  gcloud auth list
+                  
+                  ctrl + X, Y, enter
+            
+            
         
    * Anthos (Multi-Cloud + GKE)
     
