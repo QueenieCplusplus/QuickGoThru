@@ -46,6 +46,42 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
    * Anthos (Multi-Cloud + GKE)
     
    * Cloud SDK (cmd line tool: cloud shell)
+   
+     (1) check Project ID, organize the cloud resources
+   
+          export PROJECT_ID = <project id>
+
+          export ZONE = <zone>
+
+          echo $PROJECT_ID
+
+          echo $ZONE
+
+      (2) manage the cloud engine (VM) resorces
+      
+          gloud compute
+          
+          gloud compute instances create --help
+          
+          gcloud compute instances create <vm name> --machine-type <vm ype> --zone <zone> --image <image>
+          
+      (3) env's help
+      
+          gcloud config list
+      
+          gcloud config --help
+          
+          or
+          
+          gcloud help config
+          
+          Enter / Q
+          
+      (4) check env's components and install it
+      
+          gcloud components list
+          
+      
  
 # Cloud Tech in 2020
 
