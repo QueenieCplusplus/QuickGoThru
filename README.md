@@ -65,7 +65,7 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
  
    * GCP 網路 (VPC, GKE)
     
-        * System 系統管理： Cloud Consol & Cloud Shell & Cloud Mobile App
+        * System 系統管理： Cloud Consol & Cloud Shell & Cloud Mobile App (可以啟動 200+ API 做流量觀測)
         
         ![cloud console](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/cloud%20console.png)
  
