@@ -11,7 +11,7 @@
 
 2020.11/8 (1 day)
 
-Architecture & DevOps 
+util the Storage Production called Spanner Instance at side of Architecture & DevOps.
 
 # IAM
 
