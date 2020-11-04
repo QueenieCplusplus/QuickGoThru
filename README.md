@@ -10,29 +10,33 @@
 
 # Dialog Flow 
 
-2020.11/12 (1 day)
+2020.11/13 (1 day)
 
 do a google assitant app using firebase
 
-# Cloud Run 
-
-2020.11/11 (1 day)
-
-do a cloud storage notification using Go app
-
 # Pub/Sub 
 
-2020.11/10 (1 day)
+2020.11/12 (1 day)
 
 use a pull subscriber to output individual topic messages.
 
 # Serverless
 
-2020.11/9 (1 day)
+2020.11/11 (1 day)
 
 a SaaS solution for developer using Cloud Function
 
 a SaaS solution for developer using GAE
+
+# Cloud Run 
+
+2020.11/10 (1 day)
+
+do a cloud storage notification using Go app
+
+# Cloud SQL 
+
+2020.11/9 (1 day)
 
 # Big Query 
 
