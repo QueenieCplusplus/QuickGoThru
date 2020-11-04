@@ -7,48 +7,48 @@
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
-# Big Query 
-
-2020.11/12 (1 day)
-
-util google Big Data feature called Big Query
-
 
 # Dialog Flow 
 
-2020.11/11 (1 day)
+2020.11/12 (1 day)
 
 do a google assitant app using firebase
 
 # Cloud Run 
 
-2020.11/10 (1 day)
+2020.11/11 (1 day)
 
 do a cloud storage notification using Go app
 
 # Pub/Sub 
 
-2020.11/9 (1 day)
+2020.11/10 (1 day)
 
 use a pull subscriber to output individual topic messages.
 
-# IAM
+# Serverless
+
+2020.11/9 (1 day)
+
+a SaaS solution for developer using Cloud Function
+
+a SaaS solution for developer using GAE
+
+# Big Query 
 
 2020.11/8 (1 day)
+
+util google Big Data feature called Big Query
+
+# IAM
+
+2020.11/7 (1 day)
 
 identity-aware proxy
 
 an authentication solution
 
 Advanced: Istio Mesh, Anthos
-
-# Serverless
-
-2020.11/7 (1 day)
-
-a SaaS solution for developer using Cloud Function
-
-a SaaS solution for developer using GAE
 
 # DB Migration
 
