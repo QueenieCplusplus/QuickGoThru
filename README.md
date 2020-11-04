@@ -7,6 +7,12 @@
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
+# GKE 
+
+2020.11/4 (1 day)
+
+
+
 # GCP Cloud Tech in 2020
 
 >>> 閉關學習中，勿擾！
