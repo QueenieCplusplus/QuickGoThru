@@ -7,6 +7,13 @@
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
+# Big Query 
+
+2020.11/12 (1 day)
+
+util google Big Data feature called Big Query
+
+
 # Dialog Flow 
 
 2020.11/11 (1 day)
