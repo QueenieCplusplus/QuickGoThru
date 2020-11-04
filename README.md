@@ -7,21 +7,28 @@
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
+# DB Migration
+
+2020.11/8 (1 day)
+
+Architecture & DevOps 
 
 # IAM
 
-2020.11/7(1 day)
+2020.11/7 (1 day)
 
 identity-aware proxy
 
 an authentication solution
+
+Advanced: Istio Mesh, Anthos
 
 
 # Serverless
 
 2020.11/6 (1 day)
 
-a SaaS solution for developer
+a SaaS solution for developer using Cloud Function
 
 # VPC 
 
