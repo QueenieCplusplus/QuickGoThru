@@ -12,6 +12,9 @@
 2020.11/4 (1 day)
 
 
+![gke](https://google.qwiklabs.com/focuses/564?parent=catalog)
+
+
 
 # GCP Cloud Tech in 2020
 
