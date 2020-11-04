@@ -125,7 +125,7 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
  
         * GKE(容器管理工具與 LB 的實現)
         
-           待續 ...
+           https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gke
       
    * Cloud IAM（Istio Mesh）
    
