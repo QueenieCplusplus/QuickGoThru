@@ -30,6 +30,8 @@ Advanced: Istio Mesh, Anthos
 
 a SaaS solution for developer using Cloud Function
 
+a SaaS solution for developer using GAE
+
 # VPC 
 
 2020.11/5 (1 day)
