@@ -7,6 +7,11 @@
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
+# Pub/Sub 
+
+2020.11/9 (1 day)
+
+use a pull subscriber to output individual topic messages.
 
 # IAM
 
