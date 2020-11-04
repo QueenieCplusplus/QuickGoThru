@@ -7,6 +7,12 @@
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
+# Cloud Run 
+
+2020.11/10 (1 day)
+
+do a cloud storage notification using Go app
+
 # Pub/Sub 
 
 2020.11/9 (1 day)
