@@ -43,17 +43,17 @@ a SaaS solution for developer using Cloud Function
 
 a SaaS solution for developer using GAE
 
-# VPC 
+# DB Migration
 
 2020.11/6 (1 day)
 
-a clouds networking model and show the VPC (Bastion) Peering
+util the Storage Production called Spanner Instance at side of Architecture & DevOps.
 
-# DB Migration
+# VPC 
 
 2020.11/5 (1 day)
 
-util the Storage Production called Spanner Instance at side of Architecture & DevOps.
+a clouds networking model and show the VPC (Bastion) Peering
 
 # GKE 
 
