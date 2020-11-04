@@ -180,6 +180,9 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
    * Anthos (Multi-Cloud + GKE)
    
        待續 ...
+       
+       
+       ![anthos](https://miro.medium.com/max/1158/1*qJ1AI-yR2Z_mh9_mrryLQg.gif)
     
    * Cloud SDK (cmd line tool: cloud shell)
    
