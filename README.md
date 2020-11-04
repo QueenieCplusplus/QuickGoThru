@@ -7,6 +7,16 @@
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
+
+# Serverless
+
+2020.11/6 (1 day)
+
+# VPC 
+
+2020.11/5 (1 day)
+
+
 # GKE 
 
 2020.11/4 (1 day)
