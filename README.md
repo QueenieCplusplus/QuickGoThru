@@ -95,6 +95,8 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
  
         * Network 網路 : Firewall + Coud CDN + DNS + VPC + VPN + IAP
         
+           https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#vpc
+        
             * VM 建構時會同時設定防火牆
             
                   Allow Http Traffic
