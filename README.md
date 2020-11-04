@@ -21,6 +21,8 @@
 
 2020.11/4 (1 day)
 
+a good CI/CD, HA, DR solution
+
 https://github.com/QueenieCplusplus/GKE
 
 ![k8s](https://d33wubrfki0l68.cloudfront.net/69e55f968a6f44613384615c6a78b881bfe28bd6/42cd3/_common-resources/images/flower.svg)
