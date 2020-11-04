@@ -7,15 +7,10 @@
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
-# DB Migration
-
-2020.11/8 (1 day)
-
-util the Storage Production called Spanner Instance at side of Architecture & DevOps.
 
 # IAM
 
-2020.11/7 (1 day)
+2020.11/8 (1 day)
 
 identity-aware proxy
 
@@ -23,21 +18,25 @@ an authentication solution
 
 Advanced: Istio Mesh, Anthos
 
-
 # Serverless
 
-2020.11/6 (1 day)
+2020.11/7 (1 day)
 
 a SaaS solution for developer using Cloud Function
 
 a SaaS solution for developer using GAE
+
+# DB Migration
+
+2020.11/6 (1 day)
+
+util the Storage Production called Spanner Instance at side of Architecture & DevOps.
 
 # VPC 
 
 2020.11/5 (1 day)
 
 a clouds networking model
-
 
 # GKE 
 
