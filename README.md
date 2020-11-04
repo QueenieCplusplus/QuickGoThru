@@ -66,6 +66,8 @@ util the Storage Production called Spanner Instance at side of Architecture & De
 
 a clouds networking model and show the VPC (Bastion) Peering
 
+https://github.com/QueenieCplusplus/VPC
+
 # GKE 
 
 2020.11/4 (1 day)
