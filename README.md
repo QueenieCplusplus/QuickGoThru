@@ -56,6 +56,8 @@ an authentication solution.
 
 Advanced: Istio Mesh, Anthos
 
+![iam](https://conceptdraw.com/a1600c4/p1/preview/640/pict--gcp-icons-design-elements-identity-and-security)
+
 # Cloud SQL 
 
 2020.11/7 (1 day)
