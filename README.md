@@ -8,7 +8,7 @@
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
 
-# Dialog Flow 
+# Dialog Flow (AI)
 
 2020.11/10 (1 day)
 
@@ -56,11 +56,11 @@ util google LB feature called Amor.
 
 ![LB](https://cloud.google.com/armor/images/ip-bl-wl-2.svg)
 
-# Cloud SQL 
+# Cloud SQL (Big Data)
 
 2020.11/6 (1 day)
 
-util google Storage Production called BigQuery.
+util google Big Data Production called BigQuery.
 
 ![BigQuery](https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png)
 
