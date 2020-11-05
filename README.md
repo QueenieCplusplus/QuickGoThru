@@ -69,7 +69,7 @@ util google LB feature called Amor.
 
 2020.11/6 (1 day)
 
-util google Big Data Production called BigQuery.
+to upload csv format data into Cloud SQL Instance's Bucket and util google Big Data Production called BigQuery.
 
 ![BigQuery](https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png)
 
