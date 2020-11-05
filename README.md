@@ -56,14 +56,11 @@ an authentication solution.
 
 Advanced: Istio Mesh, Anthos
 
-
 # Cloud SQL 
 
 2020.11/7 (1 day)
 
 # DB Migration
-
-2020.11/6 (1 day)
 
 util the Storage Production called Spanner Instance at side of Architecture & DevOps.
 
@@ -73,17 +70,15 @@ https://github.com/QueenieCplusplus/BaaS (Firebase I used at first time)
 2020 => 
 https://github.com/QueenieCplusplus/Spanner (Storage also includes: Cloud SQL, Big Query, and Firebase)
 
-# VPC 
+![spanner](https://miro.medium.com/max/1000/1*t7MKxLVba5Nji_NOIKVrKw.png)
 
-2020.11/5 (1 day)
+# VPC 
 
 a clouds networking model and show the VPC (Bastion) Peering
 
 https://github.com/QueenieCplusplus/VPC
 
 # GKE 
-
-2020.11/4 (1 day)
 
 a good CI/CD, HA, DR solution
 
