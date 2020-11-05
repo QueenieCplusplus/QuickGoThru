@@ -32,13 +32,7 @@ a SaaS solution for developer using GAE
 
 2020.11/8 (1 day)
 
-do a cloud storage notification using Go app.
-
-# Big Query 
-
-2020.11/7 (1 day)
-
-util google Big Data feature called Big Query.
+do a cloud storage notification using Go app. (Alternative to GKE, to run container easily.)
 
 # IAM
 
@@ -60,10 +54,11 @@ util google LB feature called Amor.
 
 ![LB](https://cloud.google.com/armor/images/ip-bl-wl-2.svg)
 
-
 # Cloud SQL 
 
 2020.11/6 (1 day)
+
+util google Storage Production called BigQuery.
 
 # DB Migration
 
