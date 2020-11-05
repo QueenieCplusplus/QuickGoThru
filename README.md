@@ -34,25 +34,26 @@ a SaaS solution for developer using GAE
 
 do a cloud storage notification using Go app
 
-# Cloud SQL 
-
-2020.11/9 (1 day)
-
 # Big Query 
 
-2020.11/8 (1 day)
+2020.11/9 (1 day)
 
 util google Big Data feature called Big Query
 
 # IAM
 
-2020.11/7 (1 day)
+2020.11/8 (1 day)
 
 identity-aware proxy
 
 an authentication solution
 
 Advanced: Istio Mesh, Anthos
+
+
+# Cloud SQL 
+
+2020.11/7 (1 day)
 
 # DB Migration
 
