@@ -10,19 +10,19 @@
 
 # Dialog Flow 
 
-2020.11/14 (1 day)
+2020.11/11 (1 day)
 
 do a google assitant app using firebase
 
 # Pub/Sub 
 
-2020.11/13 (1 day)
+2020.11/10 (1 day)
 
 use a pull subscriber to output individual topic messages.
 
 # Serverless
 
-2020.11/12 (1 day)
+2020.11/9 (1 day)
 
 a SaaS solution for developer using Cloud Function
 
@@ -30,27 +30,19 @@ a SaaS solution for developer using GAE
 
 # Cloud Run 
 
-2020.11/11 (1 day)
+2020.11/8 (1 day)
 
 do a cloud storage notification using Go app.
 
 # Big Query 
 
-2020.11/10 (1 day)
+2020.11/7 (1 day)
 
 util google Big Data feature called Big Query.
 
-# LB
-
-2020.11/9 (1 day)
-
-util google LB feature called Amor.
-
-![LB](https://cloud.google.com/armor/images/ip-bl-wl-2.svg)
-
 # IAM
 
-2020.11/8 (1 day)
+2020.11/7 (1 day)
 
 identity-aware proxy
 
@@ -60,9 +52,18 @@ Advanced: Istio Mesh, Anthos
 
 ![iam](https://conceptdraw.com/a1600c4/p1/preview/640/pict--gcp-icons-design-elements-identity-and-security)
 
+# LB
+
+2020.11/6 (1 day)
+
+util google LB feature called Amor.
+
+![LB](https://cloud.google.com/armor/images/ip-bl-wl-2.svg)
+
+
 # Cloud SQL 
 
-2020.11/7 (1 day)
+2020.11/6 (1 day)
 
 # DB Migration
 
