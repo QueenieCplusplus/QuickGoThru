@@ -157,6 +157,8 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
    * 雲端記憶體 
    
    應用 1 : https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#db-migration (資料遷移)
+   
+   應用 2 : https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-sql-big-data (大數據)
 
    * SaaS, 應用程式的執行環境 App Engine 實現 Serverless 
    
