@@ -32,7 +32,7 @@ a SaaS solution for developer using GAE
 
 2020.11/8 (1 day)
 
-do a cloud storage notification using Go app. (Alternative to GKE, to run container easily.)
+do a cloud storage notification using Go app. (Alternative to GKE, to deploy container easily.)
 
 # IAM
 
@@ -59,6 +59,8 @@ util google LB feature called Amor.
 2020.11/6 (1 day)
 
 util google Storage Production called BigQuery.
+
+![BigQuery](https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png)
 
 # DB Migration
 
