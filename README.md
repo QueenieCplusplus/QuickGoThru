@@ -45,7 +45,7 @@ Advanced: Istio Mesh, Anthos
 
 ![iam](https://conceptdraw.com/a1600c4/p1/preview/640/pict--gcp-icons-design-elements-identity-and-security)
 
-# Serverless
+# Serverless (DevOps)
 
 2020.11/7 (1 day)
 
