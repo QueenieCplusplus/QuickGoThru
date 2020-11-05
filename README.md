@@ -10,13 +10,13 @@
 
 # Dialog Flow 
 
-2020.11/11 (1 day)
+2020.11/10 (1 day)
 
 do a google assitant app using firebase
 
 # Pub/Sub 
 
-2020.11/10 (1 day)
+2020.11/9 (1 day)
 
 use a pull subscriber to output individual topic messages.
 
@@ -24,17 +24,15 @@ use a pull subscriber to output individual topic messages.
 
 # Serverless
 
-2020.11/9 (1 day)
+2020.11/8 (1 day)
 
 a SaaS solution for developer using Cloud Function
 
 a SaaS solution for developer using GAE
 
-# Cloud Run 
+do a cloud storage notification using Cloud Run. (Alternative to GKE, to deploy container easily.)
 
-2020.11/8 (1 day)
-
-do a cloud storage notification using Go app. (Alternative to GKE, to deploy container easily.)
+![GAE and Cloud Run](https://labs.steren.fr/2020/migrating-from-app-engine-to-cloud-run/app-engine-to-cloud-run.svg)
 
 # IAM
 
