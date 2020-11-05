@@ -22,21 +22,9 @@ use a pull subscriber to output individual topic messages.
 
 ![pubsub](https://miro.medium.com/max/2000/1*A8OqAMXFENtulKTYgnikuw.png)
 
-# Serverless
-
-2020.11/8 (1 day)
-
-a SaaS solution for developer using Cloud Function
-
-a SaaS solution for developer using GAE
-
-do a cloud storage notification using Cloud Run. (Alternative to GKE, to deploy container easily.)
-
-![GAE and Cloud Run](https://labs.steren.fr/2020/migrating-from-app-engine-to-cloud-run/app-engine-to-cloud-run.svg)
-
 # IAM
 
-2020.11/7 (1 day)
+2020.11/8 (1 day)
 
 identity-aware proxy
 
@@ -45,6 +33,18 @@ an authentication solution.
 Advanced: Istio Mesh, Anthos
 
 ![iam](https://conceptdraw.com/a1600c4/p1/preview/640/pict--gcp-icons-design-elements-identity-and-security)
+
+# Serverless
+
+2020.11/7 (1 day)
+
+a SaaS solution for developer using Cloud Function
+
+a SaaS solution for developer using GAE
+
+do a cloud storage notification using Cloud Run. (Alternative to GKE, to deploy container easily.)
+
+![GAE and Cloud Run](https://labs.steren.fr/2020/migrating-from-app-engine-to-cloud-run/app-engine-to-cloud-run.svg)
 
 # LB
 
