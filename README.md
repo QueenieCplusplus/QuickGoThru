@@ -10,19 +10,19 @@
 
 # Dialog Flow 
 
-2020.11/13 (1 day)
+2020.11/14 (1 day)
 
 do a google assitant app using firebase
 
 # Pub/Sub 
 
-2020.11/12 (1 day)
+2020.11/13 (1 day)
 
 use a pull subscriber to output individual topic messages.
 
 # Serverless
 
-2020.11/11 (1 day)
+2020.11/12 (1 day)
 
 a SaaS solution for developer using Cloud Function
 
@@ -30,15 +30,21 @@ a SaaS solution for developer using GAE
 
 # Cloud Run 
 
-2020.11/10 (1 day)
+2020.11/11 (1 day)
 
-do a cloud storage notification using Go app
+do a cloud storage notification using Go app.
 
 # Big Query 
 
+2020.11/10 (1 day)
+
+util google Big Data feature called Big Query.
+
+# LB
+
 2020.11/9 (1 day)
 
-util google Big Data feature called Big Query
+util google LB feature called Amor.
 
 # IAM
 
@@ -46,7 +52,7 @@ util google Big Data feature called Big Query
 
 identity-aware proxy
 
-an authentication solution
+an authentication solution.
 
 Advanced: Istio Mesh, Anthos
 
