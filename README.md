@@ -14,6 +14,8 @@
 
 do a google assitant app using firebase
 
+![google AI](https://www.crystalloids.com/hs-fs/hubfs/Google%20Assistant%20Dutch%20(1).png?width=1640&name=Google%20Assistant%20Dutch%20(1).png)
+
 # Pub/Sub 
 
 2020.11/9 (1 day)
