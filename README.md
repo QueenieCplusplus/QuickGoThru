@@ -71,6 +71,8 @@ util google LB feature called Amor.
 
 to upload csv format data into Cloud SQL Instance's Bucket and util google Big Data Production called BigQuery.
 
+![Cloud SQL Instance](https://www.intelligencepartner.com/wp-content/uploads/2017/05/Clud-SQL.jpg)
+
 ![BigQuery](https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png)
 
 # DB Migration
