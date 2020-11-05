@@ -67,6 +67,8 @@ Advanced: Istio Mesh, Anthos
 
 util the Storage Production called Spanner Instance at side of Architecture & DevOps.
 
+https://github.com/QueenieCplusplus/Spanner (Storage also includes: Cloud SQL, Big Query, and Firebase)
+
 # VPC 
 
 2020.11/5 (1 day)
