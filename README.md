@@ -78,6 +78,8 @@ a clouds networking model and show the VPC (Bastion) Peering
 
 https://github.com/QueenieCplusplus/VPC
 
+![vpc](https://miro.medium.com/max/1362/1*zNi4WtdmEbCDqa0vpApIwA.png)
+
 # GKE 
 
 a good CI/CD, HA, DR solution
