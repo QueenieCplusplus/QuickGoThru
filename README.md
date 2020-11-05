@@ -46,6 +46,8 @@ util google Big Data feature called Big Query.
 
 util google LB feature called Amor.
 
+![LB](https://cloud.google.com/armor/images/ip-bl-wl-2.svg)
+
 # IAM
 
 2020.11/8 (1 day)
