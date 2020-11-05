@@ -228,7 +228,7 @@ since 2018.3, restart on 2020.10/17 ～ 11/10 (3 weeks)
    
         * IAM
         
-        https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#iam
+        https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#iap-security
         
             * using cloud shell to do authentication
             
