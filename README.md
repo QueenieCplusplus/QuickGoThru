@@ -51,7 +51,7 @@ Advanced: Istio Mesh, Anthos
 
 a SaaS solution for developer using Cloud Function
 
-a SaaS solution for developer using GAE
+a SaaS solution for developer using GAE (GAS see https://github.com/QueenieCplusplus/GCP_GAS)
 
 do a cloud storage notification using Cloud Run. (Alternative to GKE, to deploy container easily.)
 
