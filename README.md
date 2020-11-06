@@ -65,7 +65,7 @@ add google Security Policy feature called Armor to LB.
 
 https://github.com/QueenieCplusplus/LB_Armor
 
-![Armor](https://cdn.qwiklabs.com/3bkldo7J0N94gjkFCX8%2BeN7N%2BSnaVXjJk%2FZRJCySM7U%3D)
+![Armor](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/armor.jpg)
 
 ![LB](https://cloud.google.com/armor/images/ip-bl-wl-2.svg)
 
