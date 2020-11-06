@@ -57,15 +57,15 @@ do a cloud storage notification using Cloud Run. (Alternative to GKE, to deploy 
 
 ![GAE and Cloud Run](https://labs.steren.fr/2020/migrating-from-app-engine-to-cloud-run/app-engine-to-cloud-run.svg)
 
-# LB
+# LB & Armor
 
 2020.11/6 (1 day)
 
-util google LB feature called Amor.
+add google Security Policy feature called Armor to LB.
 
-https://github.com/QueenieCplusplus/Amor/blob/main/README.md
+https://github.com/QueenieCplusplus/LB_Armor
 
-![Amor](https://cdn.qwiklabs.com/3bkldo7J0N94gjkFCX8%2BeN7N%2BSnaVXjJk%2FZRJCySM7U%3D)
+![Armor](https://cdn.qwiklabs.com/3bkldo7J0N94gjkFCX8%2BeN7N%2BSnaVXjJk%2FZRJCySM7U%3D)
 
 ![LB](https://cloud.google.com/armor/images/ip-bl-wl-2.svg)
 
