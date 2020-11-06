@@ -65,6 +65,8 @@ util google LB feature called Amor.
 
 https://github.com/QueenieCplusplus/Amor/blob/main/README.md
 
+![Amor](https://cdn.qwiklabs.com/3bkldo7J0N94gjkFCX8%2BeN7N%2BSnaVXjJk%2FZRJCySM7U%3D)
+
 ![LB](https://cloud.google.com/armor/images/ip-bl-wl-2.svg)
 
 # Cloud SQL (Big Data)
