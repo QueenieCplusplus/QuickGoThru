@@ -63,6 +63,8 @@ do a cloud storage notification using Cloud Run. (Alternative to GKE, to deploy 
 
 util google LB feature called Amor.
 
+https://github.com/QueenieCplusplus/Amor/blob/main/README.md
+
 ![LB](https://cloud.google.com/armor/images/ip-bl-wl-2.svg)
 
 # Cloud SQL (Big Data)
