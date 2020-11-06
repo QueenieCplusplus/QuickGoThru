@@ -57,6 +57,15 @@ do a cloud storage notification using Cloud Run. (Alternative to GKE, to deploy 
 
 ![GAE and Cloud Run](https://labs.steren.fr/2020/migrating-from-app-engine-to-cloud-run/app-engine-to-cloud-run.svg)
 
+# Cloud SQL (Big Data)
+
+2020.11/6 (1 day)
+
+to upload csv format data into Cloud SQL Instance's Bucket and util google Big Data Production called BigQuery.
+
+![Cloud SQL Instance](https://www.intelligencepartner.com/wp-content/uploads/2017/05/Clud-SQL.jpg)
+![BigQuery](https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png)
+
 # LB & Armor
 
 2020.11/6 (1 day)
@@ -66,17 +75,8 @@ add google Security Policy feature called Armor to LB.
 https://github.com/QueenieCplusplus/LB_Armor
 
 ![Armor](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/armor.jpg)
-
 ![LB](https://cloud.google.com/armor/images/ip-bl-wl-2.svg)
 
-# Cloud SQL (Big Data)
-
-2020.11/6 (1 day)
-
-to upload csv format data into Cloud SQL Instance's Bucket and util google Big Data Production called BigQuery.
-
-![Cloud SQL Instance](https://www.intelligencepartner.com/wp-content/uploads/2017/05/Clud-SQL.jpg)
-![BigQuery](https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png)
 
 # DB Migration
 
