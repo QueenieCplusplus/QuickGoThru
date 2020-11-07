@@ -20,7 +20,6 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
 
-
 # Dialog Flow (AI)
 
 2020.11/10 (1 day)
@@ -51,8 +50,6 @@ Advanced: Istio Mesh, Anthos
 
 # Serverless (DevOps)
 
-2020.11/7 (1 day)
-
 a SaaS solution for developer using Cloud Function
 
 a SaaS solution for developer using GAE (GAS see https://github.com/QueenieCplusplus/GCP_GAS)
@@ -65,8 +62,6 @@ https://github.com/QueenieCplusplus/CloudRun
 
 # Cloud SQL (Big Data)
 
-2020.11/6 (1 day)
-
 to upload csv format data into Cloud SQL Instance's Bucket and util google Big Data Production called BigQuery.
 
 https://github.com/QueenieCplusplus/BigQuery_CloudSQL
@@ -75,8 +70,6 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL
 ![BigQuery](https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png)
 
 # LB & Armor
-
-2020.11/6 (1 day)
 
 add google Security Policy feature called Armor to LB.
 
