@@ -11,6 +11,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gke => K8s
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#vpc => VPC
 
+https://github.com/QueenieCplusplus/CloudRun => Serverless
+
 https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 與程式化網路技術 SDN 』，敬請拭目以待。 ：）
