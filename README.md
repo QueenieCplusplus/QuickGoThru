@@ -11,6 +11,8 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gke => K8s
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#vpc => VPC
 
+https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
+
 與程式化網路技術 SDN 』，敬請拭目以待。 ：）
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
@@ -54,6 +56,8 @@ a SaaS solution for developer using Cloud Function
 a SaaS solution for developer using GAE (GAS see https://github.com/QueenieCplusplus/GCP_GAS)
 
 do a cloud storage notification using Cloud Run. (Alternative to GKE, to deploy container easily.)
+
+https://github.com/QueenieCplusplus/CloudRun
 
 ![GAE and Cloud Run](https://labs.steren.fr/2020/migrating-from-app-engine-to-cloud-run/app-engine-to-cloud-run.svg)
 
