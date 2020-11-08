@@ -1854,6 +1854,8 @@ since 2018/2 & 2019/12/22
 一, 利用 CORs 旁繞 SOP 再行 XSS, 網路應用程式的跨域及跨站攻擊
  
    https://github.com/QueenieCplusplus/ITsec_BypassSOP/blob/master/README.md#ie-瀏覽器範例
+   
+   https://github.com/QueenieCplusplus/IAP/tree/main/Login_python_app
   
 * On Users Behalf, 最嚴重的攻擊->針對使用者未知情況下的攻擊
 
@@ -1902,6 +1904,8 @@ since 2018/2 & 2019/12/22
    https://owasp.org/www-community/attacks/csrf
   
    https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/README.md#owasp-top-10-open-web-app-security-project
+   
+   https://github.com/QueenieCplusplus/IAP/tree/main/Login_python_app
   
 > (3)DOS, 癱瘓伺服器
   
