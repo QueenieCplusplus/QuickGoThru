@@ -60,7 +60,9 @@ https://github.com/QueenieCplusplus/IAP
 
 a SaaS solution for developer using Cloud Function
 
-a SaaS solution for developer using GAE (GAS see https://github.com/QueenieCplusplus/GCP_GAS)
+a SaaS solution for developer using GAE https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gae
+
+(GAS see https://github.com/QueenieCplusplus/GCP_GAS)
 
 a PaaS-Deployment Solution using Cloud Run. (Alternative to GKE, to deploy container easily.)
 
