@@ -1863,7 +1863,7 @@ since 2018/2 & 2019/12/22
 
  > (1)Cookies & Session ID, 會話識別符取得隱私的攻擊 
  
-    https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/getSessionOrCookie.js
+  https://github.com/QueenieCplusplus/ITsec_UsersBehalf/blob/master/getSessionOrCookie.js
  
   https://github.com/QueenieCplusplus/SSCP_Admin/blob/master/README.md#owasp-top-10-open-web-app-security-project
  
