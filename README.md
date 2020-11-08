@@ -46,13 +46,11 @@ alternative way to GCE.
 
 # IAP (Security)
 
-identity-aware proxy
+identity-aware proxy https://github.com/QueenieCplusplus/IAP
 
 an authentication solution.
 
 Advanced: Istio Mesh, Anthos
-
-https://github.com/QueenieCplusplus/IAP
 
 ![iam](https://conceptdraw.com/a1600c4/p1/preview/640/pict--gcp-icons-design-elements-identity-and-security)
 
