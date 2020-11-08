@@ -38,8 +38,6 @@ use a pull subscriber to output individual topic messages.
 
 # GAE
 
-2020.11/8 (1 day)
-
 an alternative way to GCE.
 
 https://github.com/QueenieCplusplus/GAE
