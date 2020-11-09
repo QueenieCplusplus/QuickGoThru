@@ -19,22 +19,23 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
-
-# Dialog Flow (AI)
-
-2020.11/10 (1 day)
-
-do a google assitant app using firebase
-
-![google AI](https://www.crystalloids.com/hs-fs/hubfs/Google%20Assistant%20Dutch%20(1).png?width=1640&name=Google%20Assistant%20Dutch%20(1).png)
-
 # Pub/Sub (Big Data)
+
+2020.11.13 (2 days)
 
 use a pull subscriber to output individual topic messages.
 
 https://github.com/QueenieCplusplus/CloudPubSub
 
 ![pubsub](https://miro.medium.com/max/2000/1*A8OqAMXFENtulKTYgnikuw.png)
+
+# Dialog Flow (AI)
+
+2020.11/12 (1 day)
+
+do a google assitant app using firebase
+
+![google AI](https://www.crystalloids.com/hs-fs/hubfs/Google%20Assistant%20Dutch%20(1).png?width=1640&name=Google%20Assistant%20Dutch%20(1).png)
 
 # GAE
 
