@@ -11,7 +11,9 @@ https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gke => K8s
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#vpc => VPC
 
-https://github.com/QueenieCplusplus/CloudRun https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gae => Serverless
+https://github.com/QueenieCplusplus/CloudRun 
+
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gae => Serverless
 
 https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
