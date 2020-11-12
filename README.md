@@ -21,9 +21,15 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
+# AWS Cloud
+
+2020.11/21-11/30
+
+to be continued...
+
 # Pub/Sub (Big Data)
 
-2020.11.19-20 (2 days)
+2020.11/19-20 (2 days)
 
 use a pull subscriber to output individual topic messages.
 
