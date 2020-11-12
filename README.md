@@ -54,7 +54,7 @@ to be continued...
 
 # Istio & Anthos
 
-2020.11/14
+2020.11/13.14
 
 to be continued...
 
