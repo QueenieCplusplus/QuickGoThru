@@ -345,6 +345,8 @@ since 2018.3, restart on 2020.10/17 ～ 11/8 (3 weeks)
 
 since 2020.10/08 ~ 10/12 (5d)
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/azure.png)
+
 Networking Main Concepts:
 
 * Azur CLI (1)
