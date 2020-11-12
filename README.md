@@ -48,7 +48,13 @@ do a google assitant app using firebase
 
 # RTC & Jenkin
 
-2020.11/14-16
+2020.11/15.16
+
+to be continued...
+
+# Istio & Jenkin
+
+2020.11/14
 
 to be continued...
 
