@@ -31,7 +31,7 @@ to be continued...
 ------
 # GCP Cloud Tech Part 2 in 2020
 
-since 2018.3, restart on 2020.10/30 ～ 11/09
+since 2018.3, restart on 2020.10/30 ～ 11/08
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
