@@ -19,7 +19,6 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 與程式化網路技術 SDN 』，敬請拭目以待。 ：）
 
-![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
 # AWS Cloud
 
@@ -28,6 +27,11 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/aws.png)
 
 to be continued...
+
+------
+
+![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
+
 
 # Pub/Sub (Big Data)
 
