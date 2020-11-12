@@ -20,7 +20,7 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 與程式化網路技術 SDN 』，敬請拭目以待。 ：）
 
 
-# AWS Cloud
+# AWS Cloud Tech in 2020
 
 2020.11/21-11/30
 
