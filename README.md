@@ -25,6 +25,8 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 2020.11/21-11/30
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/aws.png)
+
 to be continued...
 
 # Pub/Sub (Big Data)
