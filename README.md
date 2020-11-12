@@ -52,7 +52,7 @@ do a google assitant app using firebase
 
 to be continued...
 
-# Istio & Jenkin
+# Istio & Anthos
 
 2020.11/14
 
