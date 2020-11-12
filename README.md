@@ -31,12 +31,14 @@ to be continued...
 ------
 # GCP Cloud Tech Part 2 in 2020
 
+since 2018.3, restart on 2020.10/30 ～ 11/09
+
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
 
 # Pub/Sub (Big Data)
 
-2020.11/19-20 (2 days)
+2020.11/19-20 
 
 use a pull subscriber to output individual topic messages.
 
@@ -46,7 +48,7 @@ https://github.com/QueenieCplusplus/CloudPubSub
 
 # Dialog Flow (AI)
 
-2020.11/18 (1 day)
+2020.11/18 
 
 do a google assitant app using firebase
 
@@ -134,7 +136,7 @@ https://github.com/QueenieCplusplus/GKE
 
 # GCP Cloud Tech in 2020
 
-since 2018.3, restart on 2020.10/17 ～ 11/8 (3 weeks)
+since 2018.3, restart on 2020.10/17 ～ 10/30 
 
 > 前導：https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-service-vm
 
