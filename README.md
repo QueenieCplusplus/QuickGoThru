@@ -20,18 +20,10 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 敬請拭目以待。 ：）
 
 
-# AWS Cloud Tech in 2020
-
-2020.11/21-11/30
-
-to be continued...
-
-![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/aws-brand.png)
-
 ------
 # GCP Cloud Tech Part 2 in 2020
 
-since 2018.3, restart on 2020.10/30 ～ 11/08
+since 2018.3, restart on 2020.10/30 ～ 11/08 (9 d)
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
@@ -53,6 +45,12 @@ https://github.com/QueenieCplusplus/CloudPubSub
 do a google assitant app using firebase
 
 ![google AI](https://www.crystalloids.com/hs-fs/hubfs/Google%20Assistant%20Dutch%20(1).png?width=1640&name=Google%20Assistant%20Dutch%20(1).png)
+
+# RTC & Jenkin
+
+2020.11/14-16
+
+to be continued...
 
 # GAE
 
