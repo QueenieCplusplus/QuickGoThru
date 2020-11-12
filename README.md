@@ -29,6 +29,7 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 to be continued...
 
 ------
+# GCP Cloud Tech Part 2 in 2020
 
 ![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
 
