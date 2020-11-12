@@ -30,7 +30,7 @@ since 2018.3, restart on 2020.10/30 ～ 11/08 (9 d)
 
 # Pub/Sub (Big Data)
 
-2020.11/19-20 
+2020.11/20 
 
 use a pull subscriber to output individual topic messages.
 
@@ -40,7 +40,7 @@ https://github.com/QueenieCplusplus/CloudPubSub
 
 # Dialog Flow (AI)
 
-2020.11/18 
+2020.11/19
 
 do a google assitant app using firebase
 
