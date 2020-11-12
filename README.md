@@ -26,7 +26,7 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 to be continued...
 
-![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/aws.png)
+![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/aws-brand.png)
 
 ------
 # GCP Cloud Tech Part 2 in 2020
