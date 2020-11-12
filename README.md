@@ -341,7 +341,7 @@ since 2018.3, restart on 2020.10/17 ～ 11/8 (3 weeks)
           // esc + :wq
       
  
-# Cloud Tech in 2020
+# Azure Cloud Tech in 2020
 
 since 2020.10/08 ~ 10/12 (5d)
 
