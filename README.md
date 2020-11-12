@@ -23,7 +23,7 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 # Pub/Sub (Big Data)
 
-2020.11.13 (2 days)
+2020.11.19-20 (2 days)
 
 use a pull subscriber to output individual topic messages.
 
@@ -33,7 +33,7 @@ https://github.com/QueenieCplusplus/CloudPubSub
 
 # Dialog Flow (AI)
 
-2020.11/12 (1 day)
+2020.11/18 (1 day)
 
 do a google assitant app using firebase
 
