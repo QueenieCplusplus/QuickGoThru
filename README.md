@@ -22,7 +22,7 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 ------
 # GCP Cloud Tech Part 3 in 2020
 
-since 2018.3, restart on 2020.11/20 - 30
+since 2018.3, restart on 2020.11/20 - 30 (10 d)
 
 
 * Pub/Sub (Big Data)
@@ -141,7 +141,7 @@ https://github.com/QueenieCplusplus/GKE
 
 # GCP Cloud Tech in 2020
 
-since 2018.3, restart on 2020.10/17 ～ 10/30 
+since 2018.3, restart on 2020.10/17 ～ 10/30 (1 week)
 
 > 前導：https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-service-vm
 
