@@ -27,9 +27,9 @@ since 2018.3, restart on 2020.11/20 - 30
 
 * Pub/Sub (Big Data)
 
-use a pull subscriber to output individual topic messages.
+  use a pull subscriber to output individual topic messages.
 
-https://github.com/QueenieCplusplus/CloudPubSub
+  https://github.com/QueenieCplusplus/CloudPubSub
 
 ![pubsub](https://miro.medium.com/max/2000/1*A8OqAMXFENtulKTYgnikuw.png)
 
