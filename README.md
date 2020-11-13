@@ -27,8 +27,6 @@ since 2018.3, restart on 2020.11/20 - 30
 
 * Pub/Sub (Big Data)
 
-2020.11/20 
-
 use a pull subscriber to output individual topic messages.
 
 https://github.com/QueenieCplusplus/CloudPubSub
@@ -37,21 +35,15 @@ https://github.com/QueenieCplusplus/CloudPubSub
 
 * Dialog Flow (AI)
 
-2020.11/19
-
 do a google assitant app using firebase
 
 ![google AI](https://www.crystalloids.com/hs-fs/hubfs/Google%20Assistant%20Dutch%20(1).png?width=1640&name=Google%20Assistant%20Dutch%20(1).png)
 
 * RTC & Jenkin
 
-2020.11/15.16
-
 to be continued...
 
 * Istio & Anthos
-
-2020.11/13.14
 
 to be continued...
 
