@@ -35,17 +35,21 @@ https://github.com/QueenieCplusplus/CloudPubSub
 
 * Dialog Flow (AI)
 
-do a google assitant app using firebase
+  do a google assitant app using firebase
 
-![google AI](https://www.crystalloids.com/hs-fs/hubfs/Google%20Assistant%20Dutch%20(1).png?width=1640&name=Google%20Assistant%20Dutch%20(1).png)
+  ![google AI](https://www.crystalloids.com/hs-fs/hubfs/Google%20Assistant%20Dutch%20(1).png?width=1640&name=Google%20Assistant%20Dutch%20(1).png)
 
 * RTC & Jenkin
 
-to be continued...
+  to be continued...
 
 * Istio & Anthos
 
-to be continued...
+  to be continued...
+  
+* Ansible
+
+  to be continued...
 
 ------
 # GCP Cloud Tech Part 2 in 2020
