@@ -19,10 +19,6 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 敬請拭目以待。 ：）
 
-# AWS Cloud Tech in 2020
-
-since 2020. 12/~
-
 ------
 # GCP Cloud Tech Part 3 in 2020
 
