@@ -39,15 +39,15 @@ since 2018.3, restart on 2020.11/20 - 30
 
   ![google AI](https://www.crystalloids.com/hs-fs/hubfs/Google%20Assistant%20Dutch%20(1).png?width=1640&name=Google%20Assistant%20Dutch%20(1).png)
 
-* RTC & Jenkin
+* RTC & Jenkin (CI/D)
 
   to be continued...
 
-* Istio & Anthos
+* Istio & Anthos (security)
 
   to be continued...
   
-* Ansible
+* Ansible (HA & DR solution)
 
   to be continued...
 
