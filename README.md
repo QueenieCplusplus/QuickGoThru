@@ -19,16 +19,13 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 敬請拭目以待。 ：）
 
-
 ------
-# GCP Cloud Tech Part 2 in 2020
+# GCP Cloud Tech Part 3 in 2020
 
-since 2018.3, restart on 2020.10/30 ～ 11/08 (9 d)
-
-![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
+since 2018.3, restart on 2020.11/20 - 30
 
 
-# Pub/Sub (Big Data)
+* Pub/Sub (Big Data)
 
 2020.11/20 
 
@@ -38,7 +35,7 @@ https://github.com/QueenieCplusplus/CloudPubSub
 
 ![pubsub](https://miro.medium.com/max/2000/1*A8OqAMXFENtulKTYgnikuw.png)
 
-# Dialog Flow (AI)
+* Dialog Flow (AI)
 
 2020.11/19
 
@@ -46,17 +43,25 @@ do a google assitant app using firebase
 
 ![google AI](https://www.crystalloids.com/hs-fs/hubfs/Google%20Assistant%20Dutch%20(1).png?width=1640&name=Google%20Assistant%20Dutch%20(1).png)
 
-# RTC & Jenkin
+* RTC & Jenkin
 
 2020.11/15.16
 
 to be continued...
 
-# Istio & Anthos
+* Istio & Anthos
 
 2020.11/13.14
 
 to be continued...
+
+------
+# GCP Cloud Tech Part 2 in 2020
+
+since 2018.3, restart on 2020.10/30 ～ 11/08 (9 d)
+
+![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
+
 
 # GAE
 
