@@ -39,15 +39,19 @@ since 2018.3, restart on 2020.11/20 - 30 (10 d)
 
   ![google AI](https://www.crystalloids.com/hs-fs/hubfs/Google%20Assistant%20Dutch%20(1).png?width=1640&name=Google%20Assistant%20Dutch%20(1).png)
 
-* RTC & Jenkin (CI/D)
+* FirebaseRTC (SDP)
 
-  to be continued...
+  https://github.com/QueenieCplusplus/RTC (chatroom)
 
 * Istio & Anthos (security)
 
   to be continued...
   
 * Ansible (HA & DR solution)
+
+  to be continued...
+  
+* Jenkin (CI/CD)
 
   to be continued...
 
