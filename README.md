@@ -25,7 +25,7 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 since 2018.3, restart on 2020.11/20 - 30 (10 d)
 
 
-* Pub/Sub (Big Data)
+* Pub/Sub (Big Data) 11/9
 
   use a pull subscriber to output individual topic messages.
 
@@ -33,7 +33,7 @@ since 2018.3, restart on 2020.11/20 - 30 (10 d)
 
 ![pubsub](https://miro.medium.com/max/2000/1*A8OqAMXFENtulKTYgnikuw.png)
 
-* Dialog Flow (AI) 11/9
+* Dialog Flow (AI) 
 
   do a google assitant app using firebase
 
