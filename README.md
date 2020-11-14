@@ -33,13 +33,13 @@ since 2018.3, restart on 2020.11/20 - 30 (10 d)
 
 ![pubsub](https://miro.medium.com/max/2000/1*A8OqAMXFENtulKTYgnikuw.png)
 
-* Dialog Flow (AI)
+* Dialog Flow (AI) 11/9
 
   do a google assitant app using firebase
 
   ![google AI](https://www.crystalloids.com/hs-fs/hubfs/Google%20Assistant%20Dutch%20(1).png?width=1640&name=Google%20Assistant%20Dutch%20(1).png)
 
-* FirebaseRTC (SDP)
+* FirebaseRTC (SDP) 11/14
 
   https://github.com/QueenieCplusplus/RTC (chatroom)
 
