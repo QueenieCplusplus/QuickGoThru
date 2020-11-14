@@ -51,7 +51,7 @@ since 2018.3, restart on 2020.11/20 - 30 (10 d)
 
 * FirebaseRTC (SDP) 11/14
 
-  https://github.com/QueenieCplusplus/RTC (chatroom)
+  https://github.com/QueenieCplusplus/RTC 
 
 * Istio & Anthos (security)
 
