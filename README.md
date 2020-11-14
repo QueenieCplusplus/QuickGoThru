@@ -19,6 +19,10 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 敬請拭目以待。 ：）
 
+# Ali Cloud 
+
+  to be continued...
+
 ------
 # GCP Cloud Tech Part 3 in 2020
 
