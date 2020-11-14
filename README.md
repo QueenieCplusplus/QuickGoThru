@@ -23,6 +23,8 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/ali.png)
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/ali2.png)
+
   to be continued...
 
 ------
