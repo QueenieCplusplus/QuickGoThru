@@ -21,6 +21,8 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 # Ali Cloud 
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/ali.png)
+
   to be continued...
 
 ------
