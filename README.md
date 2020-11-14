@@ -52,16 +52,16 @@ since 2018.3, restart on 2020.11/20 - 30 (10 d)
 * FirebaseRTC (SDP) 11/14
 
   https://github.com/QueenieCplusplus/RTC 
-
-* Istio & Anthos (Security)
-
-  to be continued...
   
 * Ansible (HA & DR solution)
 
   to be continued...
   
 * Jenkin (CI/CD)
+
+  to be continued...
+  
+* Istio & Anthos (Security)
 
   to be continued...
 
