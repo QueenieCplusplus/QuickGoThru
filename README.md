@@ -57,9 +57,9 @@ since 2018.3, restart on 2020.11/20 - 30 (10 d)
 
   to be continued...
   
-* Jenkin (CI/CD)
+* Jenkin (CI/CD) 11/16
 
-  https://github.com/QueenieCplusplus/Jenkin_on_GKE
+  https://github.com/QueenieCplusplus/Jenkin_on_GKE 
   
 * Istio & Anthos (Security)
 
