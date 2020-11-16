@@ -32,7 +32,7 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 ------
 # GCP Cloud Tech Part 3 in 2020
 
-since 2018.3, restart on 2020.11/20 - 30 (10 d)
+since 2018.3, restart on 2020.11/20 - 12/05 (10 d)
 
 
 * Pub/Sub (Big Data) 11/9
@@ -53,7 +53,13 @@ since 2018.3, restart on 2020.11/20 - 30 (10 d)
 
   https://github.com/QueenieCplusplus/RTC 
   
+* Aviatrix (Hybrid)
+  
 * Ansible (HA & DR solution)
+
+  to be continued...
+  
+* Spinnaker & Travis (DevOps)
 
   to be continued...
   
