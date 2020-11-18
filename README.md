@@ -71,7 +71,7 @@ since 2018.3, restart on 2020.11/20 - 12/05 (10 d)
   
 * Istio & Anthos (Security)
 
-  to be continued...
+  https://github.com/QueenieCplusplus/ServiceMesh
 
 ------
 # GCP Cloud Tech Part 2 in 2020
