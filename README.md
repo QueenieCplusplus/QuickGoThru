@@ -69,7 +69,7 @@ since 2018.3, restart on 2020.11/20 - 12/05 (10 d)
 
   https://github.com/QueenieCplusplus/Jenkin_on_GKE 
   
-* Istio & Anthos (Security)
+* Istio & Anthos (Security) 11/18
 
   https://github.com/QueenieCplusplus/ServiceMesh
 
