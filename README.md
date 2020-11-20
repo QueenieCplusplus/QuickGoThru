@@ -20,7 +20,7 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 敬請拭目以待。 ：）
 
 
-筆者專心準備證照中，非誠勿擾，謝謝！
+筆者專心準備證照中，非誠勿擾，謝謝！ (2020, 11/25 ~ 2/25)
 
 
 ------
