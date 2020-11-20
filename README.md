@@ -19,20 +19,14 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 敬請拭目以待。 ：）
 
-# Ali Cloud 
 
-![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/ali.png)
+筆者專心準備證照中，非誠勿擾，謝謝！
 
-![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/ali2.png)
-
-![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/ali3.png)
-
-  to be continued...
 
 ------
 # GCP Cloud Tech Part 3 in 2020
 
-since 2018.3, restart on 2020.11/20 - 12/05 (10 d)
+since 2018.3, restart on 2020.11/09 ~ 19
 
 
 * Pub/Sub (Big Data) 11/9
