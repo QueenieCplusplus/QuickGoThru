@@ -24,6 +24,8 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 筆者專心準備網路實驗與證照中，非誠勿擾，謝謝！ (2020, 11/25 ~ 2/25)
 
+有事聯絡歡迎發信件至我信箱： katesapp2019@gmail.com (將於收信三日內回覆！)
+
 
 ------
 # GCP Cloud Tech Part 3 in 2020
