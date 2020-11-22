@@ -50,6 +50,15 @@ since 2018.3, restart on 2020.11/09 ~ 19
 * FirebaseRTC (SDP) 11/14
 
   https://github.com/QueenieCplusplus/RTC 
+ 
+  
+* Jenkin (CI/CD) 11/16
+
+  https://github.com/QueenieCplusplus/Jenkin_on_GKE 
+  
+* Istio & Anthos (Security) 11/18
+
+  https://github.com/QueenieCplusplus/ServiceMesh
   
 * Aviatrix (Hybrid)
 
@@ -63,18 +72,6 @@ since 2018.3, restart on 2020.11/09 ~ 19
 
   to be continued...
   
-* Jenkin (CI/CD) 11/16
-
-  https://github.com/QueenieCplusplus/Jenkin_on_GKE 
-  
-* Istio & Anthos (Security) 11/18
-
-  https://github.com/QueenieCplusplus/ServiceMesh
-  
-
-* Aviatrix (Hybrid Clouds) 
-
-  to be continued...
 
 ------
 # GCP Cloud Tech Part 2 in 2020
