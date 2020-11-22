@@ -26,6 +26,8 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 如有事聯絡，歡迎發信件至我信箱： katesapp2019@gmail.com (將於收信三日內回覆！)
 
+個人部落格：https://www.facebook.com/PattysappLab-2730376213642836 (PattysAppLab)
+
 ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/AWS%20certs.png)
 
 
