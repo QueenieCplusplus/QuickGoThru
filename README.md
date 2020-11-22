@@ -22,7 +22,7 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 # AWS Solution Architecture
 
 
-筆者專心準備證照中，非誠勿擾，謝謝！ (2020, 11/25 ~ 2/25)
+筆者專心準備網路實驗與證照中，非誠勿擾，謝謝！ (2020, 11/25 ~ 2/25)
 
 
 ------
