@@ -26,6 +26,8 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 如有事聯絡，歡迎發信件至我信箱： katesapp2019@gmail.com (將於收信三日內回覆！)
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/AWS%20certs.png)
+
 
 ------
 # GCP Cloud Tech Part 3 in 2020
