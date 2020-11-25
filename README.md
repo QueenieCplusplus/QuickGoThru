@@ -22,7 +22,7 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 # AWS Solution Architecture + DevOps
 
 
-筆者專心準備網路實驗與雲端證照中，非誠勿擾，謝謝！ (2020, 11/25 ~ 2/25)
+筆者專心準備網路實驗與雲端證照中，非誠勿擾，謝謝！ (2020, 12/05 ~ 2/05)
 
 如有事聯絡，歡迎發信件至我信箱： katesapp2019@gmail.com (將於收信三日內回覆！)
 
