@@ -22,7 +22,7 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 # Cloud SA + DevOps
 
 
-筆者專心準備網路實驗與雲端證照中，非誠勿擾，謝謝！ (2020, 12/10 ~ 2/10)
+筆者專心準備網路實驗與雲端證照中，非誠勿擾，謝謝！ (2020, 12/10 ~ 2021, 2/10)
 
 如有事聯絡，歡迎發信件至我信箱： katesapp2019@gmail.com | katesreact2020@gmail.com (將於收信三日內回覆！)
 
