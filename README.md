@@ -28,7 +28,7 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 個人部落格：https://www.facebook.com/PattysappLab-2730376213642836 (PattysAppLab)
 
-![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/aws.png)
+真的比較愛 GCP，以下指示證照的參考。
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/AWS%20certs.png)
 
