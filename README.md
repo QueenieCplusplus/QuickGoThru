@@ -31,6 +31,10 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 專業的 DevOps 工程師，除了要熟悉雲領域的知識以外，能使用腳本語言撰寫自動化部屬程式，並搭配以上工具，便能將企業中煩冗的上架布署時間和對超出預期的結果即時修補，為企業即時止血，減少用戶端使用感受不良退訂或拒絕關注的損失。
 
+破除迷思：
+
+筆者在現存一些博弈、遊戲產業的團隊中，發現面試官的出題往往不符合也跟不上現在未來技術的範疇，例如傳統 Linux 的腳本對比雲端的腳本，已經有些分別，即在現有的 cloud native 的架構下，傳統的 Shell Script 已不符使用，一般而言 Shell Script 只能對一台機器 (instance) 進行操作，與叢集的多台虛擬機同時進行配置和部署存在實務上的距離。
+
 ![](https://github.com/QueenieCplusplus/QuickGoThru/blob/master/DevOps_Tool.png)
 
 
