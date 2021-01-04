@@ -21,7 +21,7 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 # DevOps Tools
 
-![]()
+![](https://github.com/QueenieCplusplus/QuickGoThru/blob/master/DevOps_Tool.png)
 
 
 # Cloud SA + DevOps
