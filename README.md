@@ -25,6 +25,8 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 利用 Jenkin 工具從 Ｇit 的程式碼倉儲提取研發者完成後上傳的源碼。
 
+使用 Ansible 工具配置測試環境的部署配置。
+
 ![](https://github.com/QueenieCplusplus/QuickGoThru/blob/master/DevOps_Tool.png)
 
 
