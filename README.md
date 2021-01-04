@@ -21,6 +21,8 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 # DevOps Tools
 
+快速交付新功能、即時監控將問題在傳達到客戶端之前能先保留機會除錯。
+
 ![](https://github.com/QueenieCplusplus/QuickGoThru/blob/master/DevOps_Tool.png)
 
 
