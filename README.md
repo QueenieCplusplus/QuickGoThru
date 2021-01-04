@@ -29,6 +29,8 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 使用 Python 套件 Selenium 做相關測試工具。
 
+專業的 DevOps 工程師，除了要熟悉雲領域的知識以外，能使用腳本語言撰寫自動化部屬程式，並搭配以上工具，便能將企業中煩冗的上架布署時間和對超出預期的結果即時修補，為企業即時止血，減少用戶端使用感受不良退訂或拒絕關注的損失。
+
 ![](https://github.com/QueenieCplusplus/QuickGoThru/blob/master/DevOps_Tool.png)
 
 
