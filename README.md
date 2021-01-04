@@ -27,6 +27,8 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 使用 Ansible 工具配置測試環境的部署配置。
 
+使用 Python 套件 Selenium 做相關測試工具。
+
 ![](https://github.com/QueenieCplusplus/QuickGoThru/blob/master/DevOps_Tool.png)
 
 
