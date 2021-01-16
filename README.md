@@ -33,7 +33,7 @@ ps. 基於此一工作要輪班和 oncall，故版主放棄此一專業的發展
 ![](https://github.com/QueenieCplusplus/QuickGoThru/blob/master/DevOps_Tool.png)
 
 
-# Cloud SA + DevOps
+# Cloud SA + DevOps (雲端代理)
 
 筆者專心準備網路實驗與雲端證照中，非誠勿擾，謝謝！ (2021, 1/05 ~ 1/15)
 
