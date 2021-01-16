@@ -5,21 +5,9 @@
 
 本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取和封包嗅探 Data Mining & Web Crawler，亦包含 Data Structure、DBA、Search Engine 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻『 雲端技術 』
 
-https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gcp-cloud-tech-in-2020 => VM & Cloud Shell
-
-https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gke => K8s
-
-https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#vpc => VPC
-
-https://github.com/QueenieCplusplus/CloudRun => Serverless
-
-https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gae => Serverless
-
-https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
-
 敬請拭目以待。 ：）
 
-# Vuejs front-end (前端框架)
+# Vuejs front-end (走回前端)
 
 since 2021.1/15-2/10
 
@@ -47,7 +35,6 @@ ps. 基於此一工作要輪班和 oncall，故版主放棄此一專業的發展
 
 # Cloud SA + DevOps
 
-
 筆者專心準備網路實驗與雲端證照中，非誠勿擾，謝謝！ (2021, 1/05 ~ 1/15)
 
 如有事聯絡，歡迎發信件至我信箱： katesapp2019@gmail.com | katesreact2020@gmail.com (將於收信三日內回覆！)
@@ -57,6 +44,18 @@ ps. 基於此一工作要輪班和 oncall，故版主放棄此一專業的發展
 真的比較愛 GCP，以下僅為證照的參考。
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/AWS%20certs.png)
+
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gcp-cloud-tech-in-2020 => VM & Cloud Shell
+
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gke => K8s
+
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#vpc => VPC
+
+https://github.com/QueenieCplusplus/CloudRun => Serverless
+
+https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gae => Serverless
+
+https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 
 ------
