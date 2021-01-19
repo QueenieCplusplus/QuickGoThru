@@ -7,9 +7,9 @@
 
 敬請拭目以待。 ：）
 
-# Vuejs front-end (走回前端)
+# Google Android Kotlin (走回安卓)
 
-since 2021.1/15-2/10
+since 2021.1/19-2/21
 
 
 # DevOps Tools (計畫終止)
