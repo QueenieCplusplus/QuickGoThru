@@ -13,7 +13,9 @@ since 2021.1/19-2/21
 
 https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier)
 
-* 1/19 DataBinding https://github.com/QueenieCplusplus/Android_Review_1
+* 1/19 DataBinding, Button, Editor  https://github.com/QueenieCplusplus/Android_Review_1
+
+* 1/20 Fragment
 
 
 # DevOps Tools (計畫終止)
