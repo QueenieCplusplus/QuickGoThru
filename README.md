@@ -7,7 +7,7 @@
 
 敬請拭目以待。 ：）
 
-# Google Android Kotlin (走回安卓)
+# Google Android Kotlin (溫故安卓)
 
 since 2021.1/19-2/21
 
