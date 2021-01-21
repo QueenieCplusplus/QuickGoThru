@@ -17,7 +17,7 @@ https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier)
 
 * 1/20 Fragment https://github.com/QueenieCplusplus/Android_Review_2
 
-* 1/21 Navigation 
+* 1/21 Navigation https://github.com/QueenieCplusplus/Android_Review_3
 
 
 # DevOps Tools (計畫終止)
