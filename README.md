@@ -19,6 +19,8 @@ https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier)
 
 * 1/21 Navigation https://github.com/QueenieCplusplus/Android_Review_3
 
+* 1/21 Radio Button & its Logic
+
 
 # DevOps Tools (計畫終止)
 
