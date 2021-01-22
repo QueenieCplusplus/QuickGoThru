@@ -97,13 +97,10 @@ since 2018.3, restart on 2020.11/09 ~ 19
 
   https://github.com/QueenieCplusplus/CloudPubSub
 
-![pubsub](https://miro.medium.com/max/2000/1*A8OqAMXFENtulKTYgnikuw.png)
 
 * Dialog Flow (AI) 
 
   do a google assitant app using firebase
-
-  ![google AI](https://www.crystalloids.com/hs-fs/hubfs/Google%20Assistant%20Dutch%20(1).png?width=1640&name=Google%20Assistant%20Dutch%20(1).png)
 
 * FirebaseRTC (SDP) 11/14
 
@@ -136,16 +133,12 @@ since 2018.3, restart on 2020.11/09 ~ 19
 
 since 2018.3, restart on 2020.10/30 ～ 11/08 (9 d)
 
-![gcp](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GCP.png)
-
 
 # GAE
 
 an alternative way to GCE.
 
 https://github.com/QueenieCplusplus/GAE
-
-![googlg app engine](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/GAE.jpg)
 
 # IAP (Security)
 
@@ -154,8 +147,6 @@ identity-aware proxy https://github.com/QueenieCplusplus/IAP
 an authentication solution.
 
 Advanced: Istio Mesh, Anthos
-
-![iam](https://conceptdraw.com/a1600c4/p1/preview/640/pict--gcp-icons-design-elements-identity-and-security)
 
 # Serverless (DevOps)
 
@@ -169,7 +160,6 @@ a PaaS-Deployment Solution using Cloud Run. (Alternative to GKE, to deploy conta
 
 https://github.com/QueenieCplusplus/CloudRun
 
-![GAE and Cloud Run](https://labs.steren.fr/2020/migrating-from-app-engine-to-cloud-run/app-engine-to-cloud-run.svg)
 
 # Cloud SQL (Big Data)
 
@@ -177,17 +167,12 @@ to upload csv format data into Cloud SQL Instance's Bucket and util google Big D
 
 https://github.com/QueenieCplusplus/BigQuery_CloudSQL
 
-![Cloud SQL Instance](https://www.intelligencepartner.com/wp-content/uploads/2017/05/Clud-SQL.jpg)
-![BigQuery](https://cxl.com/wp-content/uploads/2019/10/google-bigquery-logo-1.png)
 
 # LB & Armor
 
 add google Security Policy feature called Armor to LB.
 
 https://github.com/QueenieCplusplus/LB_Armor
-
-![Armor](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/armor.jpg)
-![LB](https://cloud.google.com/armor/images/ip-bl-wl-2.svg)
 
 
 # DB Migration
@@ -432,13 +417,9 @@ since 2018.3, restart on 2020.10/17 ～ 10/30 (1 week)
 
 since 2020.10/08 ~ 10/12 (5d)
 
-![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/azure.png)
-
 Networking Main Concepts:
 
 * Azur CLI (1)
-
- ![cli](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/azure-cli.png)
 
 * Cloud Shell (or called as Power Shell) https://shell.azure.com
 
