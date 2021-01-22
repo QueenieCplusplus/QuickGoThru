@@ -47,7 +47,7 @@ https://github.com/QueenieCplusplus/Android_Review_7
 
 * Training Resource https://github.com/google-developer-training (2020)
 
-# DevOps Tools (計畫終止)
+# DevOps Tools (雲端維運 計畫終止)
 
 since 2020,11/15 ~ 2021,1/15 (2m)
 
@@ -70,7 +70,7 @@ since 2020,11/15 ~ 2021,1/15 (2m)
 ![](https://github.com/QueenieCplusplus/QuickGoThru/blob/master/DevOps_Tool.png)
 
 
-# Cloud SA + DevOps (雲端代理計畫終止)
+# Cloud SA + DevOps (雲端代理 計畫終止)
 
 => 基於此技術代理工作的薪資不高，版主雖非愛才如命之人，但是喜歡認真努力做有（身）價的事情，故版主放棄此一領域的專業發展。
 
