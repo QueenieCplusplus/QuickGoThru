@@ -19,7 +19,7 @@ https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier)
 
 * 1/21 Navigation https://github.com/QueenieCplusplus/Android_Review_3
 
-* 1/21 Radio Button & Shuffler  https://github.com/QueenieCplusplus/Android_Review_4
+* 1/21 Radio Butto, Shuffler, Data Push  https://github.com/QueenieCplusplus/Android_Review_4
 
 
 # DevOps Tools (計畫終止)
