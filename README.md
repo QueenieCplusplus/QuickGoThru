@@ -30,6 +30,8 @@ https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier)
 
 * 1/23 ImageView, ImageButton, Logcat, Lifecycle, Data Push https://github.com/QueenieCplusplus/Android_Review_6
 
+* 1/24 Menu & Toast
+
 * Training Resource https://github.com/google-developer-training (2020)
 
 # DevOps Tools (計畫終止)
