@@ -28,7 +28,7 @@ https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier)
 
 * 1/23 Logcat, Lifecycle https://github.com/QueenieCplusplus/Android_Review_6
 
-* Training Resource https://github.com/google-developer-training
+* Training Resource https://github.com/google-developer-training (2020)
 
 # DevOps Tools (計畫終止)
 
