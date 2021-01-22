@@ -20,6 +20,8 @@ https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier since 2018)
 
 https://m.douban.com/people/197180053/ (個人豆瓣官網 since 2019)
 
+https://www.zhihu.com/column/c_1117066030878564352 (個人知乎官網 since 2019)
+
 * 1/19 DataBind, Button, Editor  https://github.com/QueenieCplusplus/Android_Review_1
 
 * 1/20 Fragment to be inflated https://github.com/QueenieCplusplus/Android_Review_2
