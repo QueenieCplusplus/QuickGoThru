@@ -16,7 +16,9 @@
 
 since 2021.1/19-2/21
 
-https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier)
+https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier since 2018)
+
+https://m.douban.com/people/197180053/ (個人豆瓣官網 since 2019)
 
 * 1/19 DataBind, Button, Editor  https://github.com/QueenieCplusplus/Android_Review_1
 
