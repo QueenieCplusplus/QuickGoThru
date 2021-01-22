@@ -21,7 +21,7 @@ https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier)
 
 * 1/21 Radio Butto, Shuffler, Data Push  https://github.com/QueenieCplusplus/Android_Review_4
 
-* 1/22 Linear Layout, Click Handler
+* 1/22 Linear Layout, Click Handler https://github.com/QueenieCplusplus/Android_Review_5
 
 
 # DevOps Tools (計畫終止)
