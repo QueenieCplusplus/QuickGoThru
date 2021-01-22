@@ -68,6 +68,8 @@ since 2020,11/15 ~ 2021,1/15 (2m)
 
 # Cloud SA + DevOps (雲端代理)
 
+=> 基於此技術代理工作的薪資不高，故版主放棄此一領域的專業發展。
+
 個人部落格：https://www.facebook.com/PattysappLab-2730376213642836 (PattysAppLab)
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gcp-cloud-tech-in-2020 => VM & Cloud Shell
