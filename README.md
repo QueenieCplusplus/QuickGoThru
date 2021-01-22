@@ -45,7 +45,7 @@ https://github.com/QueenieCplusplus/Android_Review_7
 
 # DevOps Tools (計畫終止)
 
-since 2020.11/20 ~ 2021.1/15
+since 2020,11/20 ~ 2021,1/15 
 
 ps. 基於此一工作要輪班和 oncall，故版主放棄此一專業的發展。
 
