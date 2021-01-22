@@ -14,7 +14,7 @@
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/Android_2018.png)
 
-since 2021.1/19-2/21 (1m)
+since 2021.1/19-2/21 (1m) 重返手機
 
 https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier since 2018)
 
