@@ -49,7 +49,7 @@ https://github.com/QueenieCplusplus/Android_Review_7
 
 # DevOps Tools (雲端維運 計畫終止)
 
-since 2020,11/15 ~ 2021,1/15 (2m)
+since 2020,11/15 ~ 2021,1/15 (2m 煩心累人的交涉時光)
 
 => 基於此一工作要輪班和 oncall，故版主容易失眠，如果半夜無法好好睡覺基本上不用睡了，故放棄此一專業的發展。
 
