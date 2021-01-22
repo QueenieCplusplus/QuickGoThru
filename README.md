@@ -23,6 +23,7 @@ https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier)
 
 * 1/22 Linear Layout, Click Handler https://github.com/QueenieCplusplus/Android_Review_5
 
+* Training Resource https://github.com/google-developer-training
 
 # DevOps Tools (計畫終止)
 
