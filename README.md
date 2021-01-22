@@ -18,20 +18,24 @@ since 2021.1/19-2/21
 
 https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier)
 
-* 1/19 DataBinding, Button, Editor  https://github.com/QueenieCplusplus/Android_Review_1
+* 1/19 DataBind, Button, Editor  https://github.com/QueenieCplusplus/Android_Review_1
 
-* 1/20 Fragment https://github.com/QueenieCplusplus/Android_Review_2
+* 1/20 Fragment to be inflated https://github.com/QueenieCplusplus/Android_Review_2
 
 * 1/21 Navigation https://github.com/QueenieCplusplus/Android_Review_3
 
-* 1/21 Radio Butto, Shuffler, Data Push  https://github.com/QueenieCplusplus/Android_Review_4
+* 1/21 Data Push, Radio Butto, Shuffler  https://github.com/QueenieCplusplus/Android_Review_4
 
 * 1/22 Linear Layout, Click Handler, Data Push https://github.com/QueenieCplusplus/Android_Review_5
 
 * 1/22 ImageView, ImageButton, Logcat, Lifecycle, Pass Class Instance https://github.com/QueenieCplusplus/Android_Review_6
 
-* 1/23 Menu, Toast, Exception Handler 
+* 1/22 Menu, Toast, Exception Handler, Data Class using List data type
 https://github.com/QueenieCplusplus/Android_Review_7
+
+* 1/23 Intent to start another activity
+
+   plz wait ...
 
 * Training Resource https://github.com/google-developer-training (2020)
 
