@@ -30,8 +30,7 @@ https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier)
 
 * 1/22 ImageView, ImageButton, Logcat, Lifecycle, Pass Class Instance https://github.com/QueenieCplusplus/Android_Review_6
 
-* 1/23 Menu, Toast, Exception Handler 
-  wait to code.
+* 1/23 Menu, Toast, Exception Handler whttps://github.com/QueenieCplusplus/Android_Review_7/blob/main/README.md
 
 * Training Resource https://github.com/google-developer-training (2020)
 
