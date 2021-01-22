@@ -68,15 +68,7 @@ since 2020,11/15 ~ 2021,1/15 (2m)
 
 # Cloud SA + DevOps (雲端代理)
 
-筆者專心準備網路實驗與雲端證照中，非誠勿擾，謝謝！ (2021, 1/05 ~ 1/15)
-
-如有事聯絡，歡迎發信件至我信箱： katesapp2019@gmail.com | katesreact2020@gmail.com (將於收信三日內回覆！)
-
 個人部落格：https://www.facebook.com/PattysappLab-2730376213642836 (PattysAppLab)
-
-真的比較愛 GCP，以下僅為證照的參考。
-
-![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/AWS%20certs.png)
 
 https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gcp-cloud-tech-in-2020 => VM & Cloud Shell
 
