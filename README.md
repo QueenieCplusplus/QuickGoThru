@@ -11,7 +11,7 @@
 
 本儲存庫保留以往 C++ 高階程式語言、Python 腳本特色、資料擷取和封包嗅探 Data Mining & Web Crawler，亦包含 Data Structure、DBA、Search Engine 的研究著作，尚包羅資安議題 IT Security & Hack on Browser，未來將主攻『 雲端技術 』與 『 手機技術 』的結合，敬請拭目以待。 ：）
 
-# Google Android Kotlin (溫故安卓)
+# Google Android Kotlin (溫故安卓 計畫復甦)
 
 寫回三年前的安卓，是因為版主在學習安卓時正好就是系統 O-P-Q 時代，Google 於 2018 年夏天大力推行 Kotlin 取代 Java，
 感受到此語言的人性化與流暢，與 Java 產生鮮明對比，如今此語言的生態系發展純熟。系統 O 時代因為直播串流崛起，注重鏡像畫面等功能，而系統 P 正值 2019 年科技巨頭被大眾點名要保障個人隱私的年份，所以注重於在設備使用上詢問使用者權限問題。手機系統的變化速度一直都是跟世界潮流走的，可以算是進步速度最快的科技產品。
