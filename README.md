@@ -51,9 +51,11 @@ https://github.com/QueenieCplusplus/Android_Review_7
 
 * 1/24 Video App
 
-     (1)Retrofit Network including uses-permission
+     (1 )Retrofit Network including uses-permission
      
      (2) LiveData with ProgressBar and Room.databaseBuilder
+     
+     (3) Dispatchers to get callback
       
      (3) View, RecyclerView and FrameLayout
 
