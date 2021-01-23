@@ -41,9 +41,7 @@ https://www.zhihu.com/column/c_1117066030878564352 (個人知乎官網 since 201
 * 1/22 Menu, Toast, Exception Handler, Data Class using List data type
 https://github.com/QueenieCplusplus/Android_Review_7
 
-* 1/23 Intent to start another activity
-
-   plz wait ...
+* 1/23 Intent to start another activity https://github.com/QueenieCplusplus/Android_Review_8
 
 * Training Resource https://github.com/google-developer-training (2020)
 
