@@ -11,7 +11,7 @@
 
 本儲存庫保留以往 
 
-   * C++ 高階程式語言、
+   * C++ 高階程式語言
    * Python 腳本特色、資料擷取和封包嗅探 Data Mining & Web Crawler
    * 資料結構 Data Structure、DBA、Search Engine 
    * 資安議題 IT Security & Hack on Browser
