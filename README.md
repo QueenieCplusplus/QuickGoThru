@@ -57,7 +57,9 @@ https://github.com/QueenieCplusplus/Android_Review_7
      
      (3) Dispatchers to get callback
       
-     (3) View, RecyclerView and FrameLayout
+     (4) View, RecyclerView and FrameLayout
+     
+     (5) ViewModel
 
      https://github.com/QueenieCplusplus/Android_Review_9
 
