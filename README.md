@@ -55,7 +55,7 @@ https://github.com/QueenieCplusplus/Android_Review_7
      
      (2) LiveData with ProgressBar and Room.databaseBuilder
      
-     (3) Dispatchers to get callback
+     (3) CoroutineScope and Dispatchers to get callback
       
      (4) View, RecyclerView and FrameLayout
      
