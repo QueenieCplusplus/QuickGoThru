@@ -12,7 +12,7 @@
 本儲存庫保留以往三年半來累積的議題，包含：
 
    * C++ 高階程式語言
-   * Python 腳本特色、資料擷取和封包嗅探 Data Mining & Web Crawler
+   * Python 腳本特色、資料擷取和封包嗅探 Data Mining & Web Crawler 的應用
    * 資料結構 Data Structure、DBA、Search Engine 
    * 資安議題 IT Security & Hack on Browser
    * 『 雲端技術 』與 『 手機技術 』的結合
@@ -48,6 +48,10 @@ https://www.zhihu.com/column/c_1117066030878564352 (個人知乎官網 since 201
 https://github.com/QueenieCplusplus/Android_Review_7
 
 * 1/23 Intent to start another activity https://github.com/QueenieCplusplus/Android_Review_8
+
+* 1/24 LiveData, Retrofit Network 
+
+  wait to code...
 
 * Kotlin Resource https://github.com/google-developer-training (2019-2020)
 * Android Tutorial https://www.javatpoint.com/android-startactivityforresult-example (2011-2018)
