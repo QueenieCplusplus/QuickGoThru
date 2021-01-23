@@ -43,8 +43,8 @@ https://github.com/QueenieCplusplus/Android_Review_7
 
 * 1/23 Intent to start another activity https://github.com/QueenieCplusplus/Android_Review_8
 
-* Training Resource https://github.com/google-developer-training (2020)
-* Android Tutorial https://www.javatpoint.com/android-startactivityforresult-example
+* Training Resource https://github.com/google-developer-training (2019-2020)
+* Android Tutorial https://www.javatpoint.com/android-startactivityforresult-example (2011-2018)
 
 # DevOps Tools (雲端維運 計畫終止)
 
