@@ -59,7 +59,7 @@ https://github.com/QueenieCplusplus/Android_Review_7
       
      (4) View, RecyclerView and FrameLayout
      
-     (5) ViewModel
+     (5) ViewModel, viewModelScope
 
      https://github.com/QueenieCplusplus/Android_Review_9
 
