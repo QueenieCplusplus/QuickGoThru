@@ -50,16 +50,14 @@ https://github.com/QueenieCplusplus/Android_Review_7
 * 1/23 Intent to start another activity https://github.com/QueenieCplusplus/Android_Review_8
 
 * 1/24 
-     
-     LiveData with ProgressBar and Room.databaseBuilder
-      
-     Retrofit Network including uses-permission
-      
-     View and videoByteData
-      
-     RecyclerView and FrameLayout
 
-     wait to code...
+     (1)Retrofit Network including uses-permission
+     
+     (2) LiveData with ProgressBar and Room.databaseBuilder
+      
+     (3) View, RecyclerView and FrameLayout
+
+     https://github.com/QueenieCplusplus/Android_Review_9
 
 * Kotlin Resource https://github.com/google-developer-training (2019-2020)
 * Android Tutorial https://www.javatpoint.com/android-startactivityforresult-example (2011-2018)
