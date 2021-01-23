@@ -49,7 +49,7 @@ https://github.com/QueenieCplusplus/Android_Review_7
 
 * 1/23 Intent to start another activity https://github.com/QueenieCplusplus/Android_Review_8
 
-* 1/24 LiveData and ProgressBar, Retrofit Network including uses-permission, View and videoByteData, RecyclerView, FrameLayout
+* 1/24 LiveData and ProgressBar and Room, Retrofit Network including uses-permission, View and videoByteData, RecyclerView, FrameLayout
 
   wait to code...
 
