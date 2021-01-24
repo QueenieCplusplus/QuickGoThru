@@ -21,6 +21,8 @@
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#nginx--k8s-in-2020
      
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#linux-shell
+     
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#vmware-虛擬化技術-in-2018
      
    * 網路技術
