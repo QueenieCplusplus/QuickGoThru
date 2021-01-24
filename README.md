@@ -58,6 +58,8 @@ https://github.com/QueenieCplusplus/Android_Review_7
      
      (2) 1/24 Retrofit Network including uses-permission
      
+     https://github.com/QueenieCplusplus/Android_Review_10
+     
      (3) LiveData with ProgressBar and Room.databaseBuilder
      
      (4) CoroutineScope and Dispatchers to get callback
