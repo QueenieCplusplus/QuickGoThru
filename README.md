@@ -52,17 +52,18 @@ https://github.com/QueenieCplusplus/Android_Review_7
 
 * 1/24 Video App
 
-     (1 )Retrofit Network including uses-permission
+     (1 )View, RecyclerView and FrameLayout
      
-     (2) LiveData with ProgressBar and Room.databaseBuilder
+     https://github.com/QueenieCplusplus/Android_Review_9
      
-     (3) CoroutineScope and Dispatchers to get callback
-      
-     (4) View, RecyclerView and FrameLayout
+     (2) Retrofit Network including uses-permission
+     
+     (3) LiveData with ProgressBar and Room.databaseBuilder
+     
+     (4) CoroutineScope and Dispatchers to get callback
      
      (5) ViewModel, viewModelScope
 
-     https://github.com/QueenieCplusplus/Android_Review_9
 
 * Kotlin Resource https://github.com/google-developer-training (2019-2020)
 * Android Tutorial https://www.javatpoint.com/android-startactivityforresult-example (2011-2018)
