@@ -183,8 +183,6 @@ https://github.com/QueenieCplusplus/BigQuery_CloudSQL => Cloud SQL
 
 since 2018.3, restart on 2020.11/09 ~ 19
 
- (避免佔用空間，雲端研究移動至此連結。)
-
 * Pub/Sub (Big Data) 11/9
 
   use a pull subscriber to output individual topic messages.
