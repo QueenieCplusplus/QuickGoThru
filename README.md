@@ -44,10 +44,14 @@
 本儲存庫保留以往三年半來累積的議題，包含：
 
    * C++ 高階程式語言
+   
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#程式語言
+      
    * Python 腳本特色、資料擷取和封包嗅探 Data Mining & Web Crawler 的應用
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#解析封包
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#bot-being
+    
      
    * 手機雙系統 iOS、Android
    
