@@ -45,19 +45,26 @@
 
    * C++ 高階程式語言
    * Python 腳本特色、資料擷取和封包嗅探 Data Mining & Web Crawler 的應用
+   
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#解析封包
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#bot-being
+     
    * 手機雙系統 iOS、Android
+   
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#google-android-kotlin-溫故安卓---計畫復甦
+     
    * 資料結構 Data Structure、DBA、Search Engine 
+   
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#資料結構
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#sql
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba-1
-     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#資安研究
+     
    * 資安議題 IT Security & Hack on Browser
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#security-checklist-for-se
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#駭客技術
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#資安研究
+     
    * 雲端技術 GCP、AWS、Azure
 
 # Google Android Kotlin (溫故安卓 -> 計畫復甦)
