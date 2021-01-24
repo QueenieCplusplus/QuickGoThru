@@ -5,9 +5,10 @@
 
    * 手機應用程式 (如行動支付、外送平台 app、銀行 app）
    
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#google-android-kotlin-溫故安卓---計畫復甦
+   
      ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/MsKateAndroid.png)
    
-     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#google-android-kotlin-溫故安卓---計畫復甦
      
    * 網頁前端與跨平台解決方案
    
