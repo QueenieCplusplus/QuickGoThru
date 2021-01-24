@@ -227,7 +227,7 @@ https://github.com/QueenieCplusplus/GCP_3 (避免佔用空間，雲端研究移�
 
 since 2018.3, restart on 2020.10/30 ～ 11/08 (9 d)
 
-
+https://github.com/QueenieCplusplus/GCP_2 (避免佔用空間，將雲端研究移至此連結。)
 
 # GCP Cloud Tech in 2020
 
