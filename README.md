@@ -110,7 +110,7 @@ since 2021.1/19-2/21 (1m) 重返手機
      
      https://github.com/QueenieCplusplus/Android_Review_11
      
-     (4) 實現系統高迸發的協程模組
+     (4) 觸動資料撈取的事件觀察者 & 實現系統高迸發的協程模組
      
      LiveData within ViewModel, CoroutineScope and Dispatchers to get callback 使用高迸發的協程取代傳統執行緒
      
