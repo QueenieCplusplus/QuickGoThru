@@ -70,6 +70,8 @@ https://github.com/QueenieCplusplus/Android_Review_7
      (4) LiveData, CoroutineScope and Dispatchers to get callback 使用高迸發的協程取代傳統執行緒
      
      (5) RecyclerView.Adapter<ViewHolder> 循環表格佈局的適配器集合
+  
+     https://medium.com/@evanhou/淺談android-recyclerview-375f9c0eea58 (傳統方式)
 
 
 * Kotlin Resource https://github.com/google-developer-training (2019-2020)
