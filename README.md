@@ -50,6 +50,7 @@
    * 資料結構 Data Structure、DBA、Search Engine 
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#資料結構
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#sql
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba-1
    * 資安議題 IT Security & Hack on Browser
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#security-checklist-for-se
    * 雲端技術 GCP、AWS、Azure
