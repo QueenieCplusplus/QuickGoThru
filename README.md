@@ -66,7 +66,7 @@ https://github.com/QueenieCplusplus/Android_Review_7
      
      https://github.com/QueenieCplusplus/Android_Review_11
      
-     (4) LiveData, CoroutineScope and Dispatchers to get callback
+     (4) LiveData, CoroutineScope and Dispatchers to get callback 使用高迸發的協程取代傳統執行緒
      
      (5) RecyclerView.Adapter<ViewHolder> 循環表格佈局的適配器集合
 
