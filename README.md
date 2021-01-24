@@ -5,7 +5,7 @@
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/MsKateAndroid.png)
 
-   * 網頁前端
+   * 網頁前端與跨平台解決方案
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#react--react-native
      
