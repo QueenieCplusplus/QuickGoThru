@@ -30,7 +30,7 @@ since 2021.1/19-2/21 (1m) 重返手機
 
 * 版主與安卓交往的遺跡：
 
-   * https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier since 2018)
+   * https://www.facebook.com/277134069609204/photos/pcb.556288151693793/556287995027142/?type=3&theater (PattyAppier since 2018)
 
    * https://github.com/QueenieCplusplus/AndroidApp (個人實戰經驗 since 2018.3/27 - 2019.6/30)
  
