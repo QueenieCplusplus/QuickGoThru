@@ -104,7 +104,7 @@ since 2021.1/19-2/21 (1m) 重返手機
      
      https://github.com/QueenieCplusplus/Android_Review_10
      
-     (3) 不同資料來源的客製化資料包和存放暫存記憶體的資料包
+     (3) 不同資料來源 (如系統緩存和遠端後端) 的客製化資料包和存放暫存記憶體的資料包
      
      Data Model, Room.databaseBuilder, Domain Model and Repository
      
