@@ -92,17 +92,25 @@ https://www.zhihu.com/column/c_1117066030878564352 (個人知乎官網 since 201
      
      https://github.com/QueenieCplusplus/Android_Review_9
      
-     (2) DataBind, Http Getter, Retrofit Network including uses-permission
+     (2) 網路工具包
+     
+     DataBind, Http Getter, Retrofit Network including uses-permission
      
      https://github.com/QueenieCplusplus/Android_Review_10
      
-     (3) Data Model, Room.databaseBuilder, Domain Model and Repository
+     (3) 客製化資料包
+     
+     Data Model, Room.databaseBuilder, Domain Model and Repository
      
      https://github.com/QueenieCplusplus/Android_Review_11
      
-     (4) LiveData, CoroutineScope and Dispatchers to get callback 使用高迸發的協程取代傳統執行緒
+     (4) 串流資料模組
      
-     (5) RecyclerView.Adapter<ViewHolder> 循環表格佈局的適配器集合
+     LiveData, CoroutineScope and Dispatchers to get callback 使用高迸發的協程取代傳統執行緒
+     
+     (5) 目錄清單畫面工具包
+     
+     RecyclerView.Adapter<ViewHolder> 循環表格佈局的適配器集合
   
      https://medium.com/@evanhou/淺談android-recyclerview-375f9c0eea58 (傳統方式)
 
