@@ -49,6 +49,8 @@ since 2021.1/19-2/21 (1m) 重返手機
      Fragment to be inflated 
      
      https://github.com/QueenieCplusplus/Android_Review_2
+     
+     https://github.com/google-developer-training/android-kotlin-fundamentals-apps/blob/master/GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/title/TitleFragment.kt (範例)
 
 * 1/21 畫面導航與轉場
 
