@@ -33,8 +33,6 @@
      
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#bash--shell-scripts-for-unix
      
-     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba
-     
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#vmware-虛擬化技術-in-2018
      
    * 網路技術
@@ -54,7 +52,9 @@
    * 資料結構 Data Structure、DBA、Search Engine 
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#資料結構
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#sql
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba-1
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#資安研究
    * 資安議題 IT Security & Hack on Browser
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#security-checklist-for-se
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#駭客技術
