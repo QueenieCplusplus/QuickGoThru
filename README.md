@@ -88,7 +88,7 @@ since 2021.1/19-2/21 (1m) 重返手機
      
      https://github.com/QueenieCplusplus/Android_Review_8
 
-* 1/24 ~ 1/28 一個客製化影音串流應用程式 
+* 1/24 ~ 1/26 一個客製化影音串流應用程式 
 
      Video App
 
