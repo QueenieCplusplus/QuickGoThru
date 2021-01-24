@@ -112,7 +112,7 @@ since 2021.1/19-2/21 (1m) 重返手機
      
      (4) 實現系統高迸發的協程模組
      
-     LiveData, CoroutineScope and Dispatchers to get callback 使用高迸發的協程取代傳統執行緒
+     LiveData within ViewModel, CoroutineScope and Dispatchers to get callback 使用高迸發的協程取代傳統執行緒
      
      (5) 目錄清單畫面工具包
      
