@@ -116,7 +116,7 @@ since 2021.1/19-2/21 (1m) 重返手機
      
     https://wait_to_code/Android_Review_12
     
-    (5) 目錄清單畫面工具包
+    (5) 利用目錄清單畫面工具包將資料繫結在畫面元件上。
      
      DataBind within Adapter using RecyclerView.Adapter<ViewHolder> 循環表格佈局的適配器集合
   
