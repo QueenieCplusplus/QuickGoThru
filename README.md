@@ -100,7 +100,7 @@ since 2021.1/19-2/21 (1m) 重返手機
      
      (2) 網路工具包
      
-     DataBind, Http Getter, Retrofit Network including uses-permission
+     Http Getter, Retrofit Network including uses-permission
      
      https://github.com/QueenieCplusplus/Android_Review_10
      
@@ -116,7 +116,7 @@ since 2021.1/19-2/21 (1m) 重返手機
      
      (5) 目錄清單畫面工具包
      
-     RecyclerView.Adapter<ViewHolder> 循環表格佈局的適配器集合
+     DataBind within Adapter using RecyclerView.Adapter<ViewHolder> 循環表格佈局的適配器集合
   
      https://medium.com/@evanhou/淺談android-recyclerview-375f9c0eea58 (傳統方式)
      
