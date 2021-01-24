@@ -9,7 +9,11 @@
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#google-android-kotlin-溫故安卓---計畫復甦
    
-   * 雲端運算(IaaS、PaaS、SaaS) 與 虛擬化後端(VM、Serverless、Container)
+   * 雲端運算(IaaS、PaaS、SaaS) 
+   
+   https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#azure-cloud-tech-in-2020
+   
+   * 虛擬化後端(VM、Serverless、Container)
 
 但其實雲端基礎上，仍然需要硬體伺服器與網路設備，所以網頁伺服器、資料庫伺服器、檔案伺服器、郵件伺服器、訊息交換伺服器並無消失，反而需求量更大，隨著虛擬機的流行，一台硬體設備安裝百千個伺服器（虛擬化叢集）已經是正常現狀，傳統的伺服器將消逝。
 
