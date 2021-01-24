@@ -92,7 +92,9 @@ since 2021.1/19-2/21 (1m) 重返手機
 
      Video App
 
-     (1) UI Design for FrameLayout, RecyclerView, MaterialCardView, ConstraintLayout, and ProgressBar
+     (1) 常見的畫面佈局元件：幀佈局、碎片佈局、清單目錄畫面、卡式畫面、約束畫面、進度條。
+     
+     UI Design for FrameLayout, Fragment, RecyclerView, MaterialCardView, ConstraintLayout, and ProgressBar
      
      https://github.com/QueenieCplusplus/Android_Review_9
      
