@@ -36,7 +36,7 @@ https://m.douban.com/people/197180053/ (個人豆瓣官網 since 2019, 針對 ko
 
 https://www.zhihu.com/column/c_1117066030878564352 (個人知乎官網 since 2019, 針對工具的使用、UI 元件屬性、模組注入等議題作探討)
 
-* 1/19 畫面元件的細節處理
+* 1/19 畫面元件的繫結處理
 
      DataBind, Button, Editor  
      
