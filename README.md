@@ -12,6 +12,8 @@
    * 雲端運算(IaaS、PaaS、SaaS) 
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#azure-cloud-tech-in-2020
+     
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#gcp-cloud-tech-in-2020
    
    * 虛擬化後端(VM、Serverless、Container)
 
