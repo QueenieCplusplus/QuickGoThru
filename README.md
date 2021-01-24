@@ -233,8 +233,8 @@ https://github.com/QueenieCplusplus/GCP_2 (避免佔用空間，將雲端研究�
 
 since 2018.3, restart on 2020.10/17 ～ 10/30 (1 week)
 
+https://github.com/QueenieCplusplus/GCP (避免佔用空間，將雲端研究移至此連結。)
 
- 
 # Azure Cloud Tech in 2020
 
 since 2020.10/08 ~ 10/12 (5d)
