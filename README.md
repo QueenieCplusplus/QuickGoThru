@@ -361,7 +361,7 @@ since 2017.11/15 & since 2020.9/30-10/04
 
 * HTTP 實現 CDN 快取
 
-# Nginx & K8s in 2020
+# Nginx 
 
 since 2020. 9/20 - 10/08
 
@@ -403,7 +403,9 @@ since 2020. 9/20 - 10/08
    
    * Serialize 網路連接序列化、Event 事件驅動（事件處理機制）
    
- * K8s
+# K8s
+
+  since 2020. 9/20 - 10/08
  
    * Pod 豌豆莢 (master、slave、frontend)
    
