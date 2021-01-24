@@ -36,24 +36,57 @@ https://m.douban.com/people/197180053/ (個人豆瓣官網 since 2019, 針對 ko
 
 https://www.zhihu.com/column/c_1117066030878564352 (個人知乎官網 since 2019, 針對工具的使用、UI 元件屬性、模組注入等議題作探討)
 
-* 1/19 DataBind, Button, Editor  https://github.com/QueenieCplusplus/Android_Review_1
+* 1/19 畫面元件的細節處理
 
-* 1/20 Fragment to be inflated https://github.com/QueenieCplusplus/Android_Review_2
+     DataBind, Button, Editor  
+     
+     https://github.com/QueenieCplusplus/Android_Review_1
 
-* 1/21 Navigation https://github.com/QueenieCplusplus/Android_Review_3
+* 1/20 畫面上碎片們的填充
 
-* 1/21 Data Push, Radio Butto, Shuffler  https://github.com/QueenieCplusplus/Android_Review_4
+     Fragment to be inflated 
+     
+     https://github.com/QueenieCplusplus/Android_Review_2
 
-* 1/22 Linear Layout, Click Handler, Data Push https://github.com/QueenieCplusplus/Android_Review_5
+* 1/21 畫面導航與轉場
 
-* 1/22 ImageView, ImageButton, Logcat, Lifecycle, Pass Class Instance https://github.com/QueenieCplusplus/Android_Review_6
+     Navigation 
+     
+     https://github.com/QueenieCplusplus/Android_Review_3
 
-* 1/22 Menu, Toast, Exception Handler, Data Class using List data type
-https://github.com/QueenieCplusplus/Android_Review_7
+* 1/21 資料推播
 
-* 1/23 Intent to start another activity https://github.com/QueenieCplusplus/Android_Review_8
+     Data Push, Radio Butto, Shuffler  
 
-* 1/24 ~ 1/28 Video App
+     https://github.com/QueenieCplusplus/Android_Review_4
+
+* 1/22 按鈕和事件聆聽器
+
+     Linear Layout, Click Handler, Data Push 
+
+     https://github.com/QueenieCplusplus/Android_Review_5
+
+* 1/22 手機系統的生命週期
+
+     ImageView, ImageButton, Logcat, Lifecycle, Pass Class Instance     
+     
+     https://github.com/QueenieCplusplus/Android_Review_6
+
+* 1/22 系統報錯和抓取
+
+     Menu, Toast, Exception Handler, Data Class using List data type
+
+     https://github.com/QueenieCplusplus/Android_Review_7
+
+* 1/23 畫面轉移或是文本更動的意圖
+
+     Intent to start another activity 
+     
+     https://github.com/QueenieCplusplus/Android_Review_8
+
+* 1/24 ~ 1/28 一個客製化影音串流應用程式 
+
+     Video App
 
      (1) UI Design for FrameLayout, RecyclerView, MaterialCardView, ConstraintLayout, and ProgressBar
      
