@@ -75,7 +75,8 @@
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#資安研究
      
    * 雲端技術 GCP、AWS、Azure
-   
+     
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-service-vm
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#devops-tools-雲端維運---計畫終止
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cloud-sa--devops-雲端代理---計畫終止
      
