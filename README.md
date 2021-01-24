@@ -114,7 +114,7 @@ since 2021.1/19-2/21 (1m) 重返手機
      
      LiveData within ViewModel, CoroutineScope and Dispatchers to get callback 使用高迸發的協程取代傳統執行緒
      
-    https://wait_to_code/Android_Review_12
+     https://github.com/QueenieCplusplus/Android_Review_12
     
     (5) 利用目錄清單畫面工具包將資料繫結在畫面元件上。
      
