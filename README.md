@@ -28,6 +28,8 @@ since 2021.1/19-2/21 (1m) 重返手機
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/Android_2018.png)
 
+* 版主與安卓交往的遺跡：
+
 https://www.facebook.com/PattyAppier-277134069609204 (PattyAppier since 2018)
 
 https://github.com/QueenieCplusplus/AndroidApp (個人實戰經驗 since 2018.3/27 - 2019.6/30)
@@ -114,9 +116,11 @@ https://www.zhihu.com/column/c_1117066030878564352 (個人知乎官網 since 201
   
      https://medium.com/@evanhou/淺談android-recyclerview-375f9c0eea58 (傳統方式)
 
+* Ref Doc
 
-* Kotlin Resource https://github.com/google-developer-training (2019-2020)
-* Android Tutorial https://www.javatpoint.com/android-startactivityforresult-example (2011-2018)
+   * Kotlin Resource https://github.com/google-developer-training (2019-2020)
+   
+   * Android Tutorial https://www.javatpoint.com/android-startactivityforresult-example (2011-2018)
 
 # DevOps Tools (雲端維運 -> 計畫終止)
 
