@@ -98,13 +98,13 @@ since 2021.1/19-2/21 (1m) 重返手機
      
      https://github.com/QueenieCplusplus/Android_Review_9
      
-     (2) 網路工具包
+     (2) 網路工具包與資料格式轉換包
      
-     Http Getter, Retrofit Network including uses-permission
+     Http Getter, Retrofit Network including uses-permission, Json Formatter and converter
      
      https://github.com/QueenieCplusplus/Android_Review_10
      
-     (3) 客製化資料包
+     (3) 不同資料來源的客製化資料包和存放暫存記憶體的資料包
      
      Data Model, Room.databaseBuilder, Domain Model and Repository
      
