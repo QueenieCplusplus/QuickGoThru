@@ -64,7 +64,9 @@ https://github.com/QueenieCplusplus/Android_Review_7
      
      (4) CoroutineScope and Dispatchers to get callback
      
-     (5) ViewModel, viewModelScope
+     (5) RecyclerView.Adapter<ViewHolder> 循環表格佈局的適配器集合
+     
+     (6) ViewModel, viewModelScope
 
 
 * Kotlin Resource https://github.com/google-developer-training (2019-2020)
