@@ -49,6 +49,7 @@
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#google-android-kotlin-溫故安卓---計畫復甦
    * 資料結構 Data Structure、DBA、Search Engine 
    * 資安議題 IT Security & Hack on Browser
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#security-checklist-for-se
    * 雲端技術 GCP、AWS、Azure
 
 # Google Android Kotlin (溫故安卓 -> 計畫復甦)
