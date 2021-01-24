@@ -31,6 +31,8 @@
   
    * 虛擬化後端(VM、Serverless、Container、k8s)
    
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#k8s
+   
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#nginx--k8s-in-2020
      
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#linux-shell
