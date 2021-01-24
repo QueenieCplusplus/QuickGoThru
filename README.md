@@ -18,7 +18,7 @@
    * 資安議題 IT Security & Hack on Browser
    * 雲端技術 GCP、AWS、Azure
 
-# Google Android Kotlin (溫故安卓 計畫復甦)
+# Google Android Kotlin (溫故安卓  計畫復甦)
 
 since 2021.1/19-2/21 (1m) 重返手機
 
@@ -74,7 +74,7 @@ https://github.com/QueenieCplusplus/Android_Review_7
 * Kotlin Resource https://github.com/google-developer-training (2019-2020)
 * Android Tutorial https://www.javatpoint.com/android-startactivityforresult-example (2011-2018)
 
-# DevOps Tools (雲端維運 計畫終止)
+# DevOps Tools (雲端維運 -> 計畫終止)
 
 since 2020,11/15 ~ 2021,1/15 (2m 煩心累人的交涉時光)
 
@@ -97,7 +97,7 @@ since 2020,11/15 ~ 2021,1/15 (2m 煩心累人的交涉時光)
 ![](https://github.com/QueenieCplusplus/QuickGoThru/blob/master/DevOps_Tool.png)
 
 
-# Cloud SA + DevOps (雲端代理 計畫終止)
+# Cloud SA + DevOps (雲端代理 -> 計畫終止)
 
 since 2020,10/10 ~ 2021,1/15 (3m -> 深覺煩心且累人的交涉時光)
 
