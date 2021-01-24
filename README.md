@@ -3,6 +3,8 @@
 
 現在是普羅大眾依賴行動裝置的時代，行動裝置能做到將資料顯示至客戶端設備，而運算能力集中在遠端的雲端上，透過網路互相連接，故科技時代的 2016 年之後，尤其從 2018 年到防疫而被迫需要遠端工作的 2020 年，未來的科技業展開新革命：
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/MsKateAndroid.png)
+
    * 手機應用程式 (如行動支付、外送平台 app、銀行 app）
    
    * 雲端運算(IaaS、PaaS、SaaS) 與 虛擬化後端(VM、Serverless、Container)
