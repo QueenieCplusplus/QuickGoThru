@@ -3,6 +3,12 @@
 
 現在是普羅大眾依賴行動裝置的時代，行動裝置能做到將資料顯示至客戶端設備，而運算能力集中在遠端的雲端上，透過網路互相連接，故科技時代的 2016 年之後，尤其從 2018 年到防疫而被迫需要遠端工作的 2020 年，未來的科技業展開新革命：
 
+   * 手機應用程式 (如行動支付、外送平台 app、銀行 app）
+   
+     ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/MsKateAndroid.png)
+   
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#google-android-kotlin-溫故安卓---計畫復甦
+     
    * 網頁前端與跨平台解決方案
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#react--react-native
@@ -10,12 +16,6 @@
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#other-react-experience
      
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#react-ui
-
-   * 手機應用程式 (如行動支付、外送平台 app、銀行 app）
-   
-     ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/MsKateAndroid.png)
-   
-     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#google-android-kotlin-溫故安卓---計畫復甦
    
    * 雲端運算(IaaS、PaaS、SaaS) 
    
