@@ -62,7 +62,7 @@ https://github.com/QueenieCplusplus/Android_Review_7
      
      https://github.com/QueenieCplusplus/Android_Review_10
      
-     (3) Data Model, Room.databaseBuilder and Repository
+     (3) Data Model, Room.databaseBuilder, Domain and Repository
      
      (4) LiveData, CoroutineScope and Dispatchers to get callback
      
