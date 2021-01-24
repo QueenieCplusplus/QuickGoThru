@@ -6,6 +6,8 @@
 ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/MsKateAndroid.png)
 
    * 網頁前端
+   
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#react--react-native
 
    * 手機應用程式 (如行動支付、外送平台 app、銀行 app）
    
