@@ -55,6 +55,7 @@
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba-1
    * 資安議題 IT Security & Hack on Browser
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#security-checklist-for-se
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#駭客技術
    * 雲端技術 GCP、AWS、Azure
 
 # Google Android Kotlin (溫故安卓 -> 計畫復甦)
