@@ -64,6 +64,8 @@ https://github.com/QueenieCplusplus/Android_Review_7
      
      (3) Data Model, Room.databaseBuilder, Domain Model and Repository
      
+     https://github.com/QueenieCplusplus/Android_Review_11
+     
      (4) LiveData, CoroutineScope and Dispatchers to get callback
      
      (5) RecyclerView.Adapter<ViewHolder> 循環表格佈局的適配器集合
