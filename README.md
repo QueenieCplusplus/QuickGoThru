@@ -18,7 +18,7 @@
    * 資安議題 IT Security & Hack on Browser
    * 雲端技術 GCP、AWS、Azure
 
-# Google Android Kotlin (溫故安卓  計畫復甦)
+# Google Android Kotlin (溫故安卓 -> 計畫復甦)
 
 since 2021.1/19-2/21 (1m) 重返手機
 
