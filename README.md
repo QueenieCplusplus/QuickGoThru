@@ -512,8 +512,7 @@ since 2020.10/08 ~ 10/12 (5d)
 
 Networking Main Concepts:
 
-
-
+https://github.com/QueenieCplusplus/Azure/ (避免佔用空間，將研究移至此連結。)
 
 
 # VMware 虛擬化技術 in 2018
