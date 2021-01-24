@@ -54,7 +54,7 @@ https://github.com/QueenieCplusplus/Android_Review_7
 
 * 1/24 ~ 1/28 Video App
 
-     (1) UI Design for FrameLayout, RecyclerView, MaterialCardView, and ConstraintLayout.
+     (1) UI Design for FrameLayout, RecyclerView, MaterialCardView, ConstraintLayout, and ProgressBar
      
      https://github.com/QueenieCplusplus/Android_Review_9
      
@@ -62,13 +62,11 @@ https://github.com/QueenieCplusplus/Android_Review_7
      
      https://github.com/QueenieCplusplus/Android_Review_10
      
-     (3) LiveData with ProgressBar and Room.databaseBuilder
+     (3) Data Model, Room.databaseBuilder and Repository
      
-     (4) CoroutineScope and Dispatchers to get callback
+     (4) LiveData, CoroutineScope and Dispatchers to get callback
      
      (5) RecyclerView.Adapter<ViewHolder> 循環表格佈局的適配器集合
-     
-     (6) ViewModel, viewModelScope
 
 
 * Kotlin Resource https://github.com/google-developer-training (2019-2020)
