@@ -31,6 +31,8 @@
      
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#linux-shell
      
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#bash--shell-scripts-for-unix
+     
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba
      
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#vmware-虛擬化技術-in-2018
