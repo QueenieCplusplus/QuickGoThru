@@ -92,7 +92,7 @@ since 2021.1/19-2/21 (1m) 重返手機
 
      Video App
 
-     (1) 常見的畫面佈局元件：幀佈局、碎片佈局、清單目錄畫面、卡式畫面、約束畫面、進度條。
+     (1) 常見的畫面佈局元件：幀佈局、碎片佈局、清單目錄畫面、卡式畫面、約束畫面、進度條
      
      UI Design for FrameLayout, Fragment, RecyclerView, MaterialCardView, ConstraintLayout, and ProgressBar
      
@@ -104,9 +104,9 @@ since 2021.1/19-2/21 (1m) 重返手機
      
      https://github.com/QueenieCplusplus/Android_Review_10
      
-     (3) 不同資料來源 (如系統緩存和遠端後端) 的客製化資料包和存放暫存記憶體的資料包
+     (3) 不同資料來源 (如系統緩存和遠端後端) 的客製化資料包和存放暫存記憶體的資料包與其中的資料存取物件
      
-     Data Model, Room.databaseBuilder, Domain Model and Repository
+     Data Model, Room.databaseBuilder, Domain Model and Repository within Dao
      
      https://github.com/QueenieCplusplus/Android_Review_11
      
