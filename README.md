@@ -51,8 +51,8 @@
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#解析封包
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#bot-being
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#腳本語言
     
-     
    * 手機雙系統 iOS、Android
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#google-android-kotlin-溫故安卓---計畫復甦
