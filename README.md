@@ -13,10 +13,10 @@
 
    * C++ 高階程式語言
    * Python 腳本特色、資料擷取和封包嗅探 Data Mining & Web Crawler 的應用
-   * 手機雙系統
+   * 手機雙系統 iOS、Android
    * 資料結構 Data Structure、DBA、Search Engine 
    * 資安議題 IT Security & Hack on Browser
-   * 雲端技術 
+   * 雲端技術 GCP、AWS、
 
 # Google Android Kotlin (溫故安卓 計畫復甦)
 
