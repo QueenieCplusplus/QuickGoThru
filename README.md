@@ -50,13 +50,13 @@ https://github.com/QueenieCplusplus/Android_Review_7
 
 * 1/23 Intent to start another activity https://github.com/QueenieCplusplus/Android_Review_8
 
-* Video App
+* 1/24 ~ 1/28 Video App
 
-     (1) 1/24 UI Design for FrameLayout, RecyclerView, MaterialCardView, and ConstraintLayout.
+     (1) UI Design for FrameLayout, RecyclerView, MaterialCardView, and ConstraintLayout.
      
      https://github.com/QueenieCplusplus/Android_Review_9
      
-     (2) 1/24 Http Getter, Retrofit Network including uses-permission
+     (2) DataBind, Http Getter, Retrofit Network including uses-permission
      
      https://github.com/QueenieCplusplus/Android_Review_10
      
