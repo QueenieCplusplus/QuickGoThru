@@ -56,7 +56,7 @@ https://github.com/QueenieCplusplus/Android_Review_7
      
      https://github.com/QueenieCplusplus/Android_Review_9
      
-     (2) 1/24 Retrofit Network including uses-permission
+     (2) 1/24 Http Getter, Retrofit Network including uses-permission
      
      https://github.com/QueenieCplusplus/Android_Review_10
      
