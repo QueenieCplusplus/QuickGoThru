@@ -169,19 +169,19 @@ since 2021.1/19-2/21 (1m) 重返手機
      
      (2) 網路工具包與資料格式轉換包
      
-     Http Getter, Retrofit Network including uses-permission, Json Formatter and converter
+     Http Getter, Retrofit Network including uses-permission, Json Formatter and converter and Domain Model from Json obj to data class.
      
      https://github.com/QueenieCplusplus/Android_Review_10
      
-     (3) 不同資料來源 (如系統緩存和遠端後端) 的客製化資料包和存放暫存記憶體的資料包與其中的資料存取物件
+     (3) 不同資料來源 (如系統緩存和遠端後端) 的客製化資料包和資料存取物件
      
-     Data Model, Room.databaseBuilder, Domain Model and Repository within Dao
+     DB Model, Room.databaseBuilder for cache, Domain Model.
      
      https://github.com/QueenieCplusplus/Android_Review_11
      
-     (4) 利用 觸動資料撈取的事件觀察者 & 實現系統高迸發的協程模組 將 (3) 寫入 MVC 架構中的 Model 提供手機軟體控制器使用。
+     (4) 將 (3) 寫入 MVC 架構中的 Repository 暫存器提供手機軟體控制器使用，並利用 觸動資料撈取的事件觀察者 & 實現系統高迸發的協程模組。
      
-     LiveData within ViewModel, CoroutineScope and Dispatchers to get callback 使用高迸發的協程取代傳統執行緒
+     Repostitory, LiveData within ViewModel, CoroutineScope and Dispatchers to get callback 使用高迸發的協程取代傳統執行緒
      
      https://github.com/QueenieCplusplus/Android_Review_12
      
