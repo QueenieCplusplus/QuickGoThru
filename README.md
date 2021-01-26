@@ -104,9 +104,9 @@ since 2021.1/27~2/03 (1w) 重返手機
      
   https://github.com/QueenieCplusplus/iOS_Back_1
   
-* 1/27 Gyroscope
+* 1/27 Location Manager
 
-* 1/28 Proximity sensor
+* 1/28 Proximity sensor, Gyroscope
 
 * 1/29 Pinch, Rotate, Long Press
 
