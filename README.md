@@ -69,6 +69,8 @@
      
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#apple-ios-swift-溫故愛鳳---計畫復甦
      
+     ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/iOSapp_2018.png)
+     
    * 資料結構 Data Structure、DBA、Search Engine 
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#資料結構
