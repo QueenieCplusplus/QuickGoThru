@@ -110,7 +110,7 @@ since 2021.1/27~2/03 (1w) 重返手機
 
 * 1/29 Pinch, Rotate, Long Press
 
-* 1/30 
+* 1/30 System Notification
 
 * 1/31
 
