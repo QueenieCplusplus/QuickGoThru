@@ -191,7 +191,7 @@ since 2021.1/19-2/21 (1m) 重返手機
      
      DataBind within Adapter using RecyclerView.Adapter<ViewHolder> 循環表格佈局的適配器集合
   
-     https://wait_to_code/Android_Review_13
+     https://github.com/QueenieCplusplus/Android_Review_13
   
      https://medium.com/@evanhou/淺談android-recyclerview-375f9c0eea58 (傳統方式)
      
