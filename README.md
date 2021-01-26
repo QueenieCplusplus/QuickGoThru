@@ -189,7 +189,7 @@ since 2021.1/19-2/21 (1m) 重返手機
     
     (5) 利用目錄清單畫面工具包將資料繫結在畫面元件上並使用觸動資料撈取的事件觀察者 。
      
-     DataBind within Adapter using RecyclerView.Adapter<ViewHolder> and RecyclerView.ViewHolder 循環表格佈局的適配器集合<欄位資料抓取器>
+     DataBind within Adapter using RecyclerView.Adapter<ViewHolder> and RecyclerView.ViewHolder 循環表格佈局的適配器<欄位資料抓取器集合>
   
      https://github.com/QueenieCplusplus/Android_Review_13
   
