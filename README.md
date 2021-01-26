@@ -179,7 +179,7 @@ since 2021.1/19-2/21 (1m) 重返手機
      
      https://github.com/QueenieCplusplus/Android_Review_11
      
-     (4) 將 (3) 寫入 MVC 架構中的 Repository 暫存器提供手機軟體控制器使用，並利用 觸動資料撈取的事件觀察者 & 實現系統高迸發的協程模組。
+     (4) 將 (3) 寫入 MVC 架構中的 Repository 暫存器提供手機軟體控制器使用，尚使用實現系統高迸發的協程模組。
      
      Repostitory, LiveData within ViewModel, CoroutineScope and Dispatchers to get callback 使用高迸發的協程取代傳統執行緒
      
@@ -187,7 +187,7 @@ since 2021.1/19-2/21 (1m) 重返手機
      
      https://github.com/android/architecture-components-samples/blob/main/BasicSample/app/src/main/java/com/example/android/persistence/viewmodel/ProductListViewModel.java (傳統方法)
     
-    (5) 利用目錄清單畫面工具包將資料繫結在畫面元件上。
+    (5) 利用目錄清單畫面工具包將資料繫結在畫面元件上並使用觸動資料撈取的事件觀察者 。
      
      DataBind within Adapter using RecyclerView.Adapter<ViewHolder> 循環表格佈局的適配器集合
   
