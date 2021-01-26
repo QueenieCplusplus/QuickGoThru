@@ -120,6 +120,8 @@ since 2021.1/27~2/03 (1w) 重返手機
 
 * 2/03 Thread & Background
 
+* 2/04 Bluetooth & Camera
+
 # Google Android Kotlin (溫故安卓 -> 計畫復甦)
 
 since 2021.1/19-1/26 (1w) 重返手機
