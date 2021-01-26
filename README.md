@@ -112,7 +112,7 @@ since 2021.1/27~2/03 (1w) 重返手機
 
 * 1/30 System Notification and Customed Notification
 
-* 1/31
+* 1/31 Local Notification and Remote Notification
 
 * 2/01
 
