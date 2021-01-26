@@ -104,23 +104,24 @@ since 2021.1/27~2/03 (1w) 重返手機
      
   https://github.com/QueenieCplusplus/iOS_Back_1
   
-* 1/27 Location Manager
+* 1/27 Bluetooth & Camera
+  
+* 1/28 Location Manager
 
-* 1/28 Proximity sensor, Gyroscope
+* 1/29 Proximity sensor, Gyroscope
 
-* 1/29 Pinch, Rotate, Long Press
+* 1/30 Pinch, Rotate, Long Press
 
-* 1/30 System Notification and Customed Notification
+* 1/31 System Notification and Customed Notification
 
-* 1/31 Local Notification and Remote Notification
+* 2/01 Local Notification and Remote Notification
 
-* 2/01 Network Module, getter and setter, and Json Parser
+* 2/02 Network Module, getter and setter, and Json Parser
 
-* 2/02 SQLite Module
+* 2/03 SQLite Module
 
-* 2/03 Thread & Background
+* 2/04 Thread & Background
 
-* 2/04 Bluetooth & Camera
 
 # Google Android Kotlin (溫故安卓 -> 計畫復甦)
 
