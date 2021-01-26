@@ -108,7 +108,7 @@ since 2021.1/27~2/03 (1w) 重返手機
 
 * 1/28 Proximity sensor
 
-* 1/29
+* 1/29 Pinch, Rotate, Long Press
 
 * 1/30 
 
