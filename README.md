@@ -114,11 +114,11 @@ since 2021.1/27~2/03 (1w) 重返手機
 
 * 1/31 Local Notification and Remote Notification
 
-* 2/01
+* 2/01 Network Module
 
-* 2/02
+* 2/02 SQLite Module
 
-* 2/03
+* 2/03 Thread & Background
 
 # Google Android Kotlin (溫故安卓 -> 計畫復甦)
 
