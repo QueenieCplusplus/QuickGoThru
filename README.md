@@ -160,6 +160,8 @@ since 2021.1/19-2/21 (1m) 重返手機
 * 1/24 ~ 1/27 一個客製化影音串流應用程式 
 
      Video App
+     
+    ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/截圖%202021-01-26%20下午3.19.13.png)
 
      (1) 常見的畫面佈局元件：幀佈局、碎片佈局、清單目錄畫面、卡式畫面、約束畫面、進度條
      
