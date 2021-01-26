@@ -106,7 +106,7 @@ since 2021.1/27~2/03 (1w) 重返手機
   
 * 1/27 Gyroscope
 
-* 1/28
+* 1/28 Proximity sensor
 
 * 1/29
 
