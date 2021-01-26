@@ -103,6 +103,22 @@ since 2021.1/27~2/03 (1w) 重返手機
 * 1/26 Button, Label and their action.
      
   https://github.com/QueenieCplusplus/iOS_Back_1
+  
+* 1/27 Gyroscope.
+
+* 1/28
+
+* 1/29
+
+* 1/30 
+
+* 1/31
+
+* 2/01
+
+* 2/02
+
+* 2/03
 
 # Google Android Kotlin (溫故安卓 -> 計畫復甦)
 
