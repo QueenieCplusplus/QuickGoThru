@@ -9,7 +9,7 @@
      
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#apple-ios-swift-溫故愛鳳---計畫復甦
    
-     ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/MsKateAndroid.png)
+     ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/my_app_lab_2018.png)
    
      
    * 網頁前端與跨平台解決方案
