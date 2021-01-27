@@ -131,13 +131,17 @@ date on 2/18-2/24 (side project) 自製小專案
   
 * 1/28 Core Data
   
-* 1/29 get, post, progressBar
+* 1/29 UIMainThread in ForeGround, and Concurrent Thread in Background
 
-* 1/30 UIMainThread in ForeGround, and Concurrent Thread in Background
+* 1/30 get, post, progressBar
 
 * 1/31 SQLite Module  
 
 * 2/01 Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
+
+* 2/02 Battery, Callout, Email, Calendar
+
+* 2/03 Share Data between Apps
 
 * 2/04 System Notification and Customed Notification
 
