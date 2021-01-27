@@ -133,11 +133,11 @@ date on 2/18-2/24 (side project) 自製小專案
   
 * 1/29 get, post, progressBar
 
-* 1/30 UIMainThread in ForeGround, and Concurrent Thread in Background
+* 1/30 Core Data
 
-* 1/31 Pinch, Rotate, Long Press
+* 1/31 UIMainThread in ForeGround, and Concurrent Thread in Background
 
-* 2/01 Location Manager, Proximity sensor
+* 2/01 Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
 
 * 2/04 System Notification and Customed Notification
 
