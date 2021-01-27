@@ -135,7 +135,7 @@ date on 2/18-2/24 (side project) 自製小專案
 
 * 1/30 get, post, progressBar
 
-* 1/31 SQLite Module  
+* 1/31 SQLite Module & iCloud
 
 * 2/01 Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
 
