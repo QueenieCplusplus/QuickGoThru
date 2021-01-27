@@ -129,11 +129,11 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
   
   https://github.com/QueenieCplusplus/iOS_Back_6 (Async Downloader)
   
-* 1/28 Core Data
+* 1/28 Core Data ＆ get, post, progressBar
   
 * 1/29 UIMainThread in ForeGround, and Concurrent Thread in Background
 
-* 1/30 get, post, progressBar
+* 1/30 System Notification and Customed Notification
 
 * 1/31 SQLite Module & iCloud
 
@@ -143,7 +143,7 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 * 2/03 Share Data between Apps
 
-* System Notification and Customed Notification, Local Notification and Remote Notification
+* Local Notification and Remote Notification
 
 * Localization
 
