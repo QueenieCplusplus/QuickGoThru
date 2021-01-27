@@ -124,6 +124,8 @@ date on 2/18-2/24 (side project) 自製小專案
   https://github.com/QueenieCplusplus/iOS_Back_4 (Gyro)
   
 * 1/29 Network Module, getter and setter, and Json Parser, within ProgressBar
+
+  https://github.com/QueenieCplusplus/iOS_Back_5 (Json Parser)
   
 * 1/30 Location Manager, Proximity sensor
 
