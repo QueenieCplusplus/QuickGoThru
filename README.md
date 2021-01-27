@@ -143,9 +143,9 @@ date on 2/18-2/24 (side project) 自製小專案
 
 * 2/03 Share Data between Apps
 
-* System Notification and Customed Notification
+* System Notification and Customed Notification, Local Notification and Remote Notification
 
-* Local Notification and Remote Notification
+* Localization
 
 # Google Android Kotlin (溫故安卓 -> 計畫復甦)
 
