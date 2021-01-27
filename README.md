@@ -10,6 +10,8 @@
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#apple-ios-swift-溫故愛鳳---計畫復甦
      
      https://github.com/QueenieCplusplus/Android_Sys_Version
+     
+     https://github.com/QueenieCplusplus/iPhone_mod_release
    
      ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/my_app_lab_2018.png)
    
@@ -72,6 +74,8 @@
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#apple-ios-swift-溫故愛鳳---計畫復甦
      
      https://github.com/QueenieCplusplus/Android_Sys_Version
+     
+     https://github.com/QueenieCplusplus/iPhone_mod_release
      
      ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/iOSapp_2018.png)
      
