@@ -107,7 +107,7 @@
 since 2021.1/27~2/04 (1w) 重返手機
 date on 2/18-2/24 (side project) 自製小專案
 
-寫回三年前的愛鳳，美麗的 UI 和人性化的語言，還有當時陪伴我精神左右的彼得潘高手，好險學的時候語言版本 4 （作業系統 11 + xcode 10），邁入 5.3 (作業系統 14 + xcode 12 )，希望不會有太多差異。而熱鍵是使用 xcode 的關鍵，會了就會覺得駕輕就熟。
+寫回三年前的愛鳳，美麗的 UI 和人性化的語言，還有當時陪伴我精神左右的彼得潘高手，好險學的時候語言版本為 4 （作業系統 11 + xcode 10），邁入 2021 年的語言版本 5.3 (作業系統 14 + xcode 12 )，希望不會有太多差異。而熱鍵是使用 xcode 的關鍵，會了就會覺得駕輕就熟。
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/MyCodingRoom.png)
 
