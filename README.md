@@ -109,6 +109,8 @@ since 2021.1/27~2/03 (1w) 重返手機
   https://github.com/QueenieCplusplus/iOS_Back_1
   
 * 1/27 Bluetooth & Camera
+
+  https://github.com/QueenieCplusplus/iOS_Back_2 (camera)
   
 * 1/28 Location Manager
 
