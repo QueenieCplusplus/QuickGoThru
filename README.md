@@ -115,6 +115,8 @@ date on 2/18-2/24 (side project) 自製小專案
   
   https://github.com/QueenieCplusplus/iOS_Back_3 (BLE)
   
+  https://github.com/QueenieCplusplus/iOS_Back_4 (Gyro)
+  
 * 1/28 Location Manager
 
 * 1/29 Proximity sensor
