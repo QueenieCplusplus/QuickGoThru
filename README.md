@@ -123,31 +123,25 @@ date on 2/18-2/24 (side project) 自製小專案
   
   https://github.com/QueenieCplusplus/iOS_Back_4 (Gyro)
   
-* 1/28 Network Module, getter and setter, and Json Parser, within ProgressBar
+* 1/27 Network Module, Json Parser
 
   https://github.com/QueenieCplusplus/iOS_Back_5 (Json Parser)
   
   https://github.com/QueenieCplusplus/iOS_Back_6 (Async Downloader)
   
-* 1/29 Location Manager, Proximity sensor
+* 1/28 get, post, progressBar
+  
+* 1/29 SQLite Module L
 
-* 1/30 Pinch, Rotate, Long Press
+* 1/30 Thread & Background
 
-* 1/31 SQLite Module
+* 1/31 Pinch, Rotate, Long Press
 
-* 2/01 Thread & Background
+* 2/01 Location Manager, Proximity sensor
 
 * 2/04 System Notification and Customed Notification
 
      Local Notification and Remote Notification
-
-
-
-
-
-
-
-
 
 
 # Google Android Kotlin (溫故安卓 -> 計畫復甦)
