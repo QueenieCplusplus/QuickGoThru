@@ -129,13 +129,13 @@ date on 2/18-2/24 (side project) 自製小專案
   
   https://github.com/QueenieCplusplus/iOS_Back_6 (Async Downloader)
   
-* 1/28 SQLite Module  
+* 1/28 Core Data
   
 * 1/29 get, post, progressBar
 
-* 1/30 Core Data
+* 1/30 UIMainThread in ForeGround, and Concurrent Thread in Background
 
-* 1/31 UIMainThread in ForeGround, and Concurrent Thread in Background
+* 1/31 SQLite Module  
 
 * 2/01 Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
 
