@@ -127,6 +127,8 @@ date on 2/18-2/24 (side project) 自製小專案
 
   https://github.com/QueenieCplusplus/iOS_Back_5 (Json Parser)
   
+  https://github.com/QueenieCplusplus/iOS_Back_6 (Async Downloader)
+  
 * 1/30 Location Manager, Proximity sensor
 
 * 1/31 Pinch, Rotate, Long Press
