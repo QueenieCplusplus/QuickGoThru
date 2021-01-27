@@ -119,17 +119,15 @@ date on 2/18-2/24 (side project) 自製小專案
   
   https://github.com/QueenieCplusplus/iOS_Back_4 (Gyro)
   
-* 1/28 Location Manager
+* 1/29 Network Module, getter and setter, and Json Parser, within ProgressBar
+  
+* 1/30 Location Manager, Proximity sensor
 
-* 1/29 Proximity sensor
+* 1/31 Pinch, Rotate, Long Press
 
-* 1/30 Pinch, Rotate, Long Press
+* 2/01 System Notification and Customed Notification
 
-* 1/31 System Notification and Customed Notification
-
-* 2/01 Local Notification and Remote Notification
-
-* 2/02 Network Module, getter and setter, and Json Parser
+* 2/02 Local Notification and Remote Notification
 
 * 2/03 SQLite Module
 
