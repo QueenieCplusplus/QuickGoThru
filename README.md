@@ -131,9 +131,9 @@ date on 2/18-2/24 (side project) 自製小專案
   
 * 1/28 get, post, progressBar
   
-* 1/29 SQLite Module L
+* 1/29 SQLite Module 
 
-* 1/30 Thread & Background
+* 1/30 UIMainThread in ForeGround, and Concurrent Thread in Background
 
 * 1/31 Pinch, Rotate, Long Press
 
