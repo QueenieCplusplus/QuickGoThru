@@ -112,6 +112,8 @@ since 2021.1/27~2/03 (1w) 重返手機
 
   https://github.com/QueenieCplusplus/iOS_Back_2 (camera)
   
+  https://github.com/QueenieCplusplus/iOS_Back_3 (BLE)
+  
 * 1/28 Location Manager
 
 * 1/29 Proximity sensor, Gyroscope
