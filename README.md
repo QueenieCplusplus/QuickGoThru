@@ -139,9 +139,9 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
   
   https://github.com/QueenieCplusplus/iOS_Back_9 (Semaphore and Signal)
 
-* 1/28 『系統服務』System Notification and Customed Notification
+* 1/28 『畫面佈局』UI Display using Controller, 各種控制器的表現 
 
-* 1/29.30 『畫面佈局』UI Display using Controller, 各種控制器的表現
+* 1/29 『系統服務』System Notification and Customed Notification
 
 * 1/31 『輸出輸入』SQLite Module & iCloud & CoreData
 
