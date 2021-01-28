@@ -143,7 +143,7 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 * 1/29 『系統服務』System Notification and Customed Notification
 
-* 1/31 『輸出輸入』SQLite Module & iCloud & CoreData
+* 1/31 『輸出輸入』 iCloud （雲端存儲） & CoreData (略) & SQLite Module (略)
 
 * 2/01 『感測裝置』Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
 
