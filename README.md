@@ -150,9 +150,11 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
   https://github.com/QueenieCplusplus/iOS_Back_11 (Search Engine)
 
-* 1/29 『系統服務』System Notification and Customed Notification
+* 1/29 『系統服務』Local Push Notification
 
-* 1/31『系統服務』Local Notification and Remote Notification
+* 1/30 『背景執行』螢幕上鎖後背景執行的地圖更新、音樂播放、資料下載 Capability
+
+* 1/31 『生命週期』應用程式委派的全域和畫面的生命週期
 
 * 2/01 『感測裝置』Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
 
@@ -162,9 +164,17 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 * 2/04『系統服務』Localization
 
-* 2/04『共用變數的機制』Delegate 委派
+* iOS app 的打包方式
 
-* 『輸出輸入』 iCloud （雲端趨勢: 雲端存儲） & CoreData (略) & SQLite Module (略)
+* 框架觀念 MVC Framework
+
+* self as class instance & closure as block (the same thread) ＆ do-catch
+
+* 『共用變數或函數 Callback 的機制』Delegate 委派
+
+* 『系統服務』APNS
+
+* 『輸出輸入』 iCloud （雲端趨勢: 雲端存儲） 
 
    https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba (SQLit 參考 MySQL)
    https://developer.apple.com/library/archive/documentation/DataManagement/Conceptual/CloudKitQuickStart/Introduction/Introduction.html (須先購買研發者帳號)
