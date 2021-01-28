@@ -130,6 +130,8 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
   https://github.com/QueenieCplusplus/iOS_Back_6 (Async Downloader)
   
 * 1/28 Core Data ＆ get, post, progressBar
+
+  https://github.com/QueenieCplusplus/iOS_Back_7 (URLSession, Post is safer than Get)
   
 * 1/29 UIMainThread in ForeGround, and Concurrent Thread in Background
 
