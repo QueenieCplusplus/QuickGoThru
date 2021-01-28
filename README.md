@@ -153,6 +153,10 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 * 2/03 『系統服務』Share Data between Apps
 
+* 2/04『系統服務』Localization
+
+* 2/04『共用變數的機制』Delegate 委派
+
 * 『輸出輸入』 iCloud （雲端趨勢: 雲端存儲） & CoreData (略) & SQLite Module (略)
 
    https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba (SQLit 參考 MySQL)
@@ -160,9 +164,6 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
    
    https://icloud.developer.apple.com/dashboard/
 
-* 2/04『系統服務』Localization
-
-* 2/04『共用變數的機制』Delegate 委派
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/iCloud.png)
 
