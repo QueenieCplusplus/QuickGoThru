@@ -117,7 +117,7 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
   
 * 1/27 『感測裝置』Bluetooth & Camera & Gyroscope
 
-  https://github.com/QueenieCplusplus/iOS_Back_2 (camera)
+  https://github.com/QueenieCplusplus/iOS_Back_2 (Camera)
   
   https://github.com/QueenieCplusplus/iOS_Back_3 (BLE)
   
