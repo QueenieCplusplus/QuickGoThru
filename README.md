@@ -150,11 +150,11 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
   https://github.com/QueenieCplusplus/iOS_Back_11 (Search Engine)
 
-* 1/29 『系統服務』Local Push Notification
+* 1/29 『系統服務』本地推播 Local Push Notification (AppDelegate)
 
-* 1/30 『背景執行』螢幕上鎖後背景執行的地圖更新、音樂播放、資料下載 Capability
+* 1/30 『背景執行』螢幕上鎖後背景執行的地圖更新、音樂播放、資料下載 (Capability)
 
-* 1/31 『生命週期』應用程式委派的全域和畫面的生命週期
+* 1/31 『生命週期』應用程式委派的全域和畫面的生命週期 (AppDelegate & ViewController)
 
 * 2/01 『感測裝置』Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
 
@@ -162,7 +162,7 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 * 2/03 『系統服務』Share Data between Apps
 
-* 2/04『系統服務』Localization
+* 2/04『系統服務』實現本地語言 (Localization)
 
 * iOS app 的打包方式
 
