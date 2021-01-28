@@ -143,9 +143,9 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
   https://github.com/QueenieCplusplus/iOS_Back_10 (UI Layout)
   
-* 1/28 『畫面佈局』Table View within SearchBar (Search Engine)
+* 1/28 『畫面佈局』Table View within SearchBar 
 
-  https://github.com/QueenieCplusplus/iOS_Back_11
+  https://github.com/QueenieCplusplus/iOS_Back_11 (Search Engine)
 
 * 1/29 『系統服務』System Notification and Customed Notification
 
