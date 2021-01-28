@@ -57,6 +57,8 @@
 
 本儲存庫保留以往三年半來累積的議題，包含：
 
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/iOS_Back_11/main/output%201.png)
+
    * C++ 高階程式語言
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#程式語言
