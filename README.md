@@ -15,15 +15,6 @@
    
      ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/my_app_lab_2018.png)
    
-     
-   * 網頁前端與跨平台解決方案 (React)
-   
-     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#react--react-native
-     
-     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#other-react-experience
-     
-     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#react-ui
-   
    * 雲端運算(IaaS、PaaS、SaaS) 
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#雲端後端
@@ -68,6 +59,16 @@
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#解析封包
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#bot-being
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#腳本語言
+    
+        
+   * 網頁前端與跨平台解決方案 (React)
+   
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#react--react-native
+     
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#other-react-experience
+     
+     https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#react-ui
+    
     
    * 手機雙系統 iOS、Android
    
