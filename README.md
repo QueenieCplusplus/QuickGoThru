@@ -136,6 +136,8 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 * 1/28 『底層系統』UIMainThread as Serial in ForeGround, and WorkerThreads as Concurrent in Background
 
   https://github.com/QueenieCplusplus/iOS_Back_8 (Multi-Threads)
+  
+  https://github.com/QueenieCplusplus/iOS_Back_9 (Semaphore and Signal)
 
 * 1/28 『系統服務』System Notification and Customed Notification
 
