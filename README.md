@@ -157,6 +157,8 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
    https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba (SQLit 參考 MySQL)
    https://developer.apple.com/library/archive/documentation/DataManagement/Conceptual/CloudKitQuickStart/Introduction/Introduction.html (須先購買研發者帳號)
+   
+   https://icloud.developer.apple.com/dashboard/
 
 * 『系統服務』Localization
 
