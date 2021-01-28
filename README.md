@@ -111,11 +111,11 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/MyCodingRoom.png)
 
-* 1/26 Button, Label and their action.
+* 1/26 『畫面佈局』 Button, Label and their action.
      
   https://github.com/QueenieCplusplus/iOS_Back_1
   
-* 1/27 Bluetooth & Camera & Gyroscope
+* 1/27 『感測裝置』Bluetooth & Camera & Gyroscope
 
   https://github.com/QueenieCplusplus/iOS_Back_2 (camera)
   
@@ -123,33 +123,33 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
   
   https://github.com/QueenieCplusplus/iOS_Back_4 (Gyro)
   
-* 1/27 Network Module, Json Parser
+* 1/27 『網路系統』Network Module, Json Parser
 
   https://github.com/QueenieCplusplus/iOS_Back_5 (Json Parser)
   
   https://github.com/QueenieCplusplus/iOS_Back_6 (Async Downloader)
   
-* 1/28 Core Data ＆ get, post, progressBar
+* 1/28 『網路系統』Core Data ＆ get, post, progressBar
 
   https://github.com/QueenieCplusplus/iOS_Back_7 (URLSession, Post is safer than Get)
   
-* 1/29 UIMainThread as Serial in ForeGround, and Worker Threads as Concurrent in Background
+* 1/29 『底層系統』UIMainThread as Serial in ForeGround, and Worker Threads as Concurrent in Background
 
-* 1/30 System Notification and Customed Notification
+* 1/30 『系統服務』System Notification and Customed Notification
 
-* 1/31 SQLite Module & iCloud
+* 1/31 『輸出輸入』SQLite Module & iCloud
 
-* 2/01 Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
+* 2/01 『感測裝置』Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
 
-* 2/02 Battery, Callout, Email, Calendar
+* 2/02 『感測裝置』Battery, Callout, Email, Calendar
 
-* 2/03 Share Data between Apps
+* 2/03 『系統服務』Share Data between Apps
 
-* Local Notification and Remote Notification
+* 『系統服務』Local Notification and Remote Notification
 
-* 2/04 Localization
+* 2/04 『系統服務』Localization
 
-* Delegate
+* 『共用變數的機制』Delegate 委派
 
 # Google Android Kotlin (溫故安卓 -> 計畫復甦)
 
