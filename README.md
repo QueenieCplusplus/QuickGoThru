@@ -129,15 +129,15 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
   
   https://github.com/QueenieCplusplus/iOS_Back_6 (Async Downloader)
   
-* 1/28 『網路系統』Core Data ＆ get, post, progressBar
+* 1/28 『網路系統』get, post, progressBar
 
   https://github.com/QueenieCplusplus/iOS_Back_7 (URLSession, Post is safer than Get)
   
-* 1/29 『底層系統』UIMainThread as Serial in ForeGround, and WorkerThreads as Concurrent in Background
+* 1/28 『底層系統』UIMainThread as Serial in ForeGround, and WorkerThreads as Concurrent in Background
 
-* 1/30 『系統服務』System Notification and Customed Notification
+* 1/28 『系統服務』System Notification and Customed Notification
 
-* 1/31 『輸出輸入』SQLite Module & iCloud
+* 1/31 『輸出輸入』SQLite Module & iCloud & CoreData
 
 * 2/01 『感測裝置』Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
 
