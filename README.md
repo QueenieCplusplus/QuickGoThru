@@ -149,6 +149,8 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 * 2/04 Localization
 
+* Delegate
+
 # Google Android Kotlin (溫故安卓 -> 計畫復甦)
 
 since 2021.1/19-1/26 (1w) 重返手機
