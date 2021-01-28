@@ -16,7 +16,7 @@
      ![](https://raw.githubusercontent.com/QueenieCplusplus/QuickGoThru/master/my_app_lab_2018.png)
    
      
-   * 網頁前端與跨平台解決方案
+   * 網頁前端與跨平台解決方案 (React)
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#react--react-native
      
