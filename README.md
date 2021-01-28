@@ -157,7 +157,7 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 * 『系統服務』Local Notification and Remote Notification
 
-* 2/04 『系統服務』Localization
+* 『系統服務』Localization
 
 * 『共用變數的機制』Delegate 委派
 
