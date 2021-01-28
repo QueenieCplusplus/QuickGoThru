@@ -142,20 +142,20 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 * 1/28 『畫面佈局』UI Display using Controller, 各種控制器的表現 
 
   https://github.com/QueenieCplusplus/iOS_Back_10 (UI Layout)
+  
+* 1/28 『輸出輸入』 iCloud （雲端存儲） & CoreData (略) & SQLite Module (略)
+
+   https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba (SQLit 參考 MySQL)
 
 * 1/29 『系統服務』System Notification and Customed Notification
 
-* 1/31 『輸出輸入』 iCloud （雲端存儲） & CoreData (略) & SQLite Module (略)
-
-   https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#dba (SQLit 參考 MySQL)
+* 1/31『系統服務』Local Notification and Remote Notification
 
 * 2/01 『感測裝置』Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
 
 * 2/02 『感測裝置』Battery, Callout, Email, Calendar
 
 * 2/03 『系統服務』Share Data between Apps
-
-* 『系統服務』Local Notification and Remote Notification
 
 * 『系統服務』Localization
 
