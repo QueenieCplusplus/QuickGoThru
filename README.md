@@ -170,9 +170,9 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
   https://github.com/QueenieCplusplus/iOS_Back_16 (Capability)
 
-* 1/30 『感測裝置』Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
+* 1/30 『感測裝置』Proximity sensor, Pinch, Rotate, Long Press 
 
-* 1/31 『感測裝置』Battery, Callout, Email, Calendar
+* 1/31 『感測裝置』Battery, Callout, Email
 
 * 2/01 『系統服務』Share Data between Apps
 
