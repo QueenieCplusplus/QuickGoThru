@@ -175,6 +175,8 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 * 1/30 『系統服務』Share Data between Apps
 
   https://github.com/QueenieCplusplus/iOS_Back_17
+  
+  ... wait to code... 
 
 * 『感測裝置』Proximity sensor, Pinch, Rotate, Long Press 
 
