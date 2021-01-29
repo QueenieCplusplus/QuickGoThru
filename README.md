@@ -107,7 +107,7 @@
      
 # Apple iOS Swift (溫故愛鳳 -> 計畫復甦)
 
-since 2021.1/26~1/29 (4d) 重返手機
+since 2021.1/26~1/30 (5d) 重返手機
 date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 寫回三年前的愛鳳，美麗的 UI 和人性化的語言，還有當時陪伴我精神左右的彼得潘高手，好險學的時候語言版本為 4 （作業系統 11 + xcode 10），邁入 2021 年的語言版本 5.3 (作業系統 14 + xcode 12 )，希望不會有太多差異。而熱鍵是使用 xcode 的關鍵，會了就會覺得駕輕就熟。
@@ -172,7 +172,7 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
   https://github.com/QueenieCplusplus/iOS_Back_16 (Capability)
   
-* 1/29 『系統服務』Share Data between Apps
+* 1/30 『系統服務』Share Data between Apps
 
 * 『感測裝置』Proximity sensor, Pinch, Rotate, Long Press 
 
