@@ -263,7 +263,7 @@ date on 1/31-2/12 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_8
 
-* 1/24 ~ 1/27 一個客製化影音串流應用程式 
+* 1/24 ~ 1/26 一個客製化影音串流應用程式 
 
      Video App
      
