@@ -162,7 +162,9 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
   https://github.com/QueenieCplusplus/iOS_Back_14 (AppDelegate & ViewController)
 
-* 1/29 『系統服務』本地推播 Local Push Notification (AppDelegate)
+* 1/29 『系統服務』本地推播 Local Push Notification 
+
+  https://github.com/QueenieCplusplus/iOS_Back_15 (AppDelegate)
 
 * 1/30 『背景執行』螢幕上鎖後背景執行的地圖更新、音樂播放、資料下載 (Capability)
 
