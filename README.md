@@ -107,7 +107,7 @@
      
 # Apple iOS Swift (溫故愛鳳 -> 計畫復甦)
 
-since 2021.1/26~2/01 (1w) 重返手機
+since 2021.1/26~1/29 (4d) 重返手機
 date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 寫回三年前的愛鳳，美麗的 UI 和人性化的語言，還有當時陪伴我精神左右的彼得潘高手，好險學的時候語言版本為 4 （作業系統 11 + xcode 10），邁入 2021 年的語言版本 5.3 (作業系統 14 + xcode 12 )，希望不會有太多差異。而熱鍵是使用 xcode 的關鍵，會了就會覺得駕輕就熟。
@@ -169,12 +169,12 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 * 1/29 『背景執行』螢幕上鎖後背景執行的地圖更新、音樂播放、資料下載 
 
   https://github.com/QueenieCplusplus/iOS_Back_16 (Capability)
+  
+* 1/29 『系統服務』Share Data between Apps
 
-* 1/30 『感測裝置』Proximity sensor, Pinch, Rotate, Long Press 
+* 『感測裝置』Proximity sensor, Pinch, Rotate, Long Press 
 
-* 1/31 『感測裝置』Battery, Callout, Email
-
-* 2/01 『系統服務』Share Data between Apps
+* 『感測裝置』Battery, Callout, Email
 
 * 『共用變數或函數 Callback 的機制』Delegate 委派
 
@@ -196,8 +196,8 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 # Google Android Kotlin (溫故安卓 -> 計畫復甦)
 
-since 2021.1/19-1/26 (1w) 重返手機
-date on 2/02-2/12 (side project) 自製小專案包含送審流程
+since 2021.1/19-1/25 (1w) 重返手機
+date on 1/30-2/12 (side project) 自製小專案包含送審流程
 
 寫回三年前的安卓，應該是當初版主曾發過宣言說要嫁給安卓先生 (真是一語成籖)，版主在學習安卓時正好就是系統 N-O-P 時代，Google 於 2018 年夏天大力推行 Kotlin 取代 Java，感受到此語言的人性化與流暢，與 Java 產生鮮明對比，如今此語言的生態系發展純熟。系統 O 時代因為直播串流崛起，注重鏡像畫面與畫中畫等功能，而系統 P 正值 2018 年科技巨頭被大眾點名要保障個人隱私的年份，所以注重於在設備使用上詢問使用者權限問題。安卓系統從 2019 年開始，慣用的甜品命名方式將被數字取代，所以 QueensCacke 改為 Q，2020 年則為系統數字 30，從果凍豆子 Jelly Bean 和棒棒糖 Lollipop 系統開始至今綜觀 9 年，手機系統的變化速度一直都是跟世界潮流走的，可以算是進步速度最快的科技產品。
 
