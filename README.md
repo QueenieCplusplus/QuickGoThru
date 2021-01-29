@@ -166,15 +166,15 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
   https://github.com/QueenieCplusplus/iOS_Back_15 (AppDelegate)
 
-* 1/30 『背景執行』螢幕上鎖後背景執行的地圖更新、音樂播放、資料下載 
+* 1/29 『背景執行』螢幕上鎖後背景執行的地圖更新、音樂播放、資料下載 
 
   https://github.com/QueenieCplusplus/iOS_Back_16 (Capability)
 
-* 1/31 『感測裝置』Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
+* 1/30 『感測裝置』Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
 
-* 2/01 『感測裝置』Battery, Callout, Email, Calendar
+* 1/31 『感測裝置』Battery, Callout, Email, Calendar
 
-* 2/02 『系統服務』Share Data between Apps
+* 2/01 『系統服務』Share Data between Apps
 
 * 『共用變數或函數 Callback 的機制』Delegate 委派
 
@@ -197,7 +197,7 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 # Google Android Kotlin (溫故安卓 -> 計畫復甦)
 
 since 2021.1/19-1/26 (1w) 重返手機
-date on 2/03-2/12 (side project) 自製小專案包含送審流程
+date on 2/02-2/12 (side project) 自製小專案包含送審流程
 
 寫回三年前的安卓，應該是當初版主曾發過宣言說要嫁給安卓先生 (真是一語成籖)，版主在學習安卓時正好就是系統 N-O-P 時代，Google 於 2018 年夏天大力推行 Kotlin 取代 Java，感受到此語言的人性化與流暢，與 Java 產生鮮明對比，如今此語言的生態系發展純熟。系統 O 時代因為直播串流崛起，注重鏡像畫面與畫中畫等功能，而系統 P 正值 2018 年科技巨頭被大眾點名要保障個人隱私的年份，所以注重於在設備使用上詢問使用者權限問題。安卓系統從 2019 年開始，慣用的甜品命名方式將被數字取代，所以 QueensCacke 改為 Q，2020 年則為系統數字 30，從果凍豆子 Jelly Bean 和棒棒糖 Lollipop 系統開始至今綜觀 9 年，手機系統的變化速度一直都是跟世界潮流走的，可以算是進步速度最快的科技產品。
 
