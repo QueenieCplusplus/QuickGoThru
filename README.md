@@ -107,7 +107,7 @@
      
 # Apple iOS Swift (溫故愛鳳 -> 計畫復甦)
 
-since 2021.1/26~1/30 (5d) 重返手機
+since 2021.1/26~1/29 (4d) 重返手機
 date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 寫回三年前的愛鳳，美麗的 UI 和人性化的語言，還有當時陪伴我精神左右的彼得潘高手，好險學的時候語言版本為 4 （作業系統 11 + xcode 10），邁入 2021 年的語言版本 5.3 (作業系統 14 + xcode 12 )，希望不會有太多差異。而熱鍵是使用 xcode 的關鍵，會了就會覺得駕輕就熟。
@@ -168,11 +168,11 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
   https://github.com/QueenieCplusplus/iOS_Back_15 (AppDelegate)
 
-* 1/29 『背景執行』螢幕上鎖後背景執行的地圖更新、音樂播放、資料下載 
+* 『背景執行』螢幕上鎖後背景執行的地圖更新、音樂播放、資料下載 
 
   https://github.com/QueenieCplusplus/iOS_Back_16 (Capability)
   
-* 1/30 『系統服務』Share Data between Apps
+* 『系統服務』Share Data between Apps
 
   https://github.com/QueenieCplusplus/iOS_Back_17
 
@@ -312,6 +312,8 @@ date on 1/31-2/12 (side project) 自製小專案包含送審流程
 * Ref Doc
 
    * Kotlin Resource https://github.com/google-developer-training (2019-2020)
+   
+   * Google Udacity https://developer.android.com/codelabs/kotlin-android-training-welcome?index=..%2F..android-kotlin-fundamentals#1
    
    * Android Tutorial https://www.javatpoint.com/android-startactivityforresult-example (2011-2018)
 
