@@ -222,6 +222,8 @@ date on 1/31-2/12 (side project) 自製小專案包含送審流程
      DataBind, Button, Editor, Toast 
      
      https://github.com/QueenieCplusplus/Android_Review_1
+     
+     https://github.com/QueenieCplusplus/Android_Review_1_plus
 
 * 1/20 畫面上碎片們的填充
 
