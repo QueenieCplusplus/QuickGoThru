@@ -150,7 +150,9 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
   https://github.com/QueenieCplusplus/iOS_Back_11 (Search Engine)
   
-* 1/29 『系統服務』實現本地語言 (Localization)
+* 1/29 『系統服務』實現本地語言 
+
+  https://github.com/QueenieCplusplus/iOS_Back_12 (Localization)
 
 * 1/29  iOS app 的打包方式
 
