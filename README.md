@@ -152,27 +152,25 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
   
 * 1/29 『系統服務』實現本地語言 (Localization)
 
+* 1/29  iOS app 的打包方式
+
+* 1/29 『生命週期』應用程式委派的全域和畫面的生命週期 (AppDelegate & ViewController)
+
 * 1/29 『系統服務』本地推播 Local Push Notification (AppDelegate)
 
 * 1/30 『背景執行』螢幕上鎖後背景執行的地圖更新、音樂播放、資料下載 (Capability)
 
-* 1/31 『生命週期』應用程式委派的全域和畫面的生命週期 (AppDelegate & ViewController)
+* 1/31 『感測裝置』Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
 
-* 2/01 『感測裝置』Location Manager, Proximity sensor, Pinch, Rotate, Long Press 
+* 2/01 『感測裝置』Battery, Callout, Email, Calendar
 
-* 2/02 『感測裝置』Battery, Callout, Email, Calendar
+* 2/02 『系統服務』Share Data between Apps
 
-* 2/03 『系統服務』Share Data between Apps
+* 2/03 『共用變數或函數 Callback 的機制』Delegate 委派
 
-* 2/04
-
-* iOS app 的打包方式
+* 2/04 『語法錦囊』self as class instance & closure as block (the same thread) ＆ do-catch
 
 * 框架觀念 MVC Framework
-
-* self as class instance & closure as block (the same thread) ＆ do-catch
-
-* 『共用變數或函數 Callback 的機制』Delegate 委派
 
 * 『系統服務』APNS
 
