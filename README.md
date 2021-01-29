@@ -184,6 +184,8 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 * 『共用變數或函數 Callback 的機制』Delegate 委派
 
+   https://github.com/QueenieCplusplus/iOS_Back_11 (see file)
+
 * 『語法錦囊』self as class instance & closure as block (the same thread) ＆ do-catch
 
 * 『框架觀念』 MVC Framework
