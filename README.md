@@ -313,7 +313,7 @@ date on 1/31-2/12 (side project) 自製小專案包含送審流程
 
    * Kotlin Resource https://github.com/google-developer-training (2019-2020)
    
-   * Google Udacity https://developer.android.com/codelabs/kotlin-android-training-welcome?index=..%2F..android-kotlin-fundamentals#1
+   * Google Udacity https://developer.android.com/codelabs/kotlin-android-training-welcome?index=..%2F..android-kotlin-fundamentals#1 (2020 July)
    
    * Android Tutorial https://www.javatpoint.com/android-startactivityforresult-example (2011-2018)
 
