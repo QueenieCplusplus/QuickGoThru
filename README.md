@@ -219,11 +219,13 @@ date on 1/31-2/12 (side project) 自製小專案包含送審流程
 
 * 1/19 + 1/29 畫面元件的繫結處理
 
-     DataBind, Button, Editor, Toast 
+     DataBind, Button, Editor, Toast, Resource 
      
      https://github.com/QueenieCplusplus/Android_Review_1
      
      https://github.com/QueenieCplusplus/Android_Review_1_plus
+     
+     https://www.vectorizer.io (Image or Icon)
 
 * 1/20 畫面上碎片們的填充
 
