@@ -217,9 +217,9 @@ date on 1/31-2/12 (side project) 自製小專案包含送審流程
 
    * https://www.zhihu.com/column/c_1117066030878564352 (個人知乎官網 since 2019, 針對工具的使用、UI 元件屬性、模組注入等議題作探討)
 
-* 1/19 畫面元件的繫結處理
+* 1/19 + 1/29 畫面元件的繫結處理
 
-     DataBind, Button, Editor  
+     DataBind, Button, Editor, Toast 
      
      https://github.com/QueenieCplusplus/Android_Review_1
 
