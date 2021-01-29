@@ -160,6 +160,8 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 * 1/29 『生命週期』應用程式委派的全域和畫面的生命週期 (AppDelegate & ViewController)
 
+  https://github.com/QueenieCplusplus/iOS_Back_14
+
 * 1/29 『系統服務』本地推播 Local Push Notification (AppDelegate)
 
 * 1/30 『背景執行』螢幕上鎖後背景執行的地圖更新、音樂播放、資料下載 (Capability)
