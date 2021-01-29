@@ -149,6 +149,8 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 * 1/28 『畫面佈局』Table View within SearchBar 
 
   https://github.com/QueenieCplusplus/iOS_Back_11 (Search Engine)
+  
+* 1/29 『系統服務』實現本地語言 (Localization)
 
 * 1/29 『系統服務』本地推播 Local Push Notification (AppDelegate)
 
@@ -162,7 +164,7 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
 * 2/03 『系統服務』Share Data between Apps
 
-* 2/04『系統服務』實現本地語言 (Localization)
+* 2/04
 
 * iOS app 的打包方式
 
