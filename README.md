@@ -158,9 +158,9 @@ date on 2/18-2/24 (side project) 自製小專案包含送審流程
 
   https://github.com/QueenieCplusplus/iOS_Back_13
 
-* 1/29 『生命週期』應用程式委派的全域和畫面的生命週期 (AppDelegate & ViewController)
+* 1/29 『生命週期』應用程式委派的全域和畫面的生命週期 
 
-  https://github.com/QueenieCplusplus/iOS_Back_14
+  https://github.com/QueenieCplusplus/iOS_Back_14 (AppDelegate & ViewController)
 
 * 1/29 『系統服務』本地推播 Local Push Notification (AppDelegate)
 
