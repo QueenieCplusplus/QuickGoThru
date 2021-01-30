@@ -237,6 +237,8 @@ date on 1/31-2/12 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_1_apk
      
+     https://github.com/QueenieCplusplus/Android_Review_1_dev
+     
      https://github.com/QueenieCplusplus/Android_Review_1_app (卡通版本抽獎器)
      
 
