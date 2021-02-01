@@ -255,6 +255,8 @@ date on 1/31-2/12 (side project) 自製小專案包含送審流程
      Navigation 
      
      https://github.com/QueenieCplusplus/Android_Review_3
+     
+     https://github.com/QueenieCplusplus/Android_Review_3_app
 
 * 1/21 資料推播
 
