@@ -241,7 +241,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_1_findViewById
      
-     https://github.com/QueenieCplusplus/Android_Review_1_app (卡通版本抽獎器)
+     https://github.com/QueenieCplusplus/Android_Review_1_app (個人作品, 卡通版本抽獎器)
      
 
 * 1/20 畫面上碎片們的填充
@@ -258,7 +258,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_3
      
-     https://github.com/QueenieCplusplus/Android_Review_3_app
+     https://github.com/QueenieCplusplus/Android_Review_3_app (個人作品, 頁面切換)
 
 * 1/21 資料推播
 
@@ -334,13 +334,15 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
 * 1/31 WebView App
 
-  https://github.com/QueenieCplusplus/Android_Review_14
+  https://github.com/QueenieCplusplus/Android_Review_14 (個人作品, 網頁連線)
 
 * 1/31 TodoList App
 
-  https://github.com/QueenieCplusplus/Android_Review_15
+  https://github.com/QueenieCplusplus/Android_Review_15 (個人作品, 清單紀錄)
 
 * 2/03 ~ 2/08 Downloader App
+
+  版主過年前計畫完成的小作品！
 
 * Ref Doc
 
