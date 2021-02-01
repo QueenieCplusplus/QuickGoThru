@@ -340,7 +340,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
 
   https://github.com/QueenieCplusplus/Android_Review_15
 
-* 2/02 ~ 2/11 Downloader App
+* 2/03 ~ 2/08 Downloader App
 
 * Ref Doc
 
