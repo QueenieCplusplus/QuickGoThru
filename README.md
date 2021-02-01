@@ -327,6 +327,12 @@ date on 1/31-2/12 (side project) 自製小專案包含送審流程
      https://medium.com/@evanhou/淺談android-recyclerview-375f9c0eea58 (傳統方式)
      
      https://github.com/google-developer-training/android-kotlin-fundamentals-apps/blob/master/MarsRealEstateFinal/app/src/main/java/com/example/android/marsrealestate/overview/PhotoGridAdapter.kt (柯林方法)
+     
+* 1/31 WebView App
+
+* 1/31 TodoList App
+
+* 2/01 ~ 2/11 Downloader App
 
 * Ref Doc
 
