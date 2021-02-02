@@ -308,6 +308,8 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_10
      
+     https://github.com/QueenieCplusplus/Android_Review_10_app (個人作品, 呼叫遠端伺服器)
+     
      (3) 不同資料來源 (如系統緩存和遠端後端) 的客製化資料包和資料存取物件
      
      DB Model, Room.databaseBuilder for cache, Domain Model.
