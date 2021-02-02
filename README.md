@@ -289,6 +289,8 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      Intent to start another activity 
      
      https://github.com/QueenieCplusplus/Android_Review_8
+     
+     https://github.com/QueenieCplusplus/Android_Review_8-app (個人作品： 傳遞參數, 物件隱形, 捲軸閱讀)
 
 * 1/24 ~ 1/26 一個客製化影音串流應用程式 
 
