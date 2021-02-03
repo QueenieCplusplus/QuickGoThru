@@ -324,7 +324,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_12
      
-     https://github.com/QueenieCplusplus/Android_Review_12_app
+     https://github.com/QueenieCplusplus/Android_Review_12_app (個人作品, 星座寶寶購物車禮金發送器)
      
      https://github.com/android/architecture-components-samples/blob/main/BasicSample/app/src/main/java/com/example/android/persistence/viewmodel/ProductListViewModel.java (傳統方法)
     
