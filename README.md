@@ -276,9 +276,11 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
 
 * 1/22 手機系統的生命週期
 
-     ImageView, ImageButton, Logcat, Lifecycle, Pass Class Instance     
+     Lifecycle, Pass Class Instance, ViewModel, LiveData     
      
      https://github.com/QueenieCplusplus/Android_Review_6
+     
+     Review_6_app (個人作品, 敬請等待...)
 
 * 1/22 系統報錯和抓取
 
