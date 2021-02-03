@@ -318,9 +318,11 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      (3) 不同資料來源 (如系統緩存和遠端後端) 的客製化資料包和資料存取物件
      
-     DB Model, Room.databaseBuilder for cache, Domain Model.
+     Room fo DB, Page for Cache, Repo for Mediator for them.
      
      https://github.com/QueenieCplusplus/Android_Review_11
+     
+     Review_11_app (個人作品, 敬請等待...)
      
      (4) 將 (3) 寫入 MVC 架構中的 Repository 暫存器提供手機軟體控制器使用，尚使用實現系統高迸發的協程模組。
      
