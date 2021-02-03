@@ -252,7 +252,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/google-developer-training/android-kotlin-fundamentals-apps/blob/master/GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/title/TitleFragment.kt (範例)
 
-* 1/21 畫面導航與轉場
+* 1/21 + 2/02 畫面導航與轉場
 
      Navigation 
      
@@ -266,11 +266,13 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
 
      https://github.com/QueenieCplusplus/Android_Review_4
 
-* 1/22 按鈕和事件聆聽器
+* 1/22 + 2/03 按鈕和事件聆聽器
 
      Linear Layout, Click Handler, ProgressBar
 
      https://github.com/QueenieCplusplus/Android_Review_5
+     
+     https://github.com/QueenieCplusplus/Android_Review_5_app (個人作品, 進度條)
 
 * 1/22 手機系統的生命週期
 
