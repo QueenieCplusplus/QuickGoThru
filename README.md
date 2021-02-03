@@ -284,9 +284,11 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
 
 * 1/22 系統報錯和抓取
 
-     Menu, Toast, Exception Handler, Data Class using List data type
+     Menu, Toast, AlertDialog, Exception Handler
 
      https://github.com/QueenieCplusplus/Android_Review_7
+     
+     Review_7_app (個人作品, 敬請等待...)
 
 * 1/23 + 2/02 畫面轉移或是文本更動的意圖
 
