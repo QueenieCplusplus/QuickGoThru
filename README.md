@@ -262,13 +262,13 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
 
 * 1/21 資料推播
 
-     Data Push, Radio Butto, Shuffler  
+     Data Push (DataBind), Radio Butto, Shuffler  
 
      https://github.com/QueenieCplusplus/Android_Review_4
 
 * 1/22 按鈕和事件聆聽器
 
-     Linear Layout, Click Handler, Data Push 
+     Linear Layout, Click Handler, ProgressBar
 
      https://github.com/QueenieCplusplus/Android_Review_5
 
