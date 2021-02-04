@@ -274,7 +274,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
 
      https://github.com/QueenieCplusplus/Android_Review_5
      
-     https://github.com/QueenieCplusplus/Android_Review_5_app (個人作品, 進度條)
+     https://github.com/QueenieCplusplus/Android_Review_5_app (個人作品,捷運進站進度條)
 
 * 1/22 手機系統的生命週期
 
@@ -292,7 +292,6 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_7_app (個人作品, 鬧鐘先生的時間設定溫馨提醒)
      
-     Review_7_app (個人作品, 敬請等待...)
 
 * 1/23 + 2/02 畫面轉移或是文本更動的意圖
 
