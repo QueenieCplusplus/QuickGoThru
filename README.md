@@ -345,7 +345,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
   
      https://github.com/QueenieCplusplus/Android_Review_13
      
-     https://github.com/QueenieCplusplus/Android_Review_13_app (個人作品, 無止盡數量欄位的航班資訊顯示方式)
+     https://github.com/QueenieCplusplus/Android_Review_13_app (個人作品, 無止盡列數的航班資訊顯示方式)
   
      https://medium.com/@evanhou/淺談android-recyclerview-375f9c0eea58 (傳統方式)
      
