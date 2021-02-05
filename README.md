@@ -105,6 +105,12 @@
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cdn-in-2020
      
+
+# Backend (溫故 Python -> 計畫同步)
+
+since 2021.2/05
+
+     
 # Apple iOS Swift (溫故愛鳳 -> 計畫復甦)
 
 since 2021.1/26~1/30 (5d) 重返手機
