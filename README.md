@@ -110,7 +110,7 @@
 
 since 2021.2/05
 
-* 建立虛擬環境 =>
+* 建立虛擬環境 => https://github.com/QueenieCplusplus/Backend_Script3_WebSite
      
 # Apple iOS Swift (溫故愛鳳 -> 計畫復甦)
 
