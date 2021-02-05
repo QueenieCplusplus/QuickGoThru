@@ -360,10 +360,14 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
 * 1/31 TodoList App
 
   https://github.com/QueenieCplusplus/Android_Review_15 (個人作品, 清單紀錄)
+  
+* 2/05 Login App using Oauth
 
-* 2/03 ~ 2/08 Downloader App
+  Android_Review_16 (個人作品, 透過 Google 登入驗證的應用程式)
 
-  版主過年前計畫完成的小作品！
+* 2/06 ~ 2/08 Downloader App
+
+  Android_Review_17 版主過年前計畫完成的小作品！
 
 * Ref Doc
 
