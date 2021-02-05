@@ -363,7 +363,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
   
 * 2/05 Login App using Oauth
 
-  Android_Review_16 (個人作品, 透過 Google 登入驗證的應用程式)
+  https://github.com/QueenieCplusplus/Android_Review_16 (個人作品, 透過 Google 登入驗證的應用程式)
 
 * 2/06 ~ 2/08 Downloader App
 
