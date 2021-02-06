@@ -275,7 +275,6 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_4_app (個人作品, 卡路里計算器)
      
-     Review_4_app (個人作品, 敬請等待...)
 
 * 1/22 + 2/03 按鈕和事件聆聽器
 
@@ -304,11 +303,13 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
 
 * 1/23 + 2/02 畫面轉移或是文本更動的意圖
 
-     Intent to start another activity 
+     Intent to start another activity & Implicit intent & ShareCompat
      
      https://github.com/QueenieCplusplus/Android_Review_8
      
      https://github.com/QueenieCplusplus/Android_Review_8_app (個人作品： 傳遞參數, 物件隱形, 捲軸閱讀)
+     
+     Android_Review_19 版主過年前計畫玩有 Sharecompat 物件的 Intent！
 
 * 1/24 ~ 1/26 一個客製化影音串流應用程式 
 
