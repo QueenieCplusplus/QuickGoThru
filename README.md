@@ -285,13 +285,13 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_5_app (個人作品,捷運進站進度條)
 
-* 1/22 手機系統的生命週期
+* 1/22 + 2/06 手機系統的生命週期
 
      Lifecycle, Pass Class Instance, ViewModel, LiveData     
      
      https://github.com/QueenieCplusplus/Android_Review_6
      
-     Review_6_app (個人作品, 敬請等待...)
+     https://github.com/QueenieCplusplus/Android_Review_6_app (個人作品, 三十而已之健康運動倒數計時器)
 
 * 1/22 + 2/04 系統報錯和抓取
 
