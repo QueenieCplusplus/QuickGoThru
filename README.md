@@ -382,6 +382,8 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
 * 2/06 ~ 2/08 Downloader App
 
   Android_Review_17 版主過年前計畫完成的小作品！
+  
+  https://github.com/QueenieCplusplus/Android_Review_20 (個人作品, 二維碼應用程式～)
 
 * Ref Doc
 
