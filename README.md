@@ -259,7 +259,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_2
      
-     
+     https://github.com/QueenieCplusplus/Android_Review_2_app (個人作品, 健康醫療診所之應用程式)
      
      https://github.com/google-developer-training/android-kotlin-fundamentals-apps/blob/master/GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/title/TitleFragment.kt (範例)
 
