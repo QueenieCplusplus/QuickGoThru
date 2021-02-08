@@ -271,7 +271,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_3_app (個人作品, 頁面切換)
      
-     https://github.com/QueenieCplusplus/Android_Review_21 (個人作品, 粉紅版本  )
+     https://github.com/QueenieCplusplus/Android_Review_21 (個人作品, 粉紅版本 Ｕber App! )
 
 * 1/21 資料推播
 
