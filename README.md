@@ -255,9 +255,11 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
 
 * 1/20 畫面上碎片們的填充
 
-     Fragment to be inflated 
+     Fragment to be inflated ＆ Bottom Navigation
      
      https://github.com/QueenieCplusplus/Android_Review_2
+     
+     
      
      https://github.com/google-developer-training/android-kotlin-fundamentals-apps/blob/master/GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/title/TitleFragment.kt (範例)
 
