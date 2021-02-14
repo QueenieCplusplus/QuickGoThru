@@ -248,7 +248,9 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_1_dev
      
-     https://github.com/QueenieCplusplus/Android_Review_1_findViewById
+     https://github.com/QueenieCplusplus/Android_Review_1_findViewById (注意：databind 取代 android-kotlin-extensions since Gradle version updated to 4.1.2)
+     
+     color http://www.ebaomonthly.com/window/photo/lesson/colorList.htm
      
      https://github.com/QueenieCplusplus/Android_Review_1_app (個人作品, 卡通版本抽獎器)
      
