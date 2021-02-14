@@ -345,7 +345,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_11
      
-     https://github.com/QueenieCplusplus/Review_11_app (個人作品, 美食評分app)
+     https://github.com/QueenieCplusplus/Android_Review_11_app (個人作品, 美食評分app)
      
      (4) 將 (3) 寫入 MVC 架構中的 Repository 暫存器提供手機軟體控制器使用，尚使用實現系統高迸發的協程模組。
      
