@@ -385,11 +385,13 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
   
   https://github.com/QueenieCplusplus/Android_Review_18 (個人作品, 使用輕量記憶物件的個人記帳應用程式)
 
-* 2/16 Downloader App using Repository module
+* 2/16 
 
-  Android_Review_17 (待續...)
+  Android_Review_17 (待續..., 下載應用程式)
   
   https://github.com/QueenieCplusplus/Android_Review_20 (個人作品, 二維碼應用程式～)
+  
+  https://github.com/QueenieCplusplus/Android_Review_22 (個人作品, 搜尋器應用程式～)
 
 * Ref Doc
 
