@@ -320,6 +320,8 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      https://github.com/QueenieCplusplus/Android_Review_8_app (個人作品： 傳遞參數, 物件隱形, 捲軸閱讀)
      
      https://github.com/QueenieCplusplus/Android_Review_19  (個人作品： 分享內容至簡訊或是郵件的甜品電商購物車)
+     
+     https://github.com/QueenieCplusplus/Android_Review_23  (個人作品： 分享與前景畫面的背景 wifi 資訊結果)
 
 * 1/24 ~ 1/26 一個客製化影音串流應用程式 
 
