@@ -313,7 +313,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
 
 * 1/23 + 2/02 畫面轉移或是文本更動的意圖
 
-     Intent to start another activity & Implicit intent & ShareCompat
+     Intent to start another activity & Implicit intent & ShareCompat & BroadcastReceiver within Intent Filter
      
      https://github.com/QueenieCplusplus/Android_Review_8
      
