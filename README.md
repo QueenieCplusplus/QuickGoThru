@@ -267,7 +267,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/google-developer-training/android-kotlin-fundamentals-apps/blob/master/GuessTheWordLiveData/app/src/main/java/com/example/android/guesstheword/screens/title/TitleFragment.kt (範例)
 
-* 1/21 + 2/02 畫面導航與轉場
+* 1/21 + 2/02 畫面導航與轉場 
 
      Navigation 
      
@@ -276,6 +276,10 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      https://github.com/QueenieCplusplus/Android_Review_3_app (個人作品, 頁面切換)
      
      https://github.com/QueenieCplusplus/Android_Review_21 (個人作品, 粉紅版本 Ｕber App! )
+     
+     GridView
+     
+     Android_Review_24 (個人作品, 購物商城 E-Commerce App ~)
 
 * 1/21 資料推播
 
