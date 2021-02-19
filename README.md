@@ -283,7 +283,7 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      Notification
      
-     Android_Review_25 (個人作品, 系統推播 System Notification App ~)
+     https://github.com/QueenieCplusplus/Android_Review_25 (個人作品, 系統推播 System Notification App ~)
 
 * 1/21 資料推播
 
