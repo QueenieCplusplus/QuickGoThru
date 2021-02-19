@@ -113,6 +113,8 @@ since 2021.2/05
 * 建立虛擬環境 => https://github.com/QueenieCplusplus/Backend_Script3_WebSite
 
 * 專案階層關係 => https://github.com/QueenieCplusplus/Backend_Script3_WebSite_app
+
+* 建立貼文部落格與資料模組 (包含管理者權限進入點) => 
      
 # Apple iOS Swift (溫故愛鳳 -> 計畫復甦)
 
