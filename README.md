@@ -277,9 +277,13 @@ date on 1/31-2/01 & 2/03-2/08 (side project) 自製小專案包含送審流程
      
      https://github.com/QueenieCplusplus/Android_Review_21 (個人作品, 粉紅版本 Ｕber App! )
      
-     GridView ＆ 
+     GridView ＆ SafeArgs
      
      https://github.com/QueenieCplusplus/Android_Review_24 (個人作品, 購物商城 E-Commerce App ~)
+     
+     Notification
+     
+     Android_Review_25 (個人作品, 系統推播 System Notification App ~)
 
 * 1/21 資料推播
 
