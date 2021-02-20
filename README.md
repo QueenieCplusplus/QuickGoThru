@@ -115,6 +115,9 @@ since 2021.2/05
 * 專案階層關係 => https://github.com/QueenieCplusplus/Backend_Script3_WebSite_app
 
 * 建立貼文部落格與資料模組 (包含管理者權限進入點) => https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Models
+
+* url 設定應用程式的方程式與方程式的畫面呈現 =>
+https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
      
 # Apple iOS Swift (溫故愛鳳 -> 計畫復甦)
 
