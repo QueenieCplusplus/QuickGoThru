@@ -121,7 +121,7 @@ https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
 
 * php 連結 PDO 的購物車寫法範例 => https://github.com/QueenieCplusplus/Backend_Script_Cartapp_PDO
 
-* Session & Cookie 
+* Session & Cookie https://github.com/QueenieCplusplus/Backend_Script_Session_Cookie
      
 # Apple iOS Swift (溫故愛鳳 -> 計畫復甦)
 
