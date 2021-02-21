@@ -120,6 +120,8 @@ since 2021.2/05 & 2/19-21 (4d)
 https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
 
 * php 連結 PDO 的購物車寫法範例 => https://github.com/QueenieCplusplus/Backend_Script_Cartapp_PDO
+
+* Session & Cookie 
      
 # Apple iOS Swift (溫故愛鳳 -> 計畫復甦)
 
