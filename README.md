@@ -108,7 +108,7 @@
 
 # Backend (溫故 Python & PHP7 -> 計畫同步)
 
-since 2021.2/05 & 2/19-21
+since 2021.2/05 & 2/19-21 (4d)
 
 * 建立虛擬環境 => https://github.com/QueenieCplusplus/Backend_Script3_WebSite
 
