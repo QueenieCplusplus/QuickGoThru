@@ -106,9 +106,9 @@
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cdn-in-2020
      
 
-# Backend (溫故 Python -> 計畫同步)
+# Backend (溫故 Python & PHP7 -> 計畫同步)
 
-since 2021.2/05 & 2/19.20
+since 2021.2/05 & 2/19.20.21
 
 * 建立虛擬環境 => https://github.com/QueenieCplusplus/Backend_Script3_WebSite
 
@@ -118,6 +118,8 @@ since 2021.2/05 & 2/19.20
 
 * url 設定應用程式的方程式與方程式的畫面呈現 =>
 https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
+
+* php 連結 PDO 的購物車寫法範例 =>
      
 # Apple iOS Swift (溫故愛鳳 -> 計畫復甦)
 
