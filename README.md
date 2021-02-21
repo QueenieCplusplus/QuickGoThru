@@ -123,7 +123,7 @@ https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
 
 * Session & Cookie https://github.com/QueenieCplusplus/Backend_Script_Session_Cookie
 
-* php 連結 ＭySQL Improvement 的登入寫法範例 => https://www.tutorialrepublic.com/php-tutorial/php-mysql-login-system.php
+* php 連結 ＭySQL Improvement 的登入寫法範例 => https://github.com/QueenieCplusplus/Backend_Script_Login_MySQLi
 
 tips: php 生態系很大，從登入到寄信只要付錢有人幫你寫好：https://codecanyon.net/category/php-scripts?term=membership
      
