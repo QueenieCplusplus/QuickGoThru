@@ -125,6 +125,8 @@ https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
 
 * php 連結 ＭySQL Improvement 的登入寫法範例 => https://github.com/QueenieCplusplus/Backend_Script_Login_MySQLi
 
+* nodejs 的 Mail Notifier => https://www.npmjs.com/package/mail-notifier
+
 tips: php 生態系很大，從登入到寄信只要付錢有人幫你寫好：https://codecanyon.net/category/php-scripts?term=membership
      
 # Apple iOS Swift (溫故愛鳳 -> 計畫復甦)
