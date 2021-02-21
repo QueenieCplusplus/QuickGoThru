@@ -119,9 +119,7 @@ since 2021.2/05 & 2/19.20.21
 * url 設定應用程式的方程式與方程式的畫面呈現 =>
 https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
 
-* php 連結 PDO 的購物車寫法範例 =>
-
-https://github.com/QueenieCplusplus/Backend_Script_Cartapp_PDO
+* php 連結 PDO 的購物車寫法範例 => https://github.com/QueenieCplusplus/Backend_Script_Cartapp_PDO
      
 # Apple iOS Swift (溫故愛鳳 -> 計畫復甦)
 
