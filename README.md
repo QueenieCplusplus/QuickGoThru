@@ -130,6 +130,8 @@ https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
   simple server: https://github.com/QueenieCplusplus/Backend_Script_Nodejs_Server
   
   https://www.npmjs.com/package/mail-notifier (npm module)
+  
+  https://npm.io/search/keyword:email 
 
 tips: php 生態系很大，從登入到寄信只要付錢有人幫你寫好：https://codecanyon.net/category/php-scripts?term=membership
      
