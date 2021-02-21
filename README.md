@@ -127,7 +127,7 @@ https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
 
 * nodejs 的 Mail Notifier => 
   
-  simple server: 
+  simple server: https://github.com/QueenieCplusplus/Backend_Script_Nodejs_Server
   
   https://www.npmjs.com/package/mail-notifier (npm module)
 
