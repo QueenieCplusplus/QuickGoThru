@@ -106,9 +106,9 @@
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cdn-in-2020
      
 
-# Backend (溫故 Python & PHP7 -> 計畫同步)
+# Backend (溫故 Python & PHP7 & Nodejs -> 計畫同步)
 
-since 2021.2/05 & 2/19-21 (4d)
+since 2021.2/05 & 2/19-22 (5d)
 
 * 建立虛擬環境 => https://github.com/QueenieCplusplus/Backend_Script3_WebSite
 
@@ -125,7 +125,11 @@ https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
 
 * php 連結 ＭySQL Improvement 的登入寫法範例 => https://github.com/QueenieCplusplus/Backend_Script_Login_MySQLi
 
-* nodejs 的 Mail Notifier => https://www.npmjs.com/package/mail-notifier
+* nodejs 的 Mail Notifier => 
+  
+  simple server: 
+  
+  https://www.npmjs.com/package/mail-notifier (npm module)
 
 tips: php 生態系很大，從登入到寄信只要付錢有人幫你寫好：https://codecanyon.net/category/php-scripts?term=membership
      
