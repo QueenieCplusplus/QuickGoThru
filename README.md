@@ -108,7 +108,7 @@
 
 # Backend (溫故 Python & PHP7 & Nodejs -> 計畫同步)
 
-since 2021.2/05 & 2/19-22 (5d)
+since 2021.2/05 & 2/19-24 (1w)
 
 * 建立虛擬環境 => https://github.com/QueenieCplusplus/Backend_Script3_WebSite
 
@@ -118,6 +118,8 @@ since 2021.2/05 & 2/19-22 (5d)
 
 * url 設定應用程式的方程式與方程式的畫面呈現 =>
 https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
+
+* MySQL 與 MysqlWorkbench 在 MacOs 上的設定方式 =>
 
 * php 連結 PDO 的購物車寫法範例 => https://github.com/QueenieCplusplus/Backend_Script_Cartapp_PDO
 
@@ -139,8 +141,9 @@ https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
   
   https://cythilya.github.io/2015/08/16/node-form-handling-and-file-uploads/
   
+  tips: php 生態系很大，從登入到寄信只要付錢有人幫你寫好：https://codecanyon.net/category/php-scripts?term=membership
+  
 
-tips: php 生態系很大，從登入到寄信只要付錢有人幫你寫好：https://codecanyon.net/category/php-scripts?term=membership
      
 # Apple iOS Swift (溫故愛鳳 -> 計畫復甦)
 
