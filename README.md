@@ -256,6 +256,8 @@ date on 1/31-2/18 (3w) 自製小專案
    * https://www.facebook.com/277134069609204/photos/pcb.556288151693793/556287995027142/?type=3&theater (PattyAppier since 2018)
 
    * https://github.com/QueenieCplusplus/AndroidApp (個人實戰經驗 since 2018.3/27 - 2019.6/30)
+
+   * https://github.com/QueenieCplusplus/secret (個人實戰經驗 since 2019.5/15 - 2019.6/30)
  
    * https://m.douban.com/people/197180053/ (個人豆瓣官網 since 2019, 針對 kotlin 語言做深入研究)
 
