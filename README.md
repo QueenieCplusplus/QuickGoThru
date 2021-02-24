@@ -120,9 +120,7 @@ since 2021.2/05 & 2/19-24 (1w)
 
 * Django 建立貼文部落格與資料模組 (包含管理者權限進入點) => https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Models
 
-* url 設定應用程式的方程式與方程式的畫面呈現 =>
-https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
-
+* Django url 設定應用程式的方程式與方程式的畫面呈現 => https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
 
 * php 連結 PDO 的購物車寫法範例 => https://github.com/QueenieCplusplus/Backend_Script_Cartapp_PDO
 
