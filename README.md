@@ -110,11 +110,11 @@
 
 since 2021.2/05 & 2/19-24 (1w)
 
-* 建立虛擬環境 => https://github.com/QueenieCplusplus/Backend_Script3_WebSite
+* Django 的虛擬環境設立指南 => https://github.com/QueenieCplusplus/Backend_Script3_WebSite
 
-* 專案階層關係 => https://github.com/QueenieCplusplus/Backend_Script3_WebSite_app
+* Django 的專案階層關係 => https://github.com/QueenieCplusplus/Backend_Script3_WebSite_app
 
-* 建立貼文部落格與資料模組 (包含管理者權限進入點) => https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Models
+* Django 建立貼文部落格與資料模組 (包含管理者權限進入點) => https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Models
 
 * url 設定應用程式的方程式與方程式的畫面呈現 =>
 https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
