@@ -119,7 +119,7 @@ since 2021.2/05 & 2/19-24 (1w)
 * url 設定應用程式的方程式與方程式的畫面呈現 =>
 https://github.com/QueenieCplusplus/Backend_Script3_Blogapp_Views
 
-* MySQL 與 MysqlWorkbench 在 MacOs 上的設定方式 =>
+* MySQL 與 MysqlWorkbench 在 MacOs 上的設定方式 => https://github.com/QueenieCplusplus/DBA_Review_2021
 
 * php 連結 PDO 的購物車寫法範例 => https://github.com/QueenieCplusplus/Backend_Script_Cartapp_PDO
 
