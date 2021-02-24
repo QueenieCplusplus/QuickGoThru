@@ -105,6 +105,13 @@
    
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cdn-in-2020
      
+     
+# System Dev (串接安卓手機前端 <-> Nodejs 後端，實現 Uploader 功能)
+
+since 2021.3/01 - 3/07 (1w)
+
+... to be continued ...
+     
 
 # Backend (溫故 Python & PHP7 & Nodejs  -> 計畫同步)
 
