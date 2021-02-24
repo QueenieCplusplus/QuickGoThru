@@ -106,7 +106,7 @@
      https://github.com/QueenieCplusplus/QuickGoThru/blob/master/README.md#cdn-in-2020
      
 
-# Backend (溫故 Python & PHP7 & Nodejs -> 計畫同步)
+# Backend (溫故 Python & PHP7 & Nodejs  -> 計畫同步)
 
 since 2021.2/05 & 2/19-24 (1w)
 
